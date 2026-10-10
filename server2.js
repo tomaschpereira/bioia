@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const { carregarBancoBiologia } = require("./bioia_biologia_loader");
 
 app.use(express.json());
 
@@ -127,47 +128,8 @@ const banco = {
       explicacao: "Como pH = −log[H₃O⁺], a concentração é 10⁻³ mol/L."
     }
   ],
-
-  biologia: [
-    {
-      tema: "Biologia celular",
-      pergunta: "Uma célula que secreta muitas proteínas tende a apresentar desenvolvimento acentuado de:",
-      opcoes: [
-        { id: "a", texto: "Lisossomas e centríolos" },
-        { id: "b", texto: "Retículo endoplasmático rugoso e aparelho de Golgi" },
-        { id: "c", texto: "Vacúolos digestivos apenas" },
-        { id: "d", texto: "Parede celular e cápsula" }
-      ],
-      correta: "b",
-      explicacao: "O retículo endoplasmático rugoso participa na síntese de proteínas; o Golgi modifica e encaminha essas proteínas."
-    },
-    {
-      tema: "Genética mendeliana",
-      pergunta: "Num cruzamento Aa × Aa, qual é a probabilidade de um descendente ter genótipo aa?",
-      opcoes: [
-        { id: "a", texto: "0%" },
-        { id: "b", texto: "25%" },
-        { id: "c", texto: "50%" },
-        { id: "d", texto: "75%" }
-      ],
-      correta: "b",
-      explicacao: "As combinações são AA, Aa, Aa e aa. Uma em quatro é aa: 25%."
-    },
-    {
-      tema: "Ecologia",
-      pergunta: "Numa cadeia alimentar, os produtores são fundamentais porque:",
-      opcoes: [
-        { id: "a", texto: "Transformam matéria orgânica em energia sem perdas" },
-        { id: "b", texto: "Obtêm toda a energia dos consumidores" },
-        { id: "c", texto: "Introduzem energia no sistema, geralmente pela fotossíntese" },
-        { id: "d", texto: "Impedem a decomposição da matéria orgânica" }
-      ],
-      correta: "c",
-      explicacao: "Os produtores, como as plantas, captam energia luminosa e convertem-na em energia química."
-    }
-  ]
+    biologia: carregarBancoBiologia()
 };
-
 const nomes = {
   portugues: "Língua Portuguesa",
   fisica: "Física",
