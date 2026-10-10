@@ -195,7 +195,7 @@ async function mostrarPergunta(numero, s) {
 
 async function iniciar(numero, s, disciplina) {
   s.disciplina = disciplina;
-  s.fila = baralhar(banco[disciplina]);
+  s.fila = baralhar(bancos[disciplina]);
   s.indice = 0;
   s.pontos = 0;
   s.total = s.fila.length;
@@ -272,10 +272,10 @@ async function processar(numero, textoRecebido) {
   if (texto === "5") {
     s.disciplina = "simulado";
     s.fila = baralhar([
-      ...banco.portugues,
-      ...banco.fisica,
-      ...banco.quimica,
-      ...banco.biologia
+      ...bancos.portugues,
+      ...bancos.fisica,
+      ...bancos.quimica,
+      ...bancos.biologia
     ]);
     s.indice = 0;
     s.pontos = 0;
