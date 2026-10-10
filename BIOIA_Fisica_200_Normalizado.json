@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "FI001",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Fácil",
+    "question": "Qual é a unidade SI de comprimento?",
+    "options": {
+      "A": "Metro",
+      "B": "Quilograma",
+      "C": "Segundo",
+      "D": "Ampere"
+    },
+    "correct_answer": "A",
+    "explanation": "O metro (m) é a unidade de base do SI para comprimento."
+  },
+  {
+    "id": "FI002",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Fácil",
+    "question": "Qual instrumento é normalmente usado para medir a massa de um objecto?",
+    "options": {
+      "A": "Dinamómetro",
+      "B": "Balança",
+      "C": "Termómetro",
+      "D": "Amperímetro"
+    },
+    "correct_answer": "B",
+    "explanation": "A balança permite determinar a massa; o dinamómetro mede força."
+  },
+  {
+    "id": "FI003",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Fácil",
+    "question": "No Sistema Internacional, a unidade de tempo é o:",
+    "options": {
+      "A": "Minuto",
+      "B": "Dia",
+      "C": "Segundo",
+      "D": "Hora"
+    },
+    "correct_answer": "C",
+    "explanation": "O segundo (s) é a unidade SI de tempo."
+  },
+  {
+    "id": "FI004",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Um automóvel percorre 150 km em 3 h, com rapidez média constante. Qual é a rapidez média?",
+    "options": {
+      "A": "30 km/h",
+      "B": "45 km/h",
+      "C": "60 km/h",
+      "D": "50 km/h"
+    },
+    "correct_answer": "D",
+    "explanation": "Rapidez média = distância/tempo = 150/3 = 50 km/h."
+  },
+  {
+    "id": "FI005",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Qual grandeza é vectorial?",
+    "options": {
+      "A": "Deslocamento",
+      "B": "Temperatura",
+      "C": "Massa",
+      "D": "Tempo"
+    },
+    "correct_answer": "A",
+    "explanation": "O deslocamento tem módulo, direcção e sentido; as outras são escalares."
+  },
+  {
+    "id": "FI006",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Fácil",
+    "question": "A densidade de um material é calculada por:",
+    "options": {
+      "A": "massa × volume",
+      "B": "massa/volume",
+      "C": "volume/massa",
+      "D": "massa + volume"
+    },
+    "correct_answer": "B",
+    "explanation": "A densidade é a razão entre a massa e o volume: ρ = m/V."
+  },
+  {
+    "id": "FI007",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "Qual é a unidade SI de energia?",
+    "options": {
+      "A": "Newton",
+      "B": "Watt",
+      "C": "Joule",
+      "D": "Pascal"
+    },
+    "correct_answer": "C",
+    "explanation": "A energia e o trabalho medem-se em joules (J)."
+  },
+  {
+    "id": "FI008",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 10 N desloca um objecto 4 m na mesma direcção da força. Qual é o trabalho realizado?",
+    "options": {
+      "A": "2,5 J",
+      "B": "14 J",
+      "C": "40 J",
+      "D": "0 J"
+    },
+    "correct_answer": "C",
+    "explanation": "W = F·d·cosθ; como θ = 0°, W = 10 × 4 = 40 J."
+  },
+  {
+    "id": "FI009",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Quando uma força é perpendicular ao deslocamento, o trabalho dessa força é:",
+    "options": {
+      "A": "Máximo e positivo",
+      "B": "Negativo",
+      "C": "Igual à força",
+      "D": "Nulo"
+    },
+    "correct_answer": "D",
+    "explanation": "W = F·d·cos90° = 0."
+  },
+  {
+    "id": "FI010",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "A energia cinética de um corpo depende da sua massa e da sua:",
+    "options": {
+      "A": "Velocidade",
+      "B": "Cor",
+      "C": "Forma",
+      "D": "Temperatura apenas"
+    },
+    "correct_answer": "A",
+    "explanation": "Ec = ½mv²; depende da massa e do quadrado da velocidade."
+  },
+  {
+    "id": "FI011",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 3 m/s. Qual é a sua energia cinética?",
+    "options": {
+      "A": "3 J",
+      "B": "9 J",
+      "C": "12 J",
+      "D": "18 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ec = ½ × 2 × 3² = 9 J."
+  },
+  {
+    "id": "FI012",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Desprezando a resistência do ar, quando um objecto cai, a energia potencial gravítica transforma-se principalmente em energia:",
+    "options": {
+      "A": "Química",
+      "B": "Eléctrica",
+      "C": "Cinética",
+      "D": "Nuclear"
+    },
+    "correct_answer": "C",
+    "explanation": "Durante a queda, a energia potencial gravítica diminui e a cinética aumenta."
+  },
+  {
+    "id": "FI013",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg é elevado a 5 m. Considerando g = 10 m/s², o aumento da energia potencial gravítica é:",
+    "options": {
+      "A": "10 J",
+      "B": "25 J",
+      "C": "50 J",
+      "D": "100 J"
+    },
+    "correct_answer": "D",
+    "explanation": "ΔEp = mgh = 2 × 10 × 5 = 100 J."
+  },
+  {
+    "id": "FI014",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Fácil",
+    "question": "A transferência de energia térmica através do contacto directo entre partículas é chamada:",
+    "options": {
+      "A": "Condução",
+      "B": "Convecção",
+      "C": "Radiação",
+      "D": "Reflexão"
+    },
+    "correct_answer": "A",
+    "explanation": "Na condução, a energia passa por interacções entre partículas sem transporte global do material."
+  },
+  {
+    "id": "FI015",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Fácil",
+    "question": "A transferência de calor pelo movimento de um fluido chama-se:",
+    "options": {
+      "A": "Condução",
+      "B": "Convecção",
+      "C": "Evaporação",
+      "D": "Condensação"
+    },
+    "correct_answer": "B",
+    "explanation": "A convecção ocorre pelo movimento de líquidos ou gases."
+  },
+  {
+    "id": "FI016",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Fácil",
+    "question": "A energia do Sol chega à Terra principalmente por:",
+    "options": {
+      "A": "Condução",
+      "B": "Convecção",
+      "C": "Radiação",
+      "D": "Contacto directo"
+    },
+    "correct_answer": "C",
+    "explanation": "A radiação electromagnética pode propagar-se no vazio."
+  },
+  {
+    "id": "FI017",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Fácil",
+    "question": "Uma onda transporta principalmente:",
+    "options": {
+      "A": "Matéria de forma permanente",
+      "B": "Apenas partículas sólidas",
+      "C": "Carga eléctrica em todos os casos",
+      "D": "Energia"
+    },
+    "correct_answer": "D",
+    "explanation": "Uma onda propaga uma perturbação e transporta energia, sem transporte líquido permanente de matéria."
+  },
+  {
+    "id": "FI018",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Uma onda tem frequência de 5 Hz e comprimento de onda de 2 m. Qual é a velocidade de propagação?",
+    "options": {
+      "A": "10 m/s",
+      "B": "2,5 m/s",
+      "C": "7 m/s",
+      "D": "0,4 m/s"
+    },
+    "correct_answer": "A",
+    "explanation": "v = fλ = 5 × 2 = 10 m/s."
+  },
+  {
+    "id": "FI019",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Fácil",
+    "question": "A unidade SI da frequência é:",
+    "options": {
+      "A": "Metro",
+      "B": "Hertz",
+      "C": "Joule",
+      "D": "Newton"
+    },
+    "correct_answer": "B",
+    "explanation": "A frequência mede-se em hertz (Hz), equivalente a s⁻¹."
+  },
+  {
+    "id": "FI020",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "O período de uma onda com frequência de 4 Hz é:",
+    "options": {
+      "A": "4 s",
+      "B": "2 s",
+      "C": "0,25 s",
+      "D": "0,5 s"
+    },
+    "correct_answer": "C",
+    "explanation": "T = 1/f = 1/4 = 0,25 s."
+  },
+  {
+    "id": "FI021",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Fácil",
+    "question": "O som, no ar, é uma onda mecânica porque:",
+    "options": {
+      "A": "Se propaga no vazio",
+      "B": "É sempre transversal",
+      "C": "É uma onda luminosa",
+      "D": "Precisa de um meio material"
+    },
+    "correct_answer": "D",
+    "explanation": "O som precisa de partículas de um meio para transmitir a perturbação."
+  },
+  {
+    "id": "FI022",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Quando uma onda passa de um meio para outro e muda de direcção devido à mudança de velocidade, ocorre:",
+    "options": {
+      "A": "Reflexão",
+      "B": "Refracção",
+      "C": "Absorção total",
+      "D": "Ressonância"
+    },
+    "correct_answer": "B",
+    "explanation": "A refracção corresponde à mudança de direcção associada à mudança de velocidade entre meios."
+  },
+  {
+    "id": "FI023",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Fácil",
+    "question": "A reflexão da luz numa superfície plana obedece à regra de que:",
+    "options": {
+      "A": "O ângulo de incidência é igual ao ângulo de reflexão",
+      "B": "O ângulo de incidência é sempre 90°",
+      "C": "A luz deixa de se propagar",
+      "D": "O ângulo de reflexão é sempre o dobro"
+    },
+    "correct_answer": "A",
+    "explanation": "A lei da reflexão estabelece igualdade entre os ângulos medidos em relação à normal."
+  },
+  {
+    "id": "FI024",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Um raio de luz incide num espelho plano com ângulo de incidência de 35° em relação à normal. O ângulo de reflexão é:",
+    "options": {
+      "A": "55°",
+      "B": "70°",
+      "C": "35°",
+      "D": "145°"
+    },
+    "correct_answer": "C",
+    "explanation": "Pela lei da reflexão, o ângulo de reflexão também é 35°."
+  },
+  {
+    "id": "FI025",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Fácil",
+    "question": "Uma imagem formada por um espelho plano é, em geral:",
+    "options": {
+      "A": "Real e invertida verticalmente",
+      "B": "Maior que o objecto",
+      "C": "Projectável num ecrã",
+      "D": "Virtual e do mesmo tamanho"
+    },
+    "correct_answer": "D",
+    "explanation": "O espelho plano forma uma imagem virtual, direita e com o mesmo tamanho do objecto."
+  },
+  {
+    "id": "FI026",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Fácil",
+    "question": "A unidade SI de força é:",
+    "options": {
+      "A": "Newton",
+      "B": "Joule",
+      "C": "Watt",
+      "D": "Pascal"
+    },
+    "correct_answer": "A",
+    "explanation": "A força mede-se em newtons (N)."
+  },
+  {
+    "id": "FI027",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Fácil",
+    "question": "A primeira lei de Newton também é conhecida como lei da:",
+    "options": {
+      "A": "Gravitação",
+      "B": "Inércia",
+      "C": "Acção e reacção",
+      "D": "Energia"
+    },
+    "correct_answer": "B",
+    "explanation": "A lei da inércia afirma que o estado de movimento se mantém se a força resultante for nula."
+  },
+  {
+    "id": "FI028",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Uma força resultante de 12 N actua sobre uma massa de 3 kg. Qual é a aceleração?",
+    "options": {
+      "A": "2 m/s²",
+      "B": "3 m/s²",
+      "C": "4 m/s²",
+      "D": "36 m/s²"
+    },
+    "correct_answer": "C",
+    "explanation": "Pela segunda lei de Newton, a = F/m = 12/3 = 4 m/s²."
+  },
+  {
+    "id": "FI029",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo desloca-se em linha recta com velocidade constante. A força resultante sobre ele é:",
+    "options": {
+      "A": "Igual ao peso",
+      "B": "Necessariamente muito grande",
+      "C": "Igual à massa",
+      "D": "Nula"
+    },
+    "correct_answer": "D",
+    "explanation": "Velocidade constante implica aceleração nula e, portanto, força resultante nula."
+  },
+  {
+    "id": "FI030",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Fácil",
+    "question": "O peso de um corpo é a força gravitacional exercida sobre ele. Perto da superfície da Terra, calcula-se por:",
+    "options": {
+      "A": "P = mg",
+      "B": "P = m/g",
+      "C": "P = m + g",
+      "D": "P = g/m"
+    },
+    "correct_answer": "A",
+    "explanation": "O peso é o produto da massa pela aceleração gravítica: P = mg."
+  },
+  {
+    "id": "FI031",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Qual é aproximadamente o peso de uma massa de 5 kg, usando g = 10 m/s²?",
+    "options": {
+      "A": "5 N",
+      "B": "50 N",
+      "C": "0,5 N",
+      "D": "500 N"
+    },
+    "correct_answer": "B",
+    "explanation": "P = mg = 5 × 10 = 50 N."
+  },
+  {
+    "id": "FI032",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "A terceira lei de Newton estabelece que as forças de acção e reacção:",
+    "options": {
+      "A": "Actuam sempre no mesmo corpo",
+      "B": "Têm sempre valores diferentes",
+      "C": "Têm igual intensidade e sentidos opostos, em corpos diferentes",
+      "D": "Se anulam sempre por actuarem no mesmo corpo"
+    },
+    "correct_answer": "C",
+    "explanation": "Acção e reacção têm igual módulo e sentidos opostos, mas actuam em corpos diferentes."
+  },
+  {
+    "id": "FI033",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "A força de atrito cinético actua, em geral, no sentido:",
+    "options": {
+      "A": "Do movimento relativo entre as superfícies",
+      "B": "Vertical para cima em qualquer situação",
+      "C": "Da aceleração sempre",
+      "D": "Oposto ao movimento relativo entre as superfícies"
+    },
+    "correct_answer": "D",
+    "explanation": "O atrito cinético opõe-se ao deslizamento relativo das superfícies."
+  },
+  {
+    "id": "FI034",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um objecto parte do repouso e atinge 20 m/s em 5 s, com aceleração constante. Qual é a aceleração média?",
+    "options": {
+      "A": "4 m/s²",
+      "B": "5 m/s²",
+      "C": "10 m/s²",
+      "D": "100 m/s²"
+    },
+    "correct_answer": "A",
+    "explanation": "a = Δv/Δt = (20 − 0)/5 = 4 m/s²."
+  },
+  {
+    "id": "FI035",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Num movimento rectilíneo uniformemente acelerado, a velocidade:",
+    "options": {
+      "A": "É sempre nula",
+      "B": "Varia de modo uniforme com o tempo",
+      "C": "É constante em todos os instantes",
+      "D": "Depende apenas da massa"
+    },
+    "correct_answer": "B",
+    "explanation": "Com aceleração constante, a velocidade varia linearmente com o tempo."
+  },
+  {
+    "id": "FI036",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Fácil",
+    "question": "A pressão é definida como:",
+    "options": {
+      "A": "Massa por volume",
+      "B": "Força vezes área",
+      "C": "Força perpendicular por unidade de área",
+      "D": "Energia por unidade de tempo"
+    },
+    "correct_answer": "C",
+    "explanation": "P = F/A, para uma força perpendicular à superfície."
+  },
+  {
+    "id": "FI037",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Uma força de 100 N actua perpendicularmente numa área de 2 m². A pressão é:",
+    "options": {
+      "A": "200 Pa",
+      "B": "50 N",
+      "C": "102 Pa",
+      "D": "50 Pa"
+    },
+    "correct_answer": "D",
+    "explanation": "P = F/A = 100/2 = 50 Pa."
+  },
+  {
+    "id": "FI038",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Num líquido em repouso, a pressão aumenta com:",
+    "options": {
+      "A": "A profundidade",
+      "B": "A cor do recipiente",
+      "C": "A forma da superfície livre apenas",
+      "D": "A diminuição da densidade, mantendo tudo o resto igual"
+    },
+    "correct_answer": "A",
+    "explanation": "A pressão hidrostática aumenta com a profundidade: p = ρgh."
+  },
+  {
+    "id": "FI039",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "O princípio de Pascal afirma que uma variação de pressão aplicada a um fluido confinado transmite-se:",
+    "options": {
+      "A": "Só para baixo",
+      "B": "Em todas as direcções",
+      "C": "Apenas à superfície",
+      "D": "Sem chegar às paredes"
+    },
+    "correct_answer": "B",
+    "explanation": "A pressão aplicada a um fluido confinado transmite-se integralmente em todas as direcções."
+  },
+  {
+    "id": "FI040",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "O empuxo sobre um corpo imerso num fluido é igual ao peso:",
+    "options": {
+      "A": "Do corpo inteiro em qualquer caso",
+      "B": "Do recipiente",
+      "C": "Do fluido deslocado",
+      "D": "Do ar acima do líquido"
+    },
+    "correct_answer": "C",
+    "explanation": "Pelo princípio de Arquimedes, o empuxo equivale ao peso do fluido deslocado."
+  },
+  {
+    "id": "FI041",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Fácil",
+    "question": "Um corpo tende a flutuar num líquido quando a sua densidade média é:",
+    "options": {
+      "A": "Sempre maior que a do líquido",
+      "B": "Igual a zero",
+      "C": "Independente da densidade do líquido",
+      "D": "Menor que a do líquido"
+    },
+    "correct_answer": "D",
+    "explanation": "Um corpo com densidade média inferior à do líquido pode flutuar."
+  },
+  {
+    "id": "FI042",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Fácil",
+    "question": "A temperatura absoluta no SI é medida em:",
+    "options": {
+      "A": "Kelvin",
+      "B": "Graus Celsius apenas",
+      "C": "Joule",
+      "D": "Pascal"
+    },
+    "correct_answer": "A",
+    "explanation": "A unidade SI da temperatura termodinâmica é o kelvin (K)."
+  },
+  {
+    "id": "FI043",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Segundo a lei de Boyle, para uma quantidade fixa de gás a temperatura constante, se a pressão duplicar, o volume:",
+    "options": {
+      "A": "Duplica",
+      "B": "Reduz-se para metade",
+      "C": "Permanece sempre igual",
+      "D": "Quadruplica"
+    },
+    "correct_answer": "B",
+    "explanation": "A temperatura constante, P·V é constante; duplicar P reduz V para metade."
+  },
+  {
+    "id": "FI044",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Qual expressão representa a equação dos gases ideais?",
+    "options": {
+      "A": "P + V = nRT",
+      "B": "PV = n/R",
+      "C": "PV = nRT",
+      "D": "P/V = RT/n"
+    },
+    "correct_answer": "C",
+    "explanation": "A equação de estado dos gases ideais é PV = nRT."
+  },
+  {
+    "id": "FI045",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "À pressão constante, uma quantidade fixa de gás ideal tem volume directamente proporcional à sua:",
+    "options": {
+      "A": "Massa do recipiente",
+      "B": "Cor",
+      "C": "Pressão",
+      "D": "Temperatura absoluta"
+    },
+    "correct_answer": "D",
+    "explanation": "Pela lei de Charles, a pressão constante, V/T é constante."
+  },
+  {
+    "id": "FI046",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Fácil",
+    "question": "A unidade SI de carga eléctrica é:",
+    "options": {
+      "A": "Coulomb",
+      "B": "Ampere",
+      "C": "Volt",
+      "D": "Ohm"
+    },
+    "correct_answer": "A",
+    "explanation": "A carga eléctrica mede-se em coulombs (C)."
+  },
+  {
+    "id": "FI047",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Fácil",
+    "question": "A corrente eléctrica é a taxa de passagem de:",
+    "options": {
+      "A": "Energia por unidade de massa",
+      "B": "Carga eléctrica por unidade de tempo",
+      "C": "Massa por unidade de volume",
+      "D": "Força por unidade de área"
+    },
+    "correct_answer": "B",
+    "explanation": "A corrente eléctrica é I = ΔQ/Δt e mede-se em ampere."
+  },
+  {
+    "id": "FI048",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Uma resistência de 6 Ω está ligada a uma tensão de 12 V. Qual é a corrente, segundo a lei de Ohm?",
+    "options": {
+      "A": "0,5 A",
+      "B": "18 A",
+      "C": "2 A",
+      "D": "72 A"
+    },
+    "correct_answer": "C",
+    "explanation": "I = V/R = 12/6 = 2 A."
+  },
+  {
+    "id": "FI049",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Num circuito, dois resistores de 2 Ω e 3 Ω estão ligados em série. A resistência equivalente é:",
+    "options": {
+      "A": "1 Ω",
+      "B": "1,2 Ω",
+      "C": "6 Ω",
+      "D": "5 Ω"
+    },
+    "correct_answer": "D",
+    "explanation": "Em série, as resistências somam-se: 2 + 3 = 5 Ω."
+  },
+  {
+    "id": "FI050",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Uma lente convergente pode formar uma imagem real quando o objecto está:",
+    "options": {
+      "A": "Entre a lente e o foco",
+      "B": "No foco exacto, para uma imagem finita",
+      "C": "A uma distância maior que a distância focal",
+      "D": "Sempre atrás da lente"
+    },
+    "correct_answer": "C",
+    "explanation": "Para um objecto real colocado para além do foco de uma lente convergente, os raios refractados podem convergir e formar uma imagem real."
+  },
+  {
+    "id": "FI051",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Fácil",
+    "question": "Qual é a unidade SI de temperatura termodinâmica?",
+    "options": {
+      "A": "Kelvin",
+      "B": "Celsius",
+      "C": "Joule",
+      "D": "Watt"
+    },
+    "correct_answer": "A",
+    "explanation": "O kelvin (K) é a unidade de base do SI para temperatura termodinâmica."
+  },
+  {
+    "id": "FI052",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Uma pessoa caminha 600 m em 5 minutos. Qual é a rapidez média em m/s?",
+    "options": {
+      "A": "0,5 m/s",
+      "B": "2 m/s",
+      "C": "12 m/s",
+      "D": "120 m/s"
+    },
+    "correct_answer": "B",
+    "explanation": "5 minutos correspondem a 300 s; v = 600/300 = 2 m/s."
+  },
+  {
+    "id": "FI053",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Uma grandeza física é escalar quando fica completamente descrita por:",
+    "options": {
+      "A": "Módulo, direcção e sentido",
+      "B": "Direcção apenas",
+      "C": "Valor numérico e unidade",
+      "D": "Sentido e direcção"
+    },
+    "correct_answer": "C",
+    "explanation": "Uma grandeza escalar é caracterizada por valor numérico e unidade, sem direcção."
+  },
+  {
+    "id": "FI054",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Qual das seguintes grandezas é vectorial?",
+    "options": {
+      "A": "Massa",
+      "B": "Temperatura",
+      "C": "Energia",
+      "D": "Força"
+    },
+    "correct_answer": "D",
+    "explanation": "A força tem módulo, direcção e sentido, sendo uma grandeza vectorial."
+  },
+  {
+    "id": "FI055",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 20 N desloca um corpo 3 m no mesmo sentido da força. Qual é o trabalho?",
+    "options": {
+      "A": "60 J",
+      "B": "23 J",
+      "C": "6,7 J",
+      "D": "0 J"
+    },
+    "correct_answer": "A",
+    "explanation": "W = Fd cos 0° = 20 × 3 = 60 J."
+  },
+  {
+    "id": "FI056",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 900 J de trabalho em 30 s. Qual é a potência média?",
+    "options": {
+      "A": "30 W",
+      "B": "27000 W",
+      "C": "3 W",
+      "D": "0,033 W"
+    },
+    "correct_answer": "A",
+    "explanation": "P = W/t = 900/30 = 30 W."
+  },
+  {
+    "id": "FI057",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "A unidade SI de potência é:",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Pascal"
+    },
+    "correct_answer": "B",
+    "explanation": "A potência mede-se em watts (W), equivalentes a joules por segundo."
+  },
+  {
+    "id": "FI058",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina tem potência útil de 400 W e recebe 500 W. Qual é o seu rendimento?",
+    "options": {
+      "A": "20%",
+      "B": "80%",
+      "C": "90%",
+      "D": "125%"
+    },
+    "correct_answer": "B",
+    "explanation": "Rendimento = potência útil/potência recebida × 100% = 400/500 × 100% = 80%."
+  },
+  {
+    "id": "FI059",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Se a velocidade de um corpo duplicar, mantendo-se a massa, a energia cinética:",
+    "options": {
+      "A": "Duplica",
+      "B": "Fica reduzida a metade",
+      "C": "Triplica",
+      "D": "Quadruplica"
+    },
+    "correct_answer": "D",
+    "explanation": "Ec é proporcional ao quadrado da velocidade; ao duplicar v, Ec fica quatro vezes maior."
+  },
+  {
+    "id": "FI060",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Qual processo de transferência de calor pode ocorrer no vazio?",
+    "options": {
+      "A": "Radiação",
+      "B": "Condução",
+      "C": "Convecção",
+      "D": "Nenhum processo"
+    },
+    "correct_answer": "A",
+    "explanation": "A radiação electromagnética não necessita de meio material."
+  },
+  {
+    "id": "FI061",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Média",
+    "question": "O ar aquecido junto de um aquecedor sobe principalmente devido à:",
+    "options": {
+      "A": "Condução nos sólidos",
+      "B": "Convecção",
+      "C": "Reflexão",
+      "D": "Fusão"
+    },
+    "correct_answer": "B",
+    "explanation": "O ar aquecido fica menos denso e sobe, criando correntes de convecção."
+  },
+  {
+    "id": "FI062",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Média",
+    "question": "Um material que dificulta a transferência de calor é chamado:",
+    "options": {
+      "A": "Condutor térmico perfeito",
+      "B": "Fonte térmica",
+      "C": "Isolador térmico",
+      "D": "Radiador"
+    },
+    "correct_answer": "C",
+    "explanation": "Os isoladores térmicos reduzem a taxa de transferência de energia por calor."
+  },
+  {
+    "id": "FI063",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Uma onda tem frequência de 20 Hz e comprimento de onda de 0,5 m. A velocidade é:",
+    "options": {
+      "A": "10 m/s",
+      "B": "40 m/s",
+      "C": "20,5 m/s",
+      "D": "0,025 m/s"
+    },
+    "correct_answer": "A",
+    "explanation": "v = fλ = 20 × 0,5 = 10 m/s."
+  },
+  {
+    "id": "FI064",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Uma onda completa 12 oscilações em 3 segundos. A frequência é:",
+    "options": {
+      "A": "4 Hz",
+      "B": "9 Hz",
+      "C": "15 Hz",
+      "D": "36 Hz"
+    },
+    "correct_answer": "A",
+    "explanation": "f = número de oscilações/tempo = 12/3 = 4 Hz."
+  },
+  {
+    "id": "FI065",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "O período de uma onda é 0,02 s. A frequência é:",
+    "options": {
+      "A": "0,02 Hz",
+      "B": "5 Hz",
+      "C": "20 Hz",
+      "D": "50 Hz"
+    },
+    "correct_answer": "D",
+    "explanation": "f = 1/T = 1/0,02 = 50 Hz."
+  },
+  {
+    "id": "FI066",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Fácil",
+    "question": "As ondas electromagnéticas, ao contrário das ondas sonoras no ar:",
+    "options": {
+      "A": "Não transportam energia",
+      "B": "Podem propagar-se no vazio",
+      "C": "Precisam sempre de um sólido",
+      "D": "São sempre longitudinais"
+    },
+    "correct_answer": "B",
+    "explanation": "As ondas electromagnéticas podem propagar-se sem meio material."
+  },
+  {
+    "id": "FI067",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Quando duas ondas se sobrepõem, a perturbação resultante é descrita pelo princípio da:",
+    "options": {
+      "A": "Inércia",
+      "B": "Refracção",
+      "C": "Sobreposição",
+      "D": "Acção e reacção"
+    },
+    "correct_answer": "C",
+    "explanation": "O princípio da sobreposição soma as perturbações das ondas que coincidem."
+  },
+  {
+    "id": "FI068",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "O eco é explicado principalmente pela:",
+    "options": {
+      "A": "Absorção do som",
+      "B": "Difracção da luz",
+      "C": "Polarização",
+      "D": "Reflexão do som"
+    },
+    "correct_answer": "D",
+    "explanation": "O eco resulta da reflexão das ondas sonoras numa superfície."
+  },
+  {
+    "id": "FI069",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Fácil",
+    "question": "A luz propaga-se no vazio, aproximadamente, a:",
+    "options": {
+      "A": "3,0 × 10⁸ m/s",
+      "B": "3,0 × 10⁶ m/s",
+      "C": "340 m/s",
+      "D": "300 m/s"
+    },
+    "correct_answer": "A",
+    "explanation": "A velocidade da luz no vazio é aproximadamente 3,0 × 10⁸ m/s."
+  },
+  {
+    "id": "FI070",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "A imagem de um objecto muito distante formada por uma lente convergente fica aproximadamente:",
+    "options": {
+      "A": "No centro óptico",
+      "B": "No plano focal",
+      "C": "No infinito sempre",
+      "D": "Atrás do objecto"
+    },
+    "correct_answer": "B",
+    "explanation": "Raios paralelos ao eixo principal convergem no foco da lente convergente."
+  },
+  {
+    "id": "FI071",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Uma lente divergente, para um objecto real, forma normalmente uma imagem:",
+    "options": {
+      "A": "Real e invertida",
+      "B": "Real e maior",
+      "C": "Virtual, direita e reduzida",
+      "D": "Virtual e invertida"
+    },
+    "correct_answer": "C",
+    "explanation": "Uma lente divergente forma normalmente imagem virtual, direita e menor para um objecto real."
+  },
+  {
+    "id": "FI072",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "A separação da luz branca nas cores que a compõem chama-se:",
+    "options": {
+      "A": "Reflexão",
+      "B": "Difusão",
+      "C": "Interferência",
+      "D": "Dispersão"
+    },
+    "correct_answer": "D",
+    "explanation": "A dispersão ocorre porque diferentes comprimentos de onda sofrem refracções diferentes."
+  },
+  {
+    "id": "FI073",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo de 4 kg sofre aceleração de 2,5 m/s². Qual é a força resultante?",
+    "options": {
+      "A": "10 N",
+      "B": "6,5 N",
+      "C": "1,6 N",
+      "D": "0,625 N"
+    },
+    "correct_answer": "A",
+    "explanation": "F = ma = 4 × 2,5 = 10 N."
+  },
+  {
+    "id": "FI074",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo de 10 kg está sujeito a uma força resultante de 0 N. A sua aceleração é:",
+    "options": {
+      "A": "10 m/s²",
+      "B": "0 m/s²",
+      "C": "1 m/s²",
+      "D": "Depende apenas da velocidade"
+    },
+    "correct_answer": "B",
+    "explanation": "Pela segunda lei de Newton, a = F/m = 0/10 = 0."
+  },
+  {
+    "id": "FI075",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Se a força resultante sobre um corpo constante duplicar e a massa permanecer igual, a aceleração:",
+    "options": {
+      "A": "Fica reduzida a metade",
+      "B": "Permanece igual",
+      "C": "Duplica",
+      "D": "Fica quatro vezes maior"
+    },
+    "correct_answer": "C",
+    "explanation": "Como a = F/m, duplicar a força com a mesma massa duplica a aceleração."
+  },
+  {
+    "id": "FI076",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "A quantidade de movimento linear de um corpo é dada por:",
+    "options": {
+      "A": "m/v",
+      "B": "m + v",
+      "C": "m − v",
+      "D": "mv"
+    },
+    "correct_answer": "D",
+    "explanation": "A quantidade de movimento é p = mv, produto da massa pela velocidade."
+  },
+  {
+    "id": "FI077",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Qual é a unidade SI da quantidade de movimento?",
+    "options": {
+      "A": "kg·m/s",
+      "B": "N/m",
+      "C": "J/s",
+      "D": "kg/m³"
+    },
+    "correct_answer": "A",
+    "explanation": "Como p = mv, a unidade é kg·m/s."
+  },
+  {
+    "id": "FI078",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "O impulso de uma força constante é igual a:",
+    "options": {
+      "A": "Força dividida pelo tempo",
+      "B": "Força multiplicada pelo intervalo de tempo",
+      "C": "Massa dividida pela velocidade",
+      "D": "Trabalho por unidade de massa"
+    },
+    "correct_answer": "B",
+    "explanation": "O impulso é J = FΔt e corresponde à variação da quantidade de movimento."
+  },
+  {
+    "id": "FI079",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "A força gravítica entre dois corpos aumenta quando:",
+    "options": {
+      "A": "A distância entre eles aumenta",
+      "B": "As massas diminuem",
+      "C": "As massas aumentam, mantendo a distância",
+      "D": "Um dos corpos deixa de ter volume"
+    },
+    "correct_answer": "C",
+    "explanation": "A força gravítica é proporcional ao produto das massas."
+  },
+  {
+    "id": "FI080",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "No modelo ideal, a aceleração de queda livre perto da Terra, desprezando o ar, é:",
+    "options": {
+      "A": "Maior para corpos mais pesados",
+      "B": "Nula",
+      "C": "Dependente da cor do corpo",
+      "D": "A mesma para todos os corpos no mesmo local"
+    },
+    "correct_answer": "D",
+    "explanation": "Sem resistência do ar, todos os corpos têm a mesma aceleração gravítica local."
+  },
+  {
+    "id": "FI081",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "A pressão hidrostática num líquido de densidade ρ a profundidade h é dada por:",
+    "options": {
+      "A": "p = ρgh",
+      "B": "p = ρ/g",
+      "C": "p = gh/ρ",
+      "D": "p = ρh/g"
+    },
+    "correct_answer": "A",
+    "explanation": "A pressão hidrostática relativa é p = ρgh."
+  },
+  {
+    "id": "FI082",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Se a profundidade num mesmo líquido duplicar, a pressão hidrostática relativa:",
+    "options": {
+      "A": "Fica reduzida a metade",
+      "B": "Duplica",
+      "C": "Fica quatro vezes maior",
+      "D": "Permanece igual"
+    },
+    "correct_answer": "B",
+    "explanation": "Como p = ρgh, mantendo densidade e gravidade, a pressão é proporcional à profundidade."
+  },
+  {
+    "id": "FI083",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um objecto desloca 0,002 m³ de água. Considerando densidade 1000 kg/m³ e g = 10 m/s², o empuxo é:",
+    "options": {
+      "A": "2 N",
+      "B": "10 N",
+      "C": "20 N",
+      "D": "200 N"
+    },
+    "correct_answer": "C",
+    "explanation": "E = ρgV = 1000 × 10 × 0,002 = 20 N."
+  },
+  {
+    "id": "FI084",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Num macaco hidráulico ideal, a força de saída pode ser maior que a força de entrada porque:",
+    "options": {
+      "A": "A pressão desaparece no fluido",
+      "B": "A massa é criada",
+      "C": "O fluido não transmite pressão",
+      "D": "A força é aplicada numa área maior"
+    },
+    "correct_answer": "D",
+    "explanation": "A mesma pressão actua numa área maior, produzindo maior força; o deslocamento de saída é menor."
+  },
+  {
+    "id": "FI085",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "A unidade SI da pressão é:",
+    "options": {
+      "A": "Pascal",
+      "B": "Newton",
+      "C": "Joule",
+      "D": "Tesla"
+    },
+    "correct_answer": "A",
+    "explanation": "O pascal (Pa) equivale a um newton por metro quadrado."
+  },
+  {
+    "id": "FI086",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Uma temperatura de 27 °C corresponde aproximadamente a:",
+    "options": {
+      "A": "27 K",
+      "B": "300 K",
+      "C": "246 K",
+      "D": "310 K"
+    },
+    "correct_answer": "B",
+    "explanation": "T(K) = T(°C) + 273,15; 27 °C ≈ 300 K."
+  },
+  {
+    "id": "FI087",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Num gás ideal, mantendo a temperatura constante, a pressão aumenta quando o volume:",
+    "options": {
+      "A": "Aumenta",
+      "B": "Permanece constante sempre",
+      "C": "Diminui",
+      "D": "Se torna negativo"
+    },
+    "correct_answer": "C",
+    "explanation": "Pela lei de Boyle, P e V são inversamente proporcionais a temperatura constante."
+  },
+  {
+    "id": "FI088",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Num recipiente rígido, ao aquecer um gás ideal, a pressão aumenta porque:",
+    "options": {
+      "A": "O volume aumenta livremente",
+      "B": "O número de moléculas desaparece",
+      "C": "A massa do gás duplica",
+      "D": "A temperatura absoluta aumenta"
+    },
+    "correct_answer": "D",
+    "explanation": "Com volume e quantidade de gás constantes, P é proporcional à temperatura absoluta."
+  },
+  {
+    "id": "FI089",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Qual é a pressão exercida por 2 mol de gás ideal a 300 K num volume de 0,05 m³? Use R = 8,31 J/(mol·K).",
+    "options": {
+      "A": "Aproximadamente 99 720 Pa",
+      "B": "Aproximadamente 249 Pa",
+      "C": "Aproximadamente 4 986 Pa",
+      "D": "Aproximadamente 12 465 Pa"
+    },
+    "correct_answer": "A",
+    "explanation": "P = nRT/V = 2 × 8,31 × 300 / 0,05 = 99 720 Pa."
+  },
+  {
+    "id": "FI090",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Fácil",
+    "question": "A unidade SI de diferença de potencial eléctrico é:",
+    "options": {
+      "A": "Ampere",
+      "B": "Volt",
+      "C": "Ohm",
+      "D": "Coulomb"
+    },
+    "correct_answer": "B",
+    "explanation": "A tensão eléctrica mede-se em volts (V)."
+  },
+  {
+    "id": "FI091",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Uma corrente de 3 A passa durante 4 s. Qual é a carga que atravessa a secção do condutor?",
+    "options": {
+      "A": "0,75 C",
+      "B": "7 C",
+      "C": "12 C",
+      "D": "1 C"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = It = 3 × 4 = 12 C."
+  },
+  {
+    "id": "FI092",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Um resistor de 4 Ω é percorrido por uma corrente de 2 A. Qual é a potência dissipada?",
+    "options": {
+      "A": "2 W",
+      "B": "8 W",
+      "C": "4 W",
+      "D": "16 W"
+    },
+    "correct_answer": "D",
+    "explanation": "P = I²R = 2² × 4 = 16 W."
+  },
+  {
+    "id": "FI093",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Dois resistores de 4 Ω e 6 Ω ligados em série têm resistência equivalente de:",
+    "options": {
+      "A": "10 Ω",
+      "B": "2 Ω",
+      "C": "24 Ω",
+      "D": "1,5 Ω"
+    },
+    "correct_answer": "A",
+    "explanation": "Em série, a resistência equivalente é a soma: 4 + 6 = 10 Ω."
+  },
+  {
+    "id": "FI094",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Dois resistores iguais de 6 Ω ligados em paralelo têm resistência equivalente de:",
+    "options": {
+      "A": "12 Ω",
+      "B": "3 Ω",
+      "C": "6 Ω",
+      "D": "1 Ω"
+    },
+    "correct_answer": "B",
+    "explanation": "Dois resistores iguais em paralelo têm resistência equivalente igual a metade: 3 Ω."
+  },
+  {
+    "id": "FI095",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "À volta de um fio percorrido por corrente eléctrica existe:",
+    "options": {
+      "A": "Apenas um campo gravitacional",
+      "B": "Nenhum campo",
+      "C": "Um campo magnético",
+      "D": "Apenas luz visível"
+    },
+    "correct_answer": "C",
+    "explanation": "Uma corrente eléctrica produz um campo magnético à sua volta."
+  },
+  {
+    "id": "FI096",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "A indução electromagnética ocorre quando há variação do:",
+    "options": {
+      "A": "Volume de um objecto isolado",
+      "B": "Peso de um íman sem movimento, sempre",
+      "C": "Comprimento de um fio sem outras alterações",
+      "D": "Fluxo magnético através de um circuito"
+    },
+    "correct_answer": "D",
+    "explanation": "A variação do fluxo magnético pode induzir uma força electromotriz."
+  },
+  {
+    "id": "FI097",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Um transformador ideal tem 100 espiras no primário e 500 no secundário. Se a tensão primária for 12 V, a tensão secundária é:",
+    "options": {
+      "A": "60 V",
+      "B": "2,4 V",
+      "C": "12 V",
+      "D": "500 V"
+    },
+    "correct_answer": "A",
+    "explanation": "Vs/Vp = Ns/Np = 500/100 = 5; Vs = 5 × 12 = 60 V."
+  },
+  {
+    "id": "FI098",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "O índice de refracção de um meio é definido por:",
+    "options": {
+      "A": "v/c",
+      "B": "c/v",
+      "C": "c + v",
+      "D": "c − v"
+    },
+    "correct_answer": "B",
+    "explanation": "O índice de refracção é n = c/v, onde c é a velocidade da luz no vazio."
+  },
+  {
+    "id": "FI099",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Duas ondas com a mesma frequência podem interferir. A interferência construtiva ocorre quando estão:",
+    "options": {
+      "A": "Sempre em oposição de fase",
+      "B": "Com amplitudes nulas",
+      "C": "Em fase, reforçando-se",
+      "D": "Em meios sem qualquer propriedade"
+    },
+    "correct_answer": "C",
+    "explanation": "Na interferência construtiva, as perturbações estão em fase e as amplitudes somam-se."
+  },
+  {
+    "id": "FI100",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 6 m/s. Qual é a sua quantidade de movimento?",
+    "options": {
+      "A": "3 kg·m/s",
+      "B": "8 kg·m/s",
+      "C": "12 N",
+      "D": "12 kg·m/s"
+    },
+    "correct_answer": "D",
+    "explanation": "p = mv = 2 × 6 = 12 kg·m/s."
+  },
+  {
+    "id": "FI101",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Um móvel percorre 240 m em 20 s. Qual é a rapidez média?",
+    "options": {
+      "A": "8 m/s",
+      "B": "10 m/s",
+      "C": "12 m/s",
+      "D": "20 m/s"
+    },
+    "correct_answer": "C",
+    "explanation": "Rapidez média = distância/tempo = 240/20 = 12 m/s."
+  },
+  {
+    "id": "FI102",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Um corredor desloca-se 100 m para este e depois 40 m para oeste. Qual é o módulo do deslocamento total?",
+    "options": {
+      "A": "60 m",
+      "B": "140 m",
+      "C": "100 m",
+      "D": "40 m"
+    },
+    "correct_answer": "A",
+    "explanation": "O deslocamento resultante é 100 − 40 = 60 m para este; o módulo é 60 m."
+  },
+  {
+    "id": "FI103",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Um carro aumenta a velocidade de 10 m/s para 25 m/s em 5 s. A aceleração média é:",
+    "options": {
+      "A": "2 m/s²",
+      "B": "3 m/s²",
+      "C": "5 m/s²",
+      "D": "7 m/s²"
+    },
+    "correct_answer": "B",
+    "explanation": "a = (vf − vi)/t = (25 − 10)/5 = 3 m/s²."
+  },
+  {
+    "id": "FI104",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Fácil",
+    "question": "Qual gráfico representa um movimento uniforme com velocidade constante?",
+    "options": {
+      "A": "Distância-tempo sempre horizontal",
+      "B": "Velocidade-tempo com inclinação crescente",
+      "C": "Posição-tempo com linha recta de inclinação constante",
+      "D": "Aceleração-tempo sempre crescente"
+    },
+    "correct_answer": "C",
+    "explanation": "Num gráfico posição-tempo, velocidade constante corresponde a uma recta com declive constante."
+  },
+  {
+    "id": "FI105",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 15 N actua num corpo, formando 60° com o deslocamento de 4 m. Qual é o trabalho?",
+    "options": {
+      "A": "60 J",
+      "B": "30 J",
+      "C": "15 J",
+      "D": "30 J"
+    },
+    "correct_answer": "B",
+    "explanation": "W = Fd cosθ = 15 × 4 × cos60° = 30 J."
+  },
+  {
+    "id": "FI106",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola tem constante elástica de 200 N/m e é comprimida 0,1 m. Qual é a energia potencial elástica armazenada?",
+    "options": {
+      "A": "1 J",
+      "B": "2 J",
+      "C": "10 J",
+      "D": "20 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Eel = ½kx² = ½ × 200 × (0,1)² = 1 J."
+  },
+  {
+    "id": "FI107",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um motor realiza 2400 J de trabalho em 20 s. A sua potência média é:",
+    "options": {
+      "A": "1200 W",
+      "B": "120 W",
+      "C": "12 W",
+      "D": "48 000 W"
+    },
+    "correct_answer": "B",
+    "explanation": "P = W/t = 2400/20 = 120 W."
+  },
+  {
+    "id": "FI108",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 800 J de energia e fornece 600 J de energia útil. O rendimento é:",
+    "options": {
+      "A": "25%",
+      "B": "60%",
+      "C": "75%",
+      "D": "80%"
+    },
+    "correct_answer": "C",
+    "explanation": "η = energia útil/energia recebida × 100% = 600/800 × 100% = 75%."
+  },
+  {
+    "id": "FI109",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma colher metálica aquece quando fica dentro de uma chávena de chá quente. O mecanismo dominante ao longo da colher é:",
+    "options": {
+      "A": "Convecção",
+      "B": "Radiação apenas",
+      "C": "Evaporação",
+      "D": "Condução"
+    },
+    "correct_answer": "D",
+    "explanation": "A energia térmica propaga-se ao longo do metal principalmente por condução."
+  },
+  {
+    "id": "FI110",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Média",
+    "question": "Por que razão a roupa escura tende a aquecer mais ao Sol do que a roupa clara, em condições semelhantes?",
+    "options": {
+      "A": "Absorve geralmente mais radiação solar",
+      "B": "Produz energia eléctrica",
+      "C": "Impede qualquer convecção",
+      "D": "Tem sempre maior massa"
+    },
+    "correct_answer": "A",
+    "explanation": "Superfícies escuras tendem a absorver uma fracção maior da radiação incidente."
+  },
+  {
+    "id": "FI111",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Uma onda propaga-se a 24 m/s e tem frequência de 6 Hz. O comprimento de onda é:",
+    "options": {
+      "A": "144 m",
+      "B": "4 m",
+      "C": "18 m",
+      "D": "0,25 m"
+    },
+    "correct_answer": "B",
+    "explanation": "λ = v/f = 24/6 = 4 m."
+  },
+  {
+    "id": "FI112",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Uma onda tem período de 0,5 s. Quantas oscilações completas realiza em 10 s?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "20",
+      "D": "50"
+    },
+    "correct_answer": "C",
+    "explanation": "O número de oscilações é t/T = 10/0,5 = 20."
+  },
+  {
+    "id": "FI113",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Quando uma onda contorna um obstáculo ou atravessa uma abertura estreita, pode ocorrer:",
+    "options": {
+      "A": "Reflexão total sempre",
+      "B": "Polarização obrigatória",
+      "C": "Fissão",
+      "D": "Difracção"
+    },
+    "correct_answer": "D",
+    "explanation": "A difracção é a curvatura/espalhamento de ondas ao contornar obstáculos ou passar por aberturas."
+  },
+  {
+    "id": "FI114",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Qual característica de uma onda sonora está mais directamente associada à altura do som (grave ou agudo)?",
+    "options": {
+      "A": "Frequência",
+      "B": "Amplitude apenas",
+      "C": "Velocidade do vento",
+      "D": "Duração total"
+    },
+    "correct_answer": "A",
+    "explanation": "A altura percebida relaciona-se principalmente com a frequência: maior frequência corresponde a som mais agudo."
+  },
+  {
+    "id": "FI115",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "A intensidade de uma onda sonora está relacionada principalmente com a sua:",
+    "options": {
+      "A": "Frequência apenas",
+      "B": "Amplitude",
+      "C": "Cor",
+      "D": "Polaridade eléctrica"
+    },
+    "correct_answer": "B",
+    "explanation": "Em condições semelhantes, maior amplitude da onda sonora corresponde a maior intensidade."
+  },
+  {
+    "id": "FI116",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Um raio passa do ar para o vidro, incidindo obliquamente. Em geral, ao entrar no vidro, o raio refractado aproxima-se:",
+    "options": {
+      "A": "Da superfície",
+      "B": "Do ponto de incidência sem mudar de direcção em qualquer caso",
+      "C": "Da normal",
+      "D": "Do observador obrigatoriamente"
+    },
+    "correct_answer": "C",
+    "explanation": "Como o vidro tem índice de refracção maior que o ar, a luz abranda e aproxima-se da normal."
+  },
+  {
+    "id": "FI117",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Um espelho côncavo pode produzir uma imagem real quando o objecto está:",
+    "options": {
+      "A": "Entre o espelho e o foco",
+      "B": "Exactamente no vértice apenas",
+      "C": "Sempre atrás do espelho",
+      "D": "Para além do foco"
+    },
+    "correct_answer": "D",
+    "explanation": "Para um objecto real colocado para além do foco de um espelho côncavo, os raios reflectidos podem convergir."
+  },
+  {
+    "id": "FI118",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "A miopia é normalmente corrigida com uma lente:",
+    "options": {
+      "A": "Divergente",
+      "B": "Convergente",
+      "C": "Cilíndrica obrigatoriamente em todos os casos",
+      "D": "Sem poder refractivo"
+    },
+    "correct_answer": "A",
+    "explanation": "A lente divergente ajuda a focar na retina a imagem de objectos distantes em olhos míopes."
+  },
+  {
+    "id": "FI119",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo de 6 kg está sujeito a uma força resultante de 18 N. A aceleração é:",
+    "options": {
+      "A": "108 m/s²",
+      "B": "3 m/s²",
+      "C": "12 m/s²",
+      "D": "24 m/s²"
+    },
+    "correct_answer": "B",
+    "explanation": "a = F/m = 18/6 = 3 m/s²."
+  },
+  {
+    "id": "FI120",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Uma força de atrito de 8 N actua contra o movimento de um bloco que é puxado por 20 N na horizontal. A força resultante horizontal é:",
+    "options": {
+      "A": "28 N",
+      "B": "8 N",
+      "C": "12 N",
+      "D": "160 N"
+    },
+    "correct_answer": "C",
+    "explanation": "A força resultante é 20 − 8 = 12 N no sentido da força de tracção."
+  },
+  {
+    "id": "FI121",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo de 3 kg está em repouso sobre uma mesa horizontal. Usando g = 10 m/s², qual é o módulo da força normal da mesa, se não houver outras forças verticais?",
+    "options": {
+      "A": "3 N",
+      "B": "13 N",
+      "C": "0 N",
+      "D": "30 N"
+    },
+    "correct_answer": "D",
+    "explanation": "Em equilíbrio vertical, a normal equilibra o peso: N = mg = 3 × 10 = 30 N."
+  },
+  {
+    "id": "FI122",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo move-se em círculo com rapidez constante. A sua velocidade varia porque:",
+    "options": {
+      "A": "A direcção do movimento muda continuamente",
+      "B": "A massa muda a cada instante",
+      "C": "A aceleração é necessariamente nula",
+      "D": "A energia cinética tem de ser zero"
+    },
+    "correct_answer": "A",
+    "explanation": "A velocidade é vectorial; mesmo com rapidez constante, a direcção muda no movimento circular."
+  },
+  {
+    "id": "FI123",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "A força centrípeta num movimento circular aponta:",
+    "options": {
+      "A": "Para fora do círculo",
+      "B": "Para o centro da trajectória",
+      "C": "Sempre na direcção da velocidade",
+      "D": "Verticalmente para baixo em todos os casos"
+    },
+    "correct_answer": "B",
+    "explanation": "A força resultante centrípeta aponta para o centro da trajectória circular."
+  },
+  {
+    "id": "FI124",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um objecto de 2 kg está a 5 m/s. Qual é a sua quantidade de movimento?",
+    "options": {
+      "A": "2,5 kg·m/s",
+      "B": "5 kg·m/s",
+      "C": "10 kg·m/s",
+      "D": "25 kg·m/s"
+    },
+    "correct_answer": "C",
+    "explanation": "p = mv = 2 × 5 = 10 kg·m/s."
+  },
+  {
+    "id": "FI125",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Durante uma colisão isolada, a quantidade de movimento total do sistema conserva-se se:",
+    "options": {
+      "A": "Os corpos tiverem massas iguais",
+      "B": "A energia cinética aumentar sempre",
+      "C": "A velocidade de cada corpo permanecer constante",
+      "D": "A força externa resultante impulsiva for desprezável"
+    },
+    "correct_answer": "D",
+    "explanation": "A conservação da quantidade de movimento aplica-se quando o impulso externo resultante é nulo ou desprezável."
+  },
+  {
+    "id": "FI126",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um líquido tem densidade 800 kg/m³. A pressão hidrostática relativa a 2 m de profundidade, usando g = 10 m/s², é:",
+    "options": {
+      "A": "16 000 Pa",
+      "B": "1 600 Pa",
+      "C": "8 000 Pa",
+      "D": "20 000 Pa"
+    },
+    "correct_answer": "A",
+    "explanation": "p = ρgh = 800 × 10 × 2 = 16 000 Pa."
+  },
+  {
+    "id": "FI127",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "A densidade de um objecto com massa 300 g e volume 100 cm³ é:",
+    "options": {
+      "A": "0,3 g/cm³",
+      "B": "3 g/cm³",
+      "C": "30 g/cm³",
+      "D": "300 g/cm³"
+    },
+    "correct_answer": "B",
+    "explanation": "ρ = m/V = 300/100 = 3 g/cm³."
+  },
+  {
+    "id": "FI128",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um corpo totalmente imerso desloca 0,004 m³ de um líquido de densidade 900 kg/m³. Usando g = 10 m/s², o empuxo é:",
+    "options": {
+      "A": "3,6 N",
+      "B": "9 N",
+      "C": "36 N",
+      "D": "360 N"
+    },
+    "correct_answer": "C",
+    "explanation": "E = ρgV = 900 × 10 × 0,004 = 36 N."
+  },
+  {
+    "id": "FI129",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Num escoamento ideal, o princípio de Bernoulli relaciona pressão, velocidade e:",
+    "options": {
+      "A": "Cor do fluido",
+      "B": "Carga eléctrica",
+      "C": "Dureza do recipiente",
+      "D": "Altura/energia potencial por unidade de volume"
+    },
+    "correct_answer": "D",
+    "explanation": "A equação de Bernoulli relaciona pressão, energia cinética por unidade de volume e energia potencial por unidade de volume."
+  },
+  {
+    "id": "FI130",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um corpo flutua em equilíbrio à superfície de um líquido quando, em módulo, o empuxo é:",
+    "options": {
+      "A": "Igual ao peso do corpo",
+      "B": "Sempre menor que o peso",
+      "C": "Sempre maior que o peso",
+      "D": "Igual a zero"
+    },
+    "correct_answer": "A",
+    "explanation": "Em equilíbrio de flutuação, o empuxo equilibra o peso."
+  },
+  {
+    "id": "FI131",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Uma temperatura de 127 °C corresponde aproximadamente a:",
+    "options": {
+      "A": "127 K",
+      "B": "400 K",
+      "C": "300 K",
+      "D": "146 K"
+    },
+    "correct_answer": "B",
+    "explanation": "T(K) = 127 + 273,15 ≈ 400 K."
+  },
+  {
+    "id": "FI132",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Um gás ocupa 4 L a 100 kPa. Mantendo a temperatura constante, que volume ocupará a 200 kPa?",
+    "options": {
+      "A": "8 L",
+      "B": "4 L",
+      "C": "2 L",
+      "D": "1 L"
+    },
+    "correct_answer": "C",
+    "explanation": "P1V1 = P2V2; V2 = 100 × 4 / 200 = 2 L."
+  },
+  {
+    "id": "FI133",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Num gráfico de volume em função da temperatura absoluta, a pressão constante e para gás ideal, o volume é:",
+    "options": {
+      "A": "Inversamente proporcional à temperatura",
+      "B": "Independente da temperatura",
+      "C": "Sempre constante",
+      "D": "Directamente proporcional à temperatura absoluta"
+    },
+    "correct_answer": "D",
+    "explanation": "A lei de Charles estabelece V/T constante a pressão constante."
+  },
+  {
+    "id": "FI134",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "A pressão de um gás resulta principalmente dos choques das suas partículas contra:",
+    "options": {
+      "A": "As paredes do recipiente",
+      "B": "O centro da Terra apenas",
+      "C": "A luz incidente",
+      "D": "Partículas que não se movem"
+    },
+    "correct_answer": "A",
+    "explanation": "A pressão macroscópica resulta dos choques das partículas do gás com as paredes do recipiente."
+  },
+  {
+    "id": "FI135",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Se a temperatura absoluta de um gás ideal num recipiente rígido duplicar, mantendo-se a quantidade de gás, a pressão:",
+    "options": {
+      "A": "Reduz-se para metade",
+      "B": "Duplica",
+      "C": "Fica quatro vezes menor",
+      "D": "Não muda"
+    },
+    "correct_answer": "B",
+    "explanation": "A volume constante, P é directamente proporcional a T em kelvin."
+  },
+  {
+    "id": "FI136",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Uma carga de 10 C atravessa um condutor em 2 s. A corrente média é:",
+    "options": {
+      "A": "20 A",
+      "B": "2 A",
+      "C": "5 A",
+      "D": "0,2 A"
+    },
+    "correct_answer": "C",
+    "explanation": "I = Q/t = 10/2 = 5 A."
+  },
+  {
+    "id": "FI137",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Uma tensão de 9 V é aplicada a um resistor de 3 Ω. A corrente é:",
+    "options": {
+      "A": "27 A",
+      "B": "6 A",
+      "C": "0,33 A",
+      "D": "3 A"
+    },
+    "correct_answer": "D",
+    "explanation": "Pela lei de Ohm, I = V/R = 9/3 = 3 A."
+  },
+  {
+    "id": "FI138",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Um aparelho ligado a 220 V consome uma corrente de 2 A. A potência eléctrica é:",
+    "options": {
+      "A": "440 W",
+      "B": "110 W",
+      "C": "222 W",
+      "D": "0,009 W"
+    },
+    "correct_answer": "A",
+    "explanation": "P = VI = 220 × 2 = 440 W."
+  },
+  {
+    "id": "FI139",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Um resistor de 10 Ω é percorrido por corrente de 0,5 A. A potência dissipada é:",
+    "options": {
+      "A": "5 W",
+      "B": "2,5 W",
+      "C": "10 W",
+      "D": "20 W"
+    },
+    "correct_answer": "B",
+    "explanation": "P = I²R = (0,5)² × 10 = 2,5 W."
+  },
+  {
+    "id": "FI140",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Em circuito paralelo ideal, a diferença de potencial entre os terminais de cada ramo é:",
+    "options": {
+      "A": "Dividida pelo número de ramos",
+      "B": "Sempre nula",
+      "C": "A mesma",
+      "D": "Maior nos ramos com maior resistência"
+    },
+    "correct_answer": "C",
+    "explanation": "Em paralelo, todos os ramos estão ligados aos mesmos dois nós e têm a mesma tensão."
+  },
+  {
+    "id": "FI141",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "A unidade SI de resistência eléctrica é:",
+    "options": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Coulomb",
+      "D": "Ohm"
+    },
+    "correct_answer": "D",
+    "explanation": "A resistência eléctrica mede-se em ohms (Ω)."
+  },
+  {
+    "id": "FI142",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Um íman aproxima-se de uma bobina ligada a um galvanómetro. Pode surgir corrente induzida porque varia:",
+    "options": {
+      "A": "O fluxo magnético através da bobina",
+      "B": "A massa do galvanómetro",
+      "C": "A carga total do íman",
+      "D": "A temperatura absoluta do vazio"
+    },
+    "correct_answer": "A",
+    "explanation": "O movimento relativo altera o fluxo magnético e pode induzir uma força electromotriz e corrente."
+  },
+  {
+    "id": "FI143",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Qual dispositivo transforma energia eléctrica em energia mecânica, usando efeitos electromagnéticos?",
+    "options": {
+      "A": "Transformador ideal apenas",
+      "B": "Motor eléctrico",
+      "C": "Fusível",
+      "D": "Interruptor aberto"
+    },
+    "correct_answer": "B",
+    "explanation": "O motor eléctrico converte energia eléctrica em energia mecânica."
+  },
+  {
+    "id": "FI144",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Num circuito, a função principal de um fusível é:",
+    "options": {
+      "A": "Aumentar sempre a corrente",
+      "B": "Armazenar carga indefinidamente",
+      "C": "Interromper o circuito quando a corrente excessiva o aquece",
+      "D": "Converter corrente contínua em alternada"
+    },
+    "correct_answer": "C",
+    "explanation": "O fusível funde quando a corrente ultrapassa o valor previsto, interrompendo o circuito."
+  },
+  {
+    "id": "FI145",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "A imagem produzida por uma câmara escura de orifício é normalmente:",
+    "options": {
+      "A": "Virtual e direita",
+      "B": "Do mesmo tamanho em qualquer distância",
+      "C": "Sempre colorida sem luz",
+      "D": "Real e invertida"
+    },
+    "correct_answer": "D",
+    "explanation": "Os raios cruzam-se no pequeno orifício, formando uma imagem real e invertida."
+  },
+  {
+    "id": "FI146",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Um objecto está a 2 m de um espelho plano. A distância entre o objecto e a sua imagem é:",
+    "options": {
+      "A": "4 m",
+      "B": "2 m",
+      "C": "1 m",
+      "D": "0 m"
+    },
+    "correct_answer": "A",
+    "explanation": "A imagem fica 2 m atrás do espelho; a separação objecto-imagem é 2 + 2 = 4 m."
+  },
+  {
+    "id": "FI147",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "A unidade SI da potência de uma lente é:",
+    "options": {
+      "A": "Metro",
+      "B": "Dioptria (m⁻¹)",
+      "C": "Candela",
+      "D": "Lux"
+    },
+    "correct_answer": "B",
+    "explanation": "A potência óptica é medida em dioptrias, equivalentes a m⁻¹."
+  },
+  {
+    "id": "FI148",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "A frequência de uma onda electromagnética no vazio é 6 × 10¹⁴ Hz. Usando c = 3 × 10⁸ m/s, o comprimento de onda é:",
+    "options": {
+      "A": "5 × 10⁶ m",
+      "B": "2 × 10²² m",
+      "C": "5 × 10⁻⁷ m",
+      "D": "1,8 × 10²³ m"
+    },
+    "correct_answer": "C",
+    "explanation": "λ = c/f = (3 × 10⁸)/(6 × 10¹⁴) = 5 × 10⁻⁷ m."
+  },
+  {
+    "id": "FI149",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 50 N realiza trabalho de 250 J no mesmo sentido do movimento. Qual foi o deslocamento?",
+    "options": {
+      "A": "5 m",
+      "B": "10 m",
+      "C": "250 m",
+      "D": "0,2 m"
+    },
+    "correct_answer": "A",
+    "explanation": "W = Fd, logo d = W/F = 250/50 = 5 m."
+  },
+  {
+    "id": "FI150",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo de 5 kg está sujeito a uma força resultante de 15 N. Qual é a sua aceleração?",
+    "options": {
+      "A": "75 m/s²",
+      "B": "10 m/s²",
+      "C": "3 m/s²",
+      "D": "0,33 m/s²"
+    },
+    "correct_answer": "C",
+    "explanation": "Pela segunda lei de Newton, a = F/m = 15/5 = 3 m/s²."
+  },
+  {
+    "id": "FI151",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Fácil",
+    "question": "Qual é a unidade SI de intensidade luminosa?",
+    "options": {
+      "A": "Candela",
+      "B": "Lúmen",
+      "C": "Lux",
+      "D": "Watt"
+    },
+    "correct_answer": "A",
+    "explanation": "A candela (cd) é a unidade de base do SI para a intensidade luminosa."
+  },
+  {
+    "id": "FI152",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Uma estrada tem 2,4 km de comprimento. A distância corresponde a:",
+    "options": {
+      "A": "24 m",
+      "B": "240 m",
+      "C": "2 400 m",
+      "D": "24 000 m"
+    },
+    "correct_answer": "C",
+    "explanation": "Como 1 km = 1 000 m, então 2,4 km = 2 400 m."
+  },
+  {
+    "id": "FI153",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Um ciclista percorre 18 km em 45 minutos. Qual é a rapidez média em km/h?",
+    "options": {
+      "A": "18 km/h",
+      "B": "24 km/h",
+      "C": "30 km/h",
+      "D": "40 km/h"
+    },
+    "correct_answer": "B",
+    "explanation": "45 min = 0,75 h. A rapidez média é 18/0,75 = 24 km/h."
+  },
+  {
+    "id": "FI154",
+    "subject": "Física",
+    "topic": "Introdução",
+    "difficulty": "Média",
+    "question": "Um vector de 3 N para este e outro de 4 N para norte actuam num ponto. Qual é o módulo da resultante?",
+    "options": {
+      "A": "1 N",
+      "B": "5 N",
+      "C": "7 N",
+      "D": "12 N"
+    },
+    "correct_answer": "B",
+    "explanation": "Como os vectores são perpendiculares, R = √(3² + 4²) = 5 N."
+  },
+  {
+    "id": "FI155",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 10 N é perpendicular ao deslocamento de 5 m. Qual é o trabalho realizado por essa força?",
+    "options": {
+      "A": "0 J",
+      "B": "2 J",
+      "C": "15 J",
+      "D": "50 J"
+    },
+    "correct_answer": "A",
+    "explanation": "W = Fd cos θ. Para θ = 90°, cos 90° = 0, logo o trabalho é nulo."
+  },
+  {
+    "id": "FI156",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um motor realiza 900 J de trabalho em 30 s. Qual é a sua potência média?",
+    "options": {
+      "A": "15 W",
+      "B": "30 W",
+      "C": "300 W",
+      "D": "27 000 W"
+    },
+    "correct_answer": "B",
+    "explanation": "A potência média é P = W/t = 900/30 = 30 W."
+  },
+  {
+    "id": "FI157",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de massa 2 kg está a 3 m de altura. Considerando g = 10 m/s², qual é a sua energia potencial gravítica?",
+    "options": {
+      "A": "6 J",
+      "B": "15 J",
+      "C": "60 J",
+      "D": "90 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ep = mgh = 2 × 10 × 3 = 60 J."
+  },
+  {
+    "id": "FI158",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Difícil",
+    "question": "Um corpo de 2 kg passa de 2 m/s para 6 m/s. Qual é a variação da energia cinética?",
+    "options": {
+      "A": "16 J",
+      "B": "24 J",
+      "C": "32 J",
+      "D": "40 J"
+    },
+    "correct_answer": "C",
+    "explanation": "ΔEc = ½m(vf² − vi²) = ½×2×(36 − 4) = 32 J."
+  },
+  {
+    "id": "FI159",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 500 J de energia e fornece 350 J de energia útil. Qual é o seu rendimento?",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "70%",
+      "D": "85%"
+    },
+    "correct_answer": "C",
+    "explanation": "Rendimento = (energia útil/energia recebida) × 100% = 350/500 × 100% = 70%."
+  },
+  {
+    "id": "FI160",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Qual é o mecanismo de transferência de energia térmica que pode ocorrer no vazio?",
+    "options": {
+      "A": "Condução",
+      "B": "Convecção",
+      "C": "Radiação",
+      "D": "Evaporação"
+    },
+    "correct_answer": "C",
+    "explanation": "A radiação transporta energia por ondas electromagnéticas e não necessita de um meio material."
+  },
+  {
+    "id": "FI161",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma colher metálica aquece quando fica dentro de uma sopa quente. O calor propaga-se ao longo da colher sobretudo por:",
+    "options": {
+      "A": "Condução",
+      "B": "Convecção",
+      "C": "Radiação",
+      "D": "Reflexão"
+    },
+    "correct_answer": "A",
+    "explanation": "Na condução, a energia térmica passa entre partículas vizinhas, sem transporte global do material."
+  },
+  {
+    "id": "FI162",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Média",
+    "question": "Por que razão o ar aquecido tende a subir numa sala?",
+    "options": {
+      "A": "Fica mais denso",
+      "B": "Fica menos denso",
+      "C": "Perde toda a energia",
+      "D": "Transforma-se em vácuo"
+    },
+    "correct_answer": "B",
+    "explanation": "Ao aquecer, o ar expande-se e a sua densidade diminui; o ar menos denso sobe por convecção."
+  },
+  {
+    "id": "FI163",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Fácil",
+    "question": "Numa onda transversal, as partículas do meio vibram:",
+    "options": {
+      "A": "Paralelamente à propagação",
+      "B": "Perpendicularmente à propagação",
+      "C": "Apenas em círculos",
+      "D": "Sem qualquer movimento"
+    },
+    "correct_answer": "B",
+    "explanation": "Numa onda transversal, a vibração é perpendicular à direcção de propagação."
+  },
+  {
+    "id": "FI164",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Uma onda tem frequência de 8 Hz e período de:",
+    "options": {
+      "A": "0,125 s",
+      "B": "0,8 s",
+      "C": "8 s",
+      "D": "64 s"
+    },
+    "correct_answer": "A",
+    "explanation": "O período é T = 1/f = 1/8 s = 0,125 s."
+  },
+  {
+    "id": "FI165",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Uma onda propaga-se a 12 m/s e tem frequência de 3 Hz. Qual é o comprimento de onda?",
+    "options": {
+      "A": "0,25 m",
+      "B": "4 m",
+      "C": "9 m",
+      "D": "36 m"
+    },
+    "correct_answer": "B",
+    "explanation": "Usando v = fλ, obtém-se λ = v/f = 12/3 = 4 m."
+  },
+  {
+    "id": "FI166",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Qual das ondas electromagnéticas tem, em geral, maior frequência?",
+    "options": {
+      "A": "Ondas de rádio",
+      "B": "Micro-ondas",
+      "C": "Luz visível",
+      "D": "Raios gama"
+    },
+    "correct_answer": "D",
+    "explanation": "Os raios gama ocupam a região de maior frequência do espectro electromagnético."
+  },
+  {
+    "id": "FI167",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Fácil",
+    "question": "O som não se propaga no vazio porque:",
+    "options": {
+      "A": "A sua frequência é sempre zero",
+      "B": "Necessita de um meio material",
+      "C": "É uma onda electromagnética",
+      "D": "Só se propaga em líquidos"
+    },
+    "correct_answer": "B",
+    "explanation": "O som é uma onda mecânica e precisa de partículas de um meio para transmitir a vibração."
+  },
+  {
+    "id": "FI168",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "O eco é um exemplo de:",
+    "options": {
+      "A": "Refração do som",
+      "B": "Absorção total do som",
+      "C": "Reflexão do som",
+      "D": "Polarização do som"
+    },
+    "correct_answer": "C",
+    "explanation": "O eco resulta da reflexão das ondas sonoras numa superfície e do seu regresso ao ouvinte."
+  },
+  {
+    "id": "FI169",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Fácil",
+    "question": "Qual é a unidade SI de quantidade de movimento?",
+    "options": {
+      "A": "kg·m/s",
+      "B": "N/m",
+      "C": "J/s",
+      "D": "kg/m³"
+    },
+    "correct_answer": "A",
+    "explanation": "A quantidade de movimento é p = mv; a unidade é kg·m/s."
+  },
+  {
+    "id": "FI170",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Uma força resultante de 18 N actua num corpo de 6 kg. Qual é a aceleração?",
+    "options": {
+      "A": "0,33 m/s²",
+      "B": "3 m/s²",
+      "C": "12 m/s²",
+      "D": "108 m/s²"
+    },
+    "correct_answer": "B",
+    "explanation": "Pela segunda lei de Newton, a = F/m = 18/6 = 3 m/s²."
+  },
+  {
+    "id": "FI171",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Um corpo move-se em linha recta com velocidade constante. A força resultante sobre ele é:",
+    "options": {
+      "A": "Igual ao peso",
+      "B": "Igual à massa",
+      "C": "Nula",
+      "D": "Sempre crescente"
+    },
+    "correct_answer": "C",
+    "explanation": "Se a velocidade é constante, a aceleração é zero; pela segunda lei de Newton, a força resultante é nula."
+  },
+  {
+    "id": "FI172",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Qual é a força gravítica sobre um corpo de 5 kg junto à superfície da Terra, tomando g = 10 m/s²?",
+    "options": {
+      "A": "0,5 N",
+      "B": "5 N",
+      "C": "15 N",
+      "D": "50 N"
+    },
+    "correct_answer": "D",
+    "explanation": "O peso é P = mg = 5 × 10 = 50 N."
+  },
+  {
+    "id": "FI173",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Quando existe tendência para duas superfícies começarem a deslizar uma sobre a outra, o atrito estático actua para:",
+    "options": {
+      "A": "Favorecer o deslizamento",
+      "B": "Impedir ou contrariar o início do deslizamento",
+      "C": "Aumentar sempre a velocidade",
+      "D": "Eliminar o peso dos corpos"
+    },
+    "correct_answer": "B",
+    "explanation": "O atrito estático ajusta-se para contrariar a tendência de movimento relativo entre superfícies em contacto, até ao seu limite máximo."
+  },
+  {
+    "id": "FI174",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Difícil",
+    "question": "Um corpo de 4 kg sofre uma força resultante de 20 N para a direita e outra de 8 N para a esquerda. Qual é a aceleração?",
+    "options": {
+      "A": "2 m/s² para a direita",
+      "B": "3 m/s² para a direita",
+      "C": "5 m/s² para a esquerda",
+      "D": "7 m/s² para a direita"
+    },
+    "correct_answer": "B",
+    "explanation": "A força resultante é 20 − 8 = 12 N para a direita. Logo, a = 12/4 = 3 m/s² para a direita."
+  },
+  {
+    "id": "FI175",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Fácil",
+    "question": "A densidade de uma substância é definida como:",
+    "options": {
+      "A": "Massa dividida pelo volume",
+      "B": "Volume dividido pela massa",
+      "C": "Peso dividido pela área",
+      "D": "Força dividida pelo tempo"
+    },
+    "correct_answer": "A",
+    "explanation": "A densidade é ρ = m/V, isto é, massa por unidade de volume."
+  },
+  {
+    "id": "FI176",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um objecto tem massa de 600 g e volume de 200 cm³. Qual é a sua densidade?",
+    "options": {
+      "A": "0,3 g/cm³",
+      "B": "2 g/cm³",
+      "C": "3 g/cm³",
+      "D": "12 g/cm³"
+    },
+    "correct_answer": "C",
+    "explanation": "ρ = m/V = 600/200 = 3 g/cm³."
+  },
+  {
+    "id": "FI177",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "A pressão exercida por uma força perpendicular sobre uma superfície aumenta quando:",
+    "options": {
+      "A": "A mesma força actua numa área menor",
+      "B": "A área aumenta e a força fica igual",
+      "C": "A força passa a zero",
+      "D": "A área e a força aumentam na mesma proporção"
+    },
+    "correct_answer": "A",
+    "explanation": "A pressão é p = F/A. Mantendo a força, uma área menor produz maior pressão."
+  },
+  {
+    "id": "FI178",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um líquido exerce pressão hidrostática. Se a profundidade duplicar, mantendo-se a densidade e g constantes, a pressão hidrostática:",
+    "options": {
+      "A": "Fica reduzida a metade",
+      "B": "Permanece igual",
+      "C": "Duplica",
+      "D": "Quadruplica"
+    },
+    "correct_answer": "C",
+    "explanation": "A pressão hidrostática é p = ρgh; é directamente proporcional à profundidade h."
+  },
+  {
+    "id": "FI179",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um corpo totalmente imerso desloca 0,002 m³ de água. Considerando a densidade da água de 1 000 kg/m³ e g = 10 m/s², qual é a impulsão?",
+    "options": {
+      "A": "2 N",
+      "B": "20 N",
+      "C": "200 N",
+      "D": "5 000 N"
+    },
+    "correct_answer": "B",
+    "explanation": "A impulsão é igual ao peso do líquido deslocado: E = ρgV = 1 000 × 10 × 0,002 = 20 N."
+  },
+  {
+    "id": "FI180",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Fácil",
+    "question": "Uma pressão de 3 000 Pa corresponde a quantos quilopascais?",
+    "options": {
+      "A": "0,3 kPa",
+      "B": "3 kPa",
+      "C": "30 kPa",
+      "D": "300 kPa"
+    },
+    "correct_answer": "B",
+    "explanation": "Como 1 kPa = 1 000 Pa, então 3 000 Pa = 3 kPa."
+  },
+  {
+    "id": "FI181",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Num recipiente fechado e rígido, a quantidade de gás é constante. Se a temperatura absoluta aumentar e o volume não mudar, a pressão:",
+    "options": {
+      "A": "Diminui",
+      "B": "Aumenta",
+      "C": "Torna-se nula",
+      "D": "Não pode ser prevista"
+    },
+    "correct_answer": "B",
+    "explanation": "A volume constante, a pressão é directamente proporcional à temperatura absoluta."
+  },
+  {
+    "id": "FI182",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Média",
+    "question": "Qual é a temperatura de 27 °C na escala Kelvin, usando K = °C + 273?",
+    "options": {
+      "A": "246 K",
+      "B": "273 K",
+      "C": "300 K",
+      "D": "310 K"
+    },
+    "correct_answer": "C",
+    "explanation": "T = 27 + 273 = 300 K."
+  },
+  {
+    "id": "FI183",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Fácil",
+    "question": "A pressão de um gás num recipiente resulta principalmente:",
+    "options": {
+      "A": "Do peso das moléculas apenas",
+      "B": "Das colisões das moléculas com as paredes",
+      "C": "Da cor do gás",
+      "D": "Da ausência de movimento molecular"
+    },
+    "correct_answer": "B",
+    "explanation": "Na teoria cinética, a pressão resulta das colisões das partículas do gás com as paredes do recipiente."
+  },
+  {
+    "id": "FI184",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Fácil",
+    "question": "Que instrumento mede a diferença de potencial entre dois pontos?",
+    "options": {
+      "A": "Amperímetro",
+      "B": "Voltímetro",
+      "C": "Dinamómetro",
+      "D": "Barómetro"
+    },
+    "correct_answer": "B",
+    "explanation": "O voltímetro mede a diferença de potencial e liga-se em paralelo ao elemento analisado."
+  },
+  {
+    "id": "FI185",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Uma resistência de 8 Ω é percorrida por uma corrente de 0,5 A. Qual é a tensão nos seus terminais?",
+    "options": {
+      "A": "4 V",
+      "B": "8 V",
+      "C": "16 V",
+      "D": "0,0625 V"
+    },
+    "correct_answer": "A",
+    "explanation": "Pela lei de Ohm, V = RI = 8 × 0,5 = 4 V."
+  },
+  {
+    "id": "FI186",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Um aparelho de 100 W funciona durante 2 minutos. Qual é a energia eléctrica consumida?",
+    "options": {
+      "A": "200 J",
+      "B": "1 200 J",
+      "C": "6 000 J",
+      "D": "12 000 J"
+    },
+    "correct_answer": "D",
+    "explanation": "E = Pt. Como 2 min = 120 s, E = 100 × 120 = 12 000 J."
+  },
+  {
+    "id": "FI187",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Duas lâmpadas idênticas são ligadas em paralelo a uma fonte ideal. Em comparação com uma única lâmpada ligada à mesma fonte, cada lâmpada:",
+    "options": {
+      "A": "Recebe a mesma tensão da fonte",
+      "B": "Recebe metade da tensão da fonte",
+      "C": "Fica sem corrente",
+      "D": "Tem resistência nula"
+    },
+    "correct_answer": "A",
+    "explanation": "Num circuito paralelo, cada ramo fica submetido à diferença de potencial da fonte."
+  },
+  {
+    "id": "FI188",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Qual é a função de um fusível num circuito eléctrico?",
+    "options": {
+      "A": "Aumentar a tensão",
+      "B": "Armazenar carga eléctrica",
+      "C": "Interromper o circuito quando a corrente é excessiva",
+      "D": "Converter corrente contínua em alternada"
+    },
+    "correct_answer": "C",
+    "explanation": "O fusível funde-se quando a corrente ultrapassa o valor previsto, interrompendo o circuito e ajudando a protegê-lo."
+  },
+  {
+    "id": "FI189",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Média",
+    "question": "Um íman é aproximado de uma bobina ligada a um galvanómetro. Quando há variação do fluxo magnético, observa-se corrente induzida. Este fenómeno chama-se:",
+    "options": {
+      "A": "Efeito Joule",
+      "B": "Indução electromagnética",
+      "C": "Electrólise",
+      "D": "Convecção"
+    },
+    "correct_answer": "B",
+    "explanation": "A variação do fluxo magnético através da bobina induz uma força electromotriz e pode produzir corrente."
+  },
+  {
+    "id": "FI190",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "difficulty": "Fácil",
+    "question": "À volta de um fio rectilíneo percorrido por corrente eléctrica existe:",
+    "options": {
+      "A": "Apenas um campo gravitacional",
+      "B": "Um campo magnético",
+      "C": "Um campo sonoro",
+      "D": "Nenhum campo"
+    },
+    "correct_answer": "B",
+    "explanation": "Uma corrente eléctrica cria um campo magnético em torno do condutor."
+  },
+  {
+    "id": "FI191",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Fácil",
+    "question": "Uma imagem formada por um espelho plano é normalmente:",
+    "options": {
+      "A": "Real e invertida verticalmente",
+      "B": "Virtual, direita e do mesmo tamanho",
+      "C": "Real e ampliada",
+      "D": "Virtual e sempre menor"
+    },
+    "correct_answer": "B",
+    "explanation": "O espelho plano forma uma imagem virtual, direita e com dimensões iguais às do objecto."
+  },
+  {
+    "id": "FI192",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Um raio de luz passa do vidro para o ar, incidindo obliquamente. Em geral, o raio refractado desvia-se:",
+    "options": {
+      "A": "Em direcção à normal",
+      "B": "Afastando-se da normal",
+      "C": "Sem mudar de direcção em qualquer situação",
+      "D": "Sempre para trás"
+    },
+    "correct_answer": "B",
+    "explanation": "Ao passar de um meio mais refringente (vidro) para outro menos refringente (ar), o raio afasta-se da normal, se não incidir perpendicularmente."
+  },
+  {
+    "id": "FI193",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "Uma lente convergente é mais espessa:",
+    "options": {
+      "A": "No centro do que nas bordas",
+      "B": "Nas bordas do que no centro",
+      "C": "Apenas na parte inferior",
+      "D": "Em nenhuma região"
+    },
+    "correct_answer": "A",
+    "explanation": "Uma lente convergente comum é mais espessa no centro e faz convergir raios paralelos ao eixo principal."
+  },
+  {
+    "id": "FI194",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Média",
+    "question": "A distância focal de uma lente é 0,5 m. Qual é a sua potência óptica?",
+    "options": {
+      "A": "0,5 dioptrias",
+      "B": "1 dioptria",
+      "C": "2 dioptrias",
+      "D": "5 dioptrias"
+    },
+    "correct_answer": "C",
+    "explanation": "A potência é P = 1/f, com f em metros. Assim, P = 1/0,5 = 2 dioptrias."
+  },
+  {
+    "id": "FI195",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Fácil",
+    "question": "A decomposição da luz branca nas diferentes cores ao atravessar um prisma chama-se:",
+    "options": {
+      "A": "Difracção",
+      "B": "Dispersão",
+      "C": "Polarização",
+      "D": "Interferência"
+    },
+    "correct_answer": "B",
+    "explanation": "A dispersão ocorre porque diferentes comprimentos de onda sofrem refracções diferentes no prisma."
+  },
+  {
+    "id": "FI196",
+    "subject": "Física",
+    "topic": "Transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma barra recebe 2 400 J de calor durante 60 s. Qual é a taxa média de transferência de energia?",
+    "options": {
+      "A": "40 W",
+      "B": "60 W",
+      "C": "144 W",
+      "D": "2 460 W"
+    },
+    "correct_answer": "A",
+    "explanation": "A taxa de transferência é Q/t = 2 400/60 = 40 J/s = 40 W."
+  },
+  {
+    "id": "FI197",
+    "subject": "Física",
+    "topic": "Ondas e Luz",
+    "difficulty": "Média",
+    "question": "Duas ondas de mesma frequência chegam ao mesmo ponto em fase. Quando se sobrepõem, podem produzir:",
+    "options": {
+      "A": "Interferência construtiva",
+      "B": "Interferência sempre destrutiva",
+      "C": "Ausência obrigatória de onda",
+      "D": "Apenas absorção"
+    },
+    "correct_answer": "A",
+    "explanation": "Ondas em fase têm cristas e vales alinhados, podendo reforçar-se por interferência construtiva."
+  },
+  {
+    "id": "FI198",
+    "subject": "Física",
+    "topic": "Dinâmica",
+    "difficulty": "Média",
+    "question": "Uma pessoa empurra uma parede com uma força de 40 N. De acordo com a terceira lei de Newton, a parede exerce sobre a pessoa uma força de:",
+    "options": {
+      "A": "0 N",
+      "B": "20 N",
+      "C": "40 N em sentido oposto",
+      "D": "80 N no mesmo sentido"
+    },
+    "correct_answer": "C",
+    "explanation": "As forças de acção e reacção têm o mesmo módulo e direcções opostas, actuando em corpos diferentes."
+  },
+  {
+    "id": "FI199",
+    "subject": "Física",
+    "topic": "Mecânica dos fluidos",
+    "difficulty": "Média",
+    "question": "Um objecto flutua em equilíbrio na água. Nesse estado, o módulo da impulsão é:",
+    "options": {
+      "A": "Menor que o peso",
+      "B": "Igual ao peso",
+      "C": "Maior que o peso",
+      "D": "Sempre nulo"
+    },
+    "correct_answer": "B",
+    "explanation": "Em equilíbrio vertical, a impulsão para cima equilibra o peso para baixo."
+  },
+  {
+    "id": "FI200",
+    "subject": "Física",
+    "topic": "Física dos gases",
+    "difficulty": "Difícil",
+    "question": "Um gás ideal ocupa 4 L a uma pressão de 100 kPa. Mantendo a temperatura constante, é comprimido até 2 L. Qual é a nova pressão?",
+    "options": {
+      "A": "50 kPa",
+      "B": "100 kPa",
+      "C": "200 kPa",
+      "D": "400 kPa"
+    },
+    "correct_answer": "C",
+    "explanation": "Pela lei de Boyle, P₁V₁ = P₂V₂. Logo, P₂ = (100 × 4)/2 = 200 kPa."
+  }
+]
