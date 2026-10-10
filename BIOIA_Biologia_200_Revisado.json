@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "BI001",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Fácil",
+    "question": "A Biologia é a ciência que estuda principalmente…",
+    "options": {
+      "A": "somente as substâncias artificiais",
+      "B": "os astros e os seus movimentos",
+      "C": "apenas as rochas e os minerais",
+      "D": "os seres vivos e os seus processos vitais"
+    },
+    "correct_answer": "D",
+    "explanation": "A Biologia investiga os seres vivos, a sua organização, funcionamento, evolução e relações com o ambiente."
+  },
+  {
+    "id": "BI002",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "Qual estrutura controla a entrada e a saída de muitas substâncias da célula?",
+    "options": {
+      "A": "Cromossoma",
+      "B": "Nucléolo",
+      "C": "Membrana plasmática",
+      "D": "Parede óssea"
+    },
+    "correct_answer": "C",
+    "explanation": "A membrana plasmática é seletivamente permeável e participa na comunicação celular."
+  },
+  {
+    "id": "BI003",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Fácil",
+    "question": "A principal função das raízes na maioria das plantas é…",
+    "options": {
+      "A": "produzir sementes em todas as espécies",
+      "B": "fixar a planta e absorver água e sais minerais",
+      "C": "realizar a polinização",
+      "D": "captar sons do ambiente"
+    },
+    "correct_answer": "B",
+    "explanation": "As raízes ancoram a planta e absorvem água e sais minerais; algumas também armazenam reservas."
+  },
+  {
+    "id": "BI004",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Fácil",
+    "question": "Os animais são organismos…",
+    "options": {
+      "A": "eucarióticos, pluricelulares e heterotróficos",
+      "B": "procarióticos e sempre unicelulares",
+      "C": "capazes de realizar fotossíntese em todos os tecidos",
+      "D": "sem células"
+    },
+    "correct_answer": "A",
+    "explanation": "Os animais têm células eucarióticas, são pluricelulares e obtêm matéria orgânica por alimentação."
+  },
+  {
+    "id": "BI005",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Fácil",
+    "question": "Um ecossistema é constituído por…",
+    "options": {
+      "A": "apenas uma espécie isolada",
+      "B": "apenas os animais de uma região",
+      "C": "somente o clima, sem organismos",
+      "D": "seres vivos e fatores não vivos que interagem"
+    },
+    "correct_answer": "D",
+    "explanation": "O ecossistema inclui a comunidade de organismos e o ambiente físico com que interagem."
+  },
+  {
+    "id": "BI006",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "O efeito de estufa natural é importante porque…",
+    "options": {
+      "A": "elimina todo o dióxido de carbono da atmosfera",
+      "B": "impede totalmente a entrada de luz solar",
+      "C": "ajuda a manter a Terra a uma temperatura compatível com a vida",
+      "D": "ocorre apenas em planetas sem atmosfera"
+    },
+    "correct_answer": "C",
+    "explanation": "Gases com efeito de estufa retêm parte da radiação infravermelha; a intensificação humana deste efeito provoca aquecimento global."
+  },
+  {
+    "id": "BI007",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "A genética estuda principalmente…",
+    "options": {
+      "A": "apenas o movimento dos planetas",
+      "B": "a hereditariedade e a variação dos seres vivos",
+      "C": "a composição das rochas sem relação com organismos",
+      "D": "somente a previsão do tempo"
+    },
+    "correct_answer": "B",
+    "explanation": "A genética analisa como as características são transmitidas e como variam entre indivíduos e populações."
+  },
+  {
+    "id": "BI008",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "Qual sistema transporta sangue, oxigénio, nutrientes e resíduos pelo organismo?",
+    "options": {
+      "A": "Sistema circulatório",
+      "B": "Sistema tegumentar",
+      "C": "Sistema esquelético isoladamente",
+      "D": "Sistema reprodutor exclusivamente"
+    },
+    "correct_answer": "A",
+    "explanation": "O sistema cardiovascular distribui sangue e permite o transporte de substâncias entre tecidos e órgãos."
+  },
+  {
+    "id": "BI009",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Fácil",
+    "question": "A ovulação corresponde…",
+    "options": {
+      "A": "à expulsão da placenta",
+      "B": "à implantação do embrião no útero",
+      "C": "à produção de leite",
+      "D": "à libertação de um ovócito pelo ovário"
+    },
+    "correct_answer": "D",
+    "explanation": "A ovulação é a libertação do ovócito, geralmente em resposta a alterações hormonais do ciclo menstrual."
+  },
+  {
+    "id": "BI010",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Fácil",
+    "question": "As bactérias são organismos…",
+    "options": {
+      "A": "pluricelulares com tecidos complexos",
+      "B": "eucarióticos com núcleo membranoso em todos os casos",
+      "C": "procarióticos",
+      "D": "sem membrana plasmática"
+    },
+    "correct_answer": "C",
+    "explanation": "As bactérias são unicelulares e procarióticas, embora tenham grande diversidade metabólica."
+  },
+  {
+    "id": "BI011",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Fácil",
+    "question": "As proteínas são formadas por unidades chamadas…",
+    "options": {
+      "A": "ácidos gordos exclusivamente",
+      "B": "aminoácidos",
+      "C": "nucleótidos",
+      "D": "monossacarídeos"
+    },
+    "correct_answer": "B",
+    "explanation": "Os aminoácidos ligam-se por ligações peptídicas para formar proteínas."
+  },
+  {
+    "id": "BI012",
+    "subject": "Biologia",
+    "topic": "Imunidade e prevenção",
+    "difficulty": "Médio",
+    "question": "A imunidade inata caracteriza-se por ser…",
+    "options": {
+      "A": "uma defesa rápida e não específica a um antigénio particular",
+      "B": "uma resposta que só surge após vacinação",
+      "C": "dependente exclusivamente de anticorpos específicos",
+      "D": "ausente ao nascimento"
+    },
+    "correct_answer": "A",
+    "explanation": "A imunidade inata inclui barreiras, fagócitos e outras respostas rápidas presentes desde o nascimento."
+  },
+  {
+    "id": "BI013",
+    "subject": "Biologia",
+    "topic": "Citologia e evolução",
+    "difficulty": "Médio",
+    "question": "A teoria celular afirma, entre outros princípios, que…",
+    "options": {
+      "A": "as células não participam nas funções vitais",
+      "B": "todas as células surgem espontaneamente da matéria sem vida em condições comuns",
+      "C": "apenas animais possuem células",
+      "D": "todos os seres vivos são constituídos por uma ou mais células"
+    },
+    "correct_answer": "D",
+    "explanation": "A teoria celular reconhece a célula como unidade básica da vida e que células provêm de células preexistentes."
+  },
+  {
+    "id": "BI014",
+    "subject": "Biologia",
+    "topic": "Sistema respiratório e circulatório",
+    "difficulty": "Médio",
+    "question": "As artérias são vasos que…",
+    "options": {
+      "A": "levam sempre sangue em direção ao coração",
+      "B": "transportam sempre sangue sem oxigénio",
+      "C": "transportam sangue para fora do coração",
+      "D": "existem apenas nos pulmões"
+    },
+    "correct_answer": "C",
+    "explanation": "Artérias são definidas pela direção do fluxo para fora do coração; a artéria pulmonar transporta sangue pobre em oxigénio."
+  },
+  {
+    "id": "BI015",
+    "subject": "Biologia",
+    "topic": "Sistema digestivo e excretor",
+    "difficulty": "Médio",
+    "question": "A pepsina atua principalmente na digestão de…",
+    "options": {
+      "A": "amido na boca",
+      "B": "proteínas no estômago",
+      "C": "gorduras exclusivamente no intestino grosso",
+      "D": "DNA nos rins"
+    },
+    "correct_answer": "B",
+    "explanation": "A pepsina é uma enzima gástrica que fragmenta proteínas em péptidos em ambiente ácido."
+  },
+  {
+    "id": "BI016",
+    "subject": "Biologia",
+    "topic": "Saúde pública e ambiente",
+    "difficulty": "Fácil",
+    "question": "O conceito de saúde da OMS inclui bem-estar…",
+    "options": {
+      "A": "físico, mental e social, e não apenas ausência de doença",
+      "B": "apenas físico",
+      "C": "somente económico",
+      "D": "exclusivamente espiritual"
+    },
+    "correct_answer": "A",
+    "explanation": "A definição clássica da OMS descreve saúde de forma ampla, incluindo dimensões física, mental e social."
+  },
+  {
+    "id": "BI017",
+    "subject": "Biologia",
+    "topic": "Biologia geral",
+    "difficulty": "Médio",
+    "question": "A classificação científica moderna agrupa organismos de acordo com…",
+    "options": {
+      "A": "o local onde foram descobertos, exclusivamente",
+      "B": "apenas o tamanho do organismo",
+      "C": "a cor do ambiente onde vivem",
+      "D": "características e relações evolutivas, entre outras evidências"
+    },
+    "correct_answer": "D",
+    "explanation": "A taxonomia utiliza características morfológicas, moleculares e outras evidências para inferir relações e organizar a diversidade."
+  },
+  {
+    "id": "BI018",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Fácil",
+    "question": "Qual é a unidade estrutural e funcional básica dos seres vivos?",
+    "options": {
+      "A": "O tecido",
+      "B": "O órgão",
+      "C": "A célula",
+      "D": "O sistema de órgãos"
+    },
+    "correct_answer": "C",
+    "explanation": "A célula é a menor unidade capaz de realizar as funções fundamentais da vida."
+  },
+  {
+    "id": "BI019",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "Em células eucarióticas, a maior parte do material genético encontra-se no…",
+    "options": {
+      "A": "ribossoma",
+      "B": "núcleo",
+      "C": "complexo de Golgi",
+      "D": "lisossoma"
+    },
+    "correct_answer": "B",
+    "explanation": "O núcleo contém a maior parte do DNA das células eucarióticas; algumas organelas também possuem DNA."
+  },
+  {
+    "id": "BI020",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Médio",
+    "question": "A seiva bruta é transportada principalmente pelo…",
+    "options": {
+      "A": "xilema",
+      "B": "floema",
+      "C": "epiderme exclusivamente",
+      "D": "estoma"
+    },
+    "correct_answer": "A",
+    "explanation": "O xilema conduz água e sais minerais, geralmente das raízes para as partes aéreas."
+  },
+  {
+    "id": "BI021",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Médio",
+    "question": "Os artrópodes distinguem-se por possuir…",
+    "options": {
+      "A": "ausência de segmentação corporal em todos os grupos",
+      "B": "coluna vertebral em todos os casos",
+      "C": "penas em todas as espécies",
+      "D": "exoesqueleto e apêndices articulados"
+    },
+    "correct_answer": "D",
+    "explanation": "Artrópodes, como insetos e crustáceos, possuem apêndices articulados e exoesqueleto."
+  },
+  {
+    "id": "BI022",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "Numa cadeia alimentar, os produtores são organismos que…",
+    "options": {
+      "A": "decompõem apenas ossos",
+      "B": "dependem sempre de outros animais para obter alimento",
+      "C": "produzem matéria orgânica a partir de substâncias inorgânicas",
+      "D": "ocupam sempre o último nível trófico"
+    },
+    "correct_answer": "C",
+    "explanation": "Plantas e algas são produtores comuns porque fazem fotossíntese; alguns microrganismos produzem matéria orgânica por quimiossíntese."
+  },
+  {
+    "id": "BI023",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Fácil",
+    "question": "A queima de combustíveis fósseis aumenta principalmente a emissão de…",
+    "options": {
+      "A": "oxigénio puro",
+      "B": "dióxido de carbono",
+      "C": "hélio",
+      "D": "vapor de ferro"
+    },
+    "correct_answer": "B",
+    "explanation": "A combustão de carvão, petróleo e gás liberta CO₂, um gás com efeito de estufa."
+  },
+  {
+    "id": "BI024",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Um gene é, de forma geral,…",
+    "options": {
+      "A": "uma sequência de DNA associada a um produto funcional",
+      "B": "um órgão do sistema digestivo",
+      "C": "uma célula completa",
+      "D": "um tipo de tecido ósseo"
+    },
+    "correct_answer": "A",
+    "explanation": "Os genes são segmentos de DNA que contribuem para a produção de RNAs ou proteínas funcionais."
+  },
+  {
+    "id": "BI025",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "Qual órgão bombeia o sangue através da circulação?",
+    "options": {
+      "A": "Baço",
+      "B": "Fígado",
+      "C": "Pâncreas",
+      "D": "Coração"
+    },
+    "correct_answer": "D",
+    "explanation": "O coração é uma bomba muscular com cavidades que impulsiona o sangue para os pulmões e para o corpo."
+  },
+  {
+    "id": "BI026",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Médio",
+    "question": "A implantação do embrião ocorre normalmente no…",
+    "options": {
+      "A": "pulmão",
+      "B": "interior da bexiga",
+      "C": "endométrio do útero",
+      "D": "córtex renal"
+    },
+    "correct_answer": "C",
+    "explanation": "Após o desenvolvimento inicial, o blastocisto implanta-se no revestimento interno do útero, o endométrio."
+  },
+  {
+    "id": "BI027",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Médio",
+    "question": "Os vírus multiplicam-se…",
+    "options": {
+      "A": "por divisão celular independente como as bactérias",
+      "B": "utilizando a maquinaria de células hospedeiras",
+      "C": "por fotossíntese própria",
+      "D": "sem material genético"
+    },
+    "correct_answer": "B",
+    "explanation": "Os vírus não possuem toda a maquinaria necessária à reprodução e dependem de células hospedeiras."
+  },
+  {
+    "id": "BI028",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Fácil",
+    "question": "Os glícidos têm como função importante…",
+    "options": {
+      "A": "fornecer energia ao organismo",
+      "B": "transportar informação genética como função principal",
+      "C": "formar exclusivamente anticorpos",
+      "D": "substituir a água nas células"
+    },
+    "correct_answer": "A",
+    "explanation": "Muitos glícidos são fontes de energia; alguns também têm funções estruturais ou de reserva."
+  },
+  {
+    "id": "BI029",
+    "subject": "Biologia",
+    "topic": "Imunidade e prevenção",
+    "difficulty": "Médio",
+    "question": "Os anticorpos são produzidos por…",
+    "options": {
+      "A": "células musculares esqueléticas",
+      "B": "glóbulos vermelhos",
+      "C": "plaquetas",
+      "D": "plasmócitos derivados de linfócitos B"
+    },
+    "correct_answer": "D",
+    "explanation": "Após ativação, linfócitos B podem diferenciar-se em plasmócitos que secretam anticorpos."
+  },
+  {
+    "id": "BI030",
+    "subject": "Biologia",
+    "topic": "Citologia e evolução",
+    "difficulty": "Difícil",
+    "question": "A parede celular bacteriana contém tipicamente…",
+    "options": {
+      "A": "quitina como componente principal universal",
+      "B": "celulose em todas as bactérias",
+      "C": "peptidoglicano",
+      "D": "hemoglobina"
+    },
+    "correct_answer": "C",
+    "explanation": "O peptidoglicano é um componente característico da parede celular de muitas bactérias; há exceções, como os micoplasmas."
+  },
+  {
+    "id": "BI031",
+    "subject": "Biologia",
+    "topic": "Sistema respiratório e circulatório",
+    "difficulty": "Médio",
+    "question": "As veias são vasos que…",
+    "options": {
+      "A": "transportam sempre sangue rico em oxigénio",
+      "B": "transportam sangue em direção ao coração",
+      "C": "levam sangue para fora do coração",
+      "D": "não possuem lúmen"
+    },
+    "correct_answer": "B",
+    "explanation": "Veias conduzem sangue para o coração; as veias pulmonares são uma exceção à regra simplificada sobre oxigenação."
+  },
+  {
+    "id": "BI032",
+    "subject": "Biologia",
+    "topic": "Sistema digestivo e excretor",
+    "difficulty": "Médio",
+    "question": "O intestino grosso tem como função importante…",
+    "options": {
+      "A": "absorver água e eletrólitos e formar as fezes",
+      "B": "produzir a maior parte da insulina",
+      "C": "realizar a filtração do sangue",
+      "D": "produzir glóbulos vermelhos em adultos saudáveis"
+    },
+    "correct_answer": "A",
+    "explanation": "O cólon recupera água e eletrólitos e participa na formação e armazenamento das fezes."
+  },
+  {
+    "id": "BI033",
+    "subject": "Biologia",
+    "topic": "Saúde pública e ambiente",
+    "difficulty": "Médio",
+    "question": "A vigilância epidemiológica serve para…",
+    "options": {
+      "A": "diagnosticar geneticamente toda a população",
+      "B": "substituir todos os serviços clínicos",
+      "C": "impedir a notificação de casos",
+      "D": "recolher e analisar dados para orientar a prevenção e o controlo de doenças"
+    },
+    "correct_answer": "D",
+    "explanation": "A vigilância permite detetar tendências, surtos e orientar medidas de saúde pública."
+  },
+  {
+    "id": "BI034",
+    "subject": "Biologia",
+    "topic": "Biologia geral",
+    "difficulty": "Médio",
+    "question": "O nome científico de uma espécie é geralmente formado por…",
+    "options": {
+      "A": "quatro nomes de países",
+      "B": "um único número",
+      "C": "dois termos: género e epíteto específico",
+      "D": "apenas o nome comum local"
+    },
+    "correct_answer": "C",
+    "explanation": "A nomenclatura binomial usa o nome do género seguido do epíteto específico, normalmente em itálico."
+  },
+  {
+    "id": "BI035",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Fácil",
+    "question": "Um organismo formado por apenas uma célula é classificado como…",
+    "options": {
+      "A": "pluricelular",
+      "B": "unicelular",
+      "C": "acelular",
+      "D": "multissistémico"
+    },
+    "correct_answer": "B",
+    "explanation": "Os organismos unicelulares, como muitas bactérias e protozoários, são constituídos por uma única célula."
+  },
+  {
+    "id": "BI036",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "Qual organelo é o principal local de produção de ATP na respiração celular aeróbia?",
+    "options": {
+      "A": "Mitocôndria",
+      "B": "Lisossoma",
+      "C": "Vacúolo central",
+      "D": "Centríolo"
+    },
+    "correct_answer": "A",
+    "explanation": "As mitocôndrias produzem grande parte do ATP a partir da energia dos nutrientes, na respiração aeróbia."
+  },
+  {
+    "id": "BI037",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Médio",
+    "question": "O floema transporta sobretudo…",
+    "options": {
+      "A": "urina produzida nas folhas",
+      "B": "apenas água destilada",
+      "C": "oxigénio ligado à hemoglobina",
+      "D": "açúcares e outras substâncias orgânicas"
+    },
+    "correct_answer": "D",
+    "explanation": "O floema distribui produtos da fotossíntese entre órgãos produtores e consumidores ou de reserva."
+  },
+  {
+    "id": "BI038",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Fácil",
+    "question": "Qual grupo de animais possui coluna vertebral?",
+    "options": {
+      "A": "Anelídeos",
+      "B": "Moluscos",
+      "C": "Vertebrados",
+      "D": "Cnidários"
+    },
+    "correct_answer": "C",
+    "explanation": "Os vertebrados incluem peixes, anfíbios, répteis, aves e mamíferos."
+  },
+  {
+    "id": "BI039",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Fácil",
+    "question": "Qual é um exemplo de decompositor?",
+    "options": {
+      "A": "Águia que caça coelhos",
+      "B": "Fungo que degrada matéria orgânica morta",
+      "C": "Capim que realiza fotossíntese",
+      "D": "Gazela que come folhas"
+    },
+    "correct_answer": "B",
+    "explanation": "Fungos e muitas bactérias decompõem matéria orgânica e reciclam nutrientes."
+  },
+  {
+    "id": "BI040",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "Uma consequência possível do aquecimento global é…",
+    "options": {
+      "A": "a subida do nível médio do mar",
+      "B": "a eliminação de todas as tempestades",
+      "C": "a interrupção definitiva do ciclo da água",
+      "D": "a diminuição uniforme da temperatura mundial"
+    },
+    "correct_answer": "A",
+    "explanation": "A expansão térmica dos oceanos e o derretimento de gelo terrestre contribuem para a subida do nível do mar."
+  },
+  {
+    "id": "BI041",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "As formas alternativas de um mesmo gene são chamadas…",
+    "options": {
+      "A": "enzimas digestivas",
+      "B": "organelos",
+      "C": "tecidos",
+      "D": "alelos"
+    },
+    "correct_answer": "D",
+    "explanation": "Alelos são variantes de um gene que podem contribuir para diferenças hereditárias."
+  },
+  {
+    "id": "BI042",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "As trocas de oxigénio e dióxido de carbono entre o ar e o sangue ocorrem principalmente…",
+    "options": {
+      "A": "na epiglote",
+      "B": "na traqueia",
+      "C": "nos alvéolos pulmonares",
+      "D": "no esófago"
+    },
+    "correct_answer": "C",
+    "explanation": "Os alvéolos têm paredes finas e grande superfície, facilitando a difusão dos gases entre ar e capilares."
+  },
+  {
+    "id": "BI043",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Médio",
+    "question": "A placenta permite principalmente…",
+    "options": {
+      "A": "mistura completa e normal do sangue materno e fetal",
+      "B": "trocas de gases, nutrientes e resíduos entre mãe e feto",
+      "C": "a produção de urina materna",
+      "D": "a digestão dos alimentos da mãe"
+    },
+    "correct_answer": "B",
+    "explanation": "A placenta facilita trocas entre as circulações materna e fetal, que normalmente não se misturam diretamente de forma livre."
+  },
+  {
+    "id": "BI044",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Fácil",
+    "question": "Os antibióticos são medicamentos utilizados contra…",
+    "options": {
+      "A": "bactérias suscetíveis, não contra vírus",
+      "B": "todos os vírus respiratórios",
+      "C": "qualquer doença não infecciosa",
+      "D": "todas as causas de febre sem avaliação"
+    },
+    "correct_answer": "A",
+    "explanation": "Antibióticos atuam em alvos bacterianos; não tratam infeções virais como a gripe comum."
+  },
+  {
+    "id": "BI045",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Médio",
+    "question": "As enzimas são, na maioria dos casos, moléculas que…",
+    "options": {
+      "A": "impedem todas as reações celulares",
+      "B": "aumentam sempre a temperatura do corpo",
+      "C": "são consumidas totalmente em cada reação",
+      "D": "aceleram reações químicas sem serem consumidas globalmente"
+    },
+    "correct_answer": "D",
+    "explanation": "As enzimas são catalisadores biológicos e apresentam especificidade por substratos e condições de funcionamento."
+  },
+  {
+    "id": "BI046",
+    "subject": "Biologia",
+    "topic": "Imunidade e prevenção",
+    "difficulty": "Médio",
+    "question": "A quarentena e o isolamento são medidas que podem ajudar a…",
+    "options": {
+      "A": "substituir o tratamento em todos os casos",
+      "B": "curar diretamente todas as infeções",
+      "C": "reduzir a transmissão de determinadas doenças infecciosas",
+      "D": "eliminar doenças hereditárias"
+    },
+    "correct_answer": "C",
+    "explanation": "O isolamento separa pessoas infetadas; a quarentena restringe temporariamente os contactos de pessoas expostas que podem desenvolver a doença. A aplicação destas medidas depende da situação e das orientações de saúde pública."
+  },
+  {
+    "id": "BI047",
+    "subject": "Biologia",
+    "topic": "Citologia e evolução",
+    "difficulty": "Fácil",
+    "question": "A teoria da seleção natural é associada sobretudo a…",
+    "options": {
+      "A": "Gregor Mendel exclusivamente",
+      "B": "Charles Darwin",
+      "C": "Louis Pasteur exclusivamente",
+      "D": "Robert Hooke exclusivamente"
+    },
+    "correct_answer": "B",
+    "explanation": "Darwin desenvolveu a explicação da evolução por seleção natural; outros cientistas também contribuíram para a teoria evolutiva."
+  },
+  {
+    "id": "BI048",
+    "subject": "Biologia",
+    "topic": "Sistema respiratório e circulatório",
+    "difficulty": "Fácil",
+    "question": "A circulação pulmonar leva o sangue…",
+    "options": {
+      "A": "do coração aos pulmões e de volta ao coração",
+      "B": "do intestino diretamente para os músculos sem passar pelo coração",
+      "C": "apenas aos rins",
+      "D": "do cérebro para a pele exclusivamente"
+    },
+    "correct_answer": "A",
+    "explanation": "Na circulação pulmonar, o sangue passa pelos pulmões para realizar trocas gasosas."
+  },
+  {
+    "id": "BI049",
+    "subject": "Biologia",
+    "topic": "Sistema digestivo e excretor",
+    "difficulty": "Fácil",
+    "question": "A urina é conduzida dos rins até à bexiga pelos…",
+    "options": {
+      "A": "ductos biliares",
+      "B": "uretra",
+      "C": "brônquios",
+      "D": "uréteres"
+    },
+    "correct_answer": "D",
+    "explanation": "Os uréteres conduzem a urina dos rins à bexiga; a uretra leva-a da bexiga para o exterior."
+  },
+  {
+    "id": "BI050",
+    "subject": "Biologia",
+    "topic": "Saúde pública e ambiente",
+    "difficulty": "Médio",
+    "question": "Uma zoonose é uma doença que pode ser transmitida…",
+    "options": {
+      "A": "somente por deficiência de vitaminas",
+      "B": "apenas entre plantas",
+      "C": "entre animais vertebrados e seres humanos",
+      "D": "exclusivamente por herança genética"
+    },
+    "correct_answer": "C",
+    "explanation": "Zoonoses são infeções naturalmente transmissíveis entre animais vertebrados e seres humanos, direta ou indiretamente."
+  },
+  {
+    "id": "BI051",
+    "subject": "Biologia",
+    "topic": "Biologia geral",
+    "difficulty": "Médio",
+    "question": "Os fungos obtêm nutrientes principalmente por…",
+    "options": {
+      "A": "ingestão com boca e estômago",
+      "B": "fotossíntese em todos os grupos",
+      "C": "absorção após digestão externa",
+      "D": "produção de clorofila"
+    },
+    "correct_answer": "C",
+    "explanation": "Os fungos libertam enzimas no ambiente e absorvem moléculas resultantes da digestão."
+  },
+  {
+    "id": "BI052",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Médio",
+    "question": "Qual sequência apresenta níveis de organização biológica do mais simples para o mais complexo?",
+    "options": {
+      "A": "Órgão → célula → organismo → tecido → sistema",
+      "B": "Célula → tecido → órgão → sistema → organismo",
+      "C": "Tecido → organismo → célula → órgão → sistema",
+      "D": "Sistema → órgão → tecido → célula → organismo"
+    },
+    "correct_answer": "B",
+    "explanation": "Células semelhantes podem formar tecidos; tecidos formam órgãos, que integram sistemas num organismo."
+  },
+  {
+    "id": "BI053",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "A síntese de proteínas ocorre nos…",
+    "options": {
+      "A": "ribossomas",
+      "B": "lisossomas",
+      "C": "vacúolos",
+      "D": "centríolos"
+    },
+    "correct_answer": "A",
+    "explanation": "Os ribossomas traduzem a informação do RNA mensageiro para formar cadeias de aminoácidos."
+  },
+  {
+    "id": "BI054",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Fácil",
+    "question": "A perda de vapor de água pelas partes aéreas da planta chama-se…",
+    "options": {
+      "A": "fermentação",
+      "B": "fecundação",
+      "C": "germinação",
+      "D": "transpiração"
+    },
+    "correct_answer": "D",
+    "explanation": "A transpiração ocorre principalmente através dos estomas e contribui para o movimento da água na planta."
+  },
+  {
+    "id": "BI055",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Fácil",
+    "question": "Os peixes respiram, na maioria dos casos, através de…",
+    "options": {
+      "A": "traqueias de insetos",
+      "B": "pulmões exclusivamente",
+      "C": "brânquias",
+      "D": "estomas"
+    },
+    "correct_answer": "C",
+    "explanation": "As brânquias permitem trocas gasosas com a água."
+  },
+  {
+    "id": "BI056",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "Numa cadeia alimentar, a energia disponível tende a…",
+    "options": {
+      "A": "aumentar sempre em cada nível",
+      "B": "diminuir à medida que se passa para níveis tróficos superiores",
+      "C": "permanecer exatamente igual em todos os níveis",
+      "D": "ser criada pelos consumidores"
+    },
+    "correct_answer": "B",
+    "explanation": "Parte da energia é dissipada como calor e utilizada no metabolismo, pelo que menos energia passa ao nível seguinte."
+  },
+  {
+    "id": "BI057",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "O Protocolo de Quioto, adotado em 1997, esteve relacionado com…",
+    "options": {
+      "A": "a redução das emissões de gases com efeito de estufa",
+      "B": "a proibição mundial de todas as vacinas",
+      "C": "a proteção exclusiva de espécies marinhas",
+      "D": "a criação de um sistema universal de moeda"
+    },
+    "correct_answer": "A",
+    "explanation": "O Protocolo de Quioto estabeleceu compromissos de limitação ou redução de emissões para determinados países desenvolvidos."
+  },
+  {
+    "id": "BI058",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Um indivíduo com dois alelos iguais para um gene é…",
+    "options": {
+      "A": "um organismo sem DNA",
+      "B": "heterozigótico",
+      "C": "haploide obrigatoriamente",
+      "D": "homozigótico"
+    },
+    "correct_answer": "D",
+    "explanation": "Homozigótico significa possuir dois alelos iguais num determinado locus diploide."
+  },
+  {
+    "id": "BI059",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "A hemoglobina tem como função principal…",
+    "options": {
+      "A": "filtrar a urina",
+      "B": "produzir bílis",
+      "C": "transportar oxigénio nos glóbulos vermelhos",
+      "D": "digerir amido na boca"
+    },
+    "correct_answer": "C",
+    "explanation": "A hemoglobina liga-se reversivelmente ao oxigénio e contribui também para o transporte de parte do dióxido de carbono."
+  },
+  {
+    "id": "BI060",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Fácil",
+    "question": "A puberdade é o período em que…",
+    "options": {
+      "A": "termina a atividade de todas as glândulas",
+      "B": "ocorrem mudanças hormonais e desenvolvimento de características sexuais",
+      "C": "o organismo deixa de crescer imediatamente",
+      "D": "se formam todos os órgãos pela primeira vez"
+    },
+    "correct_answer": "B",
+    "explanation": "A puberdade envolve maturação sexual, alterações físicas e mudanças hormonais."
+  },
+  {
+    "id": "BI061",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Fácil",
+    "question": "A lavagem correta das mãos ajuda a prevenir infeções porque…",
+    "options": {
+      "A": "remove sujidade e reduz a transmissão de microrganismos",
+      "B": "esteriliza permanentemente a pele",
+      "C": "substitui todas as vacinas",
+      "D": "elimina todos os microrganismos do ambiente"
+    },
+    "correct_answer": "A",
+    "explanation": "A higiene das mãos reduz a transferência de microrganismos e é uma medida central de prevenção de infeções."
+  },
+  {
+    "id": "BI062",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Médio",
+    "question": "A vitamina D contribui especialmente para…",
+    "options": {
+      "A": "a produção direta de urina",
+      "B": "o transporte de oxigénio pela hemoglobina",
+      "C": "a digestão do amido na boca",
+      "D": "a absorção de cálcio e a saúde óssea"
+    },
+    "correct_answer": "D",
+    "explanation": "A vitamina D favorece a absorção intestinal de cálcio e fósforo e é importante para a mineralização óssea."
+  },
+  {
+    "id": "BI063",
+    "subject": "Biologia",
+    "topic": "Imunidade e prevenção",
+    "difficulty": "Médio",
+    "question": "Uma água potável segura deve ser…",
+    "options": {
+      "A": "retirada diretamente de qualquer rio sem tratamento",
+      "B": "sempre incolor, mesmo que contenha microrganismos",
+      "C": "livre de contaminantes em níveis que representem risco à saúde",
+      "D": "misturada com águas residuais para aumentar minerais"
+    },
+    "correct_answer": "C",
+    "explanation": "A aparência não garante segurança; a água deve cumprir critérios microbiológicos e químicos e receber tratamento quando necessário."
+  },
+  {
+    "id": "BI064",
+    "subject": "Biologia",
+    "topic": "Citologia e evolução",
+    "difficulty": "Médio",
+    "question": "Os fósseis são importantes para a Biologia evolutiva porque…",
+    "options": {
+      "A": "mostram diretamente todos os detalhes de cada organismo antigo",
+      "B": "fornecem evidências de organismos e ambientes do passado",
+      "C": "provam que as espécies nunca mudam",
+      "D": "são encontrados apenas em rochas vulcânicas recentes"
+    },
+    "correct_answer": "B",
+    "explanation": "Fósseis ajudam a reconstruir a história da vida, embora o registo fóssil seja incompleto."
+  },
+  {
+    "id": "BI065",
+    "subject": "Biologia",
+    "topic": "Sistema respiratório e circulatório",
+    "difficulty": "Médio",
+    "question": "O diafragma contribui para a inspiração quando…",
+    "options": {
+      "A": "se contrai e desce, aumentando o volume da cavidade torácica",
+      "B": "relaxa e sobe sempre durante a inspiração",
+      "C": "fecha os alvéolos",
+      "D": "bloqueia o movimento das costelas"
+    },
+    "correct_answer": "A",
+    "explanation": "A contração do diafragma aumenta o volume torácico e favorece a entrada de ar nos pulmões."
+  },
+  {
+    "id": "BI066",
+    "subject": "Biologia",
+    "topic": "Sistema digestivo e excretor",
+    "difficulty": "Fácil",
+    "question": "A uretra é o canal que…",
+    "options": {
+      "A": "leva ar até aos pulmões",
+      "B": "transporta urina dos rins à bexiga",
+      "C": "transporta bílis ao duodeno",
+      "D": "conduz a urina da bexiga para o exterior"
+    },
+    "correct_answer": "D",
+    "explanation": "A uretra permite a saída da urina da bexiga; a anatomia difere entre os sexos."
+  },
+  {
+    "id": "BI067",
+    "subject": "Biologia",
+    "topic": "Saúde pública e ambiente",
+    "difficulty": "Fácil",
+    "question": "O controlo de mosquitos pode ajudar a prevenir…",
+    "options": {
+      "A": "todas as infeções transmitidas exclusivamente por alimentos",
+      "B": "todas as doenças hereditárias",
+      "C": "malária e algumas outras doenças transmitidas por vetores",
+      "D": "fraturas ósseas"
+    },
+    "correct_answer": "C",
+    "explanation": "Reduzir criadouros e controlar vetores pode diminuir a transmissão de doenças como a malária, conforme a ecologia local."
+  },
+  {
+    "id": "BI068",
+    "subject": "Biologia",
+    "topic": "Biologia geral",
+    "difficulty": "Médio",
+    "question": "Os líquenes resultam geralmente de uma associação entre…",
+    "options": {
+      "A": "um peixe e uma planta",
+      "B": "um fungo e uma alga ou cianobactéria",
+      "C": "duas espécies de mamíferos",
+      "D": "uma bactéria patogénica e um vírus obrigatoriamente"
+    },
+    "correct_answer": "B",
+    "explanation": "Nos líquenes, o fungo associa-se a um parceiro fotossintético, que fornece compostos orgânicos."
+  },
+  {
+    "id": "BI069",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Médio",
+    "question": "A capacidade de manter condições internas relativamente estáveis chama-se…",
+    "options": {
+      "A": "homeostase",
+      "B": "fotossíntese",
+      "C": "fermentação",
+      "D": "mutação"
+    },
+    "correct_answer": "A",
+    "explanation": "A homeostase regula variáveis internas, como temperatura, pH e concentração de água."
+  },
+  {
+    "id": "BI070",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "Qual organelo realiza a fotossíntese nas células vegetais?",
+    "options": {
+      "A": "Complexo de Golgi",
+      "B": "Mitocôndria",
+      "C": "Lisossoma",
+      "D": "Cloroplasto"
+    },
+    "correct_answer": "D",
+    "explanation": "Os cloroplastos contêm clorofila e realizam as reações da fotossíntese."
+  },
+  {
+    "id": "BI071",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Médio",
+    "question": "Os estomas são estruturas que permitem principalmente…",
+    "options": {
+      "A": "formação de ossos",
+      "B": "absorção de minerais diretamente do solo pelas folhas",
+      "C": "trocas gasosas e regulação da perda de água",
+      "D": "produção de gâmetas animais"
+    },
+    "correct_answer": "C",
+    "explanation": "A abertura e o fecho dos estomas regulam a entrada de CO₂ e a saída de vapor de água."
+  },
+  {
+    "id": "BI072",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Médio",
+    "question": "Uma característica típica dos anfíbios é…",
+    "options": {
+      "A": "possuírem penas",
+      "B": "muitas espécies apresentarem fases de vida aquática e terrestre",
+      "C": "alimentarem as crias sempre com leite",
+      "D": "terem seis patas"
+    },
+    "correct_answer": "B",
+    "explanation": "Muitos anfíbios passam por metamorfose e dependem de ambientes húmidos, embora existam exceções."
+  },
+  {
+    "id": "BI073",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Fácil",
+    "question": "Uma população ecológica é formada por…",
+    "options": {
+      "A": "indivíduos da mesma espécie que vivem numa área e período",
+      "B": "todas as espécies do planeta",
+      "C": "organismos de espécies diferentes sem relação espacial",
+      "D": "apenas fatores abióticos"
+    },
+    "correct_answer": "A",
+    "explanation": "A população reúne indivíduos da mesma espécie numa área e período determinados."
+  },
+  {
+    "id": "BI074",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Fácil",
+    "question": "Qual ação contribui diretamente para reduzir resíduos enviados para aterros?",
+    "options": {
+      "A": "Deitar resíduos nos rios",
+      "B": "Misturar pilhas usadas com restos de comida",
+      "C": "Queimar todo o lixo ao ar livre",
+      "D": "Separar materiais recicláveis e encaminhá-los para reciclagem"
+    },
+    "correct_answer": "D",
+    "explanation": "A separação e reciclagem adequadas podem reduzir a quantidade de resíduos depositados em aterros e recuperar materiais."
+  },
+  {
+    "id": "BI075",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "Um indivíduo com dois alelos diferentes para um gene é…",
+    "options": {
+      "A": "sem cromossomas",
+      "B": "homozigótico",
+      "C": "heterozigótico",
+      "D": "necessariamente uma bactéria"
+    },
+    "correct_answer": "C",
+    "explanation": "Um heterozigoto possui dois alelos diferentes para o gene considerado."
+  },
+  {
+    "id": "BI076",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A digestão do amido começa na boca graças à ação da…",
+    "options": {
+      "A": "pepsina gástrica",
+      "B": "amilase salivar",
+      "C": "bílis",
+      "D": "insulina"
+    },
+    "correct_answer": "B",
+    "explanation": "A amilase salivar inicia a hidrólise do amido; a digestão prossegue no intestino delgado com enzimas pancreáticas."
+  },
+  {
+    "id": "BI077",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Médio",
+    "question": "A reprodução assexuada geralmente envolve…",
+    "options": {
+      "A": "um único progenitor e ausência de fusão de gâmetas",
+      "B": "sempre a união de dois gâmetas",
+      "C": "obrigatoriamente fecundação externa",
+      "D": "a formação de embriões apenas em mamíferos"
+    },
+    "correct_answer": "A",
+    "explanation": "Na reprodução assexuada, novos indivíduos podem surgir sem fecundação, muitas vezes com elevada semelhança genética ao progenitor."
+  },
+  {
+    "id": "BI078",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Fácil",
+    "question": "A malária é causada por…",
+    "options": {
+      "A": "vírus da imunodeficiência humana",
+      "B": "bactérias do género Mycobacterium",
+      "C": "fungos dermatófitos",
+      "D": "protozoários do género Plasmodium"
+    },
+    "correct_answer": "D",
+    "explanation": "A malária é uma doença parasitária transmitida por mosquitos Anopheles infetados."
+  },
+  {
+    "id": "BI079",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Médio",
+    "question": "A deficiência de ferro pode causar…",
+    "options": {
+      "A": "diabetes tipo 1 obrigatoriamente",
+      "B": "escorbuto em todos os casos",
+      "C": "anemia por redução da capacidade de transporte de oxigénio",
+      "D": "aumento ilimitado de hemoglobina"
+    },
+    "correct_answer": "C",
+    "explanation": "O ferro é necessário à síntese de hemoglobina; a sua deficiência é uma causa comum de anemia."
+  },
+  {
+    "id": "BI080",
+    "subject": "Biologia",
+    "topic": "Imunidade e prevenção",
+    "difficulty": "Médio",
+    "question": "A cadeia de transmissão de uma infeção pode ser interrompida por…",
+    "options": {
+      "A": "uso indiscriminado de antibióticos",
+      "B": "higiene, vacinação quando disponível e controlo da fonte de infeção",
+      "C": "partilha de objetos contaminados",
+      "D": "falta de ventilação em locais fechados"
+    },
+    "correct_answer": "B",
+    "explanation": "Medidas de prevenção atuam em diferentes elos, incluindo agente, fonte, via de transmissão e hospedeiro suscetível."
+  },
+  {
+    "id": "BI081",
+    "subject": "Biologia",
+    "topic": "Citologia e evolução",
+    "difficulty": "Médio",
+    "question": "A adaptação evolutiva de uma população ocorre ao longo de…",
+    "options": {
+      "A": "gerações, quando características hereditárias favorecem a reprodução",
+      "B": "minutos em qualquer indivíduo sem hereditariedade",
+      "C": "uma decisão consciente de cada organismo",
+      "D": "um único ciclo respiratório"
+    },
+    "correct_answer": "A",
+    "explanation": "A adaptação evolutiva depende de variação hereditária e diferenças de sucesso reprodutivo ao longo de gerações."
+  },
+  {
+    "id": "BI082",
+    "subject": "Biologia",
+    "topic": "Sistema respiratório e circulatório",
+    "difficulty": "Difícil",
+    "question": "O dióxido de carbono produzido pelas células é transportado no sangue…",
+    "options": {
+      "A": "somente dentro das plaquetas",
+      "B": "apenas dissolvido como gás livre",
+      "C": "ligado exclusivamente ao DNA",
+      "D": "sob várias formas, sobretudo como bicarbonato"
+    },
+    "correct_answer": "D",
+    "explanation": "Grande parte do CO₂ é convertida em bicarbonato no sangue; outra parte dissolve-se ou liga-se a proteínas."
+  },
+  {
+    "id": "BI083",
+    "subject": "Biologia",
+    "topic": "Sistema digestivo e excretor",
+    "difficulty": "Difícil",
+    "question": "A hormona ADH favorece…",
+    "options": {
+      "A": "a produção de bílis",
+      "B": "a eliminação obrigatória de toda a água ingerida",
+      "C": "a reabsorção de água nos rins",
+      "D": "a quebra de DNA no núcleo"
+    },
+    "correct_answer": "C",
+    "explanation": "A hormona antidiurética aumenta a permeabilidade de certas partes dos túbulos/ductos coletores, ajudando a conservar água."
+  },
+  {
+    "id": "BI084",
+    "subject": "Biologia",
+    "topic": "Saúde pública e ambiente",
+    "difficulty": "Médio",
+    "question": "A poluição do ar pode agravar especialmente…",
+    "options": {
+      "A": "fraturas por trauma direto exclusivamente",
+      "B": "doenças respiratórias e cardiovasculares",
+      "C": "miopia genética em todos os casos",
+      "D": "doenças causadas apenas por cromossomas"
+    },
+    "correct_answer": "B",
+    "explanation": "Partículas e gases poluentes podem inflamar as vias respiratórias e aumentar riscos cardiovasculares."
+  },
+  {
+    "id": "BI085",
+    "subject": "Biologia",
+    "topic": "Biologia geral",
+    "difficulty": "Difícil",
+    "question": "A água tem elevado calor específico, o que significa que…",
+    "options": {
+      "A": "a sua temperatura muda relativamente pouco ao absorver ou perder calor",
+      "B": "congela sempre a 25 °C",
+      "C": "não pode dissolver substâncias",
+      "D": "não participa em reações biológicas"
+    },
+    "correct_answer": "A",
+    "explanation": "O elevado calor específico ajuda a moderar variações de temperatura nos organismos e ambientes aquáticos."
+  },
+  {
+    "id": "BI086",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Médio",
+    "question": "Na investigação científica, uma hipótese é…",
+    "options": {
+      "A": "um resultado obrigatório de qualquer experiência",
+      "B": "uma conclusão que nunca pode ser revista",
+      "C": "uma opinião sem possibilidade de teste",
+      "D": "uma explicação provisória que pode ser testada"
+    },
+    "correct_answer": "D",
+    "explanation": "Uma hipótese é uma explicação testável, que deve ser confrontada com observações ou experiências."
+  },
+  {
+    "id": "BI087",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "A difusão é o movimento líquido de partículas…",
+    "options": {
+      "A": "apenas através de bombas proteicas",
+      "B": "sempre contra o gradiente de concentração com gasto de ATP",
+      "C": "de uma região de maior concentração para outra de menor concentração",
+      "D": "somente quando a célula se divide"
+    },
+    "correct_answer": "C",
+    "explanation": "A difusão é um transporte passivo que ocorre devido ao movimento aleatório das partículas."
+  },
+  {
+    "id": "BI088",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Fácil",
+    "question": "Na fotossíntese, as plantas utilizam luz, água e dióxido de carbono para produzir principalmente…",
+    "options": {
+      "A": "proteínas e azoto gasoso diretamente",
+      "B": "compostos orgânicos e oxigénio",
+      "C": "apenas água e sais minerais",
+      "D": "glicose consumindo oxigénio como reagente principal"
+    },
+    "correct_answer": "B",
+    "explanation": "A fotossíntese converte energia luminosa em energia química e liberta oxigénio a partir da água."
+  },
+  {
+    "id": "BI089",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Fácil",
+    "question": "As aves são geralmente reconhecidas pela presença de…",
+    "options": {
+      "A": "penas",
+      "B": "escamas córneas em todo o corpo e ausência de penas",
+      "C": "brânquias funcionais na fase adulta",
+      "D": "glândulas mamárias funcionais"
+    },
+    "correct_answer": "A",
+    "explanation": "As penas são uma característica distintiva das aves e contribuem para o voo, isolamento e comunicação."
+  },
+  {
+    "id": "BI090",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "A comunidade biológica de uma área corresponde…",
+    "options": {
+      "A": "somente à temperatura e humidade",
+      "B": "ao conjunto de minerais do solo",
+      "C": "a uma única população",
+      "D": "ao conjunto de populações de diferentes espécies"
+    },
+    "correct_answer": "D",
+    "explanation": "A comunidade inclui as populações das várias espécies que vivem e interagem numa área."
+  },
+  {
+    "id": "BI091",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "A eutrofização de lagos pode ser causada pelo excesso de…",
+    "options": {
+      "A": "areia limpa sem nutrientes",
+      "B": "oxigénio dissolvido em qualquer concentração",
+      "C": "nutrientes como nitratos e fosfatos",
+      "D": "luz lunar"
+    },
+    "correct_answer": "C",
+    "explanation": "O excesso de nutrientes pode provocar proliferação de algas e, depois, diminuição do oxigénio dissolvido."
+  },
+  {
+    "id": "BI092",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Num cruzamento Aa × Aa, assumindo dominância completa e segregação mendeliana, qual é a proporção genotípica esperada?",
+    "options": {
+      "A": "3 AA : 1 aa",
+      "B": "1 AA : 2 Aa : 1 aa",
+      "C": "1 Aa : 1 aa",
+      "D": "4 aa : 0 AA"
+    },
+    "correct_answer": "B",
+    "explanation": "Cada progenitor produz gâmetas A e a; as combinações esperadas são AA, Aa, Aa e aa."
+  },
+  {
+    "id": "BI093",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "A maior parte da absorção de nutrientes ocorre no…",
+    "options": {
+      "A": "intestino delgado",
+      "B": "esófago",
+      "C": "intestino grosso exclusivamente",
+      "D": "estômago apenas"
+    },
+    "correct_answer": "A",
+    "explanation": "As vilosidades e microvilosidades do intestino delgado aumentam a superfície disponível para absorção."
+  },
+  {
+    "id": "BI094",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Fácil",
+    "question": "A fecundação é o processo de…",
+    "options": {
+      "A": "produção de urina pelos rins",
+      "B": "divisão de um tecido em órgãos",
+      "C": "libertação de hormonas pela hipófise",
+      "D": "fusão dos gâmetas para formar um zigoto"
+    },
+    "correct_answer": "D",
+    "explanation": "A fusão dos gâmetas restaura o número diploide de cromossomas e forma o zigoto."
+  },
+  {
+    "id": "BI095",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Médio",
+    "question": "O vetor que transmite a malária ao ser humano é, em geral, a fêmea do mosquito…",
+    "options": {
+      "A": "Culex em todos os casos",
+      "B": "Aedes exclusivamente",
+      "C": "Anopheles",
+      "D": "Glossina"
+    },
+    "correct_answer": "C",
+    "explanation": "Mosquitos Anopheles fêmeas transmitem Plasmodium durante a picada."
+  },
+  {
+    "id": "BI096",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Médio",
+    "question": "O iodo é necessário para a síntese das hormonas da…",
+    "options": {
+      "A": "pâncreas exócrino",
+      "B": "tiroide",
+      "C": "vesícula biliar",
+      "D": "medula óssea apenas"
+    },
+    "correct_answer": "B",
+    "explanation": "As hormonas tiroideias contêm iodo e participam na regulação do metabolismo."
+  },
+  {
+    "id": "BI097",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Fácil",
+    "question": "Qual instrumento é especialmente útil para observar células que não se distinguem a olho nu?",
+    "options": {
+      "A": "Microscópio",
+      "B": "Telescópio",
+      "C": "Barómetro",
+      "D": "Bússola"
+    },
+    "correct_answer": "A",
+    "explanation": "O microscópio amplia imagens de estruturas pequenas, incluindo células e microrganismos."
+  },
+  {
+    "id": "BI098",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "A osmose é a passagem de…",
+    "options": {
+      "A": "gases apenas por transporte ativo",
+      "B": "proteínas através do núcleo",
+      "C": "DNA para fora dos cromossomas",
+      "D": "água através de uma membrana seletivamente permeável"
+    },
+    "correct_answer": "D",
+    "explanation": "Na osmose, a água desloca-se em resposta a diferenças de potencial hídrico através da membrana."
+  },
+  {
+    "id": "BI099",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Médio",
+    "question": "A polinização corresponde à transferência do pólen…",
+    "options": {
+      "A": "da raiz para as folhas",
+      "B": "do ovário para a raiz",
+      "C": "da antera para o estigma da flor",
+      "D": "do fruto para o caule"
+    },
+    "correct_answer": "C",
+    "explanation": "A polinização coloca o pólen no estigma, possibilitando os processos que podem levar à fecundação."
+  },
+  {
+    "id": "BI100",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Fácil",
+    "question": "Uma característica própria dos mamíferos é a presença de…",
+    "options": {
+      "A": "cloroplastos",
+      "B": "glândulas mamárias",
+      "C": "brânquias em todos os adultos",
+      "D": "exoesqueleto quitinoso"
+    },
+    "correct_answer": "B",
+    "explanation": "As glândulas mamárias produzem leite para alimentar as crias nos mamíferos."
+  },
+  {
+    "id": "BI101",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Fácil",
+    "question": "Qual dos seguintes é um fator abiótico?",
+    "options": {
+      "A": "Predação",
+      "B": "Temperatura da água",
+      "C": "Competição entre plantas",
+      "D": "Parasitismo"
+    },
+    "correct_answer": "B",
+    "explanation": "Fatores abióticos são componentes não vivos, como temperatura, luz, água e pH."
+  },
+  {
+    "id": "BI102",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Fácil",
+    "question": "A desflorestação pode provocar…",
+    "options": {
+      "A": "perda de habitats, erosão do solo e redução da biodiversidade",
+      "B": "aumento obrigatório de todas as espécies",
+      "C": "estabilização de todos os solos",
+      "D": "eliminação da erosão em encostas"
+    },
+    "correct_answer": "A",
+    "explanation": "A remoção da cobertura vegetal prejudica habitats, favorece a erosão e pode alterar o ciclo da água."
+  },
+  {
+    "id": "BI103",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Num cruzamento Aa × Aa com A dominante sobre a, qual proporção fenotípica é esperada?",
+    "options": {
+      "A": "todos recessivos",
+      "B": "1 dominante : 3 recessivos",
+      "C": "1 : 1",
+      "D": "3 com fenótipo dominante : 1 com fenótipo recessivo"
+    },
+    "correct_answer": "D",
+    "explanation": "Os genótipos AA, Aa e Aa apresentam o fenótipo dominante; apenas aa é recessivo."
+  },
+  {
+    "id": "BI104",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A bílis contribui para a digestão ao…",
+    "options": {
+      "A": "transportar oxigénio",
+      "B": "decompor diretamente proteínas em aminoácidos",
+      "C": "emulsionar gorduras",
+      "D": "produzir insulina"
+    },
+    "correct_answer": "C",
+    "explanation": "Os sais biliares dispersam as gorduras em gotículas menores, facilitando a ação das lipases; a bílis não é uma enzima."
+  },
+  {
+    "id": "BI105",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Fácil",
+    "question": "O zigoto é…",
+    "options": {
+      "A": "um órgão do sistema reprodutor",
+      "B": "a primeira célula formada após a fecundação",
+      "C": "um tipo de anticorpo",
+      "D": "uma hormona produzida pela placenta"
+    },
+    "correct_answer": "B",
+    "explanation": "O zigoto resulta da união dos gâmetas e inicia as primeiras divisões do desenvolvimento embrionário."
+  },
+  {
+    "id": "BI106",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Fácil",
+    "question": "A tuberculose é causada por…",
+    "options": {
+      "A": "Mycobacterium tuberculosis",
+      "B": "Plasmodium falciparum",
+      "C": "Candida albicans em todos os casos",
+      "D": "vírus da hepatite B"
+    },
+    "correct_answer": "A",
+    "explanation": "A tuberculose é uma doença bacteriana que afeta sobretudo os pulmões e pode ser transmitida pelo ar."
+  },
+  {
+    "id": "BI107",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Fácil",
+    "question": "Uma alimentação equilibrada deve incluir…",
+    "options": {
+      "A": "a eliminação de toda a água",
+      "B": "apenas um grupo alimentar",
+      "C": "exclusivamente suplementos vitamínicos",
+      "D": "variedade de alimentos e quantidades adequadas às necessidades"
+    },
+    "correct_answer": "D",
+    "explanation": "Uma dieta equilibrada fornece energia e nutrientes variados em quantidades ajustadas à idade, atividade e estado fisiológico."
+  },
+  {
+    "id": "BI108",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Médio",
+    "question": "A biodiversidade corresponde à variedade de…",
+    "options": {
+      "A": "somente plantas medicinais",
+      "B": "apenas animais domésticos",
+      "C": "genes, espécies e ecossistemas",
+      "D": "apenas os ambientes aquáticos"
+    },
+    "correct_answer": "C",
+    "explanation": "A biodiversidade abrange diversidade genética, diversidade de espécies e diversidade de ecossistemas."
+  },
+  {
+    "id": "BI109",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "Qual processo permite a uma célula dividir o núcleo e produzir, em geral, duas células geneticamente semelhantes?",
+    "options": {
+      "A": "Meiose",
+      "B": "Mitose",
+      "C": "Fecundação",
+      "D": "Transcrição"
+    },
+    "correct_answer": "B",
+    "explanation": "A mitose distribui os cromossomas duplicados por dois núcleos-filhos."
+  },
+  {
+    "id": "BI110",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Médio",
+    "question": "A germinação de uma semente geralmente requer água, oxigénio e…",
+    "options": {
+      "A": "temperatura adequada",
+      "B": "ausência total de água",
+      "C": "luz solar direta em todas as espécies",
+      "D": "solo obrigatoriamente salgado"
+    },
+    "correct_answer": "A",
+    "explanation": "A germinação depende de condições adequadas; a necessidade de luz varia conforme a espécie."
+  },
+  {
+    "id": "BI111",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Médio",
+    "question": "Os insetos adultos apresentam tipicamente…",
+    "options": {
+      "A": "cinco pares de patas",
+      "B": "dois pares de patas",
+      "C": "quatro pares de patas",
+      "D": "três pares de patas"
+    },
+    "correct_answer": "D",
+    "explanation": "O corpo dos insetos possui cabeça, tórax e abdómen; no tórax existem três pares de patas."
+  },
+  {
+    "id": "BI112",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "A relação em que ambas as espécies beneficiam chama-se…",
+    "options": {
+      "A": "parasitismo",
+      "B": "predação",
+      "C": "mutualismo",
+      "D": "competição"
+    },
+    "correct_answer": "C",
+    "explanation": "No mutualismo, ambas as espécies beneficiam; a dependência entre elas pode variar."
+  },
+  {
+    "id": "BI113",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "Uma espécie invasora é, em geral, uma espécie que…",
+    "options": {
+      "A": "existe apenas em reservas naturais",
+      "B": "é introduzida fora da sua área natural e causa impactos negativos",
+      "C": "é sempre nativa e inofensiva",
+      "D": "não consegue reproduzir-se no novo ambiente"
+    },
+    "correct_answer": "B",
+    "explanation": "Espécies introduzidas podem tornar-se invasoras quando se estabelecem e causam danos ecológicos, económicos ou sociais."
+  },
+  {
+    "id": "BI114",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Um alelo recessivo manifesta-se num indivíduo heterozigótico com dominância completa?",
+    "options": {
+      "A": "Geralmente não; fica mascarado pelo alelo dominante",
+      "B": "Sim, sempre",
+      "C": "Sim, apenas porque há dois cromossomas",
+      "D": "Não existe relação entre alelos"
+    },
+    "correct_answer": "A",
+    "explanation": "Com dominância completa, o fenótipo heterozigótico é determinado pelo alelo dominante; há exceções em outros padrões de herança."
+  },
+  {
+    "id": "BI115",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "Qual órgão produz insulina?",
+    "options": {
+      "A": "Vesícula biliar",
+      "B": "Rim",
+      "C": "Pulmão",
+      "D": "Pâncreas"
+    },
+    "correct_answer": "D",
+    "explanation": "As células beta dos ilhéus pancreáticos produzem insulina, hormona que ajuda a regular a glicemia."
+  },
+  {
+    "id": "BI116",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Médio",
+    "question": "O preservativo ajuda a prevenir…",
+    "options": {
+      "A": "apenas doenças causadas por deficiência vitamínica",
+      "B": "todas as infeções em 100% dos casos",
+      "C": "gravidez e transmissão de muitas infeções sexualmente transmissíveis",
+      "D": "somente doenças hereditárias"
+    },
+    "correct_answer": "C",
+    "explanation": "O uso correto e consistente do preservativo reduz o risco de gravidez e de muitas IST, embora não elimine todos os riscos."
+  },
+  {
+    "id": "BI117",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Médio",
+    "question": "O saneamento básico contribui para a saúde pública ao…",
+    "options": {
+      "A": "aumentar a contaminação da água potável",
+      "B": "reduzir a exposição a agentes patogénicos e a contaminação ambiental",
+      "C": "eliminar a necessidade de higiene alimentar",
+      "D": "impedir todas as doenças genéticas"
+    },
+    "correct_answer": "B",
+    "explanation": "Água segura, gestão de excretas e resíduos e higiene reduzem várias doenças transmissíveis."
+  },
+  {
+    "id": "BI118",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Fácil",
+    "question": "A água é essencial porque…",
+    "options": {
+      "A": "atua como solvente e participa no transporte e regulação térmica",
+      "B": "fornece a maior parte das calorias alimentares",
+      "C": "substitui todos os sais minerais",
+      "D": "é produzida apenas pelos pulmões"
+    },
+    "correct_answer": "A",
+    "explanation": "A água participa em reações, transporte de substâncias e controlo da temperatura corporal."
+  },
+  {
+    "id": "BI119",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Médio",
+    "question": "Qual característica é comum a todas as células conhecidas?",
+    "options": {
+      "A": "Parede celular de celulose",
+      "B": "Núcleo delimitado por membrana",
+      "C": "Cloroplastos",
+      "D": "Membrana plasmática"
+    },
+    "correct_answer": "D",
+    "explanation": "Todas as células têm membrana plasmática; núcleo membranoso e cloroplastos não existem em todas elas."
+  },
+  {
+    "id": "BI120",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "A meiose é importante porque…",
+    "options": {
+      "A": "produz apenas células idênticas para crescimento",
+      "B": "duplica sempre o número de cromossomas dos gâmetas",
+      "C": "reduz para metade o número de cromossomas e forma células haploides",
+      "D": "ocorre exclusivamente em bactérias"
+    },
+    "correct_answer": "C",
+    "explanation": "A meiose contribui para a formação de gâmetas ou esporos haploides e para a variabilidade genética."
+  },
+  {
+    "id": "BI121",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Fácil",
+    "question": "Qual tecido vegetal conduz principalmente a água e os sais minerais?",
+    "options": {
+      "A": "Floema",
+      "B": "Xilema",
+      "C": "Meristema exclusivamente reprodutor",
+      "D": "Tecido adiposo"
+    },
+    "correct_answer": "B",
+    "explanation": "O xilema transporta a seiva bruta; o floema conduz principalmente substâncias orgânicas."
+  },
+  {
+    "id": "BI122",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Médio",
+    "question": "A metamorfose completa dos insetos inclui as fases…",
+    "options": {
+      "A": "ovo, larva, pupa e adulto",
+      "B": "ovo, ninfa e adulto apenas",
+      "C": "embrião, girino e adulto em todos os insetos",
+      "D": "larva e adulto sem outras fases"
+    },
+    "correct_answer": "A",
+    "explanation": "Na metamorfose completa, a pupa separa a fase larvar da fase adulta."
+  },
+  {
+    "id": "BI123",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "Na relação de parasitismo…",
+    "options": {
+      "A": "nenhuma espécie é afetada",
+      "B": "ambas as espécies beneficiam sempre",
+      "C": "o hospedeiro mata sempre o parasita imediatamente",
+      "D": "o parasita beneficia e o hospedeiro é prejudicado"
+    },
+    "correct_answer": "D",
+    "explanation": "O parasita obtém recursos do hospedeiro e causa-lhe algum prejuízo, sem necessariamente o matar de imediato."
+  },
+  {
+    "id": "BI124",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "O desenvolvimento sustentável procura…",
+    "options": {
+      "A": "proibir qualquer atividade económica",
+      "B": "usar todos os recursos naturais o mais depressa possível",
+      "C": "satisfazer necessidades atuais sem comprometer as gerações futuras",
+      "D": "priorizar apenas o consumo imediato"
+    },
+    "correct_answer": "C",
+    "explanation": "O desenvolvimento sustentável procura equilibrar dimensões ambientais, sociais e económicas a longo prazo."
+  },
+  {
+    "id": "BI125",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "Os cromossomas são constituídos principalmente por…",
+    "options": {
+      "A": "celulose e clorofila",
+      "B": "DNA associado a proteínas",
+      "C": "glicose pura",
+      "D": "água e sais sem material genético"
+    },
+    "correct_answer": "B",
+    "explanation": "O DNA cromossómico está associado a proteínas, incluindo histonas nos eucariontes."
+  },
+  {
+    "id": "BI126",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A unidade funcional do rim é o…",
+    "options": {
+      "A": "néfron",
+      "B": "alvéolo",
+      "C": "neurónio motor",
+      "D": "osteão"
+    },
+    "correct_answer": "A",
+    "explanation": "Cada néfron filtra o sangue e participa na reabsorção e secreção que formam a urina."
+  },
+  {
+    "id": "BI127",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Médio",
+    "question": "A menstruação ocorre quando…",
+    "options": {
+      "A": "os rins deixam de produzir urina",
+      "B": "o ovócito é fecundado em todos os ciclos",
+      "C": "a placenta é expulsa após o parto",
+      "D": "há descamação do endométrio, na ausência de gravidez estabelecida"
+    },
+    "correct_answer": "D",
+    "explanation": "A queda de determinadas hormonas leva à descamação do endométrio quando não há gravidez estabelecida."
+  },
+  {
+    "id": "BI128",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Médio",
+    "question": "A resistência aos antibióticos aumenta quando…",
+    "options": {
+      "A": "todos os antibióticos são usados apenas quando necessários",
+      "B": "as bactérias deixam de possuir genes",
+      "C": "bactérias resistentes sobrevivem e se multiplicam sob pressão seletiva",
+      "D": "os vírus se transformam sempre em bactérias"
+    },
+    "correct_answer": "C",
+    "explanation": "O uso inadequado de antibióticos pode favorecer a seleção e disseminação de bactérias resistentes."
+  },
+  {
+    "id": "BI129",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Difícil",
+    "question": "A respiração celular aeróbia necessita diretamente de…",
+    "options": {
+      "A": "azoto gasoso como único aceitador final",
+      "B": "oxigénio como aceitador final de eletrões",
+      "C": "clorofila em todas as células",
+      "D": "luz solar dentro das mitocôndrias"
+    },
+    "correct_answer": "B",
+    "explanation": "Na respiração aeróbia, o oxigénio recebe eletrões no final da cadeia transportadora e forma água."
+  },
+  {
+    "id": "BI130",
+    "subject": "Biologia",
+    "topic": "Fundamentos da Biologia",
+    "difficulty": "Médio",
+    "question": "A evolução biológica refere-se principalmente…",
+    "options": {
+      "A": "às mudanças hereditárias das populações ao longo das gerações",
+      "B": "à transformação de um indivíduo numa nova espécie durante a vida",
+      "C": "ao crescimento diário de qualquer organismo",
+      "D": "à ausência de variação entre os seres vivos"
+    },
+    "correct_answer": "A",
+    "explanation": "A evolução ocorre em populações ao longo das gerações, por mudanças nas características hereditárias."
+  },
+  {
+    "id": "BI131",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "Qual é a função principal dos lisossomas em muitas células animais?",
+    "options": {
+      "A": "Fotossíntese",
+      "B": "Produção de luz",
+      "C": "Armazenamento exclusivo de informação genética",
+      "D": "Digestão intracelular"
+    },
+    "correct_answer": "D",
+    "explanation": "Os lisossomas contêm enzimas que degradam materiais celulares e substâncias incorporadas."
+  },
+  {
+    "id": "BI132",
+    "subject": "Biologia",
+    "topic": "Botânica",
+    "difficulty": "Médio",
+    "question": "Os meristemas vegetais são tecidos cujas células…",
+    "options": {
+      "A": "não possuem capacidade de divisão",
+      "B": "transportam apenas oxigénio no sangue",
+      "C": "se dividem ativamente e permitem o crescimento",
+      "D": "formam exclusivamente os gâmetas humanos"
+    },
+    "correct_answer": "C",
+    "explanation": "Os meristemas produzem novas células, permitindo crescimento em comprimento e espessura."
+  },
+  {
+    "id": "BI133",
+    "subject": "Biologia",
+    "topic": "Zoologia",
+    "difficulty": "Fácil",
+    "question": "Os moluscos incluem animais como…",
+    "options": {
+      "A": "minhocas e sanguessugas",
+      "B": "caracóis, mexilhões e polvos",
+      "C": "aranhas e escorpiões",
+      "D": "estrelas-do-mar e ouriços-do-mar"
+    },
+    "correct_answer": "B",
+    "explanation": "Caracóis, bivalves e cefalópodes pertencem ao filo Mollusca."
+  },
+  {
+    "id": "BI134",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "A sucessão ecológica é…",
+    "options": {
+      "A": "a mudança gradual das comunidades de um local ao longo do tempo",
+      "B": "a migração diária de um único animal",
+      "C": "a conversão imediata de toda a energia em matéria",
+      "D": "a ausência permanente de mudanças num ecossistema"
+    },
+    "correct_answer": "A",
+    "explanation": "A sucessão envolve alterações na composição das comunidades, por exemplo após uma perturbação."
+  },
+  {
+    "id": "BI135",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "A conservação da biodiversidade é importante porque…",
+    "options": {
+      "A": "apenas espécies domésticas têm valor ecológico",
+      "B": "todas as espécies têm exatamente a mesma função",
+      "C": "a biodiversidade impede qualquer mudança ambiental",
+      "D": "mantém funções ecológicas e recursos essenciais para as sociedades"
+    },
+    "correct_answer": "D",
+    "explanation": "A biodiversidade contribui para o funcionamento dos ecossistemas e fornece recursos e serviços ecossistémicos."
+  },
+  {
+    "id": "BI136",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "A meiose contribui para a variabilidade genética por meio de…",
+    "options": {
+      "A": "eliminação de todos os alelos recessivos",
+      "B": "produção de cópias sempre idênticas sem separação cromossómica",
+      "C": "recombinação e distribuição independente dos cromossomas",
+      "D": "transformação de proteínas em DNA"
+    },
+    "correct_answer": "C",
+    "explanation": "O crossing-over e a segregação independente geram novas combinações de alelos nos gâmetas."
+  },
+  {
+    "id": "BI137",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "A principal função dos rins é…",
+    "options": {
+      "A": "produzir a bílis",
+      "B": "filtrar o sangue e regular água, eletrólitos e resíduos",
+      "C": "realizar trocas gasosas com o ar",
+      "D": "bombear sangue para a aorta"
+    },
+    "correct_answer": "B",
+    "explanation": "Os rins ajudam a manter a homeostase e eliminam resíduos metabólicos através da urina."
+  },
+  {
+    "id": "BI138",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Médio",
+    "question": "A amamentação fornece ao bebé, além de nutrientes, componentes que…",
+    "options": {
+      "A": "contribuem para a proteção imunitária",
+      "B": "substituem definitivamente todas as vacinas",
+      "C": "impedem qualquer infeção",
+      "D": "fazem o sistema digestivo deixar de funcionar"
+    },
+    "correct_answer": "A",
+    "explanation": "O leite materno contém anticorpos e outros fatores de defesa, embora não substitua medidas de prevenção ou vacinação recomendada."
+  },
+  {
+    "id": "BI139",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Médio",
+    "question": "Uma doença endémica é aquela que…",
+    "options": {
+      "A": "é sempre causada por falta de vitaminas",
+      "B": "ocorre necessariamente em todos os continentes ao mesmo tempo",
+      "C": "surge apenas uma vez na história",
+      "D": "se mantém habitualmente numa região ou população"
+    },
+    "correct_answer": "D",
+    "explanation": "Endemia descreve a presença habitual de uma doença numa área; não significa necessariamente baixa gravidade."
+  },
+  {
+    "id": "BI140",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Médio",
+    "question": "O glicogénio é uma forma de reserva de glicose encontrada principalmente…",
+    "options": {
+      "A": "nos cromossomas humanos",
+      "B": "nas paredes celulares das plantas",
+      "C": "no fígado e nos músculos",
+      "D": "na hemoglobina"
+    },
+    "correct_answer": "C",
+    "explanation": "O fígado ajuda a manter a glicemia e os músculos utilizam glicogénio como reserva energética local."
+  },
+  {
+    "id": "BI141",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "O retículo endoplasmático rugoso distingue-se por apresentar…",
+    "options": {
+      "A": "clorofila no seu interior",
+      "B": "ribossomas associados à sua superfície",
+      "C": "DNA como único componente",
+      "D": "paredes de celulose"
+    },
+    "correct_answer": "B",
+    "explanation": "Os ribossomas associados ao retículo rugoso participam na síntese de proteínas destinadas à secreção, membranas ou organelos."
+  },
+  {
+    "id": "BI142",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Fácil",
+    "question": "O habitat de uma espécie é…",
+    "options": {
+      "A": "o local onde vive e encontra condições para sobreviver",
+      "B": "o seu código genético completo",
+      "C": "o conjunto de todos os seus órgãos",
+      "D": "o nível de energia do Sol"
+    },
+    "correct_answer": "A",
+    "explanation": "Habitat é o ambiente ou local ocupado por uma espécie; nicho ecológico descreve o seu papel e modo de vida."
+  },
+  {
+    "id": "BI143",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "A camada de ozono estratosférica protege os seres vivos sobretudo ao absorver…",
+    "options": {
+      "A": "toda a radiação infravermelha",
+      "B": "ondas sonoras",
+      "C": "toda a luz visível",
+      "D": "parte da radiação ultravioleta"
+    },
+    "correct_answer": "D",
+    "explanation": "O ozono estratosférico absorve grande parte da radiação UV biologicamente nociva."
+  },
+  {
+    "id": "BI144",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Se um progenitor é aa e o outro é AA, qual será o genótipo de toda a descendência F1, no modelo mendeliano simples?",
+    "options": {
+      "A": "Todos aa",
+      "B": "Todos AA",
+      "C": "Todos Aa",
+      "D": "Metade AA e metade aa"
+    },
+    "correct_answer": "C",
+    "explanation": "O progenitor AA só produz gâmetas A e o progenitor aa só produz gâmetas a; por isso, todos os descendentes serão Aa."
+  },
+  {
+    "id": "BI145",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "Qual parte do sistema nervoso central inclui o encéfalo e a medula espinal?",
+    "options": {
+      "A": "Sistema nervoso periférico",
+      "B": "Sistema nervoso central",
+      "C": "Sistema linfático",
+      "D": "Sistema endócrino apenas"
+    },
+    "correct_answer": "B",
+    "explanation": "O sistema nervoso central integra informação e coordena respostas do organismo."
+  },
+  {
+    "id": "BI146",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Médio",
+    "question": "A testosterona é produzida principalmente, no homem adulto, pelas…",
+    "options": {
+      "A": "células de Leydig dos testículos",
+      "B": "células dos alvéolos pulmonares",
+      "C": "plaquetas",
+      "D": "células da vesícula biliar"
+    },
+    "correct_answer": "A",
+    "explanation": "As células de Leydig testiculares produzem testosterona em resposta à estimulação hormonal."
+  },
+  {
+    "id": "BI147",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Médio",
+    "question": "A cólera é geralmente transmitida pela ingestão de água ou alimentos contaminados com…",
+    "options": {
+      "A": "fungos que causam pé de atleta",
+      "B": "Plasmodium vivax",
+      "C": "vírus da raiva",
+      "D": "Vibrio cholerae"
+    },
+    "correct_answer": "D",
+    "explanation": "A cólera é uma infeção intestinal causada pela bactéria Vibrio cholerae e associada a água e saneamento inseguros."
+  },
+  {
+    "id": "BI148",
+    "subject": "Biologia",
+    "topic": "Nutrição e metabolismo",
+    "difficulty": "Fácil",
+    "question": "A fibra alimentar pode ajudar a…",
+    "options": {
+      "A": "fornecer oxigénio ao sangue",
+      "B": "substituir todas as proteínas",
+      "C": "regular o trânsito intestinal",
+      "D": "produzir hormonas tiroideias diretamente"
+    },
+    "correct_answer": "C",
+    "explanation": "A fibra contribui para o funcionamento intestinal e alguns tipos também influenciam a microbiota e o metabolismo."
+  },
+  {
+    "id": "BI149",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "O complexo de Golgi participa sobretudo…",
+    "options": {
+      "A": "na duplicação dos cromossomas",
+      "B": "na modificação, triagem e distribuição de proteínas e lípidos",
+      "C": "na produção de urina",
+      "D": "na condução de impulsos nervosos"
+    },
+    "correct_answer": "B",
+    "explanation": "O complexo de Golgi processa e encaminha moléculas em vesículas para os seus destinos celulares."
+  },
+  {
+    "id": "BI150",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "O nicho ecológico descreve principalmente…",
+    "options": {
+      "A": "o papel da espécie e a forma como utiliza recursos e interage",
+      "B": "apenas a cor do organismo",
+      "C": "somente o tamanho do habitat",
+      "D": "o número de cromossomas de cada indivíduo"
+    },
+    "correct_answer": "A",
+    "explanation": "O nicho inclui recursos utilizados, condições toleradas e interações ecológicas da espécie."
+  },
+  {
+    "id": "BI151",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Difícil",
+    "question": "A acidificação dos oceanos está relacionada com a absorção de…",
+    "options": {
+      "A": "dióxido de carbono atmosférico",
+      "B": "oxigénio convertido em ferro",
+      "C": "azoto transformado em sal",
+      "D": "hélio produzido por algas"
+    },
+    "correct_answer": "A",
+    "explanation": "O CO₂ dissolvido altera a química da água do mar e reduz o pH, dificultando a formação de estruturas calcárias para alguns organismos."
+  },
+  {
+    "id": "BI152",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Num cruzamento Aa × aa, a proporção genotípica esperada é…",
+    "options": {
+      "A": "1 AA : 1 aa",
+      "B": "3 Aa : 1 AA",
+      "C": "todos AA",
+      "D": "1 Aa : 1 aa"
+    },
+    "correct_answer": "D",
+    "explanation": "O progenitor Aa produz gâmetas A e a; o progenitor aa produz apenas gâmetas a, originando metade Aa e metade aa."
+  },
+  {
+    "id": "BI153",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "A unidade estrutural e funcional do sistema nervoso é o…",
+    "options": {
+      "A": "hepatócito",
+      "B": "eritrócito",
+      "C": "neurónio",
+      "D": "osteócito"
+    },
+    "correct_answer": "C",
+    "explanation": "Os neurónios recebem e transmitem sinais; células da glia também são essenciais ao sistema nervoso."
+  },
+  {
+    "id": "BI154",
+    "subject": "Biologia",
+    "topic": "Reprodução e desenvolvimento",
+    "difficulty": "Fácil",
+    "question": "Os ovários produzem…",
+    "options": {
+      "A": "urina e ureia",
+      "B": "ovócitos e hormonas sexuais, como estrogénios e progesterona",
+      "C": "bílis e enzimas pancreáticas",
+      "D": "hemoglobina e plaquetas"
+    },
+    "correct_answer": "B",
+    "explanation": "Os ovários têm função reprodutiva e endócrina, participando no ciclo menstrual e na reprodução."
+  },
+  {
+    "id": "BI155",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Fácil",
+    "question": "A candidíase é causada por um organismo do grupo dos…",
+    "options": {
+      "A": "fungos",
+      "B": "vírus",
+      "C": "helmintas exclusivamente",
+      "D": "protozoários causadores de malária"
+    },
+    "correct_answer": "A",
+    "explanation": "Candida é um género de fungos que pode causar infeções quando há condições favoráveis."
+  },
+  {
+    "id": "BI156",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "Uma célula procariótica caracteriza-se por…",
+    "options": {
+      "A": "ser necessariamente pluricelular",
+      "B": "ter sempre mitocôndrias",
+      "C": "possuir vários núcleos membranosos",
+      "D": "não possuir núcleo delimitado por membrana"
+    },
+    "correct_answer": "D",
+    "explanation": "Bactérias e arqueias são procariontes; o seu DNA não está encerrado num núcleo membranoso."
+  },
+  {
+    "id": "BI157",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "A competição ocorre quando organismos…",
+    "options": {
+      "A": "não partilham qualquer recurso",
+      "B": "beneficiam sempre ambos sem custo",
+      "C": "utilizam recursos limitados em comum",
+      "D": "produzem energia a partir do nada"
+    },
+    "correct_answer": "C",
+    "explanation": "A competição pode ocorrer entre indivíduos da mesma espécie ou de espécies diferentes quando disputam recursos limitados."
+  },
+  {
+    "id": "BI158",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Fácil",
+    "question": "A compostagem transforma resíduos orgânicos em…",
+    "options": {
+      "A": "plástico sintético",
+      "B": "material estabilizado que pode melhorar o solo",
+      "C": "combustível nuclear",
+      "D": "metais puros"
+    },
+    "correct_answer": "B",
+    "explanation": "Microrganismos decompõem restos orgânicos e produzem composto que pode enriquecer o solo quando bem preparado."
+  },
+  {
+    "id": "BI159",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "A lei da segregação de Mendel afirma que…",
+    "options": {
+      "A": "segregação dos alelos",
+      "B": "conservação da energia",
+      "C": "seleção natural exclusivamente",
+      "D": "biogénese celular"
+    },
+    "correct_answer": "A",
+    "explanation": "Os dois alelos de um gene segregam-se durante a formação dos gâmetas, que recebem um alelo cada."
+  },
+  {
+    "id": "BI160",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "As hormonas são mensageiros químicos produzidos principalmente por…",
+    "options": {
+      "A": "unicamente bactérias intestinais",
+      "B": "ossos sem atividade celular",
+      "C": "apenas glóbulos vermelhos",
+      "D": "glândulas e células endócrinas"
+    },
+    "correct_answer": "D",
+    "explanation": "As hormonas são libertadas por células endócrinas e regulam funções em células-alvo."
+  },
+  {
+    "id": "BI161",
+    "subject": "Biologia",
+    "topic": "Microbiologia e saúde",
+    "difficulty": "Médio",
+    "question": "Uma vacina pode conter antigénios ou instruções para produzir um antigénio com o objetivo de…",
+    "options": {
+      "A": "eliminar a necessidade de memória imunitária",
+      "B": "causar sempre a doença grave que pretende prevenir",
+      "C": "desencadear uma resposta imunitária protetora",
+      "D": "substituir os cromossomas das células"
+    },
+    "correct_answer": "C",
+    "explanation": "A vacinação apresenta ao sistema imunitário um alvo seguro ou controlado para promover memória e proteção."
+  },
+  {
+    "id": "BI162",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "A parede celular das plantas é composta principalmente por…",
+    "options": {
+      "A": "hemoglobina",
+      "B": "celulose",
+      "C": "glicogénio",
+      "D": "queratina"
+    },
+    "correct_answer": "B",
+    "explanation": "A celulose fornece suporte mecânico à parede celular vegetal."
+  },
+  {
+    "id": "BI163",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Difícil",
+    "question": "O aumento da concentração de um poluente ao longo dos níveis tróficos chama-se…",
+    "options": {
+      "A": "biomagnificação",
+      "B": "polinização",
+      "C": "transpiração",
+      "D": "fermentação"
+    },
+    "correct_answer": "A",
+    "explanation": "Alguns poluentes persistentes acumulam-se em concentrações crescentes nos níveis tróficos superiores."
+  },
+  {
+    "id": "BI164",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Fácil",
+    "question": "Qual é uma fonte de energia renovável?",
+    "options": {
+      "A": "Gás natural fóssil",
+      "B": "Carvão mineral",
+      "C": "Petróleo",
+      "D": "Energia solar"
+    },
+    "correct_answer": "D",
+    "explanation": "A energia solar é renovável à escala humana, ao contrário dos combustíveis fósseis."
+  },
+  {
+    "id": "BI165",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "Uma mutação é…",
+    "options": {
+      "A": "a divisão normal do citoplasma",
+      "B": "qualquer mudança de comportamento aprendida",
+      "C": "uma alteração na sequência do material genético",
+      "D": "a digestão de uma proteína"
+    },
+    "correct_answer": "C",
+    "explanation": "Mutações podem ocorrer espontaneamente ou por agentes mutagénicos e os seus efeitos variam."
+  },
+  {
+    "id": "BI166",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "Qual hormona reduz a concentração de glicose no sangue?",
+    "options": {
+      "A": "Glucagina",
+      "B": "Insulina",
+      "C": "Adrenalina em todas as circunstâncias",
+      "D": "Melatonina"
+    },
+    "correct_answer": "B",
+    "explanation": "A insulina favorece a captação e o armazenamento de glicose, reduzindo a glicemia."
+  },
+  {
+    "id": "BI167",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "O DNA é importante porque…",
+    "options": {
+      "A": "armazena informação genética hereditária",
+      "B": "é o principal pigmento da fotossíntese",
+      "C": "transporta oxigénio no sangue",
+      "D": "decompõe diretamente todos os alimentos"
+    },
+    "correct_answer": "A",
+    "explanation": "A sequência de nucleótidos do DNA contém informação usada no desenvolvimento e funcionamento dos organismos."
+  },
+  {
+    "id": "BI168",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Fácil",
+    "question": "Uma área protegida pode ajudar a…",
+    "options": {
+      "A": "impedir a reprodução dos organismos",
+      "B": "garantir que nenhuma espécie se extinguirá em qualquer circunstância",
+      "C": "eliminar todos os processos naturais",
+      "D": "conservar habitats e espécies"
+    },
+    "correct_answer": "D",
+    "explanation": "Áreas protegidas reduzem certas pressões humanas e apoiam a conservação, embora necessitem de gestão eficaz."
+  },
+  {
+    "id": "BI169",
+    "subject": "Biologia",
+    "topic": "Ecologia e ambiente",
+    "difficulty": "Médio",
+    "question": "A desertificação corresponde à degradação da terra em zonas secas, associada a…",
+    "options": {
+      "A": "à multiplicação de corais",
+      "B": "apenas à formação de novas florestas",
+      "C": "fatores climáticos e atividades humanas",
+      "D": "à ausência de qualquer erosão"
+    },
+    "correct_answer": "C",
+    "explanation": "A desertificação envolve perda de produtividade e degradação do solo em regiões áridas, semiáridas e sub-húmidas secas."
+  },
+  {
+    "id": "BI170",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Qual molécula transporta aminoácidos até ao ribossoma durante a tradução?",
+    "options": {
+      "A": "DNA polimerase",
+      "B": "RNA de transferência (RNA-t)",
+      "C": "RNA ribossómico apenas como transportador de aminoácidos",
+      "D": "glicogénio"
+    },
+    "correct_answer": "B",
+    "explanation": "O RNA-t reconhece codões através do anticodão e transporta o aminoácido correspondente."
+  },
+  {
+    "id": "BI171",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "Os glóbulos brancos participam principalmente…",
+    "options": {
+      "A": "na defesa do organismo contra agentes infecciosos",
+      "B": "no transporte principal de oxigénio",
+      "C": "na formação da urina",
+      "D": "na produção de bílis"
+    },
+    "correct_answer": "A",
+    "explanation": "Leucócitos integram a resposta imunitária inata e adaptativa."
+  },
+  {
+    "id": "BI172",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "A transcrição consiste na síntese de…",
+    "options": {
+      "A": "ATP a partir de cromossomas",
+      "B": "DNA a partir de proteínas",
+      "C": "lípidos a partir de água",
+      "D": "RNA a partir de uma sequência de DNA"
+    },
+    "correct_answer": "D",
+    "explanation": "Na transcrição, a informação de um segmento de DNA é copiada para RNA."
+  },
+  {
+    "id": "BI173",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "Em humanos, a maioria das células somáticas normais possui…",
+    "options": {
+      "A": "44 pares de cromossomas",
+      "B": "23 cromossomas",
+      "C": "46 cromossomas",
+      "D": "92 cromossomas em todas as fases do ciclo celular"
+    },
+    "correct_answer": "C",
+    "explanation": "As células somáticas humanas normalmente têm 23 pares, totalizando 46 cromossomas; os gâmetas têm 23."
+  },
+  {
+    "id": "BI174",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "As plaquetas são importantes para…",
+    "options": {
+      "A": "a produção de impulsos nervosos",
+      "B": "a coagulação do sangue",
+      "C": "a digestão de gorduras no intestino",
+      "D": "a troca gasosa nos alvéolos"
+    },
+    "correct_answer": "B",
+    "explanation": "As plaquetas aderem ao local da lesão e participam na formação do tampão hemostático."
+  },
+  {
+    "id": "BI175",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "A tradução genética ocorre quando a célula…",
+    "options": {
+      "A": "usa a informação do RNA mensageiro para sintetizar uma proteína",
+      "B": "copia DNA para DNA",
+      "C": "divide o citoplasma sem dividir o núcleo",
+      "D": "transforma glicose em oxigénio"
+    },
+    "correct_answer": "A",
+    "explanation": "Na tradução, os ribossomas leem codões do RNA mensageiro e juntam aminoácidos."
+  },
+  {
+    "id": "BI176",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "Os gâmetas humanos são normalmente…",
+    "options": {
+      "A": "sem cromossomas",
+      "B": "diploides, com 46 cromossomas",
+      "C": "tetraploides, com 92 cromossomas",
+      "D": "haploides, com 23 cromossomas"
+    },
+    "correct_answer": "D",
+    "explanation": "A meiose produz gâmetas haploides; na fecundação, os conjuntos cromossómicos combinam-se."
+  },
+  {
+    "id": "BI177",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A vacinação protege principalmente porque…",
+    "options": {
+      "A": "mata todos os microrganismos do ambiente",
+      "B": "substitui permanentemente todos os leucócitos",
+      "C": "estimula a memória do sistema imunitário contra um agente ou antigénio",
+      "D": "impede qualquer doença em todas as circunstâncias"
+    },
+    "correct_answer": "C",
+    "explanation": "Vacinas treinam o sistema imunitário para responder mais rapidamente a determinados agentes; a proteção não é absoluta para todas as doenças."
+  },
+  {
+    "id": "BI178",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "A principal função da clorofila é…",
+    "options": {
+      "A": "transportar oxigénio no sangue",
+      "B": "absorver energia luminosa para a fotossíntese",
+      "C": "digerir proteínas no estômago",
+      "D": "armazenar cálcio nos ossos"
+    },
+    "correct_answer": "B",
+    "explanation": "A clorofila absorve luz, cuja energia é convertida em energia química durante a fotossíntese."
+  },
+  {
+    "id": "BI179",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Difícil",
+    "question": "O sistema ABO dos grupos sanguíneos humanos é um exemplo clássico de…",
+    "options": {
+      "A": "alelos múltiplos e codominância entre IA e IB",
+      "B": "herança exclusivamente ligada ao Y",
+      "C": "ausência de genes",
+      "D": "dominância completa de O sobre A e B"
+    },
+    "correct_answer": "A",
+    "explanation": "Os alelos IA e IB são codominantes entre si, enquanto i é recessivo em relação a ambos."
+  },
+  {
+    "id": "BI180",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A função principal dos osteoblastos é…",
+    "options": {
+      "A": "conduzir impulsos nervosos",
+      "B": "destruir glóbulos vermelhos",
+      "C": "produzir bílis",
+      "D": "formar tecido ósseo"
+    },
+    "correct_answer": "D",
+    "explanation": "Os osteoblastos sintetizam a matriz óssea; os osteoclastos participam na reabsorção óssea."
+  },
+  {
+    "id": "BI181",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Fácil",
+    "question": "Durante a respiração celular, a energia química dos nutrientes é utilizada para produzir…",
+    "options": {
+      "A": "anticorpos em todas as células",
+      "B": "celulose exclusivamente",
+      "C": "ATP",
+      "D": "clorofila"
+    },
+    "correct_answer": "C",
+    "explanation": "O ATP é a principal moeda energética utilizada em muitos processos celulares."
+  },
+  {
+    "id": "BI182",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Na herança ligada ao X, um homem típico possui…",
+    "options": {
+      "A": "dois cromossomas X e nenhum Y",
+      "B": "um cromossoma X e um cromossoma Y",
+      "C": "dois cromossomas Y",
+      "D": "apenas um autossoma"
+    },
+    "correct_answer": "B",
+    "explanation": "O cariótipo masculino típico é 46,XY, embora existam variações cromossómicas naturais."
+  },
+  {
+    "id": "BI183",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "Qual tipo de músculo é, em geral, voluntário e ligado aos ossos?",
+    "options": {
+      "A": "Músculo esquelético",
+      "B": "Músculo liso",
+      "C": "Músculo cardíaco",
+      "D": "Tecido epitelial"
+    },
+    "correct_answer": "A",
+    "explanation": "O músculo esquelético permite movimentos voluntários, embora também participe em reflexos e manutenção da postura."
+  },
+  {
+    "id": "BI184",
+    "subject": "Biologia",
+    "topic": "Biologia celular",
+    "difficulty": "Médio",
+    "question": "A fermentação permite obter energia…",
+    "options": {
+      "A": "pela transformação de ATP em DNA",
+      "B": "apenas na presença de muito oxigénio",
+      "C": "somente dentro do núcleo",
+      "D": "sem utilizar uma cadeia respiratória aeróbia"
+    },
+    "correct_answer": "D",
+    "explanation": "A fermentação regenera moléculas necessárias à glicólise e permite obter uma quantidade limitada de ATP sem respiração aeróbia."
+  },
+  {
+    "id": "BI185",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "A seleção natural tende a favorecer características hereditárias que…",
+    "options": {
+      "A": "são escolhidas conscientemente pelos organismos",
+      "B": "são sempre maiores em tamanho",
+      "C": "aumentam o sucesso reprodutivo num determinado ambiente",
+      "D": "não podem ser transmitidas à descendência"
+    },
+    "correct_answer": "C",
+    "explanation": "A seleção natural altera frequências de características hereditárias conforme os seus efeitos na sobrevivência e reprodução."
+  },
+  {
+    "id": "BI186",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A fecundação humana ocorre normalmente…",
+    "options": {
+      "A": "no colo do útero",
+      "B": "na ampola da trompa uterina",
+      "C": "na bexiga urinária",
+      "D": "no interior do ovário em todas as situações"
+    },
+    "correct_answer": "B",
+    "explanation": "Em condições habituais, o encontro entre espermatozoide e ovócito ocorre na ampola da trompa uterina."
+  },
+  {
+    "id": "BI187",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "O fenótipo corresponde…",
+    "options": {
+      "A": "às características observáveis resultantes de genes e ambiente",
+      "B": "apenas aos alelos que não são expressos",
+      "C": "ao número de órgãos de uma célula",
+      "D": "a uma sequência de aminoácidos sempre isolada"
+    },
+    "correct_answer": "A",
+    "explanation": "O fenótipo resulta da interação entre genótipo e ambiente, dependendo da característica considerada."
+  },
+  {
+    "id": "BI188",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Fácil",
+    "question": "Qual órgão produz a bílis?",
+    "options": {
+      "A": "Baço",
+      "B": "Pâncreas",
+      "C": "Rim",
+      "D": "Fígado"
+    },
+    "correct_answer": "D",
+    "explanation": "O fígado produz a bílis, que é armazenada e concentrada na vesícula biliar antes de ser libertada no intestino."
+  },
+  {
+    "id": "BI189",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "O genótipo de um indivíduo refere-se…",
+    "options": {
+      "A": "ao clima do local onde vive",
+      "B": "somente ao seu comportamento aprendido",
+      "C": "à constituição genética relevante para uma ou mais características",
+      "D": "à totalidade dos seus órgãos"
+    },
+    "correct_answer": "C",
+    "explanation": "Genótipo descreve a constituição genética; pode referir-se a um gene ou ao conjunto genético do indivíduo."
+  },
+  {
+    "id": "BI190",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A medula óssea vermelha participa na…",
+    "options": {
+      "A": "produção de suco gástrico",
+      "B": "produção de células sanguíneas",
+      "C": "filtração do ar inspirado",
+      "D": "formação da bílis"
+    },
+    "correct_answer": "B",
+    "explanation": "A hematopoiese ocorre na medula óssea vermelha, produzindo glóbulos vermelhos, muitos leucócitos e plaquetas."
+  },
+  {
+    "id": "BI191",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Fácil",
+    "question": "Um quadro de Punnett é usado para…",
+    "options": {
+      "A": "prever combinações genotípicas possíveis num cruzamento",
+      "B": "medir a pressão arterial",
+      "C": "observar organelos sem microscópio",
+      "D": "determinar diretamente a idade de um fóssil"
+    },
+    "correct_answer": "A",
+    "explanation": "O quadro organiza os gâmetas parentais e ajuda a calcular probabilidades genéticas esperadas."
+  },
+  {
+    "id": "BI192",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "O cerebelo participa sobretudo na coordenação dos movimentos e…",
+    "options": {
+      "A": "digestão das gorduras",
+      "B": "produção de insulina",
+      "C": "filtração da urina",
+      "D": "no equilíbrio e na postura"
+    },
+    "correct_answer": "D",
+    "explanation": "O cerebelo integra informação sensorial e motora, ajudando a coordenar movimentos e equilíbrio."
+  },
+  {
+    "id": "BI193",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Se uma característica recessiva autossómica aparece numa criança e ambos os pais são não afetados, uma possibilidade é que…",
+    "options": {
+      "A": "a característica não envolva genes",
+      "B": "ambos tenham obrigatoriamente genótipo aa",
+      "C": "ambos os pais sejam heterozigóticos portadores",
+      "D": "a criança não tenha herdado DNA dos pais"
+    },
+    "correct_answer": "C",
+    "explanation": "No modelo recessivo simples, dois progenitores Aa podem ter um filho aa, mesmo sem apresentarem o fenótipo recessivo."
+  },
+  {
+    "id": "BI194",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A válvula cardíaca impede principalmente…",
+    "options": {
+      "A": "a circulação do sangue nos capilares",
+      "B": "o refluxo do sangue entre cavidades ou vasos ligados ao coração",
+      "C": "a entrada de oxigénio nos pulmões",
+      "D": "a produção de glóbulos vermelhos"
+    },
+    "correct_answer": "B",
+    "explanation": "As válvulas cardíacas asseguram que o sangue flua na direção adequada através do coração."
+  },
+  {
+    "id": "BI195",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Difícil",
+    "question": "O crossing-over ocorre tipicamente durante…",
+    "options": {
+      "A": "a prófase I da meiose",
+      "B": "a tradução nos ribossomas",
+      "C": "a digestão no estômago",
+      "D": "a fase final da mitose exclusivamente"
+    },
+    "correct_answer": "A",
+    "explanation": "Na prófase I, cromossomas homólogos podem trocar segmentos, gerando novas combinações de alelos."
+  },
+  {
+    "id": "BI196",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "O sistema linfático ajuda a…",
+    "options": {
+      "A": "formar o esmalte dentário",
+      "B": "produzir a maior parte da bílis",
+      "C": "realizar a ventilação pulmonar",
+      "D": "devolver líquido intersticial à circulação e participar na defesa imunitária"
+    },
+    "correct_answer": "D",
+    "explanation": "Os vasos linfáticos drenam líquido dos tecidos e os órgãos linfoides participam na resposta imunitária."
+  },
+  {
+    "id": "BI197",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "A síndrome de Down está geralmente associada a…",
+    "options": {
+      "A": "uma cópia extra de todos os cromossomas em todas as células",
+      "B": "ausência de todos os cromossomas sexuais",
+      "C": "uma cópia extra do cromossoma 21",
+      "D": "falta completa de DNA mitocondrial"
+    },
+    "correct_answer": "C",
+    "explanation": "A forma mais comum é a trissomia 21, embora existam outras formas menos frequentes."
+  },
+  {
+    "id": "BI198",
+    "subject": "Biologia",
+    "topic": "Anatomia e fisiologia humana",
+    "difficulty": "Médio",
+    "question": "A insulina é libertada quando a glicemia aumenta, ajudando a…",
+    "options": {
+      "A": "aumentar sempre a glicemia",
+      "B": "diminuir a concentração de glicose no sangue",
+      "C": "impedir a entrada de glicose em todas as células",
+      "D": "transformar oxigénio em glicose"
+    },
+    "correct_answer": "B",
+    "explanation": "A insulina favorece a utilização e o armazenamento de glicose por tecidos sensíveis à hormona."
+  },
+  {
+    "id": "BI199",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "O RNA difere do DNA por conter normalmente…",
+    "options": {
+      "A": "ribose e uracilo",
+      "B": "desoxirribose e timina em todas as moléculas",
+      "C": "celulose e glicogénio",
+      "D": "aminoácidos em vez de nucleótidos"
+    },
+    "correct_answer": "A",
+    "explanation": "O RNA contém ribose e geralmente uracilo, enquanto o DNA contém desoxirribose e timina."
+  },
+  {
+    "id": "BI200",
+    "subject": "Biologia",
+    "topic": "Genética",
+    "difficulty": "Difícil",
+    "question": "A replicação do DNA é chamada semiconservativa porque…",
+    "options": {
+      "A": "o DNA é convertido em proteína",
+      "B": "as duas cadeias antigas são sempre descartadas sem cópia",
+      "C": "só metade dos genes é copiada ao acaso",
+      "D": "cada molécula nova contém uma cadeia antiga e uma cadeia recém-sintetizada"
+    },
+    "correct_answer": "D",
+    "explanation": "Cada cadeia original serve de molde para uma nova cadeia complementar."
+  }
+]
