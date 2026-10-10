@@ -2,6 +2,8 @@ const express = require("express");
 const app = express();
 const { carregarBancoBiologia } = require("./bioia_biologia_loader");
 const { carregarBancoPortugues } = require("./bioia_portugues_loader");
+const { carregarBancoFisica } = require("./bioia_fisica_loader");
+const { carregarBancoQuimica } = require("./bioia_quimica_loader");
 
 app.use(express.json());
 
@@ -14,86 +16,11 @@ const sessoes = {};
 
   const bancos = {
   portugues: carregarBancoPortugues(),
-    
-  fisica: [
-    {
-      tema: "Trabalho e energia",
-      pergunta: "Uma força de 20 N desloca um corpo 3 m na mesma direção. Qual é o trabalho realizado?",
-      opcoes: [
-        { id: "a", texto: "6 J" },
-        { id: "b", texto: "23 J" },
-        { id: "c", texto: "60 J" },
-        { id: "d", texto: "0 J" }
-      ],
-      correta: "c",
-      explicacao: "W = F × d. Logo, W = 20 × 3 = 60 J."
-    },
-    {
-      tema: "Dinâmica",
-      pergunta: "Uma força resultante de 12 N atua sobre uma massa de 3 kg. Qual é a aceleração?",
-      opcoes: [
-        { id: "a", texto: "36 m/s²" },
-        { id: "b", texto: "4 m/s²" },
-        { id: "c", texto: "9 m/s²" },
-        { id: "d", texto: "0,25 m/s²" }
-      ],
-      correta: "b",
-      explicacao: "Pela segunda lei de Newton, a = F/m = 12/3 = 4 m/s²."
-    },
-    {
-      tema: "Ondas",
-      pergunta: "Uma onda tem frequência de 50 Hz e comprimento de onda de 4 m. Qual é a velocidade?",
-      opcoes: [
-        { id: "a", texto: "12,5 m/s" },
-        { id: "b", texto: "46 m/s" },
-        { id: "c", texto: "200 m/s" },
-        { id: "d", texto: "54 m/s" }
-      ],
-      correta: "c",
-      explicacao: "v = f × λ = 50 × 4 = 200 m/s."
-    }
-  ],
-
-  quimica: [
-    {
-      tema: "Estrutura atómica",
-      pergunta: "Um átomo neutro tem número atómico 17 e número de massa 35. Quantos neutrões possui?",
-      opcoes: [
-        { id: "a", texto: "17" },
-        { id: "b", texto: "35" },
-        { id: "c", texto: "52" },
-        { id: "d", texto: "18" }
-      ],
-      correta: "d",
-      explicacao: "Neutrões = número de massa − número atómico = 35 − 17 = 18."
-    },
-    {
-      tema: "Estequiometria",
-      pergunta: "Na reação 2H₂ + O₂ → 2H₂O, quantos mols de água se formam com 4 mol de H₂ e O₂ em excesso?",
-      opcoes: [
-        { id: "a", texto: "2 mol" },
-        { id: "b", texto: "4 mol" },
-        { id: "c", texto: "6 mol" },
-        { id: "d", texto: "8 mol" }
-      ],
-      correta: "b",
-      explicacao: "A proporção entre H₂ e H₂O é 2:2, ou seja, 1:1. Formam-se 4 mol de água."
-    },
-    {
-      tema: "Ácidos e bases",
-      pergunta: "A 25 °C, uma solução tem pH = 3. Qual é a concentração aproximada de H₃O⁺?",
-      opcoes: [
-        { id: "a", texto: "10⁻³ mol/L" },
-        { id: "b", texto: "10³ mol/L" },
-        { id: "c", texto: "3 mol/L" },
-        { id: "d", texto: "10⁻¹¹ mol/L" }
-      ],
-      correta: "a",
-      explicacao: "Como pH = −log[H₃O⁺], a concentração é 10⁻³ mol/L."
-    }
-  ],
-    biologia: carregarBancoBiologia()
+  fisica: carregarBancoFisica(),
+  quimica: carregarBancoQuimica(),
+  biologia: carregarBancoBiologia()
 };
+
 const nomes = {
   portugues: "Língua Portuguesa",
   fisica: "Física",
