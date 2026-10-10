@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "QI001",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Fácil",
+    "question": "Qual é a partícula subatómica que possui carga eléctrica negativa?",
+    "options": {
+      "A": "Protão",
+      "B": "Neutrão",
+      "C": "Electrão",
+      "D": "Núcleo"
+    },
+    "correct_answer": "C",
+    "explanation": "O electrão tem carga negativa; o protão tem carga positiva e o neutrão não tem carga."
+  },
+  {
+    "id": "QI002",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Fácil",
+    "question": "O número atómico (Z) de um elemento corresponde ao número de:",
+    "options": {
+      "A": "Neutrões no núcleo",
+      "B": "Protões no núcleo",
+      "C": "Protões mais neutrões",
+      "D": "Electrões mais neutrões"
+    },
+    "correct_answer": "B",
+    "explanation": "O número atómico é definido pelo número de protões existentes no núcleo."
+  },
+  {
+    "id": "QI003",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Um átomo neutro tem número atómico 12. Quantos electrões possui?",
+    "options": {
+      "A": "6",
+      "B": "10",
+      "C": "12",
+      "D": "24"
+    },
+    "correct_answer": "C",
+    "explanation": "Num átomo neutro, o número de electrões é igual ao número de protões, portanto é 12."
+  },
+  {
+    "id": "QI004",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Um átomo tem 17 protões e 18 neutrões. Qual é o seu número de massa (A)?",
+    "options": {
+      "A": "17",
+      "B": "18",
+      "C": "35",
+      "D": "36"
+    },
+    "correct_answer": "C",
+    "explanation": "O número de massa é A = protões + neutrões = 17 + 18 = 35."
+  },
+  {
+    "id": "QI005",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Dois átomos são isótopos quando têm:",
+    "options": {
+      "A": "O mesmo número de neutrões e números atómicos diferentes",
+      "B": "O mesmo número de protões e números de neutrões diferentes",
+      "C": "O mesmo número de massa e protões diferentes",
+      "D": "O mesmo número de electrões e protões diferentes"
+    },
+    "correct_answer": "B",
+    "explanation": "Isótopos são átomos do mesmo elemento: têm igual número de protões e diferente número de neutrões."
+  },
+  {
+    "id": "QI006",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Fácil",
+    "question": "Os elementos de um mesmo grupo da tabela periódica apresentam, em geral:",
+    "options": {
+      "A": "Propriedades químicas semelhantes",
+      "B": "O mesmo número de massa",
+      "C": "O mesmo número de neutrões",
+      "D": "O mesmo estado físico em todas as condições"
+    },
+    "correct_answer": "A",
+    "explanation": "Os elementos do mesmo grupo têm configurações electrónicas de valência semelhantes, o que explica propriedades químicas parecidas."
+  },
+  {
+    "id": "QI007",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Fácil",
+    "question": "Qual destes elementos é um gás nobre?",
+    "options": {
+      "A": "Sódio (Na)",
+      "B": "Cloro (Cl)",
+      "C": "Neónio (Ne)",
+      "D": "Magnésio (Mg)"
+    },
+    "correct_answer": "C",
+    "explanation": "O neónio pertence ao grupo 18, constituído pelos gases nobres."
+  },
+  {
+    "id": "QI008",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Ao longo de um período, da esquerda para a direita, o raio atómico tende geralmente a:",
+    "options": {
+      "A": "Aumentar",
+      "B": "Diminuir",
+      "C": "Permanecer sempre igual",
+      "D": "Tornar-se infinito"
+    },
+    "correct_answer": "B",
+    "explanation": "Em geral, a carga nuclear efectiva aumenta ao longo do período, atraindo os electrões para mais perto do núcleo."
+  },
+  {
+    "id": "QI009",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Qual destes elementos é um metal alcalino?",
+    "options": {
+      "A": "Potássio (K)",
+      "B": "Cálcio (Ca)",
+      "C": "Alumínio (Al)",
+      "D": "Argónio (Ar)"
+    },
+    "correct_answer": "A",
+    "explanation": "O potássio pertence ao grupo 1, o grupo dos metais alcalinos."
+  },
+  {
+    "id": "QI010",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Fácil",
+    "question": "Numa ligação iónica, ocorre tipicamente:",
+    "options": {
+      "A": "Partilha igual de electrões entre átomos",
+      "B": "Transferência de electrões e atracção entre iões",
+      "C": "Partilha de protões",
+      "D": "Desaparecimento dos electrões"
+    },
+    "correct_answer": "B",
+    "explanation": "A ligação iónica forma-se, em geral, pela transferência de electrões, originando iões de cargas opostas que se atraem."
+  },
+  {
+    "id": "QI011",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "Que tipo de ligação predomina na molécula de água (H₂O), entre o oxigénio e o hidrogénio?",
+    "options": {
+      "A": "Iónica",
+      "B": "Metálica",
+      "C": "Covalente",
+      "D": "Nuclear"
+    },
+    "correct_answer": "C",
+    "explanation": "Os átomos de H e O partilham pares de electrões, formando ligações covalentes polares."
+  },
+  {
+    "id": "QI012",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "Qual é a fórmula química do composto formado por iões Mg²⁺ e Cl⁻?",
+    "options": {
+      "A": "MgCl",
+      "B": "Mg₂Cl",
+      "C": "MgCl₂",
+      "D": "Mg₂Cl₂"
+    },
+    "correct_answer": "C",
+    "explanation": "É necessário um ião Mg²⁺ para equilibrar a carga de dois iões Cl⁻, resultando em MgCl₂."
+  },
+  {
+    "id": "QI013",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Fácil",
+    "question": "Qual das substâncias é um ácido segundo a definição de Arrhenius?",
+    "options": {
+      "A": "NaOH",
+      "B": "HCl",
+      "C": "CaO",
+      "D": "NaCl"
+    },
+    "correct_answer": "B",
+    "explanation": "Em água, o HCl ioniza-se e aumenta a concentração de iões H⁺ (ou H₃O⁺)."
+  },
+  {
+    "id": "QI014",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Fácil",
+    "question": "Qual das fórmulas representa uma base?",
+    "options": {
+      "A": "H₂SO₄",
+      "B": "KOH",
+      "C": "CO₂",
+      "D": "NaCl"
+    },
+    "correct_answer": "B",
+    "explanation": "O KOH é uma base de Arrhenius, pois em água liberta iões OH⁻."
+  },
+  {
+    "id": "QI015",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "Qual é o nome do composto CaCO₃?",
+    "options": {
+      "A": "Cloreto de cálcio",
+      "B": "Carbonato de cálcio",
+      "C": "Óxido de cálcio",
+      "D": "Sulfato de cálcio"
+    },
+    "correct_answer": "B",
+    "explanation": "CaCO₃ é formado pelo catião cálcio e pelo anião carbonato, sendo chamado carbonato de cálcio."
+  },
+  {
+    "id": "QI016",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "Qual destes compostos é um óxido?",
+    "options": {
+      "A": "HNO₃",
+      "B": "NaOH",
+      "C": "SO₂",
+      "D": "KCl"
+    },
+    "correct_answer": "C",
+    "explanation": "SO₂ é um composto binário formado por enxofre e oxigénio, classificado como óxido."
+  },
+  {
+    "id": "QI017",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "A reacção entre um ácido e uma base produz geralmente:",
+    "options": {
+      "A": "Um sal e água",
+      "B": "Apenas oxigénio",
+      "C": "Um metal e hidrogénio sempre",
+      "D": "Dois ácidos"
+    },
+    "correct_answer": "A",
+    "explanation": "Na neutralização, um ácido reage com uma base para formar, em geral, sal e água."
+  },
+  {
+    "id": "QI018",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Fácil",
+    "question": "Numa equação química, os reagentes aparecem normalmente:",
+    "options": {
+      "A": "À direita da seta",
+      "B": "À esquerda da seta",
+      "C": "Por cima da seta apenas",
+      "D": "Depois dos produtos"
+    },
+    "correct_answer": "B",
+    "explanation": "Os reagentes são escritos à esquerda da seta e os produtos à direita."
+  },
+  {
+    "id": "QI019",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "Qual é a equação correctamente ajustada para a formação da água a partir de hidrogénio e oxigénio?",
+    "options": {
+      "A": "H₂ + O₂ → H₂O",
+      "B": "2H₂ + O₂ → 2H₂O",
+      "C": "H₂ + 2O₂ → H₂O",
+      "D": "2H₂ + 2O₂ → H₂O"
+    },
+    "correct_answer": "B",
+    "explanation": "A equação 2H₂ + O₂ → 2H₂O conserva quatro átomos de H e dois de O em ambos os lados."
+  },
+  {
+    "id": "QI020",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "A decomposição de uma substância em substâncias mais simples é classificada como reacção de:",
+    "options": {
+      "A": "Síntese",
+      "B": "Decomposição",
+      "C": "Dupla troca sempre",
+      "D": "Polimerização obrigatoriamente"
+    },
+    "correct_answer": "B",
+    "explanation": "Numa reacção de decomposição, um reagente origina dois ou mais produtos mais simples."
+  },
+  {
+    "id": "QI021",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Fácil",
+    "question": "Qual é aproximadamente a massa molar da água (H₂O)? Considere H = 1 e O = 16.",
+    "options": {
+      "A": "16 g/mol",
+      "B": "17 g/mol",
+      "C": "18 g/mol",
+      "D": "20 g/mol"
+    },
+    "correct_answer": "C",
+    "explanation": "M(H₂O) = 2 × 1 + 16 = 18 g/mol."
+  },
+  {
+    "id": "QI022",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Quantos mol existem em 36 g de água, sabendo que M(H₂O) = 18 g/mol?",
+    "options": {
+      "A": "0,5 mol",
+      "B": "1 mol",
+      "C": "2 mol",
+      "D": "18 mol"
+    },
+    "correct_answer": "C",
+    "explanation": "A quantidade de matéria é n = m/M = 36/18 = 2 mol."
+  },
+  {
+    "id": "QI023",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Qual é a massa de 0,5 mol de NaCl, sabendo que M(NaCl) = 58,5 g/mol?",
+    "options": {
+      "A": "11,7 g",
+      "B": "29,25 g",
+      "C": "58,5 g",
+      "D": "117 g"
+    },
+    "correct_answer": "B",
+    "explanation": "A massa é m = nM = 0,5 × 58,5 = 29,25 g."
+  },
+  {
+    "id": "QI024",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Um mol de qualquer substância contém aproximadamente:",
+    "options": {
+      "A": "6,02 × 10²³ entidades",
+      "B": "3,00 × 10⁸ entidades",
+      "C": "1 000 entidades",
+      "D": "9,81 entidades"
+    },
+    "correct_answer": "A",
+    "explanation": "O número de Avogadro é aproximadamente 6,02 × 10²³ entidades por mol."
+  },
+  {
+    "id": "QI025",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Médio",
+    "question": "Na reacção 2H₂ + O₂ → 2H₂O, quantos mol de água se formam a partir de 3 mol de O₂, se houver H₂ em excesso?",
+    "options": {
+      "A": "2 mol",
+      "B": "3 mol",
+      "C": "6 mol",
+      "D": "9 mol"
+    },
+    "correct_answer": "C",
+    "explanation": "A proporção é 1 mol de O₂ para 2 mol de H₂O; 3 mol de O₂ produzem 6 mol de água."
+  },
+  {
+    "id": "QI026",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Difícil",
+    "question": "Na reacção N₂ + 3H₂ → 2NH₃, quantos mol de NH₃ se podem formar a partir de 4 mol de N₂ com H₂ em excesso?",
+    "options": {
+      "A": "2 mol",
+      "B": "4 mol",
+      "C": "6 mol",
+      "D": "8 mol"
+    },
+    "correct_answer": "D",
+    "explanation": "A proporção N₂:NH₃ é 1:2; logo, 4 mol de N₂ podem formar 8 mol de NH₃."
+  },
+  {
+    "id": "QI027",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Fácil",
+    "question": "Numa solução aquosa, a água é geralmente o:",
+    "options": {
+      "A": "Soluto",
+      "B": "Solvente",
+      "C": "Precipitado",
+      "D": "Catalisador"
+    },
+    "correct_answer": "B",
+    "explanation": "O solvente é a substância que dissolve o soluto; numa solução aquosa, é a água."
+  },
+  {
+    "id": "QI028",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Dissolvem-se 10 g de sal em água até obter 2 L de solução. Qual é a concentração em massa?",
+    "options": {
+      "A": "2 g/L",
+      "B": "5 g/L",
+      "C": "10 g/L",
+      "D": "20 g/L"
+    },
+    "correct_answer": "B",
+    "explanation": "Concentração em massa = massa do soluto/volume da solução = 10/2 = 5 g/L."
+  },
+  {
+    "id": "QI029",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Qual é a molaridade de uma solução com 0,5 mol de soluto em 2 L de solução?",
+    "options": {
+      "A": "0,25 mol/L",
+      "B": "1 mol/L",
+      "C": "2,5 mol/L",
+      "D": "4 mol/L"
+    },
+    "correct_answer": "A",
+    "explanation": "A concentração molar é c = n/V = 0,5/2 = 0,25 mol/L."
+  },
+  {
+    "id": "QI030",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Se uma solução tem pH = 3, a 25 °C, ela é:",
+    "options": {
+      "A": "Ácida",
+      "B": "Neutra",
+      "C": "Básica",
+      "D": "Necessariamente um sal puro"
+    },
+    "correct_answer": "A",
+    "explanation": "A 25 °C, pH inferior a 7 indica solução ácida."
+  },
+  {
+    "id": "QI031",
+    "subject": "Química",
+    "topic": "Ácidos e bases",
+    "difficulty": "Médio",
+    "question": "Qual é o pH aproximado de uma solução neutra a 25 °C?",
+    "options": {
+      "A": "0",
+      "B": "3",
+      "C": "7",
+      "D": "14"
+    },
+    "correct_answer": "C",
+    "explanation": "A 25 °C, uma solução neutra tem pH aproximadamente igual a 7."
+  },
+  {
+    "id": "QI032",
+    "subject": "Química",
+    "topic": "Oxidação-redução",
+    "difficulty": "Médio",
+    "question": "Oxidação, no sentido electrónico, corresponde a:",
+    "options": {
+      "A": "Ganho de electrões",
+      "B": "Perda de electrões",
+      "C": "Ganho de neutrões",
+      "D": "Perda de protões do núcleo"
+    },
+    "correct_answer": "B",
+    "explanation": "Oxidação é perda de electrões; redução é ganho de electrões."
+  },
+  {
+    "id": "QI033",
+    "subject": "Química",
+    "topic": "Oxidação-redução",
+    "difficulty": "Médio",
+    "question": "Na reacção Zn + Cu²⁺ → Zn²⁺ + Cu, qual espécie é oxidada?",
+    "options": {
+      "A": "Zn",
+      "B": "Cu²⁺",
+      "C": "Zn²⁺",
+      "D": "Cu"
+    },
+    "correct_answer": "A",
+    "explanation": "O zinco perde dois electrões e passa de Zn a Zn²⁺, sendo oxidado."
+  },
+  {
+    "id": "QI034",
+    "subject": "Química",
+    "topic": "Cinética química",
+    "difficulty": "Fácil",
+    "question": "Qual das alterações geralmente aumenta a velocidade de uma reacção entre reagentes em solução?",
+    "options": {
+      "A": "Diminuir a temperatura",
+      "B": "Diminuir a concentração sempre",
+      "C": "Aumentar a temperatura",
+      "D": "Retirar todos os reagentes"
+    },
+    "correct_answer": "C",
+    "explanation": "O aumento da temperatura tende a elevar a energia cinética das partículas e a frequência de colisões eficazes."
+  },
+  {
+    "id": "QI035",
+    "subject": "Química",
+    "topic": "Cinética química",
+    "difficulty": "Médio",
+    "question": "Um catalisador acelera uma reacção porque:",
+    "options": {
+      "A": "Aumenta a massa dos produtos",
+      "B": "Diminui a energia de activação",
+      "C": "É sempre consumido totalmente",
+      "D": "Altera os átomos de cada elemento"
+    },
+    "correct_answer": "B",
+    "explanation": "O catalisador fornece um caminho alternativo com menor energia de activação e não é consumido globalmente."
+  },
+  {
+    "id": "QI036",
+    "subject": "Química",
+    "topic": "Equilíbrio químico",
+    "difficulty": "Médio",
+    "question": "Num sistema em equilíbrio químico dinâmico, as velocidades das reacções directa e inversa são:",
+    "options": {
+      "A": "Ambas nulas",
+      "B": "Iguais",
+      "C": "Sempre diferentes",
+      "D": "Iguais a zero apenas no início"
+    },
+    "correct_answer": "B",
+    "explanation": "No equilíbrio dinâmico, as reacções continuam a ocorrer, mas as velocidades directa e inversa são iguais."
+  },
+  {
+    "id": "QI037",
+    "subject": "Química",
+    "topic": "Química orgânica",
+    "difficulty": "Fácil",
+    "question": "Qual elemento está presente em todos os compostos orgânicos convencionais?",
+    "options": {
+      "A": "Sódio",
+      "B": "Carbono",
+      "C": "Hélio",
+      "D": "Cálcio"
+    },
+    "correct_answer": "B",
+    "explanation": "A química orgânica estuda principalmente os compostos de carbono, embora existam excepções e compostos simples de carbono tratados como inorgânicos."
+  },
+  {
+    "id": "QI038",
+    "subject": "Química",
+    "topic": "Química orgânica",
+    "difficulty": "Fácil",
+    "question": "Qual é a fórmula molecular do metano?",
+    "options": {
+      "A": "CH₂",
+      "B": "CH₃",
+      "C": "CH₄",
+      "D": "C₂H₆"
+    },
+    "correct_answer": "C",
+    "explanation": "O metano é o alcano mais simples, com um átomo de carbono ligado a quatro átomos de hidrogénio."
+  },
+  {
+    "id": "QI039",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Médio",
+    "question": "Qual destas fórmulas corresponde a um alcano de cadeia aberta?",
+    "options": {
+      "A": "C₂H₄",
+      "B": "C₃H₈",
+      "C": "C₂H₂",
+      "D": "C₆H₆"
+    },
+    "correct_answer": "B",
+    "explanation": "Os alcanos acíclicos seguem a fórmula geral CₙH₂ₙ₊₂; para n = 3, obtém-se C₃H₈."
+  },
+  {
+    "id": "QI040",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Médio",
+    "question": "O eteno (C₂H₄) pertence à família dos:",
+    "options": {
+      "A": "Alcanos",
+      "B": "Alcenos",
+      "C": "Alcinos",
+      "D": "Álcoois"
+    },
+    "correct_answer": "B",
+    "explanation": "O eteno possui uma ligação dupla carbono-carbono, característica dos alcenos."
+  },
+  {
+    "id": "QI041",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Fácil",
+    "question": "Qual grupo funcional caracteriza os álcoois?",
+    "options": {
+      "A": "–OH ligado a carbono saturado",
+      "B": "–COOH",
+      "C": "–CHO",
+      "D": "–CO– entre carbonos"
+    },
+    "correct_answer": "A",
+    "explanation": "Os álcoois apresentam o grupo hidroxilo (–OH) ligado a um carbono saturado."
+  },
+  {
+    "id": "QI042",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "Qual grupo funcional caracteriza os ácidos carboxílicos?",
+    "options": {
+      "A": "–NH₂",
+      "B": "–COOH",
+      "C": "–O–",
+      "D": "–Cl"
+    },
+    "correct_answer": "B",
+    "explanation": "O grupo carboxilo (–COOH) caracteriza os ácidos carboxílicos."
+  },
+  {
+    "id": "QI043",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "O composto CH₃–CHO pertence à função:",
+    "options": {
+      "A": "Álcool",
+      "B": "Aldeído",
+      "C": "Cetona",
+      "D": "Éster"
+    },
+    "correct_answer": "B",
+    "explanation": "O grupo terminal –CHO caracteriza um aldeído; CH₃–CHO é o etanal."
+  },
+  {
+    "id": "QI044",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "Qual destes compostos é uma cetona?",
+    "options": {
+      "A": "CH₃OH",
+      "B": "CH₃CHO",
+      "C": "CH₃COCH₃",
+      "D": "CH₃COOH"
+    },
+    "correct_answer": "C",
+    "explanation": "A propanona (CH₃COCH₃) contém um grupo carbonilo entre dois grupos carbonados, característico das cetonas."
+  },
+  {
+    "id": "QI045",
+    "subject": "Química",
+    "topic": "Isomeria",
+    "difficulty": "Médio",
+    "question": "Dois compostos são isómeros constitucionais quando possuem:",
+    "options": {
+      "A": "Fórmulas moleculares iguais, mas ligações entre átomos diferentes",
+      "B": "Fórmulas moleculares sempre diferentes",
+      "C": "O mesmo nome e estrutura",
+      "D": "O mesmo número de átomos de elementos diferentes"
+    },
+    "correct_answer": "A",
+    "explanation": "Isómeros constitucionais têm a mesma fórmula molecular, mas diferem na conectividade dos átomos."
+  },
+  {
+    "id": "QI046",
+    "subject": "Química",
+    "topic": "Polímeros",
+    "difficulty": "Fácil",
+    "question": "Um polímero é, em geral, uma molécula formada por:",
+    "options": {
+      "A": "Uma única partícula subatómica",
+      "B": "Muitas unidades repetidas chamadas monómeros",
+      "C": "Apenas iões metálicos",
+      "D": "Átomos de um único elemento obrigatoriamente"
+    },
+    "correct_answer": "B",
+    "explanation": "Os polímeros são macromoléculas construídas pela repetição de unidades estruturais chamadas monómeros."
+  },
+  {
+    "id": "QI047",
+    "subject": "Química",
+    "topic": "Química ambiental",
+    "difficulty": "Fácil",
+    "question": "Qual gás está fortemente associado ao aumento do efeito de estufa devido à queima de combustíveis fósseis?",
+    "options": {
+      "A": "Oxigénio (O₂)",
+      "B": "Dióxido de carbono (CO₂)",
+      "C": "Hélio (He)",
+      "D": "Néon (Ne)"
+    },
+    "correct_answer": "B",
+    "explanation": "A combustão de combustíveis fósseis liberta CO₂, um gás com efeito de estufa."
+  },
+  {
+    "id": "QI048",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual é a lei que afirma que a massa total se conserva numa reacção química realizada num sistema fechado?",
+    "options": {
+      "A": "Lei de Boyle",
+      "B": "Lei da conservação da massa",
+      "C": "Lei da reflexão",
+      "D": "Lei de Ohm"
+    },
+    "correct_answer": "B",
+    "explanation": "A lei da conservação da massa estabelece que, numa reacção química em sistema fechado, a massa total dos reagentes é igual à dos produtos."
+  },
+  {
+    "id": "QI049",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual é a fórmula do óxido de alumínio, sabendo que o alumínio forma Al³⁺ e o oxigénio forma O²⁻?",
+    "options": {
+      "A": "AlO",
+      "B": "Al₂O₃",
+      "C": "Al₃O₂",
+      "D": "AlO₂"
+    },
+    "correct_answer": "B",
+    "explanation": "O mínimo múltiplo comum das cargas 3 e 2 é 6: são necessários dois Al³⁺ e três O²⁻, formando Al₂O₃."
+  },
+  {
+    "id": "QI050",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Uma amostra tem 25 g de soluto e 75 g de solvente. Qual é a percentagem em massa do soluto?",
+    "options": {
+      "A": "10%",
+      "B": "25%",
+      "C": "33,3%",
+      "D": "75%"
+    },
+    "correct_answer": "B",
+    "explanation": "A massa da solução é 25 + 75 = 100 g; percentagem em massa = 25/100 × 100% = 25%."
+  },
+  {
+    "id": "QI051",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Fácil",
+    "question": "Qual dos seguintes elementos pertence ao grupo dos halogéneos?",
+    "options": {
+      "A": "Sódio (Na)",
+      "B": "Cálcio (Ca)",
+      "C": "Bromo (Br)",
+      "D": "Hélio (He)"
+    },
+    "correct_answer": "C",
+    "explanation": "O bromo pertence ao grupo 17, o grupo dos halogéneos."
+  },
+  {
+    "id": "QI052",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Qual é a configuração electrónica simplificada do sódio (Z = 11)?",
+    "options": {
+      "A": "2, 8, 1",
+      "B": "2, 7, 2",
+      "C": "2, 8, 2",
+      "D": "2, 9"
+    },
+    "correct_answer": "A",
+    "explanation": "O sódio tem 11 electrões: distribuem-se por camadas como 2, 8, 1."
+  },
+  {
+    "id": "QI053",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Qual destes elementos apresenta maior carácter metálico?",
+    "options": {
+      "A": "Flúor (F)",
+      "B": "Oxigénio (O)",
+      "C": "Potássio (K)",
+      "D": "Cloro (Cl)"
+    },
+    "correct_answer": "C",
+    "explanation": "O carácter metálico aumenta, em geral, para baixo e para a esquerda da tabela periódica; o potássio é o mais metálico entre as opções."
+  },
+  {
+    "id": "QI054",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "A energia de ionização é, de forma simplificada, a energia necessária para:",
+    "options": {
+      "A": "Adicionar um neutrão ao núcleo",
+      "B": "Remover um electrão de um átomo gasoso",
+      "C": "Fundir dois núcleos",
+      "D": "Separar uma molécula em átomos sempre"
+    },
+    "correct_answer": "B",
+    "explanation": "A primeira energia de ionização corresponde à energia necessária para retirar um electrão de um átomo isolado no estado gasoso."
+  },
+  {
+    "id": "QI055",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Um ião tem 13 protões e 10 electrões. Qual é a sua carga?",
+    "options": {
+      "A": "−3",
+      "B": "−1",
+      "C": "+1",
+      "D": "+3"
+    },
+    "correct_answer": "D",
+    "explanation": "A carga líquida é determinada pela diferença entre protões e electrões: 13 − 10 = +3."
+  },
+  {
+    "id": "QI056",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Qual par representa correctamente um isótopo de carbono-12 e outro de carbono-14?",
+    "options": {
+      "A": "Ambos têm 6 protões; têm 6 e 8 neutrões, respectivamente",
+      "B": "Têm 12 e 14 protões",
+      "C": "Têm o mesmo número de neutrões",
+      "D": "Carbono-14 tem 14 electrões num átomo neutro"
+    },
+    "correct_answer": "A",
+    "explanation": "Ambos os isótopos de carbono têm 6 protões; o número de neutrões é A − Z: 6 no carbono-12 e 8 no carbono-14."
+  },
+  {
+    "id": "QI057",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "A ligação covalente apolar ocorre quando os electrões partilhados são:",
+    "options": {
+      "A": "Transferidos completamente",
+      "B": "Partilhados de modo aproximadamente igual",
+      "C": "Retirados de ambos os átomos",
+      "D": "Partilhados apenas por iões metálicos"
+    },
+    "correct_answer": "B",
+    "explanation": "Numa ligação covalente apolar, a partilha electrónica é aproximadamente igual entre os átomos ligados."
+  },
+  {
+    "id": "QI058",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "Qual molécula tem uma ligação covalente tripla entre os seus átomos?",
+    "options": {
+      "A": "H₂",
+      "B": "O₂",
+      "C": "N₂",
+      "D": "Cl₂"
+    },
+    "correct_answer": "C",
+    "explanation": "A molécula N₂ apresenta uma ligação tripla entre os dois átomos de azoto."
+  },
+  {
+    "id": "QI059",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "O cloreto de sódio sólido conduz bem a corrente eléctrica?",
+    "options": {
+      "A": "Sim, porque os iões se deslocam livremente no sólido",
+      "B": "Não, porque os iões estão fixos na rede cristalina",
+      "C": "Sim, porque contém electrões livres como um metal",
+      "D": "Não, porque não contém partículas carregadas"
+    },
+    "correct_answer": "B",
+    "explanation": "No estado sólido, os iões do NaCl estão presos na rede cristalina; quando fundido ou dissolvido, os iões podem deslocar-se."
+  },
+  {
+    "id": "QI060",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Fácil",
+    "question": "Qual é a fórmula do ácido sulfúrico?",
+    "options": {
+      "A": "H₂SO₄",
+      "B": "H₂SO₃",
+      "C": "HCl",
+      "D": "HNO₂"
+    },
+    "correct_answer": "A",
+    "explanation": "O ácido sulfúrico tem fórmula H₂SO₄; H₂SO₃ é o ácido sulfuroso."
+  },
+  {
+    "id": "QI061",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "Qual é o nome de Fe₂O₃, usando a nomenclatura de Stock?",
+    "options": {
+      "A": "Óxido de ferro(II)",
+      "B": "Óxido de ferro(III)",
+      "C": "Óxido de ferro(I)",
+      "D": "Peróxido de ferro"
+    },
+    "correct_answer": "B",
+    "explanation": "O oxigénio tem número de oxidação −2; três oxigénios totalizam −6, pelo que os dois ferros totalizam +6 e cada Fe é +3."
+  },
+  {
+    "id": "QI062",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "Qual destes sais é formado por iões amónio (NH₄⁺) e nitrato (NO₃⁻)?",
+    "options": {
+      "A": "NH₄NO₃",
+      "B": "NaNO₃",
+      "C": "NH₄Cl",
+      "D": "Ca(NO₃)₂"
+    },
+    "correct_answer": "A",
+    "explanation": "As cargas +1 do amónio e −1 do nitrato equilibram-se na proporção 1:1, formando NH₄NO₃."
+  },
+  {
+    "id": "QI063",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "Na equação 2Mg + O₂ → 2MgO, o coeficiente 2 antes de Mg indica:",
+    "options": {
+      "A": "Dois átomos de magnésio na proporção estequiométrica",
+      "B": "Que o magnésio tem carga +2 nesta equação",
+      "C": "Que o oxigénio desaparece",
+      "D": "Duas moléculas de oxigénio"
+    },
+    "correct_answer": "A",
+    "explanation": "Os coeficientes indicam as proporções em que as espécies participam na reacção."
+  },
+  {
+    "id": "QI064",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "A combustão completa de um hidrocarboneto produz, em geral:",
+    "options": {
+      "A": "Carbono e hidrogénio apenas",
+      "B": "CO₂ e H₂O",
+      "C": "Sal e água",
+      "D": "Oxigénio e azoto"
+    },
+    "correct_answer": "B",
+    "explanation": "Com oxigénio suficiente, a combustão completa de hidrocarbonetos produz dióxido de carbono e água."
+  },
+  {
+    "id": "QI065",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "Qual é a equação ajustada da reacção entre ácido clorídrico e hidróxido de sódio?",
+    "options": {
+      "A": "HCl + NaOH → NaCl + H₂O",
+      "B": "2HCl + NaOH → NaCl + H₂O",
+      "C": "HCl + 2NaOH → NaCl + 2H₂O",
+      "D": "HCl + NaOH → Na + Cl₂"
+    },
+    "correct_answer": "A",
+    "explanation": "A equação HCl + NaOH → NaCl + H₂O tem o mesmo número de átomos de cada elemento em ambos os lados."
+  },
+  {
+    "id": "QI066",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Qual é a massa molar do dióxido de carbono (CO₂)? Considere C = 12 e O = 16.",
+    "options": {
+      "A": "28 g/mol",
+      "B": "32 g/mol",
+      "C": "44 g/mol",
+      "D": "48 g/mol"
+    },
+    "correct_answer": "C",
+    "explanation": "M(CO₂) = 12 + 2 × 16 = 44 g/mol."
+  },
+  {
+    "id": "QI067",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Quantos mol existem em 11 g de CO₂, sabendo que a massa molar é 44 g/mol?",
+    "options": {
+      "A": "0,25 mol",
+      "B": "0,5 mol",
+      "C": "2 mol",
+      "D": "4 mol"
+    },
+    "correct_answer": "A",
+    "explanation": "n = m/M = 11/44 = 0,25 mol."
+  },
+  {
+    "id": "QI068",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Qual é a massa de 3 mol de oxigénio molecular (O₂), sabendo que M(O₂) = 32 g/mol?",
+    "options": {
+      "A": "32 g",
+      "B": "64 g",
+      "C": "96 g",
+      "D": "128 g"
+    },
+    "correct_answer": "C",
+    "explanation": "m = nM = 3 × 32 = 96 g."
+  },
+  {
+    "id": "QI069",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Médio",
+    "question": "Na reacção 2Na + Cl₂ → 2NaCl, quantos mol de NaCl se formam a partir de 5 mol de Na com Cl₂ em excesso?",
+    "options": {
+      "A": "2,5 mol",
+      "B": "5 mol",
+      "C": "10 mol",
+      "D": "15 mol"
+    },
+    "correct_answer": "B",
+    "explanation": "A proporção Na:NaCl é 2:2, ou seja, 1:1; 5 mol de Na formam 5 mol de NaCl."
+  },
+  {
+    "id": "QI070",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Difícil",
+    "question": "Na reacção CaCO₃ → CaO + CO₂, quantos mol de CO₂ se formam pela decomposição completa de 2,5 mol de CaCO₃?",
+    "options": {
+      "A": "1,25 mol",
+      "B": "2,5 mol",
+      "C": "5 mol",
+      "D": "7,5 mol"
+    },
+    "correct_answer": "B",
+    "explanation": "A proporção molar CaCO₃:CO₂ é 1:1, pelo que 2,5 mol de CaCO₃ produzem 2,5 mol de CO₂."
+  },
+  {
+    "id": "QI071",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Difícil",
+    "question": "Na reacção 2Al + 3Cl₂ → 2AlCl₃, qual quantidade de Cl₂ é necessária para reagir completamente com 4 mol de Al?",
+    "options": {
+      "A": "3 mol",
+      "B": "4 mol",
+      "C": "6 mol",
+      "D": "8 mol"
+    },
+    "correct_answer": "C",
+    "explanation": "A proporção é 2 mol de Al para 3 mol de Cl₂; para 4 mol de Al são necessários 4 × 3/2 = 6 mol de Cl₂."
+  },
+  {
+    "id": "QI072",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Uma solução contém 0,2 mol de soluto em 500 mL de solução. Qual é a sua concentração molar?",
+    "options": {
+      "A": "0,1 mol/L",
+      "B": "0,2 mol/L",
+      "C": "0,4 mol/L",
+      "D": "2,5 mol/L"
+    },
+    "correct_answer": "C",
+    "explanation": "500 mL = 0,5 L; c = n/V = 0,2/0,5 = 0,4 mol/L."
+  },
+  {
+    "id": "QI073",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Que volume de uma solução 2 mol/L contém 0,5 mol de soluto?",
+    "options": {
+      "A": "0,25 L",
+      "B": "1 L",
+      "C": "2,5 L",
+      "D": "4 L"
+    },
+    "correct_answer": "A",
+    "explanation": "V = n/c = 0,5/2 = 0,25 L."
+  },
+  {
+    "id": "QI074",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Ao adicionar água a uma solução sem perder soluto, a concentração da solução:",
+    "options": {
+      "A": "Aumenta sempre",
+      "B": "Diminui",
+      "C": "Não muda em nenhuma circunstância",
+      "D": "Torna-se automaticamente zero"
+    },
+    "correct_answer": "B",
+    "explanation": "A diluição aumenta o volume enquanto a quantidade de soluto permanece constante, diminuindo a concentração."
+  },
+  {
+    "id": "QI075",
+    "subject": "Química",
+    "topic": "Ácidos e bases",
+    "difficulty": "Médio",
+    "question": "Segundo Brønsted-Lowry, um ácido é uma espécie que:",
+    "options": {
+      "A": "Aceita protões",
+      "B": "Doa protões",
+      "C": "Doa electrões sempre",
+      "D": "Produz neutrões"
+    },
+    "correct_answer": "B",
+    "explanation": "Na teoria de Brønsted-Lowry, o ácido é o dador de protões (H⁺) e a base é a aceitadora."
+  },
+  {
+    "id": "QI076",
+    "subject": "Química",
+    "topic": "Ácidos e bases",
+    "difficulty": "Médio",
+    "question": "Uma solução com pH 11, a 25 °C, é classificada como:",
+    "options": {
+      "A": "Ácida",
+      "B": "Neutra",
+      "C": "Básica",
+      "D": "Saturada"
+    },
+    "correct_answer": "C",
+    "explanation": "A 25 °C, valores de pH superiores a 7 indicam uma solução básica."
+  },
+  {
+    "id": "QI077",
+    "subject": "Química",
+    "topic": "Oxidação-redução",
+    "difficulty": "Médio",
+    "question": "Na reacção CuO + H₂ → Cu + H₂O, qual espécie sofre redução?",
+    "options": {
+      "A": "H₂",
+      "B": "CuO (o cobre)",
+      "C": "H₂O",
+      "D": "Oxigénio molecular"
+    },
+    "correct_answer": "B",
+    "explanation": "O cobre no CuO passa de número de oxidação +2 para 0, ganhando electrões e sofrendo redução."
+  },
+  {
+    "id": "QI078",
+    "subject": "Química",
+    "topic": "Oxidação-redução",
+    "difficulty": "Médio",
+    "question": "O número de oxidação do oxigénio na maioria dos óxidos comuns é:",
+    "options": {
+      "A": "+2",
+      "B": "+1",
+      "C": "−1",
+      "D": "−2"
+    },
+    "correct_answer": "D",
+    "explanation": "Nos óxidos comuns, o oxigénio apresenta normalmente número de oxidação −2, com algumas excepções."
+  },
+  {
+    "id": "QI079",
+    "subject": "Química",
+    "topic": "Cinética química",
+    "difficulty": "Médio",
+    "question": "Aumentar a superfície de contacto de um sólido reagente costuma acelerar a reacção porque:",
+    "options": {
+      "A": "Reduz o número de partículas",
+      "B": "Expõe mais partículas para colisões",
+      "C": "Diminui sempre a temperatura",
+      "D": "Elimina a energia de activação"
+    },
+    "correct_answer": "B",
+    "explanation": "Partículas menores ou maior superfície exposta permitem mais contactos e colisões eficazes por unidade de tempo."
+  },
+  {
+    "id": "QI080",
+    "subject": "Química",
+    "topic": "Cinética química",
+    "difficulty": "Médio",
+    "question": "Segundo a teoria das colisões, uma colisão é eficaz quando as partículas:",
+    "options": {
+      "A": "Colidem com energia suficiente e orientação adequada",
+      "B": "Colidem sempre a qualquer energia",
+      "C": "Não se tocam",
+      "D": "Têm massas iguais obrigatoriamente"
+    },
+    "correct_answer": "A",
+    "explanation": "Para reagir, as partículas precisam de energia suficiente para superar a energia de activação e de orientação favorável."
+  },
+  {
+    "id": "QI081",
+    "subject": "Química",
+    "topic": "Equilíbrio químico",
+    "difficulty": "Médio",
+    "question": "Para a reacção N₂(g) + 3H₂(g) ⇌ 2NH₃(g), aumentar a pressão favorece, em equilíbrio, o lado que tem:",
+    "options": {
+      "A": "Maior número de mols gasosos",
+      "B": "Menor número de mols gasosos",
+      "C": "Mais sólidos",
+      "D": "Mais catalisador"
+    },
+    "correct_answer": "B",
+    "explanation": "Pelo princípio de Le Châtelier, o aumento da pressão favorece o lado com menos mols gasosos; aqui, 2 mol de NH₃ contra 4 mol gasosos nos reagentes."
+  },
+  {
+    "id": "QI082",
+    "subject": "Química",
+    "topic": "Equilíbrio químico",
+    "difficulty": "Médio",
+    "question": "Adicionar um catalisador a um sistema em equilíbrio químico:",
+    "options": {
+      "A": "Desloca o equilíbrio para os produtos",
+      "B": "Desloca o equilíbrio para os reagentes",
+      "C": "Acelera a chegada ao equilíbrio sem mudar a posição de equilíbrio",
+      "D": "Aumenta a constante de equilíbrio em qualquer temperatura"
+    },
+    "correct_answer": "C",
+    "explanation": "O catalisador acelera as reacções directa e inversa e não altera a constante nem a posição do equilíbrio."
+  },
+  {
+    "id": "QI083",
+    "subject": "Química",
+    "topic": "Química orgânica",
+    "difficulty": "Fácil",
+    "question": "Qual é o nome IUPAC do composto CH₃–CH₂–OH?",
+    "options": {
+      "A": "Metanal",
+      "B": "Etanol",
+      "C": "Etanal",
+      "D": "Metanol"
+    },
+    "correct_answer": "B",
+    "explanation": "A cadeia tem dois carbonos e o grupo funcional álcool, pelo que o nome é etanol."
+  },
+  {
+    "id": "QI084",
+    "subject": "Química",
+    "topic": "Química orgânica",
+    "difficulty": "Médio",
+    "question": "Qual é a fórmula geral dos alcanos acíclicos saturados?",
+    "options": {
+      "A": "CₙH₂ₙ",
+      "B": "CₙH₂ₙ₊₂",
+      "C": "CₙH₂ₙ₋₂",
+      "D": "CₙHₙ"
+    },
+    "correct_answer": "B",
+    "explanation": "Os alcanos acíclicos saturados seguem a fórmula CₙH₂ₙ₊₂."
+  },
+  {
+    "id": "QI085",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Médio",
+    "question": "Qual é o nome do hidrocarboneto C₃H₆ com uma ligação dupla numa cadeia aberta?",
+    "options": {
+      "A": "Propano",
+      "B": "Propeno",
+      "C": "Propino",
+      "D": "Propino cíclico"
+    },
+    "correct_answer": "B",
+    "explanation": "C₃H₆ segue a fórmula dos alcenos acíclicos (CₙH₂ₙ); com três carbonos e uma ligação dupla, é propeno."
+  },
+  {
+    "id": "QI086",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Médio",
+    "question": "Qual dos compostos é um alcino?",
+    "options": {
+      "A": "C₂H₆",
+      "B": "C₃H₈",
+      "C": "C₂H₂",
+      "D": "C₄H₁₀"
+    },
+    "correct_answer": "C",
+    "explanation": "O etino (C₂H₂) possui uma ligação tripla carbono-carbono e pertence aos alcinos."
+  },
+  {
+    "id": "QI087",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "Qual é o grupo funcional característico dos ésteres?",
+    "options": {
+      "A": "–COO–",
+      "B": "–OH",
+      "C": "–NH₂",
+      "D": "–CHO"
+    },
+    "correct_answer": "A",
+    "explanation": "Os ésteres contêm o grupo –COO– entre dois grupos orgânicos."
+  },
+  {
+    "id": "QI088",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "Qual é o nome do composto CH₃COOH?",
+    "options": {
+      "A": "Etanol",
+      "B": "Etanal",
+      "C": "Ácido etanoico",
+      "D": "Propanona"
+    },
+    "correct_answer": "C",
+    "explanation": "CH₃COOH é o ácido etanoico, também conhecido como ácido acético."
+  },
+  {
+    "id": "QI089",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "As aminas são compostos orgânicos derivados conceptualmente do amoníaco e caracterizados pela presença de:",
+    "options": {
+      "A": "Grupo amino contendo azoto",
+      "B": "Grupo carboxilo apenas",
+      "C": "Ligação tripla C≡C",
+      "D": "Grupo éster apenas"
+    },
+    "correct_answer": "A",
+    "explanation": "As aminas possuem azoto, tipicamente em grupos como –NH₂, –NHR ou –NR₂."
+  },
+  {
+    "id": "QI090",
+    "subject": "Química",
+    "topic": "Isomeria",
+    "difficulty": "Médio",
+    "question": "O butano e o 2-metilpropano são exemplos de:",
+    "options": {
+      "A": "Isómeros de cadeia",
+      "B": "Isómeros geométricos obrigatoriamente",
+      "C": "Elementos químicos diferentes",
+      "D": "Compostos com fórmulas moleculares diferentes"
+    },
+    "correct_answer": "A",
+    "explanation": "Ambos têm fórmula C₄H₁₀, mas diferem na estrutura da cadeia carbónica."
+  },
+  {
+    "id": "QI091",
+    "subject": "Química",
+    "topic": "Polímeros",
+    "difficulty": "Médio",
+    "question": "Qual destes materiais é um polímero natural?",
+    "options": {
+      "A": "Polietileno",
+      "B": "PVC",
+      "C": "Celulose",
+      "D": "Poliestireno"
+    },
+    "correct_answer": "C",
+    "explanation": "A celulose é um polímero natural formado por unidades de glucose e presente nas paredes celulares vegetais."
+  },
+  {
+    "id": "QI092",
+    "subject": "Química",
+    "topic": "Química ambiental",
+    "difficulty": "Médio",
+    "question": "A chuva ácida está principalmente associada à formação atmosférica de ácidos a partir de:",
+    "options": {
+      "A": "SO₂ e óxidos de azoto",
+      "B": "Hélio e néon",
+      "C": "Oxigénio e argónio apenas",
+      "D": "Vapor de água puro"
+    },
+    "correct_answer": "A",
+    "explanation": "O dióxido de enxofre e os óxidos de azoto podem originar ácidos na atmosfera, contribuindo para a chuva ácida."
+  },
+  {
+    "id": "QI093",
+    "subject": "Química",
+    "topic": "Química ambiental",
+    "difficulty": "Médio",
+    "question": "Qual é uma medida que ajuda a reduzir a poluição causada por plásticos descartáveis?",
+    "options": {
+      "A": "Aumentar o uso de sacos descartáveis",
+      "B": "Reutilizar e reciclar materiais adequadamente",
+      "C": "Queimar plásticos ao ar livre",
+      "D": "Lançar resíduos nos rios"
+    },
+    "correct_answer": "B",
+    "explanation": "Reduzir o consumo, reutilizar e encaminhar correctamente os resíduos para reciclagem diminui a quantidade de plástico no ambiente."
+  },
+  {
+    "id": "QI094",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Uma substância pura que não pode ser decomposta quimicamente em substâncias mais simples é:",
+    "options": {
+      "A": "Uma mistura",
+      "B": "Um elemento químico",
+      "C": "Uma solução",
+      "D": "Uma suspensão"
+    },
+    "correct_answer": "B",
+    "explanation": "Um elemento químico é constituído por átomos do mesmo número atómico e não pode ser decomposto quimicamente em substâncias mais simples."
+  },
+  {
+    "id": "QI095",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual é a fórmula do sulfato de alumínio, formado por Al³⁺ e SO₄²⁻?",
+    "options": {
+      "A": "AlSO₄",
+      "B": "Al₂(SO₄)₃",
+      "C": "Al₃SO₄",
+      "D": "Al(SO₄)₂"
+    },
+    "correct_answer": "B",
+    "explanation": "Duas cargas Al³⁺ totalizam +6 e três iões SO₄²⁻ totalizam −6; a fórmula é Al₂(SO₄)₃."
+  },
+  {
+    "id": "QI096",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Uma amostra de 200 g de solução contém 30 g de soluto. Qual é a percentagem em massa do soluto?",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "30%"
+    },
+    "correct_answer": "B",
+    "explanation": "Percentagem em massa = (30/200) × 100% = 15%."
+  },
+  {
+    "id": "QI097",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual das alterações é uma transformação física, e não uma reacção química?",
+    "options": {
+      "A": "Ferrugem a formar-se no ferro",
+      "B": "Papel a arder",
+      "C": "Gelo a derreter",
+      "D": "Ferro a reagir com ácido"
+    },
+    "correct_answer": "C",
+    "explanation": "A fusão do gelo muda o estado físico da água sem formar uma nova substância."
+  },
+  {
+    "id": "QI098",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Uma solução de concentração 1 mol/L é diluída de 100 mL para 500 mL, sem perda de soluto. Qual é a concentração final?",
+    "options": {
+      "A": "0,1 mol/L",
+      "B": "0,2 mol/L",
+      "C": "0,5 mol/L",
+      "D": "5 mol/L"
+    },
+    "correct_answer": "B",
+    "explanation": "Na diluição, c₁V₁ = c₂V₂. Logo, c₂ = (1 × 100)/500 = 0,2 mol/L."
+  },
+  {
+    "id": "QI099",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "Na reacção Fe + S → FeS, o produto formado é classificado como:",
+    "options": {
+      "A": "Uma mistura heterogénea",
+      "B": "Um composto químico",
+      "C": "Um elemento puro",
+      "D": "Uma solução aquosa obrigatoriamente"
+    },
+    "correct_answer": "B",
+    "explanation": "O ferro e o enxofre reagem quimicamente e formam sulfureto de ferro (FeS), uma substância composta."
+  },
+  {
+    "id": "QI100",
+    "subject": "Química",
+    "topic": "Química orgânica",
+    "difficulty": "Médio",
+    "question": "Qual é o nome do composto CH₃–CO–CH₃?",
+    "options": {
+      "A": "Propanona",
+      "B": "Propanal",
+      "C": "Propanol",
+      "D": "Ácido propanoico"
+    },
+    "correct_answer": "A",
+    "explanation": "O composto tem três carbonos e um grupo carbonilo interno, sendo uma cetona chamada propanona."
+  },
+  {
+    "id": "QI101",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Um átomo neutro de cálcio tem número atómico 20. Quantos protões e electrões possui?",
+    "options": {
+      "A": "20 protões e 20 electrões",
+      "B": "20 protões e 40 electrões",
+      "C": "40 protões e 20 electrões",
+      "D": "20 protões e 10 electrões"
+    },
+    "correct_answer": "A",
+    "explanation": "O número atómico indica 20 protões; sendo neutro, o átomo também tem 20 electrões."
+  },
+  {
+    "id": "QI102",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Um ião X²⁻ possui 18 electrões. Quantos protões tem?",
+    "options": {
+      "A": "16",
+      "B": "18",
+      "C": "20",
+      "D": "36"
+    },
+    "correct_answer": "A",
+    "explanation": "A carga 2− indica dois electrões a mais que protões; assim, Z = 18 − 2 = 16."
+  },
+  {
+    "id": "QI103",
+    "subject": "Química",
+    "topic": "Estrutura atómica",
+    "difficulty": "Médio",
+    "question": "Qual partícula do núcleo contribui para o número de massa, mas não tem carga eléctrica?",
+    "options": {
+      "A": "Electrão",
+      "B": "Protão",
+      "C": "Neutrão",
+      "D": "Fotão"
+    },
+    "correct_answer": "C",
+    "explanation": "O número de massa é a soma de protões e neutrões; o neutrão é electricamente neutro."
+  },
+  {
+    "id": "QI104",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Qual elemento do período 3 é um halogéneo?",
+    "options": {
+      "A": "Sódio",
+      "B": "Magnésio",
+      "C": "Cloro",
+      "D": "Árgon"
+    },
+    "correct_answer": "C",
+    "explanation": "O cloro está no período 3 e no grupo 17, o dos halogéneos."
+  },
+  {
+    "id": "QI105",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Qual destes elementos tem tendência para formar um ião 2+?",
+    "options": {
+      "A": "Oxigénio",
+      "B": "Magnésio",
+      "C": "Cloro",
+      "D": "Flúor"
+    },
+    "correct_answer": "B",
+    "explanation": "O magnésio é do grupo 2 e tende a perder dois electrões, formando Mg²⁺."
+  },
+  {
+    "id": "QI106",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Qual afirmação sobre os gases nobres é geralmente correcta?",
+    "options": {
+      "A": "São muito reactivos em condições comuns",
+      "B": "Têm a camada de valência completa",
+      "C": "São todos sólidos à temperatura ambiente",
+      "D": "Formam sempre iões 2−"
+    },
+    "correct_answer": "B",
+    "explanation": "Os gases nobres têm a camada electrónica externa completa, o que explica a sua baixa reactividade habitual."
+  },
+  {
+    "id": "QI107",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "Qual substância apresenta predominantemente ligação metálica?",
+    "options": {
+      "A": "Cobre sólido",
+      "B": "Água líquida",
+      "C": "Cloreto de sódio sólido",
+      "D": "Dióxido de carbono"
+    },
+    "correct_answer": "A",
+    "explanation": "No cobre sólido, os átomos metálicos estão ligados por uma rede de catiões e electrões deslocalizados."
+  },
+  {
+    "id": "QI108",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "Qual destas moléculas é polar?",
+    "options": {
+      "A": "O₂",
+      "B": "N₂",
+      "C": "H₂O",
+      "D": "Cl₂"
+    },
+    "correct_answer": "C",
+    "explanation": "A molécula de água tem ligações polares e geometria angular, pelo que os dipolos não se anulam."
+  },
+  {
+    "id": "QI109",
+    "subject": "Química",
+    "topic": "Ligação química",
+    "difficulty": "Médio",
+    "question": "Porque é que muitos compostos iónicos têm pontos de fusão elevados?",
+    "options": {
+      "A": "Porque as moléculas são sempre leves",
+      "B": "Porque há fortes atracções electrostáticas na rede cristalina",
+      "C": "Porque não contêm cargas",
+      "D": "Porque os electrões desaparecem"
+    },
+    "correct_answer": "B",
+    "explanation": "É necessária muita energia para vencer as atracções electrostáticas entre iões de cargas opostas na rede."
+  },
+  {
+    "id": "QI110",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "Qual é a fórmula do hidróxido de cálcio?",
+    "options": {
+      "A": "CaOH",
+      "B": "Ca(OH)₂",
+      "C": "Ca₂OH",
+      "D": "CaO₂H"
+    },
+    "correct_answer": "B",
+    "explanation": "O ião Ca²⁺ combina-se com dois iões OH⁻ para obter um composto electricamente neutro: Ca(OH)₂."
+  },
+  {
+    "id": "QI111",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "Qual é a fórmula do nitrato de potássio?",
+    "options": {
+      "A": "KNO₂",
+      "B": "KNO₃",
+      "C": "K₂NO₃",
+      "D": "KN₂O"
+    },
+    "correct_answer": "B",
+    "explanation": "K⁺ e NO₃⁻ têm cargas de módulo 1, pelo que se combinam na proporção 1:1."
+  },
+  {
+    "id": "QI112",
+    "subject": "Química",
+    "topic": "Funções inorgânicas",
+    "difficulty": "Médio",
+    "question": "Qual dos seguintes compostos é um óxido básico típico?",
+    "options": {
+      "A": "CaO",
+      "B": "SO₃",
+      "C": "CO₂",
+      "D": "N₂O₅"
+    },
+    "correct_answer": "A",
+    "explanation": "O óxido de cálcio é um óxido metálico básico; os óxidos não metálicos indicados são geralmente ácidos."
+  },
+  {
+    "id": "QI113",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "Qual é o produto gasoso comum da reacção de um metal activo com ácido clorídrico diluído?",
+    "options": {
+      "A": "Oxigénio",
+      "B": "Hidrogénio",
+      "C": "Azoto",
+      "D": "Cloro"
+    },
+    "correct_answer": "B",
+    "explanation": "Metais suficientemente activos deslocam o hidrogénio do ácido, formando um sal e gás H₂."
+  },
+  {
+    "id": "QI114",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "Qual é a equação ajustada para a formação de óxido de magnésio?",
+    "options": {
+      "A": "Mg + O₂ → MgO",
+      "B": "2Mg + O₂ → 2MgO",
+      "C": "Mg + 2O₂ → MgO₂",
+      "D": "2Mg + 2O₂ → MgO"
+    },
+    "correct_answer": "B",
+    "explanation": "A equação 2Mg + O₂ → 2MgO conserva dois átomos de Mg e dois de O em ambos os lados."
+  },
+  {
+    "id": "QI115",
+    "subject": "Química",
+    "topic": "Reacções químicas",
+    "difficulty": "Médio",
+    "question": "Numa reacção de precipitação, forma-se normalmente:",
+    "options": {
+      "A": "Um sólido pouco solúvel numa solução",
+      "B": "Sempre um gás nobre",
+      "C": "Uma nova camada electrónica",
+      "D": "Apenas calor sem produtos"
+    },
+    "correct_answer": "A",
+    "explanation": "Uma reacção de precipitação forma um sólido pouco solúvel quando certos iões em solução se combinam."
+  },
+  {
+    "id": "QI116",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Qual é a massa molar do amoníaco (NH₃)? Considere N = 14 e H = 1.",
+    "options": {
+      "A": "14 g/mol",
+      "B": "15 g/mol",
+      "C": "17 g/mol",
+      "D": "18 g/mol"
+    },
+    "correct_answer": "C",
+    "explanation": "M(NH₃) = 14 + 3 × 1 = 17 g/mol."
+  },
+  {
+    "id": "QI117",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Quantos mol correspondem a 9 g de água, se M(H₂O) = 18 g/mol?",
+    "options": {
+      "A": "0,25 mol",
+      "B": "0,5 mol",
+      "C": "1 mol",
+      "D": "2 mol"
+    },
+    "correct_answer": "B",
+    "explanation": "n = m/M = 9/18 = 0,5 mol."
+  },
+  {
+    "id": "QI118",
+    "subject": "Química",
+    "topic": "Mol e massa molar",
+    "difficulty": "Médio",
+    "question": "Qual é a massa de 0,25 mol de CO₂, sabendo que M(CO₂) = 44 g/mol?",
+    "options": {
+      "A": "5,5 g",
+      "B": "11 g",
+      "C": "22 g",
+      "D": "44 g"
+    },
+    "correct_answer": "B",
+    "explanation": "m = nM = 0,25 × 44 = 11 g."
+  },
+  {
+    "id": "QI119",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Médio",
+    "question": "Na reacção 2H₂ + O₂ → 2H₂O, quantos mol de H₂ são necessários para reagir com 3 mol de O₂?",
+    "options": {
+      "A": "1,5 mol",
+      "B": "3 mol",
+      "C": "6 mol",
+      "D": "9 mol"
+    },
+    "correct_answer": "C",
+    "explanation": "A proporção H₂:O₂ é 2:1; para 3 mol de O₂ são necessários 6 mol de H₂."
+  },
+  {
+    "id": "QI120",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Difícil",
+    "question": "Na reacção 2KClO₃ → 2KCl + 3O₂, quantos mol de O₂ se obtêm a partir de 4 mol de KClO₃?",
+    "options": {
+      "A": "3 mol",
+      "B": "4 mol",
+      "C": "6 mol",
+      "D": "8 mol"
+    },
+    "correct_answer": "C",
+    "explanation": "A proporção é 2 mol de KClO₃ para 3 mol de O₂; 4 mol produzem 6 mol de O₂."
+  },
+  {
+    "id": "QI121",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Médio",
+    "question": "Na reacção 2Na + Cl₂ → 2NaCl, quantos mol de NaCl podem formar-se a partir de 2 mol de Na, com Cl₂ em excesso?",
+    "options": {
+      "A": "1 mol",
+      "B": "2 mol",
+      "C": "3 mol",
+      "D": "4 mol"
+    },
+    "correct_answer": "B",
+    "explanation": "A proporção Na:NaCl é 1:1; portanto, 2 mol de Na formam 2 mol de NaCl."
+  },
+  {
+    "id": "QI122",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Dissolvem-se 15 g de açúcar para preparar 300 mL de solução. Qual é a concentração em massa?",
+    "options": {
+      "A": "5 g/L",
+      "B": "15 g/L",
+      "C": "50 g/L",
+      "D": "300 g/L"
+    },
+    "correct_answer": "C",
+    "explanation": "300 mL = 0,3 L; concentração em massa = 15/0,3 = 50 g/L."
+  },
+  {
+    "id": "QI123",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Uma solução tem concentração 0,8 mol/L e volume 250 mL. Qual é a quantidade de soluto?",
+    "options": {
+      "A": "0,02 mol",
+      "B": "0,2 mol",
+      "C": "2 mol",
+      "D": "3,2 mol"
+    },
+    "correct_answer": "B",
+    "explanation": "V = 0,250 L; n = cV = 0,8 × 0,250 = 0,20 mol."
+  },
+  {
+    "id": "QI124",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Ao evaporar parte do solvente de uma solução sem perder soluto, a concentração tende a:",
+    "options": {
+      "A": "Diminuir",
+      "B": "Aumentar",
+      "C": "Permanecer sempre igual",
+      "D": "Tornar-se necessariamente neutra"
+    },
+    "correct_answer": "B",
+    "explanation": "A quantidade de soluto mantém-se e o volume diminui, pelo que a concentração aumenta."
+  },
+  {
+    "id": "QI125",
+    "subject": "Química",
+    "topic": "Ácidos e bases",
+    "difficulty": "Médio",
+    "question": "Qual é a base conjugada de H₂CO₃ após a perda de um protão?",
+    "options": {
+      "A": "H₃CO₃⁺",
+      "B": "HCO₃⁻",
+      "C": "CO₃²⁻",
+      "D": "OH⁻"
+    },
+    "correct_answer": "B",
+    "explanation": "Ao perder um H⁺, o H₂CO₃ transforma-se em HCO₃⁻, a sua base conjugada."
+  },
+  {
+    "id": "QI126",
+    "subject": "Química",
+    "topic": "Ácidos e bases",
+    "difficulty": "Médio",
+    "question": "Uma solução de pH 2 é, em termos de concentração de H₃O⁺, quantas vezes mais ácida que uma solução de pH 4?",
+    "options": {
+      "A": "2 vezes",
+      "B": "10 vezes",
+      "C": "100 vezes",
+      "D": "1 000 vezes"
+    },
+    "correct_answer": "C",
+    "explanation": "Cada unidade de pH corresponde a um factor 10; uma diferença de 2 unidades corresponde a 10² = 100."
+  },
+  {
+    "id": "QI127",
+    "subject": "Química",
+    "topic": "Oxidação-redução",
+    "difficulty": "Médio",
+    "question": "Na transformação Fe²⁺ → Fe³⁺, o ião ferro:",
+    "options": {
+      "A": "Ganha um electrão",
+      "B": "Perde um electrão",
+      "C": "Ganha um protão",
+      "D": "Não muda o estado de oxidação"
+    },
+    "correct_answer": "B",
+    "explanation": "A carga aumenta de +2 para +3, o que corresponde à perda de um electrão e à oxidação."
+  },
+  {
+    "id": "QI128",
+    "subject": "Química",
+    "topic": "Oxidação-redução",
+    "difficulty": "Médio",
+    "question": "Numa reacção de oxidação-redução, o agente oxidante é a espécie que:",
+    "options": {
+      "A": "Se oxida ao perder electrões",
+      "B": "Se reduz ao ganhar electrões",
+      "C": "Não participa na transferência electrónica",
+      "D": "É sempre oxigénio gasoso"
+    },
+    "correct_answer": "B",
+    "explanation": "O agente oxidante aceita electrões e sofre redução, provocando a oxidação de outra espécie."
+  },
+  {
+    "id": "QI129",
+    "subject": "Química",
+    "topic": "Cinética química",
+    "difficulty": "Médio",
+    "question": "Uma reacção tende a ser mais rápida quando se aumenta a concentração dos reagentes em solução porque:",
+    "options": {
+      "A": "Há menos colisões",
+      "B": "Há mais colisões por unidade de volume",
+      "C": "A energia de activação desaparece sempre",
+      "D": "Os produtos deixam de se formar"
+    },
+    "correct_answer": "B",
+    "explanation": "Maior concentração geralmente aumenta a frequência de colisões entre partículas reagentes."
+  },
+  {
+    "id": "QI130",
+    "subject": "Química",
+    "topic": "Cinética química",
+    "difficulty": "Médio",
+    "question": "A energia de activação é:",
+    "options": {
+      "A": "A energia mínima necessária para uma colisão ser eficaz",
+      "B": "A energia total de todos os produtos sempre",
+      "C": "A energia libertada apenas depois da reacção",
+      "D": "A massa dos reagentes"
+    },
+    "correct_answer": "A",
+    "explanation": "A energia de activação é a barreira energética que as partículas precisam de superar para reagir."
+  },
+  {
+    "id": "QI131",
+    "subject": "Química",
+    "topic": "Equilíbrio químico",
+    "difficulty": "Médio",
+    "question": "Para uma reacção exotérmica em equilíbrio, aumentar a temperatura favorece geralmente:",
+    "options": {
+      "A": "Os produtos, sempre",
+      "B": "Os reagentes",
+      "C": "Nenhum dos lados em qualquer caso",
+      "D": "A formação de um catalisador"
+    },
+    "correct_answer": "B",
+    "explanation": "O aumento da temperatura favorece o sentido endotérmico; numa reacção directa exotérmica, isso desloca o equilíbrio para os reagentes."
+  },
+  {
+    "id": "QI132",
+    "subject": "Química",
+    "topic": "Equilíbrio químico",
+    "difficulty": "Médio",
+    "question": "Se se retirar parte de um produto de um sistema em equilíbrio, o sistema tende a:",
+    "options": {
+      "A": "Formar mais produto retirado",
+      "B": "Parar permanentemente",
+      "C": "Formar apenas reagentes",
+      "D": "Eliminar o catalisador"
+    },
+    "correct_answer": "A",
+    "explanation": "Pelo princípio de Le Châtelier, a remoção de produto favorece o sentido que o repõe."
+  },
+  {
+    "id": "QI133",
+    "subject": "Química",
+    "topic": "Química orgânica",
+    "difficulty": "Médio",
+    "question": "Qual é o nome IUPAC do composto CH₃–CH₂–CH₃?",
+    "options": {
+      "A": "Metano",
+      "B": "Etano",
+      "C": "Propano",
+      "D": "Butano"
+    },
+    "correct_answer": "C",
+    "explanation": "A molécula tem três átomos de carbono numa cadeia saturada: propano."
+  },
+  {
+    "id": "QI134",
+    "subject": "Química",
+    "topic": "Química orgânica",
+    "difficulty": "Médio",
+    "question": "Qual composto é um álcool?",
+    "options": {
+      "A": "CH₃CH₂OH",
+      "B": "CH₃COOH",
+      "C": "CH₃CHO",
+      "D": "CH₃COCH₃"
+    },
+    "correct_answer": "A",
+    "explanation": "CH₃CH₂OH é o etanol e contém o grupo hidroxilo característico dos álcoois."
+  },
+  {
+    "id": "QI135",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Médio",
+    "question": "Qual é a fórmula molecular do propino?",
+    "options": {
+      "A": "C₃H₄",
+      "B": "C₃H₆",
+      "C": "C₃H₈",
+      "D": "C₂H₂"
+    },
+    "correct_answer": "A",
+    "explanation": "Os alcinos acíclicos seguem CₙH₂ₙ₋₂; para n = 3, a fórmula é C₃H₄."
+  },
+  {
+    "id": "QI136",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Médio",
+    "question": "Qual é o nome do composto C₄H₁₀?",
+    "options": {
+      "A": "Butano",
+      "B": "Buteno",
+      "C": "Butino",
+      "D": "Butanol"
+    },
+    "correct_answer": "A",
+    "explanation": "C₄H₁₀ segue a fórmula dos alcanos, CₙH₂ₙ₊₂, e o alcano de quatro carbonos chama-se butano."
+  },
+  {
+    "id": "QI137",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "Qual é o nome do composto CH₃CH₂CHO?",
+    "options": {
+      "A": "Propanal",
+      "B": "Propanona",
+      "C": "Propanol",
+      "D": "Ácido propanoico"
+    },
+    "correct_answer": "A",
+    "explanation": "O grupo terminal –CHO identifica um aldeído; com três carbonos, o nome é propanal."
+  },
+  {
+    "id": "QI138",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "Qual destas fórmulas corresponde a um éter?",
+    "options": {
+      "A": "CH₃CH₂OH",
+      "B": "CH₃OCH₃",
+      "C": "CH₃COOH",
+      "D": "CH₃CHO"
+    },
+    "correct_answer": "B",
+    "explanation": "Os éteres apresentam um átomo de oxigénio ligado a dois grupos orgânicos, como em CH₃–O–CH₃."
+  },
+  {
+    "id": "QI139",
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "Médio",
+    "question": "Qual é a função orgânica do composto CH₃CONH₂?",
+    "options": {
+      "A": "Amida",
+      "B": "Amina",
+      "C": "Éster",
+      "D": "Aldeído"
+    },
+    "correct_answer": "A",
+    "explanation": "CH₃CONH₂ contém o grupo –CONH₂, característico das amidas."
+  },
+  {
+    "id": "QI140",
+    "subject": "Química",
+    "topic": "Isomeria",
+    "difficulty": "Médio",
+    "question": "O cis-2-buteno e o trans-2-buteno diferem na disposição espacial dos grupos em torno da ligação dupla. Este é um exemplo de:",
+    "options": {
+      "A": "Isomeria de cadeia",
+      "B": "Isomeria geométrica",
+      "C": "Isomeria de função",
+      "D": "Isomeria nuclear"
+    },
+    "correct_answer": "B",
+    "explanation": "A ligação dupla restringe a rotação e permite isómeros geométricos cis e trans."
+  },
+  {
+    "id": "QI141",
+    "subject": "Química",
+    "topic": "Polímeros",
+    "difficulty": "Médio",
+    "question": "O polietileno é produzido a partir da polimerização de:",
+    "options": {
+      "A": "Eteno",
+      "B": "Etanol",
+      "C": "Etino",
+      "D": "Metano"
+    },
+    "correct_answer": "A",
+    "explanation": "O polietileno forma-se pela adição de muitas moléculas de eteno (etileno)."
+  },
+  {
+    "id": "QI142",
+    "subject": "Química",
+    "topic": "Química ambiental",
+    "difficulty": "Médio",
+    "question": "Qual é uma consequência possível do excesso de fertilizantes com nitratos nos cursos de água?",
+    "options": {
+      "A": "Eutrofização",
+      "B": "Formação de hélio",
+      "C": "Desaparecimento da gravidade",
+      "D": "Redução universal da temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "O excesso de nutrientes pode estimular crescimento de algas e causar eutrofização, reduzindo o oxigénio dissolvido."
+  },
+  {
+    "id": "QI143",
+    "subject": "Química",
+    "topic": "Química ambiental",
+    "difficulty": "Médio",
+    "question": "Qual prática é mais adequada para eliminar resíduos químicos laboratoriais perigosos?",
+    "options": {
+      "A": "Deitá-los sempre no lavatório",
+      "B": "Misturá-los com lixo alimentar",
+      "C": "Seguir os procedimentos de recolha e tratamento apropriados",
+      "D": "Queimá-los em espaço aberto"
+    },
+    "correct_answer": "C",
+    "explanation": "Resíduos perigosos devem ser separados e encaminhados segundo normas de segurança e tratamento adequadas."
+  },
+  {
+    "id": "QI144",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual método é geralmente adequado para separar areia de água?",
+    "options": {
+      "A": "Destilação fraccionada",
+      "B": "Filtração",
+      "C": "Cromatografia gasosa",
+      "D": "Sublimação"
+    },
+    "correct_answer": "B",
+    "explanation": "A areia é insolúvel e pode ser retida por um filtro, enquanto a água passa."
+  },
+  {
+    "id": "QI145",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Uma mistura de água e etanol pode ser separada principalmente com base na diferença dos seus:",
+    "options": {
+      "A": "Números atómicos",
+      "B": "Pontos de ebulição",
+      "C": "Números de protões",
+      "D": "Tipos de núcleo"
+    },
+    "correct_answer": "B",
+    "explanation": "A destilação aproveita diferenças nos pontos de ebulição dos componentes líquidos."
+  },
+  {
+    "id": "QI146",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual é a concentração percentual em massa de uma solução com 8 g de soluto numa massa total de 80 g?",
+    "options": {
+      "A": "1%",
+      "B": "8%",
+      "C": "10%",
+      "D": "20%"
+    },
+    "correct_answer": "C",
+    "explanation": "Percentagem em massa = (8/80) × 100% = 10%."
+  },
+  {
+    "id": "QI147",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual é o valor aproximado do pH de uma solução neutra a 25 °C?",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "12"
+    },
+    "correct_answer": "C",
+    "explanation": "A 25 °C, uma solução neutra tem pH aproximadamente 7."
+  },
+  {
+    "id": "QI148",
+    "subject": "Química",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "Uma solução contém 0,3 mol de soluto em 600 mL. Qual é a concentração molar?",
+    "options": {
+      "A": "0,2 mol/L",
+      "B": "0,5 mol/L",
+      "C": "2 mol/L",
+      "D": "5 mol/L"
+    },
+    "correct_answer": "B",
+    "explanation": "600 mL = 0,6 L; c = n/V = 0,3/0,6 = 0,5 mol/L."
+  },
+  {
+    "id": "QI149",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Médio",
+    "question": "Na reacção C + O₂ → CO₂, quantos mol de CO₂ se formam a partir de 2 mol de carbono com oxigénio em excesso?",
+    "options": {
+      "A": "1 mol",
+      "B": "2 mol",
+      "C": "3 mol",
+      "D": "4 mol"
+    },
+    "correct_answer": "B",
+    "explanation": "A proporção molar C:CO₂ é 1:1, portanto 2 mol de carbono produzem 2 mol de CO₂."
+  },
+  {
+    "id": "QI150",
+    "subject": "Química",
+    "topic": "Química geral",
+    "difficulty": "Médio",
+    "question": "Qual técnica permite separar os pigmentos de uma tinta com base na sua diferente afinidade por duas fases?",
+    "options": {
+      "A": "Filtração simples",
+      "B": "Cromatografia",
+      "C": "Decantação de areia",
+      "D": "Imantação"
+    },
+    "correct_answer": "B",
+    "explanation": "A cromatografia separa componentes porque se distribuem de modo diferente entre uma fase móvel e uma fase estacionária."
+  },
+  {
+    "id": "QI151",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Fácil",
+    "question": "Como se chama o alcano mais simples, cuja fórmula molecular é CH₄?",
+    "options": {
+      "A": "Etano",
+      "B": "Metano",
+      "C": "Propano",
+      "D": "Butano"
+    },
+    "correct_answer": "B",
+    "explanation": "O metano é o alcano mais simples e possui um átomo de carbono e quatro átomos de hidrogénio (CH₄)."
+  },
+  {
+    "id": "QI152",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Fácil",
+    "question": "Qual destes compostos é um alceno?",
+    "options": {
+      "A": "Etano",
+      "B": "Propano",
+      "C": "Eteno",
+      "D": "Metano"
+    },
+    "correct_answer": "C",
+    "explanation": "Os alcenos possuem pelo menos uma ligação dupla C=C; o eteno, C₂H₄, é o exemplo mais simples."
+  },
+  {
+    "id": "QI153",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Fácil",
+    "question": "Qual é o nome IUPAC de CH₃–CH₂–CH₃?",
+    "options": {
+      "A": "Propano",
+      "B": "Propeno",
+      "C": "Propino",
+      "D": "Butano"
+    },
+    "correct_answer": "A",
+    "explanation": "A cadeia tem três átomos de carbono e apenas ligações simples, logo o nome é propano."
+  },
+  {
+    "id": "QI154",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Média",
+    "question": "Qual é a fórmula molecular do but-1-eno?",
+    "options": {
+      "A": "C₄H₁₀",
+      "B": "C₄H₈",
+      "C": "C₄H₆",
+      "D": "C₃H₆"
+    },
+    "correct_answer": "B",
+    "explanation": "Um alceno acíclico com quatro carbonos segue CnH₂n: C₄H₈."
+  },
+  {
+    "id": "QI155",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Média",
+    "question": "A adição de bromo a uma amostra de eteno provoca geralmente:",
+    "options": {
+      "A": "Descoloração da solução de bromo",
+      "B": "Formação imediata de um sal",
+      "C": "Libertação de azoto",
+      "D": "Nenhuma reacção em condições usuais"
+    },
+    "correct_answer": "A",
+    "explanation": "A ligação dupla do eteno sofre reacção de adição com Br₂, consumindo o bromo colorido e descolorando a solução."
+  },
+  {
+    "id": "QI156",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Média",
+    "question": "Qual destes compostos é aromático?",
+    "options": {
+      "A": "Ciclo-hexano",
+      "B": "Benzeno",
+      "C": "Butano",
+      "D": "Etino"
+    },
+    "correct_answer": "B",
+    "explanation": "O benzeno possui um anel aromático com seis carbonos e electrões π deslocalizados."
+  },
+  {
+    "id": "QI157",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Média",
+    "question": "O nome correcto de CH₃–C≡CH é:",
+    "options": {
+      "A": "Propano",
+      "B": "Prop-1-ino",
+      "C": "Propeno",
+      "D": "But-1-ino"
+    },
+    "correct_answer": "B",
+    "explanation": "A cadeia tem três carbonos e uma ligação tripla iniciada no carbono 1; chama-se prop-1-ino."
+  },
+  {
+    "id": "QI158",
+    "subject": "Química",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Difícil",
+    "question": "Na combustão completa de 1 mol de propano, quantos mol de CO₂ se formam?",
+    "options": {
+      "A": "1 mol",
+      "B": "2 mol",
+      "C": "3 mol",
+      "D": "4 mol"
+    },
+    "correct_answer": "C",
+    "explanation": "A equação ajustada é C₃H₈ + 5O₂ → 3CO₂ + 4H₂O; um mol de propano forma três mol de CO₂."
+  },
+  {
+    "id": "QI159",
+    "subject": "Química",
+    "topic": "Halogenetos orgânicos",
+    "difficulty": "Fácil",
+    "question": "Que grupo caracteriza um halogeneto orgânico simples?",
+    "options": {
+      "A": "–OH",
+      "B": "–COOH",
+      "C": "C–X, em que X é um halogéneo",
+      "D": "–NH₂"
+    },
+    "correct_answer": "C",
+    "explanation": "Halogenetos orgânicos contêm um átomo de halogéneo ligado a carbono, como C–Cl ou C–Br."
+  },
+  {
+    "id": "QI160",
+    "subject": "Química",
+    "topic": "Halogenetos orgânicos",
+    "difficulty": "Média",
+    "question": "Qual é o nome de CH₃Cl?",
+    "options": {
+      "A": "Clorometano",
+      "B": "Cloroetano",
+      "C": "Metanol",
+      "D": "Metanal"
+    },
+    "correct_answer": "A",
+    "explanation": "A molécula tem um carbono e um substituinte cloro: clorometano."
+  },
+  {
+    "id": "QI161",
+    "subject": "Química",
+    "topic": "Halogenetos orgânicos",
+    "difficulty": "Média",
+    "question": "Na substituição nucleofílica de um halogeneto de alquilo por OH⁻, o produto orgânico típico é:",
+    "options": {
+      "A": "Um álcool",
+      "B": "Um alceno obrigatoriamente",
+      "C": "Um ácido sulfónico",
+      "D": "Uma amida"
+    },
+    "correct_answer": "A",
+    "explanation": "O grupo halogéneo pode ser substituído por OH, formando um álcool, dependendo das condições e da estrutura do substrato."
+  },
+  {
+    "id": "QI162",
+    "subject": "Química",
+    "topic": "Halogenetos orgânicos",
+    "difficulty": "Difícil",
+    "question": "Qual é a fórmula do 1,2-dicloroetano?",
+    "options": {
+      "A": "CH₃CHCl₂",
+      "B": "ClCH₂CH₂Cl",
+      "C": "CH₂Cl₂",
+      "D": "CH₃CH₂Cl"
+    },
+    "correct_answer": "B",
+    "explanation": "Há dois carbonos e um átomo de cloro ligado a cada um: ClCH₂–CH₂Cl."
+  },
+  {
+    "id": "QI163",
+    "subject": "Química",
+    "topic": "Álcoois e fenóis",
+    "difficulty": "Fácil",
+    "question": "Qual é o grupo funcional característico dos álcoois?",
+    "options": {
+      "A": "–CHO",
+      "B": "–OH ligado a carbono saturado",
+      "C": "–COOH",
+      "D": "–CONH₂"
+    },
+    "correct_answer": "B",
+    "explanation": "Nos álcoois, o grupo hidroxilo –OH está ligado a um carbono saturado; nos fenóis, liga-se directamente ao anel aromático."
+  },
+  {
+    "id": "QI164",
+    "subject": "Química",
+    "topic": "Álcoois e fenóis",
+    "difficulty": "Fácil",
+    "question": "Qual é o nome de CH₃CH₂OH?",
+    "options": {
+      "A": "Metanol",
+      "B": "Etanol",
+      "C": "Etanal",
+      "D": "Ácido etanoico"
+    },
+    "correct_answer": "B",
+    "explanation": "A cadeia contém dois carbonos e o grupo –OH, pelo que o composto é etanol."
+  },
+  {
+    "id": "QI165",
+    "subject": "Química",
+    "topic": "Álcoois e fenóis",
+    "difficulty": "Média",
+    "question": "Qual composto é um fenol?",
+    "options": {
+      "A": "CH₃OH",
+      "B": "C₆H₅OH",
+      "C": "CH₃CHO",
+      "D": "CH₃COOH"
+    },
+    "correct_answer": "B",
+    "explanation": "No fenol, o grupo –OH está directamente ligado ao anel benzénico, como em C₆H₅OH."
+  },
+  {
+    "id": "QI166",
+    "subject": "Química",
+    "topic": "Álcoois e fenóis",
+    "difficulty": "Média",
+    "question": "A oxidação controlada de um álcool primário pode produzir inicialmente:",
+    "options": {
+      "A": "Um aldeído",
+      "B": "Uma amida",
+      "C": "Um éter sempre",
+      "D": "Um alcano"
+    },
+    "correct_answer": "A",
+    "explanation": "Um álcool primário pode oxidar-se a aldeído; oxidação posterior pode originar ácido carboxílico."
+  },
+  {
+    "id": "QI167",
+    "subject": "Química",
+    "topic": "Álcoois e fenóis",
+    "difficulty": "Média",
+    "question": "Porque é que o etanol tem ponto de ebulição relativamente elevado face ao etano de massa molar próxima?",
+    "options": {
+      "A": "Forma ligações de hidrogénio entre moléculas",
+      "B": "É um composto iónico",
+      "C": "Tem ligações metálicas",
+      "D": "Não possui forças intermoleculares"
+    },
+    "correct_answer": "A",
+    "explanation": "Os grupos –OH permitem ligações de hidrogénio entre moléculas de etanol, exigindo mais energia para a vaporização."
+  },
+  {
+    "id": "QI168",
+    "subject": "Química",
+    "topic": "Aldeídos e cetonas",
+    "difficulty": "Fácil",
+    "question": "Qual grupo funcional identifica um aldeído?",
+    "options": {
+      "A": "–COOH",
+      "B": "–CHO",
+      "C": "–OH",
+      "D": "–NH₂"
+    },
+    "correct_answer": "B",
+    "explanation": "Os aldeídos possuem o grupo carbonilo terminal –CHO."
+  },
+  {
+    "id": "QI169",
+    "subject": "Química",
+    "topic": "Aldeídos e cetonas",
+    "difficulty": "Fácil",
+    "question": "Qual é o nome de CH₃CHO?",
+    "options": {
+      "A": "Etanal",
+      "B": "Etanona",
+      "C": "Etanol",
+      "D": "Ácido etanoico"
+    },
+    "correct_answer": "A",
+    "explanation": "A molécula tem dois carbonos e um grupo aldeído; o nome IUPAC é etanal."
+  },
+  {
+    "id": "QI170",
+    "subject": "Química",
+    "topic": "Aldeídos e cetonas",
+    "difficulty": "Média",
+    "question": "Qual estrutura representa uma cetona?",
+    "options": {
+      "A": "CH₃CHO",
+      "B": "CH₃COCH₃",
+      "C": "CH₃COOH",
+      "D": "CH₃CH₂OH"
+    },
+    "correct_answer": "B",
+    "explanation": "Na propanona, CH₃COCH₃, o carbono do grupo carbonilo está ligado a dois carbonos, característica das cetonas."
+  },
+  {
+    "id": "QI171",
+    "subject": "Química",
+    "topic": "Aldeídos e cetonas",
+    "difficulty": "Média",
+    "question": "Qual reagente é tradicionalmente usado para distinguir muitos aldeídos de cetonas em laboratório?",
+    "options": {
+      "A": "Reagente de Tollens",
+      "B": "Água destilada",
+      "C": "Cloreto de sódio",
+      "D": "Solução de açúcar"
+    },
+    "correct_answer": "A",
+    "explanation": "Muitos aldeídos reduzem o reagente de Tollens, formando prata metálica; as cetonas comuns geralmente não dão esse resultado."
+  },
+  {
+    "id": "QI172",
+    "subject": "Química",
+    "topic": "Aldeídos e cetonas",
+    "difficulty": "Difícil",
+    "question": "A redução da propanona produz principalmente:",
+    "options": {
+      "A": "Propan-1-ol",
+      "B": "Propan-2-ol",
+      "C": "Ácido propanoico",
+      "D": "Propano"
+    },
+    "correct_answer": "B",
+    "explanation": "A redução do grupo carbonilo da propanona forma o álcool secundário propan-2-ol."
+  },
+  {
+    "id": "QI173",
+    "subject": "Química",
+    "topic": "Ácidos carboxílicos",
+    "difficulty": "Fácil",
+    "question": "Qual é a fórmula molecular do ácido etanoico (ácido acético)?",
+    "options": {
+      "A": "CH₄",
+      "B": "C₂H₆O",
+      "C": "C₂H₄O₂",
+      "D": "C₂H₂O₂"
+    },
+    "correct_answer": "C",
+    "explanation": "O ácido etanoico tem fórmula molecular C₂H₄O₂, também representada estruturalmente por CH₃COOH."
+  },
+  {
+    "id": "QI174",
+    "subject": "Química",
+    "topic": "Ácidos carboxílicos e sais orgânicos",
+    "difficulty": "Fácil",
+    "question": "Qual é o nome de HCOOH?",
+    "options": {
+      "A": "Ácido etanoico",
+      "B": "Ácido metanoico",
+      "C": "Ácido propanoico",
+      "D": "Metanol"
+    },
+    "correct_answer": "B",
+    "explanation": "O ácido metanoico é o ácido carboxílico mais simples e contém um único carbono."
+  },
+  {
+    "id": "QI175",
+    "subject": "Química",
+    "topic": "Ácidos carboxílicos e sais orgânicos",
+    "difficulty": "Média",
+    "question": "A reacção entre ácido etanoico e hidróxido de sódio produz:",
+    "options": {
+      "A": "Etano e água",
+      "B": "Etanoato de sódio e água",
+      "C": "Etanol e oxigénio",
+      "D": "Metanal e sal"
+    },
+    "correct_answer": "B",
+    "explanation": "É uma neutralização: CH₃COOH + NaOH → CH₃COONa + H₂O."
+  },
+  {
+    "id": "QI176",
+    "subject": "Química",
+    "topic": "Ácidos carboxílicos e sais orgânicos",
+    "difficulty": "Média",
+    "question": "Qual é a fórmula do anião carboxilato formado pela perda de H⁺ do ácido etanoico?",
+    "options": {
+      "A": "CH₃COO⁻",
+      "B": "CH₃O⁻",
+      "C": "CO₃²⁻",
+      "D": "CH₃CO⁺"
+    },
+    "correct_answer": "A",
+    "explanation": "A desprotonação do ácido etanoico, CH₃COOH, forma o anião etanoato, CH₃COO⁻."
+  },
+  {
+    "id": "QI177",
+    "subject": "Química",
+    "topic": "Ácidos carboxílicos e sais orgânicos",
+    "difficulty": "Difícil",
+    "question": "Qual é a massa molar aproximada do ácido etanoico (C₂H₄O₂)? Considere C=12, H=1 e O=16.",
+    "options": {
+      "A": "46 g/mol",
+      "B": "60 g/mol",
+      "C": "44 g/mol",
+      "D": "74 g/mol"
+    },
+    "correct_answer": "B",
+    "explanation": "M = 2(12) + 4(1) + 2(16) = 60 g/mol."
+  },
+  {
+    "id": "QI178",
+    "subject": "Química",
+    "topic": "Éteres",
+    "difficulty": "Fácil",
+    "question": "Qual grupo estrutural caracteriza os éteres?",
+    "options": {
+      "A": "R–O–R′",
+      "B": "R–COOH",
+      "C": "R–CHO",
+      "D": "R–CONH₂"
+    },
+    "correct_answer": "A",
+    "explanation": "Nos éteres, um átomo de oxigénio liga dois grupos carbonados: R–O–R′."
+  },
+  {
+    "id": "QI179",
+    "subject": "Química",
+    "topic": "Éteres",
+    "difficulty": "Média",
+    "question": "Qual é o nome comum de CH₃–O–CH₃?",
+    "options": {
+      "A": "Dimetiléter",
+      "B": "Etanol",
+      "C": "Metanal",
+      "D": "Ácido metanoico"
+    },
+    "correct_answer": "A",
+    "explanation": "O oxigénio está ligado a dois grupos metilo; o composto é dimetiléter, também chamado metoximetano."
+  },
+  {
+    "id": "QI180",
+    "subject": "Química",
+    "topic": "Éteres",
+    "difficulty": "Média",
+    "question": "Comparado com um álcool de massa molecular semelhante, um éter geralmente tem ponto de ebulição menor porque:",
+    "options": {
+      "A": "Não pode doar ligações de hidrogénio entre moléculas iguais",
+      "B": "É sempre iónico",
+      "C": "Possui ligações metálicas",
+      "D": "Não apresenta forças de dispersão"
+    },
+    "correct_answer": "A",
+    "explanation": "Éteres podem aceitar ligações de hidrogénio da água, mas não possuem O–H para as doar entre moléculas iguais; por isso, os seus pontos de ebulição tendem a ser menores que os dos álcoois comparáveis."
+  },
+  {
+    "id": "QI181",
+    "subject": "Química",
+    "topic": "Aminas e amidas",
+    "difficulty": "Fácil",
+    "question": "Qual grupo funcional é típico das aminas primárias?",
+    "options": {
+      "A": "–NH₂ ligado a carbono",
+      "B": "–COOH",
+      "C": "–NO₂",
+      "D": "–COO⁻"
+    },
+    "correct_answer": "A",
+    "explanation": "Uma amina primária tem, em geral, a forma R–NH₂, com o azoto ligado a um grupo carbonado."
+  },
+  {
+    "id": "QI182",
+    "subject": "Química",
+    "topic": "Aminas e amidas",
+    "difficulty": "Fácil",
+    "question": "Qual estrutura corresponde a uma amida?",
+    "options": {
+      "A": "CH₃NH₂",
+      "B": "CH₃CONH₂",
+      "C": "CH₃OH",
+      "D": "CH₃OCH₃"
+    },
+    "correct_answer": "B",
+    "explanation": "A amida contém um grupo carbonilo ligado a azoto, como –CONH₂ em CH₃CONH₂."
+  },
+  {
+    "id": "QI183",
+    "subject": "Química",
+    "topic": "Aminas e amidas",
+    "difficulty": "Média",
+    "question": "As aminas simples apresentam frequentemente carácter básico porque o azoto:",
+    "options": {
+      "A": "Pode aceitar um protão usando o par electrónico livre",
+      "B": "Liberta sempre OH⁻ por dissociação completa",
+      "C": "Contém um núcleo metálico",
+      "D": "Não possui electrões de valência"
+    },
+    "correct_answer": "A",
+    "explanation": "O par electrónico livre do azoto pode ligar-se a H⁺, explicando o carácter básico de muitas aminas."
+  },
+  {
+    "id": "QI184",
+    "subject": "Química",
+    "topic": "Aminas e amidas",
+    "difficulty": "Média",
+    "question": "Qual é o nome de CH₃NH₂?",
+    "options": {
+      "A": "Metanamida",
+      "B": "Metilamina",
+      "C": "Metanol",
+      "D": "Metanoato"
+    },
+    "correct_answer": "B",
+    "explanation": "CH₃NH₂ é uma amina primária conhecida como metilamina; o nome sistemático é metanamina."
+  },
+  {
+    "id": "QI185",
+    "subject": "Química",
+    "topic": "Aminas e amidas",
+    "difficulty": "Difícil",
+    "question": "Por que razão as amidas são, em geral, menos básicas que as aminas correspondentes?",
+    "options": {
+      "A": "O par livre do azoto fica deslocalizado por ressonância com o carbonilo",
+      "B": "Não contêm azoto",
+      "C": "São sempre sais",
+      "D": "Têm necessariamente carga positiva"
+    },
+    "correct_answer": "A",
+    "explanation": "A ressonância entre o azoto e o grupo carbonilo reduz a disponibilidade do par electrónico para captar protões."
+  },
+  {
+    "id": "QI186",
+    "subject": "Química",
+    "topic": "Aminoácidos",
+    "difficulty": "Fácil",
+    "question": "Que dois grupos funcionais estão presentes num α-aminoácido comum?",
+    "options": {
+      "A": "Aldeído e cetona",
+      "B": "Amino e carboxilo",
+      "C": "Éter e nitro",
+      "D": "Halogéneo e fenol"
+    },
+    "correct_answer": "B",
+    "explanation": "Os α-aminoácidos têm normalmente um grupo amino (–NH₂) e um grupo carboxilo (–COOH) ligados ao carbono α."
+  },
+  {
+    "id": "QI187",
+    "subject": "Química",
+    "topic": "Aminoácidos",
+    "difficulty": "Média",
+    "question": "Em água, muitos aminoácidos podem existir como iões dipolares (zwitteriões), com:",
+    "options": {
+      "A": "NH₃⁺ e COO⁻ na mesma molécula",
+      "B": "Apenas cargas negativas",
+      "C": "Apenas cargas positivas",
+      "D": "Nenhum grupo ionizado em qualquer pH"
+    },
+    "correct_answer": "A",
+    "explanation": "A transferência interna de protão pode originar NH₃⁺ e COO⁻, mantendo carga total frequentemente nula."
+  },
+  {
+    "id": "QI188",
+    "subject": "Química",
+    "topic": "Aminoácidos",
+    "difficulty": "Média",
+    "question": "A ligação peptídica entre aminoácidos corresponde quimicamente a um grupo:",
+    "options": {
+      "A": "Éster",
+      "B": "Amida",
+      "C": "Éter",
+      "D": "Halogeneto"
+    },
+    "correct_answer": "B",
+    "explanation": "A ligação peptídica é uma ligação do tipo amida, formada entre o grupo carboxilo de um aminoácido e o grupo amino de outro."
+  },
+  {
+    "id": "QI189",
+    "subject": "Química",
+    "topic": "Aminoácidos",
+    "difficulty": "Difícil",
+    "question": "A glicina tem fórmula NH₂CH₂COOH. Qual é a sua fórmula molecular?",
+    "options": {
+      "A": "C₂H₅NO₂",
+      "B": "C₂H₇NO",
+      "C": "CH₅NO₂",
+      "D": "C₃H₅NO₂"
+    },
+    "correct_answer": "A",
+    "explanation": "Contando os átomos de NH₂CH₂COOH obtém-se C₂H₅NO₂."
+  },
+  {
+    "id": "QI190",
+    "subject": "Química",
+    "topic": "Compostos nitro",
+    "difficulty": "Fácil",
+    "question": "Qual grupo funcional caracteriza um composto nitro?",
+    "options": {
+      "A": "–NO₂",
+      "B": "–NH₂",
+      "C": "–OH",
+      "D": "–SO₃H"
+    },
+    "correct_answer": "A",
+    "explanation": "O grupo nitro é –NO₂ ligado ao esqueleto carbonado."
+  },
+  {
+    "id": "QI191",
+    "subject": "Química",
+    "topic": "Compostos nitro",
+    "difficulty": "Média",
+    "question": "Qual é o nome do composto C₆H₅NO₂, derivado do benzeno com um grupo –NO₂?",
+    "options": {
+      "A": "Nitrobenzeno",
+      "B": "Anilina",
+      "C": "Fenol",
+      "D": "Ácido benzóico"
+    },
+    "correct_answer": "A",
+    "explanation": "O benzeno com um substituinte nitro chama-se nitrobenzeno; a anilina possui –NH₂."
+  },
+  {
+    "id": "QI192",
+    "subject": "Química",
+    "topic": "Ácidos sulfónicos",
+    "difficulty": "Fácil",
+    "question": "Qual grupo funcional define um ácido sulfónico?",
+    "options": {
+      "A": "–SO₃H",
+      "B": "–COOH",
+      "C": "–CHO",
+      "D": "–CONH₂"
+    },
+    "correct_answer": "A",
+    "explanation": "Os ácidos sulfónicos contêm o grupo –SO₃H ligado a um grupo orgânico."
+  },
+  {
+    "id": "QI193",
+    "subject": "Química",
+    "topic": "Ácidos sulfónicos",
+    "difficulty": "Média",
+    "question": "Qual é o nome de C₆H₅SO₃H?",
+    "options": {
+      "A": "Ácido benzenossulfónico",
+      "B": "Ácido benzóico",
+      "C": "Nitrobenzeno",
+      "D": "Benzenamina"
+    },
+    "correct_answer": "A",
+    "explanation": "Um anel benzénico ligado a –SO₃H corresponde ao ácido benzenossulfónico."
+  },
+  {
+    "id": "QI194",
+    "subject": "Química",
+    "topic": "Isomeria",
+    "difficulty": "Fácil",
+    "question": "Dois compostos com a mesma fórmula molecular mas diferentes conectividades dos átomos são:",
+    "options": {
+      "A": "Isótopos",
+      "B": "Isómeros constitucionais",
+      "C": "Elementos distintos",
+      "D": "Iões isoeléctricos obrigatoriamente"
+    },
+    "correct_answer": "B",
+    "explanation": "Isómeros constitucionais partilham fórmula molecular, mas diferem na forma como os átomos estão ligados."
+  },
+  {
+    "id": "QI195",
+    "subject": "Química",
+    "topic": "Isomeria",
+    "difficulty": "Média",
+    "question": "Etanol (CH₃CH₂OH) e éter dimetílico (CH₃OCH₃) são exemplos de:",
+    "options": {
+      "A": "Isomeria de função",
+      "B": "Isomeria óptica",
+      "C": "Isomeria geométrica",
+      "D": "Isotopia"
+    },
+    "correct_answer": "A",
+    "explanation": "Ambos têm fórmula molecular C₂H₆O, mas pertencem a funções diferentes: álcool e éter."
+  },
+  {
+    "id": "QI196",
+    "subject": "Química",
+    "topic": "Isomeria",
+    "difficulty": "Média",
+    "question": "A isomeria cis-trans pode ocorrer tipicamente quando existe:",
+    "options": {
+      "A": "Rotação livre numa ligação simples",
+      "B": "Ligação dupla e substituintes adequados em cada carbono",
+      "C": "Apenas um carbono na molécula",
+      "D": "Um grupo carboxilo isolado"
+    },
+    "correct_answer": "B",
+    "explanation": "A ligação dupla restringe a rotação; quando cada carbono da dupla tem substituintes diferentes, podem existir isómeros geométricos."
+  },
+  {
+    "id": "QI197",
+    "subject": "Química",
+    "topic": "Isomeria",
+    "difficulty": "Difícil",
+    "question": "Uma molécula com um carbono ligado a quatro substituintes diferentes pode apresentar:",
+    "options": {
+      "A": "Isomeria óptica",
+      "B": "Apenas isomeria de cadeia",
+      "C": "Nenhuma possibilidade de estereoisomeria",
+      "D": "Isomeria nuclear"
+    },
+    "correct_answer": "A",
+    "explanation": "Um carbono quiral ligado a quatro grupos diferentes pode originar enantiómeros, formas que são imagens especulares não sobreponíveis."
+  },
+  {
+    "id": "QI198",
+    "subject": "Química",
+    "topic": "Forças intermoleculares",
+    "difficulty": "Fácil",
+    "question": "Qual força intermolecular é particularmente importante entre moléculas de água?",
+    "options": {
+      "A": "Ligação de hidrogénio",
+      "B": "Ligação metálica",
+      "C": "Ligação iónica entre moléculas neutras",
+      "D": "Ligação nuclear"
+    },
+    "correct_answer": "A",
+    "explanation": "As ligações O–H polares e os pares electrónicos do oxigénio permitem ligações de hidrogénio entre moléculas de água."
+  },
+  {
+    "id": "QI199",
+    "subject": "Química",
+    "topic": "Forças intermoleculares",
+    "difficulty": "Média",
+    "question": "Qual substância apresenta predominantemente forças de dispersão de London entre moléculas?",
+    "options": {
+      "A": "Metano (CH₄)",
+      "B": "Água (H₂O)",
+      "C": "Etanol (C₂H₅OH)",
+      "D": "Amoníaco (NH₃)"
+    },
+    "correct_answer": "A",
+    "explanation": "O metano é apolar; entre as suas moléculas predominam as forças de dispersão de London."
+  },
+  {
+    "id": "QI200",
+    "subject": "Química",
+    "topic": "Forças intermoleculares",
+    "difficulty": "Média",
+    "question": "Em geral, aumentando a intensidade das forças intermoleculares, o ponto de ebulição de substâncias moleculares comparáveis tende a:",
+    "options": {
+      "A": "Diminuir",
+      "B": "Aumentar",
+      "C": "Ficar sempre em 0 °C",
+      "D": "Não apresentar qualquer relação"
+    },
+    "correct_answer": "B",
+    "explanation": "Forças intermoleculares mais fortes exigem mais energia para separar as moléculas durante a vaporização."
+  }
+]
