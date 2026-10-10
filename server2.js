@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const { carregarBancoBiologia } = require("./bioia_biologia_loader");
+const { carregarBancoPortugues } = require("./bioia_portugues_loader");
 
 app.use(express.json());
 
@@ -11,46 +12,9 @@ const PHONE_NUMBER_ID = process.env.PHONE_NUMBER_ID;
 const API_VERSION = "v26.0";
 const sessoes = {};
 
-const banco = {
-  portugues: [
-    {
-      tema: "Semântica",
-      pergunta: "Na frase «Embora estivesse cansado, continuou a estudar», «embora» exprime:",
-      opcoes: [
-        { id: "a", texto: "Causa" },
-        { id: "b", texto: "Concessão" },
-        { id: "c", texto: "Consequência" },
-        { id: "d", texto: "Condição" }
-      ],
-      correta: "b",
-      explicacao: "«Embora» introduz uma ideia de concessão: o cansaço não impediu que continuasse a estudar."
-    },
-    {
-      tema: "Estrutura das palavras",
-      pergunta: "Na palavra «infelizmente», qual é a função de «-mente»?",
-      opcoes: [
-        { id: "a", texto: "Sufixo que forma um advérbio" },
-        { id: "b", texto: "Prefixo de negação" },
-        { id: "c", texto: "Desinência verbal" },
-        { id: "d", texto: "Radical da palavra" }
-      ],
-      correta: "a",
-      explicacao: "O sufixo «-mente» forma frequentemente advérbios a partir de adjetivos."
-    },
-    {
-      tema: "Fonética e fonologia",
-      pergunta: "Qual par apresenta palavras que diferem apenas no fonema inicial?",
-      opcoes: [
-        { id: "a", texto: "Casa / casas" },
-        { id: "b", texto: "Menino / rapaz" },
-        { id: "c", texto: "Pato / gato" },
-        { id: "d", texto: "Flor / flores" }
-      ],
-      correta: "c",
-      explicacao: "«Pato» e «gato» diferem no fonema inicial, /p/ e /g/."
-    }
-  ],
-
+  const bancos = {
+  portugues: carregarBancoPortugues(),
+    
   fisica: [
     {
       tema: "Trabalho e energia",
