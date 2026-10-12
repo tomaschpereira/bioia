@@ -1,0 +1,1203 @@
+[
+  {
+    "id": "A-BIO-001",
+    "variant": "A",
+    "number": 1,
+    "subject": "Biologia",
+    "topic": "Célula eucariótica",
+    "difficulty": "facil",
+    "question": "Qual das afirmações caracteriza uma célula eucariótica?",
+    "options": {
+      "A": "Não possui membrana nuclear.",
+      "B": "Possui apenas um tipo de organelo.",
+      "C": "Possui núcleo organizado.",
+      "D": "Tem o material genético disperso no citoplasma.",
+      "E": "É menos complexa do que uma célula procariótica."
+    },
+    "correct_answer": "C",
+    "explanation": "As células eucarióticas possuem um núcleo delimitado por uma membrana nuclear.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-002",
+    "variant": "A",
+    "number": 2,
+    "subject": "Biologia",
+    "topic": "Origem da vida",
+    "difficulty": "media",
+    "question": "Segundo a hipótese de Oparin, os primeiros seres vivos eram:",
+    "options": {
+      "A": "Autotróficos fermentadores.",
+      "B": "Heterotróficos fermentadores.",
+      "C": "Heterotróficos aeróbios.",
+      "D": "Autotróficos anaeróbios.",
+      "E": "Autotróficos fotossintéticos."
+    },
+    "correct_answer": "B",
+    "explanation": "Na hipótese de Oparin, os primeiros seres vivos eram simples e heterotróficos, obtendo energia por processos anaeróbios.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-003",
+    "variant": "A",
+    "number": 3,
+    "subject": "Biologia",
+    "topic": "Transporte através da membrana",
+    "difficulty": "facil",
+    "question": "Em que consiste o transporte activo através da membrana celular?",
+    "options": {
+      "A": "Na passagem de substâncias de uma região de maior concentração para outra de menor concentração.",
+      "B": "Na passagem de substâncias contra o gradiente de concentração, com gasto de energia.",
+      "C": "Na passagem de substâncias sem consumo de energia.",
+      "D": "Na obtenção de concentrações sempre iguais, sem gasto energético.",
+      "E": "Na difusão simples de substâncias através da membrana."
+    },
+    "correct_answer": "B",
+    "explanation": "O transporte activo pode mover substâncias contra o gradiente de concentração e requer energia.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-004",
+    "variant": "A",
+    "number": 4,
+    "subject": "Biologia",
+    "topic": "Evolução biológica",
+    "difficulty": "media",
+    "question": "Qual das opções reúne cientistas associados ao estudo da evolução biológica?",
+    "options": {
+      "A": "Mendel, Newton e Darwin.",
+      "B": "Lamarck, Darwin e Lavoisier.",
+      "C": "Darwin, Wallace e Lamarck.",
+      "D": "Lineu, Aristóteles e Wallace.",
+      "E": "Pasteur, Lavoisier e Darwin."
+    },
+    "correct_answer": "C",
+    "explanation": "Darwin, Wallace e Lamarck são figuras importantes na história das ideias sobre a evolução biológica.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-005",
+    "variant": "A",
+    "number": 5,
+    "subject": "Biologia",
+    "topic": "Sistema digestivo",
+    "difficulty": "media",
+    "question": "Como se classifica o sistema digestivo que possui uma única abertura?",
+    "options": {
+      "A": "Completo.",
+      "B": "Detritívoro.",
+      "C": "Cilíndrico.",
+      "D": "Especializado.",
+      "E": "Incompleto."
+    },
+    "correct_answer": "E",
+    "explanation": "Um sistema digestivo incompleto possui uma única abertura que funciona como boca e ânus.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-006",
+    "variant": "A",
+    "number": 6,
+    "subject": "Biologia",
+    "topic": "Sistema endócrino",
+    "difficulty": "facil",
+    "question": "Qual glândula necessita de iodo para produzir as suas hormonas?",
+    "options": {
+      "A": "Tiróide.",
+      "B": "Pâncreas.",
+      "C": "Ovário.",
+      "D": "Hipófise.",
+      "E": "Timo."
+    },
+    "correct_answer": "A",
+    "explanation": "A tiróide utiliza iodo na produção das hormonas tiroideias.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-007",
+    "variant": "A",
+    "number": 7,
+    "subject": "Biologia",
+    "topic": "Excreção e função renal",
+    "difficulty": "media",
+    "question": "Como se chama o processo pelo qual substâncias úteis filtradas nos rins regressam ao meio interno?",
+    "options": {
+      "A": "Secreção.",
+      "B": "Filtração.",
+      "C": "Reabsorção.",
+      "D": "Penetração.",
+      "E": "Excreção."
+    },
+    "correct_answer": "C",
+    "explanation": "Na reabsorção renal, substâncias úteis passam do filtrado tubular de volta para o sangue.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-008",
+    "variant": "A",
+    "number": 8,
+    "subject": "Biologia",
+    "topic": "Meiose",
+    "difficulty": "media",
+    "question": "Em relação à célula inicial diploide, quantos cromossomas possuem normalmente as células resultantes da meiose?",
+    "options": {
+      "A": "O mesmo número.",
+      "B": "Um quarto do número inicial.",
+      "C": "Um sexto do número inicial.",
+      "D": "Metade do número inicial.",
+      "E": "Um oitavo do número inicial."
+    },
+    "correct_answer": "D",
+    "explanation": "A meiose reduz para metade o número de cromossomas, originando células haploides.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-009",
+    "variant": "A",
+    "number": 9,
+    "subject": "Biologia",
+    "topic": "Fotossíntese",
+    "difficulty": "facil",
+    "question": "Qual é a importância fundamental da fotossíntese?",
+    "options": {
+      "A": "Produzir glicose e dióxido de carbono como produtos finais.",
+      "B": "Produzir oxigénio e dióxido de carbono como produtos finais.",
+      "C": "Converter energia luminosa em energia química, utilizando dióxido de carbono e água.",
+      "D": "Produzir energia química a partir de oxigénio e água.",
+      "E": "Transformar directamente matéria orgânica em matéria inorgânica."
+    },
+    "correct_answer": "C",
+    "explanation": "Na fotossíntese, a energia luminosa é convertida em energia química armazenada em compostos orgânicos.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-010",
+    "variant": "A",
+    "number": 10,
+    "subject": "Biologia",
+    "topic": "Energia potencial gravítica",
+    "difficulty": "media",
+    "question": "Dois corpos estão à mesma altura. Qual possui maior energia potencial gravítica?",
+    "options": {
+      "A": "O corpo de menor massa.",
+      "B": "O corpo de maior massa.",
+      "C": "O corpo de maior densidade, necessariamente.",
+      "D": "Os dois possuem sempre a mesma energia.",
+      "E": "A altura não influencia a energia potencial."
+    },
+    "correct_answer": "B",
+    "explanation": "À mesma altura e no mesmo local, a energia potencial gravítica é proporcional à massa. Nota: este item aborda um conceito de Física.",
+    "review_required": true,
+    "validation_status": "rever_classificacao"
+  },
+  {
+    "id": "A-BIO-011",
+    "variant": "A",
+    "number": 11,
+    "subject": "Biologia",
+    "topic": "Síntese proteica",
+    "difficulty": "media",
+    "question": "Um codão corresponde a uma sequência de três bases do:",
+    "options": {
+      "A": "RNA de transferência (tRNA).",
+      "B": "RNA mensageiro (mRNA).",
+      "C": "RNA ribossómico (rRNA).",
+      "D": "RNA solúvel, exclusivamente.",
+      "E": "RNA condensado."
+    },
+    "correct_answer": "B",
+    "explanation": "Um codão do mRNA é constituído por três nucleótidos e especifica um aminoácido ou um sinal de terminação.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-012",
+    "variant": "A",
+    "number": 12,
+    "subject": "Biologia",
+    "topic": "Relações ecológicas",
+    "difficulty": "media",
+    "question": "Qual das relações ecológicas seguintes ocorre exclusivamente entre indivíduos da mesma espécie?",
+    "options": {
+      "A": "Inquilinismo.",
+      "B": "Herbivoria.",
+      "C": "Parasitismo.",
+      "D": "Sociedade.",
+      "E": "Mutualismo."
+    },
+    "correct_answer": "D",
+    "explanation": "A sociedade é uma relação intra-específica em que indivíduos da mesma espécie cooperam, podendo apresentar divisão de tarefas.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-013",
+    "variant": "A",
+    "number": 13,
+    "subject": "Biologia",
+    "topic": "Virologia",
+    "difficulty": "facil",
+    "question": "Qual é o nome do vírus associado à doença COVID-19?",
+    "options": {
+      "A": "SARS-CoV.",
+      "B": "SARS-Cov-3.",
+      "C": "SARS-CoV-1.",
+      "D": "SARS-CoV-2.",
+      "E": "SARS-COVID."
+    },
+    "correct_answer": "D",
+    "explanation": "A COVID-19 é causada pelo coronavírus SARS-CoV-2.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-014",
+    "variant": "A",
+    "number": 14,
+    "subject": "Biologia",
+    "topic": "Sistema respiratório",
+    "difficulty": "facil",
+    "question": "Em que estruturas dos pulmões ocorre principalmente a troca de gases entre o ar e o sangue?",
+    "options": {
+      "A": "Alvéolos pulmonares.",
+      "B": "Bronquíolos.",
+      "C": "Brônquios.",
+      "D": "Traqueia.",
+      "E": "Laringe."
+    },
+    "correct_answer": "A",
+    "explanation": "Os alvéolos possuem paredes finas e estão rodeados por capilares, permitindo as trocas gasosas.",
+    "review_required": false,
+    "validation_status": "preliminar"
+  },
+  {
+    "id": "A-BIO-015",
+    "variant": "A",
+    "number": 15,
+    "subject": "Biologia",
+    "topic": "Actividade enzimática",
+    "difficulty": "media",
+    "question": "Num gráfico da actividade enzimática em função da temperatura, o que representa o pico de actividade próximo dos 37 °C, conforme descrito no enunciado original?",
+    "options": {
+      "A": "Temperatura mínima.",
+      "B": "Desnaturação da enzima.",
+      "C": "Temperatura óptima.",
+      "D": "Desnaturação do produto.",
+      "E": "Quantidade máxima de substrato."
+    },
+    "correct_answer": "C",
+    "explanation": "O pico representa a temperatura em que a enzima apresenta a maior actividade nas condições do gráfico. A confirmação depende do gráfico original.",
+    "review_required": true,
+    "validation_status": "rever_grafico_original"
+  },
+    {
+    "id": "A-Q16",
+    "variant": "A",
+    "number": 16,
+    "subject": "Química",
+    "topic": "Configuração electrónica",
+    "difficulty": "facil",
+    "question": "A configuração electrónica de um elemento indica 7 electrões de valência, com número quântico principal n = 3. Qual é o seu número atómico?",
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "17",
+      "D": "35",
+      "E": "Outro"
+    },
+    "correct_answer": "C",
+    "explanation": "A configuração termina em 3s² 3p⁵, correspondente ao cloro (Cl), cujo número atómico é 17.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+    {
+    "id": "A-Q17",
+    "variant": "A",
+    "number": 17,
+    "subject": "Química",
+    "topic": "Grupos funcionais",
+    "difficulty": "facil",
+    "question": "Sobre os grupos funcionais em biomoléculas, assinale a alternativa correcta.",
+    "options": {
+      "A": "SH: sulfato",
+      "B": "CH2: cetonilo",
+      "C": "NH2: amino",
+      "D": "COO-: aldeído",
+      "E": "OH: nitro"
+    },
+    "correct_answer": "C",
+    "explanation": "O grupo NH2 é designado grupo amino.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q18",
+    "variant": "A",
+    "number": 18,
+    "subject": "Química",
+    "topic": "Compostos químicos",
+    "difficulty": "facil",
+    "question": "Relativamente à amónia (NH3), assinale a afirmação correcta.",
+    "options": {
+      "A": "É um gás incolor com cheiro adocicado.",
+      "B": "É constituída por um átomo de azoto e três de hidrogénio.",
+      "C": "Não é um composto químico.",
+      "D": "O azoto tem número atómico 26.",
+      "E": "A sua massa molecular relativa é 16."
+    },
+    "correct_answer": "B",
+    "explanation": "A fórmula NH3 indica um átomo de azoto e três átomos de hidrogénio.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q19",
+    "variant": "A",
+    "number": 19,
+    "subject": "Química",
+    "topic": "Concentração mássica",
+    "difficulty": "medio",
+    "question": "Dissolvem-se 15 g de KNO3 para preparar 150 cm³ de solução. Qual é a concentração mássica em g/L?",
+    "options": {
+      "A": "50 g/L",
+      "B": "100 g/L",
+      "C": "150 g/L",
+      "D": "180 g/L",
+      "E": "Outra"
+    },
+    "correct_answer": "B",
+    "explanation": "150 cm³ = 0,150 L. A concentração é 15/0,150 = 100 g/L.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q20",
+    "variant": "A",
+    "number": 20,
+    "subject": "Química",
+    "topic": "Ligações químicas",
+    "difficulty": "facil",
+    "question": "Qual é o tipo de ligação intramolecular presente em CH4, NH3, H2O e HF?",
+    "options": {
+      "A": "Iónica",
+      "B": "Metálica",
+      "C": "Molecular",
+      "D": "Covalente",
+      "E": "Simples"
+    },
+    "correct_answer": "D",
+    "explanation": "Estes compostos apresentam ligações covalentes entre os seus átomos.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q21",
+    "variant": "A",
+    "number": 21,
+    "subject": "Química",
+    "topic": "Aminoácidos",
+    "difficulty": "facil",
+    "question": "Quais são os grupos funcionais presentes em todos os aminoácidos?",
+    "options": {
+      "A": "Sulfidrilo e metileno",
+      "B": "Carboxilo e amino",
+      "C": "Amino e hidroxilo",
+      "D": "M etileno e hidroxilo",
+      "E": "Hidroxilo e carboxilo"
+    },
+    "correct_answer": "B",
+    "explanation": "Os aminoácidos possuem, em geral, um grupo amino e um grupo carboxilo.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q22",
+    "variant": "A",
+    "number": 22,
+    "subject": "Química",
+    "topic": "Sistemas tampão",
+    "difficulty": "medio",
+    "question": "Num sistema tampão ácido carbónico/bicarbonato, o que acontece ao pH quando aumenta a concentração de H+?",
+    "options": {
+      "A": "O pH diminui.",
+      "B": "O pH aumenta.",
+      "C": "O pH permanece sempre inalterado.",
+      "D": "A concentração de CO2 diminui obrigatoriamente.",
+      "E": "O equilíbrio desloca-se sempre para a direita."
+    },
+    "correct_answer": "A",
+    "explanation": "O aumento de H+ tende a diminuir o pH; um sistema tampão atenua essa variação.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q23",
+    "variant": "A",
+    "number": 23,
+    "subject": "Química",
+    "topic": "Ácidos e bases",
+    "difficulty": "facil",
+    "question": "Qual das seguintes espécies é um ácido?",
+    "options": {
+      "A": "HCl, apresentado como base",
+      "B": "NO3-, apresentado como ácido",
+      "C": "H2SO4",
+      "D": "OH-, apresentado como ácido",
+      "E": "H3O+, apresentado como base"
+    },
+    "correct_answer": "C",
+    "explanation": "H2SO4 é a fórmula do ácido sulfúrico.",
+    "review_required": true,
+    "validation_status": "rever_enunci
+    "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q24",
+    "variant": "A",
+    "number": 24,
+    "subject": "Química",
+    "topic": "Solubilidade das bases",
+    "difficulty": "facil",
+    "question": "Qual das seguintes bases é mais solúvel em água?",
+    "options": {
+      "A": "NaOH",
+      "B": "AgOH",
+      "C": "Cu(OH)2",
+      "D": "Ti(OH)2",
+      "E": "Cr(OH)3"
+    },
+    "correct_answer": "A",
+    "explanation": "O hidróxido de sódio é muito solúvel em água.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q25",
+    "variant": "A",
+    "number": 25,
+    "subject": "Química",
+    "topic": "Grupos funcionais orgânicos",
+    "difficulty": "medio",
+    "question": "Identifique os grupos funcionais apresentados nas três estruturas do enunciado original, pela ordem indicada.",
+    "options": {
+      "A": "Aldeído, alceno e álcool",
+      "B": "Alceno, álcool e aldeído",
+      "C": "Cetona, alceno e álcool",
+      "D": "Álcool, cetona e alceno",
+      "E": "Nenhuma das anteriores"
+    },
+    "correct_answer": "A",
+    "explanation": "A resposta depende da identificação das estruturas originais, que não foram disponibilizadas nesta transcrição.",
+    "review_required": true,
+    "validation_status": "rever_estruturas_originais"
+  },
+  {
+    "id": "A-Q26",
+    "variant": "A",
+    "number": 26,
+    "subject": "Química",
+    "topic": "Hidrocarbonetos e isomeria",
+    "difficulty": "medio",
+    "question": "Considere X com fórmula molecular C6H12 e a adição de dois átomos de hidrogénio para formar Y, identificado no enunciado como 2,3-dimetilbutano. Qual afirmação é correcta?",
+    "options": {
+      "A": "X é alcano e Y é alceno.",
+      "B": "Ambos são alcenos.",
+      "C": "Ambos são hidrocarbonetos.",
+      "D": "São isómeros de cadeia.",
+      "E": "Outra."
+    },
+    "correct_answer": "C",
+    "explanation": "X e Y são hidrocarbonetos; a classificação exacta de X depende da sua estrutura original.",
+    "review_required": true,
+    "validation_status": "rever_estrutura_original"
+  },
+  {
+    "id": "A-Q27",
+    "variant": "A",
+    "number": 27,
+    "subject": "Química",
+    "topic": "Configuração electrónica",
+    "difficulty": "facil",
+    "question": "Um elemento possui 7 electrões de valência no nível principal n = 3. Qual é o seu número atómico?",
+    "options": {
+      "A": "7",
+      "B": "15",
+      "C": "17",
+      "D": "35",
+      "E": "Outro"
+    },
+    "correct_answer": "C",
+    "explanation": "O cloro tem configuração de valência 3s² 3p⁵ e número atómico 17.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q28",
+    "variant": "A",
+    "number": 28,
+    "subject": "Química",
+    "topic": "Concentração molar",
+    "difficulty": "medio",
+    "question": "Qual é a molaridade de 400 mL de solução preparada com 450 g de NaI, sabendo que a massa molar é 150 g/mol?",
+    "options": {
+      "A": "4,5 mol/L",
+      "B": "7,5 mol/L",
+      "C": "75 mol/L",
+      "D": "12,7 mol/L",
+      "E": "Outra"
+    },
+    "correct_answer": "B",
+    "explanation": "450/150 = 3 mol; 400 mL = 0,4 L; M = 3/0,4 = 7,5 mol/L.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q29",
+    "variant": "A",
+    "number": 29,
+    "subject": "Química",
+    "topic": "Isomeria funcional",
+    "difficulty": "medio",
+    "question": "Os compostos I e II têm a mesma fórmula molecular, sendo um aldeído e o outro uma cetona. Como se classificam?",
+    "options": {
+      "A": "I é cetona e II é aldeído.",
+      "B": "Ambos são ácidos.",
+      "C": "São isómeros posicionais.",
+      "D": "São isómeros funcionais.",
+      "E": "Outra."
+    },
+    "correct_answer": "D",
+    "explanation": "Um aldeído e uma cetona com a mesma fórmula molecular podem ser isómeros funcionais.",
+    "review_required": true,
+    "validation_status": "rever_estruturas_originais"
+  },
+  {
+    "id": "A-Q30",
+    "variant": "A",
+    "number": 30,
+    "subject": "Química",
+    "topic": "Combustão completa",
+    "difficulty": "medio",
+    "question": "Qual das seguintes equações de combustão completa está incorrectamente balanceada?",
+    "options": {
+      "A": "CH4 + 2 O2 → CO2 + 2 H2O",
+      "B": "C3H8 + 5 O2 → 3 CO2 + 4 H2O",
+      "C": "C4H10 + 13/3 O2 → 4 CO2 + 5 H2O",
+      "D": "C2H6 + 7/2 O2 → 2 CO2 + 3 H2O",
+      "E": "C2H6O + 3 O2 → 2 CO2 + 3 H2O"
+    },
+    "correct_answer": "C",
+    "explanation": "A combustão completa do butano exige 13/2 O2, não 13/3 O2.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+    {
+    "id": "A-Q31",
+    "variant": "A",
+    "number": 31,
+    "subject": "Português",
+    "topic": "Ortografia",
+    "difficulty": "facil",
+    "question": "Assinale a palavra correctamente escrita.",
+    "options": {
+      "A": "custear",
+      "B": "sortiar",
+      "C": "re ciar",
+      "D": "branquiar",
+      "E": "chuver"
+    },
+    "correct_answer": "A",
+    "explanation": "«Custear» está correctamente escrito. O texto da opção C deve ser confirmado no enunciado original.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q32",
+    "variant": "A",
+    "number": 32,
+    "subject": "Português",
+    "topic": "Funções sintácticas",
+    "difficulty": "medio",
+    "question": "Na frase «Antigamente não havia máquinas de lavar», qual é a função sintáctica de «Antigamente»?",
+    "options": {
+      "A": "Sujeito",
+      "B": "Complemento circunstancial de modo",
+      "C": "Complemento circunstancial de tempo",
+      "D": "Complemento indirecto",
+      "E": "Predicado"
+    },
+    "correct_answer": "C",
+    "explanation": "«Antigamente» indica o tempo em que a situação ocorria.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q33",
+    "variant": "A",
+    "number": 33,
+    "subject": "Português",
+    "topic": "Acentuação",
+    "difficulty": "facil",
+    "question": "Qual das palavras apresenta erro de acentuação?",
+    "options": {
+      "A": "lâmpada",
+      "B": "armazém",
+      "C": "república",
+      "D": "saía",
+      "E": "propôr"
+    },
+    "correct_answer": "E",
+    "explanation": "A forma correcta é «propor», sem acento circunflexo.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q34",
+    "variant": "A",
+    "number": 34,
+    "subject": "Português",
+    "topic": "Sinonímia",
+    "difficulty": "facil",
+    "question": "Na frase «Ana ficou feliz», qual é o sinónimo de «feliz»?",
+    "options": {
+      "A": "triste",
+      "B": "fria",
+      "C": "linda",
+      "D": "grata",
+      "E": "contente"
+    },
+    "correct_answer": "E",
+    "explanation": "«Contente» é sinónimo de «feliz».",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q35",
+    "variant": "A",
+    "number": 35,
+    "subject": "Português",
+    "topic": "Pronomes átonos",
+    "difficulty": "medio",
+    "question": "Assinale a frase correcta quanto à colocação dos pronomes átonos.",
+    "options": {
+      "A": "Se mantenha calma.",
+      "B": "Reparam-se todas as marcas de viaturas.",
+      "C": "Quem informou-te?",
+      "D": "Ele estava feliz quando abordei-lhe.",
+      "E": "Se encontramos daqui a pouco."
+    },
+    "correct_answer": "B",
+    "explanation": "A opção B apresenta uma construção possível, mas o enunciado original deve ser consultado para confirmar a resposta esperada.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q36",
+    "variant": "A",
+    "number": 36,
+    "subject": "Português",
+    "topic": "Acentuação e ortografia",
+    "difficulty": "medio",
+    "question": "Assinale a frase em que todas as palavras estão correctamente escritas e acentuadas.",
+    "options": {
+      "A": "As bonecas foram distribuídas as meninas.",
+      "B": "As palavras continham ruido.",
+      "C": "Sempre que saía de casa, a Lurdes colocava os óculos no bolso da saia.",
+      "D": "Havía muita gente.",
+      "E": "A extensão era extensa e a areia era arêia."
+    },
+    "correct_answer": "C",
+    "explanation": "Na opção C, a acentuação das palavras está correcta.",
+    "review_required": true,
+    "validation_status": "rever_transcricao_original"
+  },
+  {
+    "id": "A-Q37",
+    "variant": "A",
+    "number": 37,
+    "subject": "Português",
+    "topic": "Expressões idiomáticas",
+    "difficulty": "facil",
+    "question": "Complete: «Ontem almoçámos num restaurante com comida à ____».",
+    "options": {
+      "A": "descrição",
+      "B": "descreção",
+      "C": "discripção",
+      "D": "discrição",
+      "E": "discreção"
+    },
+    "correct_answer": "D",
+    "explanation": "A expressão correcta é «à discrição».",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q38",
+    "variant": "A",
+    "number": 38,
+    "subject": "Português",
+    "topic": "Expressões e locuções",
+    "difficulty": "medio",
+    "question": "Complete a frase: «Não podemos continuar assim. Isto é ____».",
+    "options": {
+      "A": "demais",
+      "B": "de más",
+      "C": "de nada",
+      "D": "ademais",
+      "E": "de mais"
+    },
+    "correct_answer": "A",
+    "explanation": "A resposta depende do sentido pretendido no enunciado original; confirmar antes de validar.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q39",
+    "variant": "A",
+    "number": 39,
+    "subject": "Português",
+    "topic": "Uso de por que",
+    "difficulty": "medio",
+    "question": "Complete a pergunta com a forma correcta: «____ foram tão cedo?»",
+    "options": {
+      "A": "porque",
+      "B": "por quê",
+      "C": "porquê",
+      "D": "por que",
+      "E": "porque é que"
+    },
+    "correct_answer": "D",
+    "explanation": "«Por que» pode ser usado em perguntas como «Por que foram tão cedo?». A opção E também pode ser gramatical noutro enunciado.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q40",
+    "variant": "A",
+    "number": 40,
+    "subject": "Português",
+    "topic": "Vocabulário",
+    "difficulty": "facil",
+    "question": "Complete: «Ela viveu sempre ____ de muito carinho».",
+    "options": {
+      "A": "norteada",
+      "B": "esfomeada",
+      "C": "rodada",
+      "D": "rodeada",
+      "E": "sorteada"
+    },
+    "correct_answer": "D",
+    "explanation": "A expressão correcta é «rodeada de muito carinho».",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q41",
+    "variant": "A",
+    "number": 41,
+    "subject": "Português",
+    "topic": "Preposições",
+    "difficulty": "facil",
+    "question": "Complete: «Essa campanha foi ____ prol de causas humanitárias».",
+    "options": {
+      "A": "para",
+      "B": "de",
+      "C": "por",
+      "D": "com",
+      "E": "em"
+    },
+    "correct_answer": "E",
+    "explanation": "A locução correcta é «em prol de».",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q42",
+    "variant": "A",
+    "number": 42,
+    "subject": "Português",
+    "topic": "Pontuação",
+    "difficulty": "medio",
+    "question": "Assinale a opção com a pontuação correcta, de acordo com o enunciado original.",
+    "options": {
+      "A": "O seu lugar estava, pois, esquecido, alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "B": "O seu lugar estava pois, esquecido alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "C": "O seu lugar estava, pois, esquecido alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "D": "O seu lugar estava pois, esquecido alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "E": "O seu lugar estava pois, esquecido, alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais."
+    },
+    "correct_answer": "A",
+    "explanation": "A pontuação deve ser confirmada com o texto integral e o contexto original.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q43",
+    "variant": "A",
+    "number": 43,
+    "subject": "Português",
+    "topic": "Ortografia",
+    "difficulty": "medio",
+    "question": "Assinale a alternativa em que a palavra está correctamente escrita.",
+    "options": {
+      "A": "assessor",
+      "B": "justicia",
+      "C": "tenhem",
+      "D": "estrutura",
+      "E": "seje"
+    },
+    "correct_answer": "A",
+    "explanation": "«Assessor» e «estrutura» estão correctamente escritas; como há duas opções correctas, é necessário rever o enunciado original.",
+    "review_required": true,
+    "validation_status": "rever_opcoes"
+  },
+  {
+    "id": "A-Q44",
+    "variant": "A",
+    "number": 44,
+    "subject": "Português",
+    "topic": "Literatura angolana",
+    "difficulty": "facil",
+    "question": "Quem é o autor da obra «Quem me dera ser onda»?",
+    "options": {
+      "A": "Penelas Santana",
+      "B": "João Tala",
+      "C": "João de Melo",
+      "D": "Manuel Rui",
+      "E": "António Jacinto"
+    },
+    "correct_answer": "D",
+    "explanation": "A obra «Quem me dera ser onda» é de Manuel Rui.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q45",
+    "variant": "A",
+    "number": 45,
+    "subject": "Português",
+    "topic": "Funções sintácticas",
+    "difficulty": "medio",
+    "question": "Na frase «O médico operou o paciente», qual é a função sintáctica de «o paciente»?",
+    "options": {
+      "A": "Predicativo do complemento directo",
+      "B": "Complemento directo",
+      "C": "Complemento indirecto",
+      "D": "Agente da passiva",
+      "E": "Predicativo do sujeito"
+    },
+    "correct_answer": "B",
+    "explanation": "«O paciente» é o complemento directo do verbo «operou».",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+    {
+    "id": "A-Q46",
+    "variant": "A",
+    "number": 46,
+    "subject": "Física",
+    "topic": "Corrente eléctrica",
+    "difficulty": "medio",
+    "question": "Assinale a afirmação falsa sobre a corrente eléctrica.",
+    "options": {
+      "A": "Nos metais, a corrente eléctrica é transportada por electrões.",
+      "B": "A intensidade da corrente eléctrica mede-se em ampere.",
+      "C": "A tensão eléctrica pode ser medida com um voltímetro.",
+      "D": "O pólo positivo de um gerador é designado ânodo em qualquer situação.",
+      "E": "Num gerador electrolítico, a designação dos eléctrodos depende do processo considerado."
+    },
+    "correct_answer": "D",
+    "explanation": "A designação ânodo ou cátodo depende do tipo de dispositivo e do processo electroquímico.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q47",
+    "variant": "A",
+    "number": 47,
+    "subject": "Física",
+    "topic": "Campo magnético",
+    "difficulty": "medio",
+    "question": "Qual das afirmações descreve correctamente o campo magnético no interior de uma bobina longa?",
+    "options": {
+      "A": "As linhas de campo são sempre circulares.",
+      "B": "O campo é nulo em todos os pontos.",
+      "C": "As linhas de campo são aproximadamente paralelas e o campo é quase uniforme.",
+      "D": "O campo existe apenas fora da bobina.",
+      "E": "O campo não depende da corrente eléctrica."
+    },
+    "correct_answer": "C",
+    "explanation": "No interior de uma bobina longa, o campo magnético é aproximadamente uniforme.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q48",
+    "variant": "A",
+    "number": 48,
+    "subject": "Física",
+    "topic": "Electromagnetismo",
+    "difficulty": "medio",
+    "question": "A regra da mão direita aplicada a uma bobina permite determinar:",
+    "options": {
+      "A": "A resistência eléctrica do fio.",
+      "B": "A relação entre o sentido da corrente e a polaridade magnética da bobina.",
+      "C": "A massa da bobina.",
+      "D": "A temperatura do fio.",
+      "E": "A capacidade eléctrica da bobina."
+    },
+    "correct_answer": "B",
+    "explanation": "A regra da mão direita relaciona o sentido da corrente com a orientação do campo magnético.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q49",
+    "variant": "A",
+    "number": 49,
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "medio",
+    "question": "Um corpo de massa m sobe um plano inclinado de comprimento l e ângulo α, com velocidade constante e sem atrito. Qual é o trabalho realizado pela força gravítica?",
+    "options": {
+      "A": "mgl sen α",
+      "B": "−mgl sen α",
+      "C": "mgl cos α",
+      "D": "Zero, em qualquer situação.",
+      "E": "Sempre positivo."
+    },
+    "correct_answer": "B",
+    "explanation": "A força gravítica actua para baixo, em sentido oposto ao deslocamento ascendente. O trabalho é −mgl sen α.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q50",
+    "variant": "A",
+    "number": 50,
+    "subject": "Física",
+    "topic": "Calor e energia interna",
+    "difficulty": "medio",
+    "question": "Assinale a afirmação falsa sobre o calor e a energia interna.",
+    "options": {
+      "A": "O calor é energia transferida devido a uma diferença de temperatura.",
+      "B": "A energia interna está relacionada com o estado microscópico do sistema.",
+      "C": "A temperatura pode variar quando um corpo recebe calor.",
+      "D": "Durante uma mudança de estado pode haver transferência de calor sem variar a temperatura.",
+      "E": "A energia interna permanece necessariamente constante durante a fusão."
+    },
+    "correct_answer": "E",
+    "explanation": "Durante a fusão, a energia interna pode variar mesmo que a temperatura permaneça constante.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q51",
+    "variant": "A",
+    "number": 51,
+    "subject": "Física",
+    "topic": "Primeira lei da Termodinâmica",
+    "difficulty": "medio",
+    "question": "Assinale a afirmação falsa sobre a primeira lei da Termodinâmica.",
+    "options": {
+      "A": "Relaciona a variação da energia interna com o calor e o trabalho.",
+      "B": "Expressa a conservação da energia.",
+      "C": "O calor e o trabalho são funções de estado.",
+      "D": "A variação da energia interna depende dos estados inicial e final.",
+      "E": "O calor e o trabalho dependem do processo seguido."
+    },
+    "correct_answer": "C",
+    "explanation": "Calor e trabalho dependem do processo; não são funções de estado.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q52",
+    "variant": "A",
+    "number": 52,
+    "subject": "Física",
+    "topic": "Energia cinética",
+    "difficulty": "facil",
+    "question": "Qual é a energia cinética de um corpo de massa 2 kg que se desloca a 3 m/s?",
+    "options": {
+      "A": "3 J",
+      "B": "6 J",
+      "C": "9 J",
+      "D": "12 J",
+      "E": "18 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ec = ½mv² = ½ × 2 × 3² = 9 J.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q53",
+    "variant": "A",
+    "number": 53,
+    "subject": "Física",
+    "topic": "Ondas mecânicas",
+    "difficulty": "facil",
+    "question": "O que representa a amplitude de uma onda?",
+    "options": {
+      "A": "A velocidade de propagação.",
+      "B": "O afastamento máximo em relação à posição de equilíbrio.",
+      "C": "O número de oscilações por segundo.",
+      "D": "A distância entre duas cristas consecutivas.",
+      "E": "O tempo de uma oscilação."
+    },
+    "correct_answer": "B",
+    "explanation": "A amplitude é o afastamento máximo em relação à posição de equilíbrio.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q54",
+    "variant": "A",
+    "number": 54,
+    "subject": "Física",
+    "topic": "Dispersão da luz",
+    "difficulty": "medio",
+    "question": "A dispersão da luz num prisma ocorre porque:",
+    "options": {
+      "A": "Todas as cores têm sempre a mesma velocidade em qualquer meio.",
+      "B": "A luz não sofre refracção no prisma.",
+      "C": "O índice de refracção depende do comprimento de onda.",
+      "D": "A luz branca não contém várias cores.",
+      "E": "O prisma absorve toda a luz incidente."
+    },
+    "correct_answer": "C",
+    "explanation": "O índice de refracção varia com o comprimento de onda, separando as componentes da luz.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q55",
+    "variant": "A",
+    "number": 55,
+    "subject": "Física",
+    "topic": "Velocidade da luz",
+    "difficulty": "facil",
+    "question": "Qual das afirmações sobre a velocidade da luz é correcta?",
+    "options": {
+      "A": "É sempre nula no vácuo.",
+      "B": "É maior em todos os materiais do que no vácuo.",
+      "C": "É igual em todos os meios.",
+      "D": "No vácuo, é superior à velocidade da luz em meios materiais comuns.",
+      "E": "Não depende do meio de propagação."
+    },
+    "correct_answer": "D",
+    "explanation": "A velocidade da luz no vácuo é aproximadamente 3 × 10⁸ m/s e é superior à sua velocidade em meios materiais comuns.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q56",
+    "variant": "A",
+    "number": 56,
+    "subject": "Física",
+    "topic": "Reflexão do som",
+    "difficulty": "facil",
+    "question": "O eco é um fenómeno resultante:",
+    "options": {
+      "A": "Da absorção total do som.",
+      "B": "Da produção de luz.",
+      "C": "Da reflexão das ondas sonoras num obstáculo adequado.",
+      "D": "Da ausência de propagação sonora.",
+      "E": "Da conversão do som em corrente eléctrica."
+    },
+    "correct_answer": "C",
+    "explanation": "O eco resulta da reflexão do som e da chegada posterior da onda reflectida ao ouvinte.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q57",
+    "variant": "A",
+    "number": 57,
+    "subject": "Física",
+    "topic": "Movimento rectilíneo uniforme",
+    "difficulty": "medio",
+    "question": "Um automóvel desloca-se a 20 m/s durante 10 s, mantendo velocidade constante. Assinale a afirmação falsa.",
+    "options": {
+      "A": "O movimento é rectilíneo uniforme, se a direcção se mantiver.",
+      "B": "A velocidade mantém-se constante.",
+      "C": "A aceleração é nula.",
+      "D": "A força resultante tem necessariamente valor diferente de zero.",
+      "E": "O deslocamento, em movimento rectilíneo, é 200 m."
+    },
+    "correct_answer": "D",
+    "explanation": "Com velocidade constante, a aceleração é nula e a força resultante também é nula.",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q58",
+    "variant": "A",
+    "number": 58,
+    "subject": "Física",
+    "topic": "Segunda lei de Newton",
+    "difficulty": "facil",
+    "question": "Um corpo de 5 kg é puxado por uma força horizontal de 20 N sobre um plano sem atrito. Qual é a sua aceleração?",
+    "options": {
+      "A": "1 m/s²",
+      "B": "2 m/s²",
+      "C": "3 m/s²",
+      "D": "4 m/s²",
+      "E": "5 m/s²"
+    },
+    "correct_answer": "D",
+    "explanation": "Pela segunda lei de Newton, a = F/m = 20/5 = 4 m/s².",
+    "review_required": false,
+    "validation_status": "validado"
+  },
+  {
+    "id": "A-Q59",
+    "variant": "A",
+    "number": 59,
+    "subject": "Física",
+    "topic": "Estados físicos da matéria",
+    "difficulty": "medio",
+    "question": "Assinale a afirmação falsa sobre o estado líquido.",
+    "options": {
+      "A": "Um líquido tem volume definido nas condições habituais.",
+      "B": "Um líquido adopta a forma do recipiente.",
+      "C": "O volume de um líquido diminui necessariamente em qualquer situação.",
+      "D": "As partículas de um líquido podem deslocar-se umas em relação às outras.",
+      "E": "Os líquidos podem exercer pressão sobre as paredes do recipiente."
+    },
+    "correct_answer": "C",
+    "explanation": "O volume de um líquido não diminui necessariamente em qualquer situação.",
+    "review_required": true,
+    "validation_status": "rever_enunciado_original"
+  },
+  {
+    "id": "A-Q60",
+    "variant": "A",
+    "number": 60,
+    "subject": "Física",
+    "topic": "Hidrostática",
+    "difficulty": "facil",
+    "question": "Num fluido em repouso, a força de pressão exercida sobre uma superfície é:",
+    "options": {
+      "A": "Sempre paralela à superfície.",
+      "B": "Sempre nula.",
+      "C": "Perpendicular à superfície.",
+      "D": "Independente da pressão.",
+      "E": "Sempre vertical, qualquer que seja a superfície."
+    },
+    "correct_answer": "C",
+    "explanation": "Num fluido em repouso, a força de pressão actua perpendicularmente à superfície.",
+    "review_required": false,
+    "validation_status": "validado"
+  }
+]
