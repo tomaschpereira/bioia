@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "F-01",
+    "topic": "Ortografia",
+    "difficulty": "Médio",
+    "question": "Assinale a palavra que apresenta erro de escrita:",
+    "options": {
+      "A": "mecher",
+      "B": "hesitar",
+      "C": "faixa",
+      "D": "assembleia",
+      "E": "cortesia"
+    },
+    "correct_answer": "A",
+    "explanation": "A forma correcta é “mexer”, com x.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-02",
+    "topic": "Texto narrativo",
+    "difficulty": "Médio",
+    "question": "Texto narrativo possui três elementos estruturais:",
+    "options": {
+      "A": "personagem, espaço, acontecimento",
+      "B": "métrica, metáfora, rima",
+      "C": "autor, actor, público",
+      "D": "rima, métrica, ritmo",
+      "E": "personagem, autor, espaço"
+    },
+    "correct_answer": "A",
+    "explanation": "A narrativa organiza-se em torno de personagens, espaço e acontecimentos (entre outros elementos).",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-03",
+    "topic": "Regência verbal",
+    "difficulty": "Médio",
+    "question": "Assinale a frase que apresenta regência correcta relativamente à norma padrão:",
+    "options": {
+      "A": "Todos aqueles que desobedecerem o regulamento serão punidos.",
+      "B": "O bebé ainda carece com muitos cuidados.",
+      "C": "O Director presidiu na cerimónia.",
+      "D": "Agradeço muito aos meus filhos.",
+      "E": "Têm a obrigação de obedecerem o regulamento."
+    },
+    "correct_answer": "D",
+    "explanation": "“Agradecer” admite complemento introduzido por “a”: agradecer algo a alguém. A questão pode admitir discussão normativa quanto a outras opções; validar com gabarito oficial.",
+    "review_required": true,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-04",
+    "topic": "Regência verbal",
+    "difficulty": "Médio",
+    "question": "Assinale a frase que não apresenta erros de regência relativamente à norma padrão:",
+    "options": {
+      "A": "Peço desculpa pelo atraso, mas havia muito engarrafamento nesta via.",
+      "B": "Farta de esperar no namorado, a rapariga decidiu ir embora.",
+      "C": "O filho perguntou na mãe se podia sair com os amigos.",
+      "D": "Tenho medo para atravessar a rua à noite por falta de iluminação.",
+      "E": "Separou-se há muito tempo com a mulher."
+    },
+    "correct_answer": "A",
+    "explanation": "A construção “pedir desculpa por” está correcta.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-05",
+    "topic": "Sintaxe",
+    "difficulty": "Médio",
+    "question": "Na frase “Dá-se o nome de cardume a um conjunto de peixes”, identifique a função sintáctica de “a um conjunto de peixes”.",
+    "options": {
+      "A": "Nome predicativo do complemento directo",
+      "B": "Complemento indirecto",
+      "C": "Sujeito",
+      "D": "Complemento directo",
+      "E": "Nome predicativo do sujeito"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão introduzida por “a” completa o sentido de “dar o nome a” e funciona como complemento indirecto.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-06",
+    "topic": "Preposições",
+    "difficulty": "Médio",
+    "question": "Complete: “___ que motivo é que o livro ___ Saramago não foi publicado ___ aquela editora?”",
+    "options": {
+      "A": "com / de / por",
+      "B": "por / de / com",
+      "C": "por / para / por",
+      "D": "por / para / em",
+      "E": "por / de / por"
+    },
+    "correct_answer": "E",
+    "explanation": "A sequência adequada é “por que motivo”, “livro de Saramago”, “publicado por aquela editora”.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-07",
+    "topic": "Sintaxe",
+    "difficulty": "Médio",
+    "question": "Indique a função sintáctica de “Antigamente” na frase “Antigamente não havia máquinas de lavar.”",
+    "options": {
+      "A": "Sujeito",
+      "B": "Complemento circunstancial de modo",
+      "C": "Complemento circunstancial de tempo",
+      "D": "Complemento indirecto",
+      "E": "Predicado"
+    },
+    "correct_answer": "C",
+    "explanation": "“Antigamente” situa a acção no tempo.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-08",
+    "topic": "Vocabulário",
+    "difficulty": "Médio",
+    "question": "Complete: “Ele diz que ___ um arrepio, quando olhou para baixo.”",
+    "options": {
+      "A": "concedeu",
+      "B": "principiou",
+      "C": "sentiu",
+      "D": "abriu",
+      "E": "deu"
+    },
+    "correct_answer": "C",
+    "explanation": "A expressão idiomática correcta é “sentiu um arrepio”.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-09",
+    "topic": "Acentuação",
+    "difficulty": "Médio",
+    "question": "Assinale a palavra que apresenta erro de acentuação:",
+    "options": {
+      "A": "lâmpada",
+      "B": "armazém",
+      "C": "república",
+      "D": "saía",
+      "E": "propôr"
+    },
+    "correct_answer": "E",
+    "explanation": "Na ortografia actual escreve-se “propor”, sem acento.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-10",
+    "topic": "Ortografia",
+    "difficulty": "Médio",
+    "question": "Assinale a palavra que não apresenta erro de escrita:",
+    "options": {
+      "A": "custear",
+      "B": "sortiar",
+      "C": "recriar",
+      "D": "branquiar",
+      "E": "chuver"
+    },
+    "correct_answer": "A",
+    "explanation": "Questão marcada para revisão: “custear” e “recriar” são ambas formas correctas, pelo que o item parece ter mais de uma resposta válida.",
+    "review_required": true,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-11",
+    "topic": "Pronominalização",
+    "difficulty": "Médio",
+    "question": "Identifique a alternativa que apresenta erros de pronominalização:",
+    "options": {
+      "A": "Não tenho-a visto ultimamente.",
+      "B": "Não a tenho visto ultimamente.",
+      "C": "Se não gostas dos bifes assim, podes pedi-los bem passados.",
+      "D": "Dar-lhe-ei toda a informação amanhã.",
+      "E": "Vou fazer-lhe um café imediatamente."
+    },
+    "correct_answer": "A",
+    "explanation": "A palavra negativa “não” exige próclise: “Não a tenho visto”.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-12",
+    "topic": "Pronominalização",
+    "difficulty": "Médio",
+    "question": "Indique a alternativa onde a pronominalização está correcta:",
+    "options": {
+      "A": "Peço-lhe que venha falar comigo.",
+      "B": "Lhe peço que venha falar comigo.",
+      "C": "Lhe pedirei que venha falar comigo.",
+      "D": "Pedirei-lhe que venha falar comigo.",
+      "E": "Me empresta uma caneta para assinar a lista de presença."
+    },
+    "correct_answer": "A",
+    "explanation": "Na norma padrão, “Peço-lhe” é a colocação adequada neste contexto.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-13",
+    "topic": "Pontuação",
+    "difficulty": "Médio",
+    "question": "Qual das frases está correctamente pontuada?",
+    "options": {
+      "A": "Agostinho moço dos seus vinte anos apesar de não parecer vagueava, através de lembranças da infância.",
+      "B": "Agostinho, moço dos seus vinte anos apesar de não parecer, vagueava através de lembranças da infância.",
+      "C": "Agostinho, moço dos seus vinte anos, apesar de não parecer, vagueava através de lembranças da infância.",
+      "D": "Agostinho, moço dos seus vinte anos apesar de, não, parecer vagueava através, de lembranças da infância.",
+      "E": "Agostinho moço dos seus vinte anos, apesar de não parecer vagueava através, de lembranças da infância."
+    },
+    "correct_answer": "C",
+    "explanation": "As expressões explicativas/intercaladas devem ser delimitadas por vírgulas.",
+    "review_required": true,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-14",
+    "topic": "Registo de língua",
+    "difficulty": "Médio",
+    "question": "Identifique o registo de língua: “Me dá só banana.”",
+    "options": {
+      "A": "corrente",
+      "B": "familiar",
+      "C": "cuidada",
+      "D": "técnica",
+      "E": "literária"
+    },
+    "correct_answer": "B",
+    "explanation": "A formulação coloquial é característica do registo familiar.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-15",
+    "topic": "Regência verbal",
+    "difficulty": "Médio",
+    "question": "Assinale a frase que não apresenta erros de regência relativamente à norma padrão:",
+    "options": {
+      "A": "Peço desculpa pelo atraso, mas havia muito engarrafamento nesta via.",
+      "B": "Farta de esperar no namorado, a rapariga decidiu ir embora.",
+      "C": "O filho perguntou na mãe se podia sair com os amigos.",
+      "D": "Tenho medo para atravessar a rua à noite por falta de iluminação.",
+      "E": "Separou-se há muito tempo com a mulher."
+    },
+    "correct_answer": "A",
+    "explanation": "A construção “pedir desculpa por” está correcta.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-16",
+    "topic": "Estrutura electrónica",
+    "difficulty": "Médio",
+    "question": "A configuração electrónica correspondente a um gás nobre do 3.º período é:",
+    "options": {
+      "A": "[He] 2s² 2p⁶",
+      "B": "[Ne] 3s² 3p⁶",
+      "C": "[Ar] 4s² 3d¹⁰ 4p⁶",
+      "D": "[Kr] …",
+      "E": "[Xe] …"
+    },
+    "correct_answer": "B",
+    "explanation": "O gás nobre do 3.º período é o árgon, com configuração [Ne] 3s² 3p⁶.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-17",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "O elemento com maior raio atómico entre Na, Mg, Al e Si é:",
+    "options": {
+      "A": "Na",
+      "B": "Mg",
+      "C": "Al",
+      "D": "Si",
+      "E": "Iguais"
+    },
+    "correct_answer": "A",
+    "explanation": "Ao longo de um período, o raio atómico geralmente diminui da esquerda para a direita.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-18",
+    "topic": "Electronegatividade",
+    "difficulty": "Médio",
+    "question": "O elemento com maior electronegatividade é:",
+    "options": {
+      "A": "F",
+      "B": "Cl",
+      "C": "Br",
+      "D": "I",
+      "E": "At"
+    },
+    "correct_answer": "A",
+    "explanation": "O flúor é o elemento mais electronegativo.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-19",
+    "topic": "Massa molar",
+    "difficulty": "Médio",
+    "question": "A massa molar do NH₃ é:",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "correct_answer": "D",
+    "explanation": "14 + 3×1 = 17 g/mol.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-20",
+    "topic": "Quantidade de matéria",
+    "difficulty": "Médio",
+    "question": "A quantidade de partículas contida em 0,50 mol de CO₂ é:",
+    "options": {
+      "A": "11,2 L a CNTP",
+      "B": "22,4 L a CNTP",
+      "C": "3,01×10²³ moléculas",
+      "D": "6,02×10²³ moléculas",
+      "E": "1,00×10²³ moléculas"
+    },
+    "correct_answer": "C",
+    "explanation": "0,50 mol corresponde a aproximadamente 0,50×6,02×10²³ = 3,01×10²³ moléculas.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-21",
+    "topic": "Sólidos",
+    "difficulty": "Médio",
+    "question": "O tipo de sólido representado pelo diamante é:",
+    "options": {
+      "A": "Iónico",
+      "B": "Metálico",
+      "C": "Molecular",
+      "D": "Covalente de rede",
+      "E": "Amorfo"
+    },
+    "correct_answer": "D",
+    "explanation": "O diamante forma uma rede tridimensional de ligações covalentes.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-22",
+    "topic": "Soluções tampão",
+    "difficulty": "Médio",
+    "question": "A solução tampão H₂CO₃/HCO₃⁻ resiste a variações de pH porque:",
+    "options": {
+      "A": "Neutraliza bases apenas",
+      "B": "Neutraliza ácidos apenas",
+      "C": "Contém um ácido fraco e a sua base conjugada",
+      "D": "É um ácido forte",
+      "E": "É uma base forte"
+    },
+    "correct_answer": "C",
+    "explanation": "Uma solução tampão contém um ácido fraco e a sua base conjugada.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-23",
+    "topic": "Ácidos e bases",
+    "difficulty": "Médio",
+    "question": "Para uma solução de HCl 0,010 M, a concentração de H⁺ é:",
+    "options": {
+      "A": "0,010 M",
+      "B": "0,020 M",
+      "C": "1,0 M",
+      "D": "10 M",
+      "E": "0,0010 M"
+    },
+    "correct_answer": "A",
+    "explanation": "O HCl é um ácido forte monoprotónico; idealmente [H⁺] ≈ 0,010 M.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-24",
+    "topic": "Estequiometria",
+    "difficulty": "Médio",
+    "question": "Na combustão completa do butano (C₄H₁₀), o coeficiente de O₂ para 1 mol de C₄H₁₀ é:",
+    "options": {
+      "A": "6,5",
+      "B": "5,0",
+      "C": "4,0",
+      "D": "3,0",
+      "E": "2,5"
+    },
+    "correct_answer": "A",
+    "explanation": "C₄H₁₀ + 6,5 O₂ → 4 CO₂ + 5 H₂O.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-25",
+    "topic": "Hidrocarbonetos",
+    "difficulty": "Médio",
+    "question": "Um alceno corresponde à fórmula molecular:",
+    "options": {
+      "A": "C₂H₆",
+      "B": "C₃H₈",
+      "C": "C₂H₄",
+      "D": "C₄H₁₀",
+      "E": "C₆H₆"
+    },
+    "correct_answer": "C",
+    "explanation": "A fórmula geral dos alcenos acíclicos com uma ligação dupla é CₙH₂ₙ; C₂H₄ é um exemplo.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-26",
+    "topic": "Forças intermoleculares",
+    "difficulty": "Médio",
+    "question": "A força intermolecular dominante na água líquida (H₂O) é:",
+    "options": {
+      "A": "Dipolo-induzido",
+      "B": "Ligações de hidrogénio",
+      "C": "Dipolo permanente",
+      "D": "Forças metálicas",
+      "E": "Repulsões coulombianas"
+    },
+    "correct_answer": "B",
+    "explanation": "As ligações de hidrogénio são a interacção intermolecular característica e dominante na água.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-27",
+    "topic": "Gases",
+    "difficulty": "Médio",
+    "question": "Para 22 g de um gás desconhecido, sabendo que V=24,6 L, P=0,5 atm e T=27 °C, a massa molar aproximada é:",
+    "options": {
+      "A": "16",
+      "B": "28",
+      "C": "30",
+      "D": "42",
+      "E": "44"
+    },
+    "correct_answer": "E",
+    "explanation": "Pela equação PV=nRT, n≈0,5×24,6/(0,082×300)≈0,50 mol; M≈22/0,50≈44 g/mol.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-28",
+    "topic": "Soluções",
+    "difficulty": "Médio",
+    "question": "O termo “solução verdadeira” refere-se a:",
+    "options": {
+      "A": "Colóide",
+      "B": "Suspensão",
+      "C": "Emulsão",
+      "D": "Mistura homogénea",
+      "E": "Mistura heterogénea"
+    },
+    "correct_answer": "D",
+    "explanation": "Uma solução verdadeira é uma mistura homogénea.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-29",
+    "topic": "Oxidação-redução",
+    "difficulty": "Médio",
+    "question": "No composto Na₂SO₄, o número de oxidação do enxofre (S) é:",
+    "options": {
+      "A": "+2",
+      "B": "+4",
+      "C": "+6",
+      "D": "−2",
+      "E": "0"
+    },
+    "correct_answer": "C",
+    "explanation": "2(+1)+S+4(−2)=0, logo S=+6.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-30",
+    "topic": "Afinidade electrónica",
+    "difficulty": "Médio",
+    "question": "A afinidade electrónica mais exotérmica observa-se tipicamente em:",
+    "options": {
+      "A": "Metais alcalinos",
+      "B": "Halogéneos",
+      "C": "Gases nobres",
+      "D": "Alcalino-terrosos",
+      "E": "Actinídeos"
+    },
+    "correct_answer": "B",
+    "explanation": "Os halogéneos tendem a libertar bastante energia ao ganhar um electrão.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-31",
+    "topic": "Magnetismo",
+    "difficulty": "Médio",
+    "question": "Um condutor rectilíneo é percorrido por corrente eléctrica constante. O campo magnético criado:",
+    "options": {
+      "A": "É nulo",
+      "B": "Tem direcção paralela ao fio",
+      "C": "Forma círculos concêntricos ao redor do fio",
+      "D": "É independente da corrente",
+      "E": "Diminui com o quadrado da distância"
+    },
+    "correct_answer": "C",
+    "explanation": "As linhas do campo magnético em torno de um fio rectilíneo são círculos concêntricos.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-32",
+    "topic": "Indução electromagnética",
+    "difficulty": "Médio",
+    "question": "Quando um íman se aproxima de uma bobina ligada a um amperímetro, observa-se:",
+    "options": {
+      "A": "Corrente contínua constante",
+      "B": "Corrente induzida variável",
+      "C": "Corrente alternada permanente",
+      "D": "Aumento da resistência do fio",
+      "E": "Diminuição da força magnética"
+    },
+    "correct_answer": "B",
+    "explanation": "A variação do fluxo magnético induz corrente enquanto o íman se move.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-33",
+    "topic": "Transformadores",
+    "difficulty": "Médio",
+    "question": "Um transformador ideal reduz a tensão de 220 V para 110 V. O número de espiras do enrolamento secundário é:",
+    "options": {
+      "A": "O dobro do primário",
+      "B": "Metade do primário",
+      "C": "Igual ao primário",
+      "D": "Três vezes maior",
+      "E": "Inversamente proporcional à corrente"
+    },
+    "correct_answer": "B",
+    "explanation": "Num transformador ideal, a razão de espiras é igual à razão das tensões: 110/220 = 1/2.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-34",
+    "topic": "Força magnética",
+    "difficulty": "Médio",
+    "question": "A força que actua sobre uma carga em movimento num campo magnético é:",
+    "options": {
+      "A": "Paralela à velocidade",
+      "B": "Perpendicular à velocidade e ao campo",
+      "C": "No mesmo sentido do campo",
+      "D": "Sempre nula",
+      "E": "Proporcional apenas à carga"
+    },
+    "correct_answer": "B",
+    "explanation": "A força magnética é perpendicular à velocidade e ao campo quando não é nula.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-35",
+    "topic": "Trabalho",
+    "difficulty": "Médio",
+    "question": "O trabalho realizado por uma força constante é:",
+    "options": {
+      "A": "O produto da força pelo deslocamento e pelo cosseno do ângulo entre ambos",
+      "B": "Sempre igual a zero",
+      "C": "Proporcional à energia cinética inicial",
+      "D": "Independente da direcção",
+      "E": "Apenas função da massa"
+    },
+    "correct_answer": "A",
+    "explanation": "W = F·d·cos(θ).",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-36",
+    "topic": "Potência",
+    "difficulty": "Médio",
+    "question": "A potência média é:",
+    "options": {
+      "A": "O inverso do trabalho realizado",
+      "B": "O trabalho dividido pelo tempo",
+      "C": "O produto do tempo pela força",
+      "D": "Constante em qualquer sistema",
+      "E": "Independente da energia"
+    },
+    "correct_answer": "B",
+    "explanation": "Potência média é trabalho realizado dividido pelo intervalo de tempo.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-37",
+    "topic": "Transferência de calor",
+    "difficulty": "Médio",
+    "question": "O calor pode ser transferido por:",
+    "options": {
+      "A": "Condução apenas",
+      "B": "Condução, convecção e radiação",
+      "C": "Radiação apenas",
+      "D": "Corrente eléctrica",
+      "E": "Difusão molecular exclusivamente"
+    },
+    "correct_answer": "B",
+    "explanation": "Os três mecanismos clássicos de transferência de calor são condução, convecção e radiação.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-38",
+    "topic": "Conservação da energia",
+    "difficulty": "Médio",
+    "question": "Num sistema isolado, a energia total:",
+    "options": {
+      "A": "Aumenta continuamente",
+      "B": "Diminui com o tempo",
+      "C": "Mantém-se constante",
+      "D": "Depende da pressão",
+      "E": "É função apenas da massa total"
+    },
+    "correct_answer": "C",
+    "explanation": "A energia total de um sistema isolado conserva-se.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-39",
+    "topic": "Ondas sonoras",
+    "difficulty": "Médio",
+    "question": "Uma onda sonora é:",
+    "options": {
+      "A": "Longitudinal e mecânica",
+      "B": "Transversal e electromagnética",
+      "C": "Transversal e mecânica",
+      "D": "Longitudinal e electromagnética",
+      "E": "Uma vibração transversal no vácuo"
+    },
+    "correct_answer": "A",
+    "explanation": "O som é uma onda mecânica e, no ar, longitudinal.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-40",
+    "topic": "Ondas",
+    "difficulty": "Médio",
+    "question": "O comprimento de onda é definido como:",
+    "options": {
+      "A": "A distância entre dois pontos consecutivos em fase",
+      "B": "A amplitude máxima da onda",
+      "C": "A frequência dividida pela velocidade",
+      "D": "O tempo de um ciclo",
+      "E": "O número de oscilações por segundo"
+    },
+    "correct_answer": "A",
+    "explanation": "O comprimento de onda é a distância entre pontos consecutivos que estão em fase.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-41",
+    "topic": "Refração",
+    "difficulty": "Médio",
+    "question": "Quando uma onda passa de um meio para outro com velocidade diferente, ocorre:",
+    "options": {
+      "A": "Reflexão total",
+      "B": "Refração",
+      "C": "Absorção",
+      "D": "Dispersão",
+      "E": "Interferência destrutiva"
+    },
+    "correct_answer": "B",
+    "explanation": "A mudança de meio com alteração da velocidade caracteriza a refracção.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-42",
+    "topic": "Luz",
+    "difficulty": "Médio",
+    "question": "A luz branca é composta por:",
+    "options": {
+      "A": "Um único comprimento de onda",
+      "B": "Vários comprimentos de onda que formam o espectro visível",
+      "C": "Somente luz azul e vermelha",
+      "D": "Ondas sonoras e luminosas",
+      "E": "Energia térmica pura"
+    },
+    "correct_answer": "B",
+    "explanation": "A luz branca contém uma gama de comprimentos de onda visíveis.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-43",
+    "topic": "Reflexão",
+    "difficulty": "Médio",
+    "question": "A reflexão da luz obedece à lei:",
+    "options": {
+      "A": "O ângulo de incidência é igual ao ângulo de reflexão",
+      "B": "O ângulo de incidência é sempre zero",
+      "C": "A luz reflecte-se apenas em espelhos planos",
+      "D": "A luz é absorvida totalmente",
+      "E": "O raio reflectido é perpendicular à superfície"
+    },
+    "correct_answer": "A",
+    "explanation": "O ângulo de incidência é igual ao ângulo de reflexão, medidos relativamente à normal.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-44",
+    "topic": "Leis de Newton",
+    "difficulty": "Médio",
+    "question": "A força resultante sobre um corpo é nula. Isso significa que:",
+    "options": {
+      "A": "O corpo está em repouso ou em movimento rectilíneo uniforme",
+      "B": "O corpo acelera",
+      "C": "O corpo está em rotação",
+      "D": "O corpo muda de massa",
+      "E": "O trabalho realizado é máximo"
+    },
+    "correct_answer": "A",
+    "explanation": "Força resultante nula implica aceleração nula; o corpo mantém o estado de movimento.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-45",
+    "topic": "Fluidos",
+    "difficulty": "Médio",
+    "question": "A pressão num ponto de um fluido em repouso depende de:",
+    "options": {
+      "A": "Densidade, aceleração da gravidade e profundidade",
+      "B": "Temperatura e volume",
+      "C": "Massa e tempo",
+      "D": "Área e velocidade",
+      "E": "Energia potencial"
+    },
+    "correct_answer": "A",
+    "explanation": "A pressão hidrostática depende de ρ, g e profundidade (além da pressão à superfície).",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-46",
+    "topic": "Evolução",
+    "difficulty": "Médio",
+    "question": "A teoria da evolução de Darwin apoiou-se sobretudo em:",
+    "options": {
+      "A": "Introdução do conceito de selecção natural",
+      "B": "Leis de Mendel",
+      "C": "Negação da herança de caracteres adquiridos",
+      "D": "Ênfase em mutações",
+      "E": "Genética molecular avançada"
+    },
+    "correct_answer": "A",
+    "explanation": "A selecção natural é a ideia central associada à teoria de Darwin.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-47",
+    "topic": "Circulação sanguínea",
+    "difficulty": "Médio",
+    "question": "Em relação à circulação sanguínea, é correcto afirmar:",
+    "options": {
+      "A": "As paredes internas do coração permitem difusão de gases significativa.",
+      "B": "A separação das cavidades impede o controlo do volume sanguíneo.",
+      "C": "As válvulas permitem refluxo do sangue para a cavidade anterior.",
+      "D": "A musculatura espessa do ventrículo esquerdo aumenta a pressão do sangue venoso.",
+      "E": "O sangue oxigenado entra no coração pela veia pulmonar e o sangue rico em CO₂ entra nos pulmões pela artéria pulmonar."
+    },
+    "correct_answer": "E",
+    "explanation": "As veias pulmonares levam sangue oxigenado ao coração; as artérias pulmonares levam sangue pobre em oxigénio aos pulmões.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-48",
+    "topic": "Membrana celular",
+    "difficulty": "Médio",
+    "question": "Um factor externo que influencia o funcionamento da membrana celular é:",
+    "options": {
+      "A": "Glicose",
+      "B": "Cálcio",
+      "C": "Fósforo",
+      "D": "Temperatura",
+      "E": "Ácido láctico"
+    },
+    "correct_answer": "D",
+    "explanation": "A temperatura afecta a fluidez e o funcionamento da membrana.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-49",
+    "topic": "Genética",
+    "difficulty": "Médio",
+    "question": "Num casal AA × BB (sistema ABO), a probabilidade de terem um filho do grupo A é:",
+    "options": {
+      "A": "2/4",
+      "B": "1/4",
+      "C": "1/2",
+      "D": "0",
+      "E": "2/1"
+    },
+    "correct_answer": "D",
+    "explanation": "Assumindo AA e BB como homozigóticos IAIA e IBIB, todos os filhos seriam AB; probabilidade do grupo A = 0.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-50",
+    "topic": "Transporte vegetal",
+    "difficulty": "Médio",
+    "question": "Em relação ao transporte de seiva nas plantas, é correcto afirmar:",
+    "options": {
+      "A": "A seiva bruta desloca-se das raízes para as folhas através do xilema (lenho).",
+      "B": "A seiva elaborada desloca-se das folhas para as raízes pelo xilema.",
+      "C": "A seiva bruta desloca-se das folhas para as raízes pelo floema.",
+      "D": "A seiva elaborada desloca-se das raízes para as folhas pelo xilema.",
+      "E": "A seiva bruta desloca-se das folhas para as raízes pelo xilema."
+    },
+    "correct_answer": "A",
+    "explanation": "O xilema transporta principalmente água e sais minerais das raízes para as partes aéreas.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-51",
+    "topic": "Metabolismo vegetal",
+    "difficulty": "Médio",
+    "question": "A forma de armazenamento de energia nos vegetais é:",
+    "options": {
+      "A": "Glicose",
+      "B": "Frutose",
+      "C": "Glicogénio",
+      "D": "Amido",
+      "E": "Celulose"
+    },
+    "correct_answer": "D",
+    "explanation": "As plantas armazenam energia sobretudo sob a forma de amido.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-52",
+    "topic": "Sistema endócrino",
+    "difficulty": "Médio",
+    "question": "As hormonas progesterona, adrenalina, insulina e testosterona são produzidas, respectivamente, por:",
+    "options": {
+      "A": "Ovários, testículos, pâncreas e supra-renais",
+      "B": "Ovários, testículos, supra-renais e pâncreas",
+      "C": "Testículos, ovários, supra-renais e pâncreas",
+      "D": "Testículos, supra-renais, pâncreas e ovários",
+      "E": "Ovários, supra-renais, pâncreas e testículos"
+    },
+    "correct_answer": "E",
+    "explanation": "A sequência pretendida corresponde a ovários, supra-renais, pâncreas e testículos; a ordem da pergunta e das opções não coincide de forma inequívoca. Rever antes de usar como gabarito.",
+    "review_required": true,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-53",
+    "topic": "Síntese proteica",
+    "difficulty": "Médio",
+    "question": "Na síntese proteica, um codão “stop” do mRNA é:",
+    "options": {
+      "A": "UUU",
+      "B": "UGA",
+      "C": "ACA",
+      "D": "GCC",
+      "E": "CGA"
+    },
+    "correct_answer": "B",
+    "explanation": "UGA é um dos três codões de terminação.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-54",
+    "topic": "Meio extracelular",
+    "difficulty": "Médio",
+    "question": "O meio extracelular em que se encontra a célula é predominantemente:",
+    "options": {
+      "A": "Hidrogénio e oxigénio livres",
+      "B": "Glicolipídico",
+      "C": "Hidrofílico (aquoso)",
+      "D": "Hidrofóbico",
+      "E": "Fosfolipídico"
+    },
+    "correct_answer": "C",
+    "explanation": "O meio extracelular é predominantemente aquoso.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-55",
+    "topic": "Membrana plasmática",
+    "difficulty": "Médio",
+    "question": "O colesterol da membrana plasmática localiza-se:",
+    "options": {
+      "A": "Apenas na face interna",
+      "B": "Apenas na face externa",
+      "C": "Em nenhuma das faces",
+      "D": "Na face interna e na externa",
+      "E": "Apenas no citosol"
+    },
+    "correct_answer": "D",
+    "explanation": "O colesterol intercala-se na bicamada lipídica; a distribuição entre folhetos pode variar.",
+    "review_required": true,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-56",
+    "topic": "Genética celular",
+    "difficulty": "Médio",
+    "question": "Uma célula diplóide é aquela em que:",
+    "options": {
+      "A": "O cariótipo é formado por dois conjuntos haplóides (2n)",
+      "B": "Existem dois cromossomas não homólogos apenas",
+      "C": "Cada cromossoma possui dois centrómeros",
+      "D": "O cariótipo é formado por dois conjuntos diplóides (4n)",
+      "E": "Não existe tal célula"
+    },
+    "correct_answer": "A",
+    "explanation": "Uma célula diplóide possui dois conjuntos de cromossomas, designados 2n.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-57",
+    "topic": "Transporte de gases",
+    "difficulty": "Médio",
+    "question": "Qual das reacções ocorre nos capilares dos pulmões?",
+    "options": {
+      "A": "H₂O + CO₂ → H₂CO₃ → H⁺ + HCO₃⁻",
+      "B": "HCO₃⁻ + H⁺ → H₂CO₃ → H₂O + CO₂",
+      "C": "CO₂ + H₂O → H₂CO₃",
+      "D": "H₂CO₃ → H⁺ + HCO₃⁻",
+      "E": "H₂CO₃ + CO₂ → H₂O + 2 CO₂"
+    },
+    "correct_answer": "B",
+    "explanation": "Nos capilares pulmonares, o bicarbonato combina-se com H⁺ e forma CO₂, que é expirado.",
+    "review_required": true,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-58",
+    "topic": "Teorias da evolução",
+    "difficulty": "Médio",
+    "question": "O uso contínuo de uma estrutura levando ao seu desenvolvimento, como nas rãs nadadoras, é explicado pela:",
+    "options": {
+      "A": "Teoria de Charles Darwin",
+      "B": "Teoria neutralista",
+      "C": "Teoria de Lamarck",
+      "D": "Teoria sintética",
+      "E": "Teoria do equilíbrio pontuado"
+    },
+    "correct_answer": "C",
+    "explanation": "A ideia de uso e desuso é associada à teoria de Lamarck.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-59",
+    "topic": "Sistema nervoso",
+    "difficulty": "Médio",
+    "question": "Os órgãos que, em conjunto, constituem o encéfalo são:",
+    "options": {
+      "A": "Cerebelo, axónio e bolbo raquidiano",
+      "B": "Cérebro, cerebelo e medula espinal",
+      "C": "Cérebro, cerebelo e nervos",
+      "D": "Cérebro, cerebelo e bolbo raquidiano",
+      "E": "Cerebelo, medula espinal e bolbo raquidiano"
+    },
+    "correct_answer": "D",
+    "explanation": "A opção pretendida é cérebro, cerebelo e bolbo raquidiano.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  },
+  {
+    "id": "F-60",
+    "topic": "Fotossíntese",
+    "difficulty": "Médio",
+    "question": "A fotossíntese é importante porque:",
+    "options": {
+      "A": "Tem como produto final glicose e CO₂",
+      "B": "Tem como produto final O₂ e CO₂",
+      "C": "Transforma energia química em energia útil a partir de O₂ e H₂O",
+      "D": "Transforma compostos orgânicos em inorgânicos",
+      "E": "Transforma energia luminosa em energia química a partir de CO₂ e H₂O"
+    },
+    "correct_answer": "E",
+    "explanation": "A fotossíntese converte energia luminosa em energia química, usando CO₂ e água.",
+    "review_required": false,
+    "source": "Transcrição das fotografias da Variante F; respostas preliminares não oficiais"
+  }
+]
