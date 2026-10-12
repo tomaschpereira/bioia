@@ -4,6 +4,7 @@ const { carregarBancoBiologia } = require("./bioia_biologia_loader");
 const { carregarBancoPortugues } = require("./bioia_portugues_loader");
 const { carregarBancoFisica } = require("./bioia_fisica_loader");
 const { carregarBancoQuimica } = require("./bioia_quimica_loader");
+const { carregarBancoVarianteF } = require("./bioia_variante_f_loader");
 
 app.use(express.json());
 
@@ -20,6 +21,8 @@ const sessoes = {};
   quimica: carregarBancoQuimica(),
   biologia: carregarBancoBiologia()
 };
+
+const bancoVarianteF = carregarBancoVarianteF();
 
 const nomes = {
   portugues: "Língua Portuguesa",
@@ -82,31 +85,40 @@ function menu() {
     "5️⃣ Simulado das quatro disciplinas",
     "6️⃣ Rever erros da sessão",
     "7️⃣ Ver resultados",
+    "8️⃣ Testes de exames passados",
     "",
     "Envia o número da opção."
   ].join("\n");
 }
 
+async function terminarVarianteF(numero, s) {
+  const percentagem = s.total ? Math.round((s.pontos / s.total) * 100) : 0;
+  let mensagem = `🏁 *Fim da Variante F!*\nResultado: ${s.pontos}/${s.total} (${percentagem}%)\n`;
+  if (s.tipoAtividade === "exame") {
+    mensagem += "\n*Correcção:*\n" + s.respostasExame.map((r, i) =>
+      `${i + 1}. ${r.resposta || "Sem resposta"} — correcta: ${r.corretaId.toUpperCase()}${r.correta ? " ✅" : " ❌"}\n${r.pergunta}\nExplicação: ${r.explicacao}`
+    ).join("\n\n");
+  }
+  s.modo = "menu";
+  s.atual = null;
+  s.tipoAtividade = null;
+  s.respostasExame = [];
+  await enviar(numero, `${mensagem}\n\n${menu()}`);
+}
+
 async function mostrarPergunta(numero, s) {
   if (s.indice >= s.fila.length) {
+    if (s.disciplina === "variante_f") return terminarVarianteF(numero, s);
     s.modo = "menu";
     s.atual = null;
-
-    await enviar(
-      numero,
-      `🏁 *Fim da atividade!*\nResultado: ${s.pontos}/${s.total}\nErros: ${s.erros.length}\n\n${menu()}`
-    );
+    await enviar(numero, `🏁 *Fim da atividade!*\nResultado: ${s.pontos}/${s.total}\nErros: ${s.erros.length}\n\n${menu()}`);
     return;
   }
 
   const original = s.fila[s.indice];
   const opcoes = baralhar(original.opcoes);
-
-  s.atual = {
-    ...original,
-    opcoes
-  };
-
+  s.atual = { ...original, opcoes };
+  const letras = s.disciplina === "variante_f" ? "A, B, C, D ou E" : "A, B, C ou D";
   const texto = [
     `📚 *${s.atual.tema}*`,
     "",
@@ -114,9 +126,8 @@ async function mostrarPergunta(numero, s) {
     "",
     ...opcoes.map(o => `${o.id.toUpperCase()}) ${o.texto}`),
     "",
-    "Responde com A, B, C ou D."
+    `Responde com ${letras}.`
   ].join("\n");
-
   await enviar(numero, texto);
 }
 
@@ -154,39 +165,75 @@ async function processar(numero, textoRecebido) {
     return;
   }
 
-  if (s.modo === "quiz" && s.atual) {
-    const resposta = texto.replace(/[).]/g, "");
-
-    if (!["a", "b", "c", "d"].includes(resposta)) {
-      await enviar(numero, "Responde apenas com A, B, C ou D. Para voltar ao menu, escreve MENU.");
+  if ((s.modo === "quiz" || s.modo === "variante_f_estudo" || s.modo === "variante_f_exame") && s.atual) {
+    const resposta = texto.replace(/[).]/g, "").toLowerCase();
+    const letrasValidas = s.disciplina === "variante_f" ? ["a", "b", "c", "d", "e"] : ["a", "b", "c", "d"];
+    if (!letrasValidas.includes(resposta)) {
+      await enviar(numero, `Responde apenas com ${s.disciplina === "variante_f" ? "A, B, C, D ou E" : "A, B, C ou D"}. Para voltar ao menu, escreve MENU.`);
       return;
     }
 
     const correta = s.atual.correta;
     const opcaoCorreta = s.atual.opcoes.find(o => o.id === correta);
+    const acertou = resposta === correta;
 
-    if (resposta === correta) {
-      s.pontos++;
-      await enviar(
-        numero,
-        `✅ *Resposta correta!*\n${s.atual.explicacao}`
-      );
-    } else {
-      s.erros.push({
-        tema: s.atual.tema,
-        pergunta: s.atual.pergunta,
+    if (s.disciplina === "variante_f" && s.tipoAtividade === "exame") {
+      if (acertou) s.pontos++;
+      if (!acertou) s.erros.push({
+        tema: s.atual.tema, pergunta: s.atual.pergunta,
         tuaResposta: s.atual.opcoes.find(o => o.id === resposta)?.texto || resposta,
-        correta: opcaoCorreta.texto,
-        explicacao: s.atual.explicacao
+        correta: opcaoCorreta?.texto || correta, explicacao: s.atual.explicacao
       });
-
-      await enviar(
-        numero,
-        `❌ *Resposta incorreta.*\nResposta certa: ${correta.toUpperCase()}) ${opcaoCorreta.texto}\n\n${s.atual.explicacao}`
-      );
+      s.respostasExame.push({
+        pergunta: s.atual.pergunta, resposta: resposta.toUpperCase(),
+        correta: acertou, corretaId: correta, explicacao: s.atual.explicacao
+      });
+      await enviar(numero, `Resposta ${s.indice + 1}/${s.total} registada. A correcção será apresentada no fim.`);
+    } else {
+      if (acertou) {
+        s.pontos++;
+        await enviar(numero, `✅ *Resposta correcta!*\n${s.atual.explicacao}`);
+      } else {
+        s.erros.push({
+          tema: s.atual.tema, pergunta: s.atual.pergunta,
+          tuaResposta: s.atual.opcoes.find(o => o.id === resposta)?.texto || resposta,
+          correta: opcaoCorreta?.texto || correta, explicacao: s.atual.explicacao
+        });
+        await enviar(numero, `❌ *Resposta incorrecta.*\nResposta certa: ${correta.toUpperCase()}) ${opcaoCorreta?.texto || ""}\n\n${s.atual.explicacao}`);
+      }
     }
-
     s.indice++;
+    await mostrarPergunta(numero, s);
+    return;
+  }
+
+  if (s.modo === "escolher_variante") {
+    if (["f", "variante f", "variante-f", "1"].includes(texto)) {
+      s.modo = "escolher_modo_variante_f";
+      await enviar(numero, "📘 *Variante F seleccionada.*\nEscolhe o modo:\n1️⃣ Modo Estudo — correcção imediata\n2️⃣ Modo Exame — correcção no fim");
+    } else {
+      await enviar(numero, "Nesta versão só está preparada a Variante F. Envia F ou 1 para continuar.");
+    }
+    return;
+  }
+
+  if (s.modo === "escolher_modo_variante_f") {
+    if (texto !== "1" && texto !== "2") {
+      await enviar(numero, "Escolhe 1 para Modo Estudo ou 2 para Modo Exame.");
+      return;
+    }
+    s.disciplina = "variante_f";
+    s.fila = baralhar(bancoVarianteF);
+    s.indice = 0;
+    s.pontos = 0;
+    s.total = s.fila.length;
+    s.erros = [];
+    s.tipoAtividade = texto === "1" ? "estudo" : "exame";
+    s.respostasExame = [];
+    s.modo = texto === "1" ? "variante_f_estudo" : "variante_f_exame";
+    await enviar(numero, texto === "1"
+      ? `📖 *Modo Estudo iniciado!*\n${s.total} perguntas. Receberás a correcção após cada resposta.`
+      : `📝 *Modo Exame iniciado!*\n${s.total} perguntas. A correcção será apresentada no final.`);
     await mostrarPergunta(numero, s);
     return;
   }
@@ -237,6 +284,12 @@ async function processar(numero, textoRecebido) {
       `📊 *Resultados da sessão*\nAcertos: ${s.pontos}\nPerguntas respondidas: ${s.indice}\nErros registados: ${s.erros.length}\n\n${menu()}`
     );
     s.modo = "menu";
+    return;
+  }
+
+  if (texto === "8") {
+    s.modo = "escolher_variante";
+    await enviar(numero, "📚 *Testes de exames passados*\nPor enquanto, vamos trabalhar com a Variante F.\nEnvia F ou 1 para a seleccionar.");
     return;
   }
 
