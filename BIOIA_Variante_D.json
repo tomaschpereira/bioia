@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "UKB-MED-D-001",
+    "subject": "Português",
+    "topic": "Acentuação",
+    "difficulty": "Médio",
+    "question": "Assinale a frase em que todas as palavras estão correctamente acentuadas:",
+    "options": {
+      "A": "As bonecas foram distribuídas às meninas.",
+      "B": "De repente, no silêncio da noite ouviu-se um ruido.",
+      "C": "Sempre que saía de casa, a Lourdes colocava os óculos no bolso da saia.",
+      "D": "Havia uma árvore ao pé do rio.",
+      "E": "A ilha do Cabo é uma extensa língua de areia, ligada ao continente por uma ponte."
+    },
+    "correct_answer": null,
+    "explanation": "A questão parece ter mais de uma frase correctamente acentuada; confirmar o gabarito original.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados.",
+    "review_status": "REVER",
+    "review_note": "Confirmar com o gabarito oficial: enunciado/transcrição ou resposta pode ser ambígua."
+  },
+  {
+    "id": "UKB-MED-D-002",
+    "subject": "Português",
+    "topic": "Pontuação",
+    "difficulty": "Médio",
+    "question": "Marque a frase correctamente pontuada:",
+    "options": {
+      "A": "O seu lugar estava, pois, esquecido, alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "B": "O seu lugar estava pois, esquecido alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "C": "O seu lugar estava, pois, esquecido alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "D": "O seu lugar estava pois, esquecido alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais.",
+      "E": "O seu lugar estava pois, esquecido, alguma coisa avassaladora e única tinha ganhado terreno naquela alma, e não era possível aguentar mais."
+    },
+    "correct_answer": null,
+    "explanation": "A pontuação apresentada parece permitir discussão editorial; confirmar com o gabarito da prova.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados.",
+    "review_status": "REVER",
+    "review_note": "Confirmar com o gabarito oficial: enunciado/transcrição ou resposta pode ser ambígua."
+  },
+  {
+    "id": "UKB-MED-D-003",
+    "subject": "Português",
+    "topic": "Ortografia",
+    "difficulty": "Médio",
+    "question": "Assinale a palavra que não apresenta erro de escrita:",
+    "options": {
+      "A": "assessor",
+      "B": "justicia",
+      "C": "tenhem",
+      "D": "estructura",
+      "E": "seje"
+    },
+    "correct_answer": "A",
+    "explanation": "“Assessor” é a grafia correcta; as restantes formas apresentadas contêm erros ou formas inadequadas à norma-padrão.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-004",
+    "subject": "Português",
+    "topic": "Texto narrativo",
+    "difficulty": "Médio",
+    "question": "Texto narrativo possui três elementos estruturais:",
+    "options": {
+      "A": "personagem, espaço, acontecimento",
+      "B": "métrica, metáfora, rima",
+      "C": "autor, actor, público",
+      "D": "rima, métrica, ritmo",
+      "E": "personagem, autor, espaço"
+    },
+    "correct_answer": "A",
+    "explanation": "Personagens, espaço e acontecimentos integram os elementos fundamentais da narrativa.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-005",
+    "subject": "Português",
+    "topic": "Acentuação",
+    "difficulty": "Médio",
+    "question": "Assinale a palavra que apresenta erro de acentuação:",
+    "options": {
+      "A": "lâmpada",
+      "B": "armazém",
+      "C": "república",
+      "D": "saía",
+      "E": "propor"
+    },
+    "correct_answer": null,
+    "explanation": "Todas as palavras parecem estar correctamente acentuadas; a opção E “propor” não leva acento. Confirmar a transcrição/gabarito.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados.",
+    "review_status": "REVER",
+    "review_note": "Confirmar com o gabarito oficial: enunciado/transcrição ou resposta pode ser ambígua."
+  },
+  {
+    "id": "UKB-MED-D-006",
+    "subject": "Português",
+    "topic": "Sinonímia",
+    "difficulty": "Médio",
+    "question": "Considerando o sentido da palavra sublinhada, assinale o sinónimo mais adequado: “A Ana ficou feliz quando viu a nota do exame.”",
+    "options": {
+      "A": "triste",
+      "B": "fria",
+      "C": "linda",
+      "D": "grata",
+      "E": "contente"
+    },
+    "correct_answer": "E",
+    "explanation": "“Contente” é sinónimo de “feliz” neste contexto.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-007",
+    "subject": "Português",
+    "topic": "Expressão idiomática",
+    "difficulty": "Médio",
+    "question": "Escolha a hipótese adequada: “Ele diz que ______ um arrepio, quando olhou para baixo.”",
+    "options": {
+      "A": "concedeu",
+      "B": "principiou",
+      "C": "sentiu",
+      "D": "abriu",
+      "E": "deu"
+    },
+    "correct_answer": "C",
+    "explanation": "A expressão natural é “sentiu um arrepio”.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-008",
+    "subject": "Português",
+    "topic": "Literatura angolana",
+    "difficulty": "Médio",
+    "question": "Luandino Vieira é autor da obra:",
+    "options": {
+      "A": "Bola com Feitiço",
+      "B": "Chuva no Musseque",
+      "C": "O Ministro",
+      "D": "Nós, os do Makulusu",
+      "E": "Quem me dera ser onda"
+    },
+    "correct_answer": "D",
+    "explanation": "“Nós, os do Makulusu” é uma obra de José Luandino Vieira.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-009",
+    "subject": "Português",
+    "topic": "Uso vocabular",
+    "difficulty": "Médio",
+    "question": "Escolha a forma verbal adequada: “Ela viveu sempre ______ de muito carinho.”",
+    "options": {
+      "A": "norteada",
+      "B": "esfomeada",
+      "C": "rodada",
+      "D": "rodeada",
+      "E": "sorteada"
+    },
+    "correct_answer": "D",
+    "explanation": "A construção adequada é “rodeada de muito carinho”.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-010",
+    "subject": "Português",
+    "topic": "Relações semânticas",
+    "difficulty": "Médio",
+    "question": "De qual conjunto de palavras está ausente uma relação entre hiperónimo e hipónimos?",
+    "options": {
+      "A": "Astro – cometa – estrela – planeta",
+      "B": "Cherne – salmão – sardinha – peixe",
+      "C": "Lagoa – mar – oceano – ribeira",
+      "D": "Nau – caravela – embarcação – galeão",
+      "E": "Flor – rosa – cravo – margarida"
+    },
+    "correct_answer": "C",
+    "explanation": "“Lagoa”, “mar”, “oceano” e “ribeira” não formam claramente um hiperónimo seguido de hipónimos como nos outros conjuntos.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados.",
+    "review_status": "REVER",
+    "review_note": "Confirmar com o gabarito oficial: enunciado/transcrição ou resposta pode ser ambígua."
+  },
+  {
+    "id": "UKB-MED-D-011",
+    "subject": "Português",
+    "topic": "Conjugação verbal",
+    "difficulty": "Médio",
+    "question": "Complete correctamente: II. Os arqueólogos ______ (propor) às autoridades… III. Antes da época dos Descobrimentos, já ______ (haver) muitos naufrágios… IV. Se os piratas ______ (querer), teriam afundado o navio inglês.",
+    "options": {
+      "A": "propuseram / houveram / quisessem",
+      "B": "propuseram / havia / quisessem",
+      "C": "propuseram / havia havido / quisessem",
+      "D": "propunham / havia / queriam",
+      "E": "propunham / houve / quisessem"
+    },
+    "correct_answer": null,
+    "explanation": "A frase III pode exigir “havia havido” pela anterioridade; confirmar a formulação completa e o gabarito.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados.",
+    "review_status": "REVER",
+    "review_note": "Confirmar com o gabarito oficial: enunciado/transcrição ou resposta pode ser ambígua."
+  },
+  {
+    "id": "UKB-MED-D-012",
+    "subject": "Português",
+    "topic": "Registo de língua",
+    "difficulty": "Médio",
+    "question": "Identifique o registo de língua: “— Me dá só banana.”",
+    "options": {
+      "A": "corrente",
+      "B": "familiar",
+      "C": "cuidada",
+      "D": "técnica",
+      "E": "literária"
+    },
+    "correct_answer": "B",
+    "explanation": "A formulação coloquial é característica do registo familiar.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-013",
+    "subject": "Português",
+    "topic": "Regência verbal",
+    "difficulty": "Médio",
+    "question": "Assinale a frase que apresenta regência correcta relativamente à norma-padrão:",
+    "options": {
+      "A": "Todos aqueles que desobedecerem o regulamento serão punidos.",
+      "B": "O bebé ainda carece com muitos cuidados.",
+      "C": "O Director presidiu na cerimónia.",
+      "D": "Agradeço muito aos meus filhos.",
+      "E": "Têm a obrigação de obedecerem o regulamento."
+    },
+    "correct_answer": "D",
+    "explanation": "“Agradecer algo a alguém” está correctamente construído em “Agradeço muito aos meus filhos” (complemento directo subentendido).",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-014",
+    "subject": "Português",
+    "topic": "Evolução linguística",
+    "difficulty": "Médio",
+    "question": "Sobre a evolução linguística, assinale a afirmação verdadeira. As famílias de línguas resultam de uma língua comum que se chama:",
+    "options": {
+      "A": "Língua descendente",
+      "B": "Língua auxiliar",
+      "C": "Língua mãe",
+      "D": "Língua crioula",
+      "E": "Língua universal"
+    },
+    "correct_answer": "C",
+    "explanation": "A língua-mãe é a língua ancestral comum de línguas aparentadas.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-015",
+    "subject": "Português",
+    "topic": "Ortografia",
+    "difficulty": "Médio",
+    "question": "Assinale a palavra que apresenta erro de escrita:",
+    "options": {
+      "A": "mecher",
+      "B": "hesitar",
+      "C": "faixa",
+      "D": "assembleia",
+      "E": "cortesia"
+    },
+    "correct_answer": "A",
+    "explanation": "A grafia correcta é “mexer”, com x.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-016",
+    "subject": "Química",
+    "topic": "Tabela periódica",
+    "difficulty": "Médio",
+    "question": "Número quântico principal n=3 com 7 electrões de valência: o elemento pertence ao:",
+    "options": {
+      "A": "Período 2, grupo 17",
+      "B": "Período 3, grupo 15",
+      "C": "Período 3, grupo 17",
+      "D": "Período 4, grupo 17",
+      "E": "Período 3, grupo 1"
+    },
+    "correct_answer": "C",
+    "explanation": "Sete electrões de valência e terceira camada correspondem a um halogéneo do período 3, grupo 17.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-017",
+    "subject": "Química",
+    "topic": "Tendências periódicas",
+    "difficulty": "Médio",
+    "question": "Ao descer num grupo, o raio atómico:",
+    "options": {
+      "A": "Aumenta",
+      "B": "Diminui",
+      "C": "Fica igual",
+      "D": "Diminui depois aumenta",
+      "E": "Indefinido"
+    },
+    "correct_answer": "A",
+    "explanation": "Ao descer num grupo, acrescentam-se camadas electrónicas e o raio atómico geralmente aumenta.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-018",
+    "subject": "Química",
+    "topic": "Energia de ionização",
+    "difficulty": "Médio",
+    "question": "A primeira energia de ionização geralmente aumenta:",
+    "options": {
+      "A": "Da esquerda para a direita no período",
+      "B": "De cima para baixo no grupo",
+      "C": "Em metais alcalinos",
+      "D": "Ao aumentar o número de camadas",
+      "E": "Ao aumentar o raio"
+    },
+    "correct_answer": "A",
+    "explanation": "A energia de ionização tende a aumentar da esquerda para a direita num período.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-019",
+    "subject": "Química",
+    "topic": "Afinidade electrónica",
+    "difficulty": "Médio",
+    "question": "Afinidade electrónica elevada é característica de:",
+    "options": {
+      "A": "Alcalinos",
+      "B": "Alcalino-terrosos",
+      "C": "Halogéneos",
+      "D": "Gases nobres",
+      "E": "Lantanídeos"
+    },
+    "correct_answer": "C",
+    "explanation": "Os halogéneos tendem a aceitar electrões com facilidade.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-020",
+    "subject": "Química",
+    "topic": "Massa atómica",
+    "difficulty": "Médio",
+    "question": "Unidade de massa atómica (u):",
+    "options": {
+      "A": "Igual à massa do protão exactamente",
+      "B": "Definida a partir do ¹²C",
+      "C": "Igual a 1 g/mol",
+      "D": "Depende da temperatura",
+      "E": "Outro"
+    },
+    "correct_answer": "B",
+    "explanation": "A unidade de massa atómica é definida como 1/12 da massa de um átomo de carbono-12.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-021",
+    "subject": "Química",
+    "topic": "Molaridade",
+    "difficulty": "Médio",
+    "question": "Concentração: 0,900 g de NaCl em 100 mL → molaridade:",
+    "options": {
+      "A": "0,009",
+      "B": "0,100",
+      "C": "0,015",
+      "D": "0,154",
+      "E": "Outro"
+    },
+    "correct_answer": "D",
+    "explanation": "0,900 g ÷ 58,44 g/mol ≈ 0,0154 mol; em 0,100 L, a molaridade é ≈ 0,154 mol/L.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-022",
+    "subject": "Química",
+    "topic": "Gases ideais",
+    "difficulty": "Médio",
+    "question": "PV=nRT: 1,0 mol de gás ideal a 0 °C e 1 atm ocupa aproximadamente:",
+    "options": {
+      "A": "11,2 L",
+      "B": "22,4 L",
+      "C": "24,0 L",
+      "D": "44,8 L",
+      "E": "1,0 L"
+    },
+    "correct_answer": "B",
+    "explanation": "Nas condições normais indicadas, 1 mol de gás ideal ocupa aproximadamente 22,4 L.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-023",
+    "subject": "Química",
+    "topic": "Ligações químicas",
+    "difficulty": "Médio",
+    "question": "Ligação iónica típica ocorre entre:",
+    "options": {
+      "A": "Metal + não-metal",
+      "B": "Não-metal + não-metal",
+      "C": "Metal + metal",
+      "D": "Gases nobres",
+      "E": "Metalóide + gás nobre"
+    },
+    "correct_answer": "A",
+    "explanation": "A ligação iónica típica resulta da transferência de electrões entre metal e não-metal.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-024",
+    "subject": "Química",
+    "topic": "Ligação metálica",
+    "difficulty": "Médio",
+    "question": "Ligações metálicas explicam bem:",
+    "options": {
+      "A": "Alta dureza e baixa condutividade",
+      "B": "Condutividade eléctrica e maleabilidade",
+      "C": "Aromaticidade",
+      "D": "Acidez forte",
+      "E": "Polaridade elevada"
+    },
+    "correct_answer": "B",
+    "explanation": "Electrões deslocalizados explicam a condutividade e a capacidade de deformação dos metais.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-025",
+    "subject": "Química",
+    "topic": "Força de ligação",
+    "difficulty": "Médio",
+    "question": "Entre HF, HCl, HBr e HI, a força da ligação H–X decresce:",
+    "options": {
+      "A": "HF > HCl > HBr > HI",
+      "B": "HI > HBr > HCl > HF",
+      "C": "HCl > HF > HI > HBr",
+      "D": "HBr > HI > HCl > HF",
+      "E": "Igual para todos"
+    },
+    "correct_answer": "A",
+    "explanation": "A ligação H–X fica geralmente mais fraca ao descer no grupo, devido ao aumento do comprimento da ligação.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-026",
+    "subject": "Química",
+    "topic": "Sólidos moleculares",
+    "difficulty": "Médio",
+    "question": "Sólidos moleculares apresentam, em geral:",
+    "options": {
+      "A": "Ponto de fusão alto e conduzem bem",
+      "B": "Ponto de fusão baixo e más condutoras",
+      "C": "Dureza elevada e condutividade alta",
+      "D": "Dureza alta e solubilidade em metais",
+      "E": "Condutividade comparável a metais"
+    },
+    "correct_answer": "B",
+    "explanation": "As forças intermoleculares costumam ser relativamente fracas e os sólidos moleculares são maus condutores.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-027",
+    "subject": "Química",
+    "topic": "Molaridade",
+    "difficulty": "Médio",
+    "question": "Para 400 mL de NaI com 450 g dissolvidos: molaridade:",
+    "options": {
+      "A": "4,5",
+      "B": "7,5",
+      "C": "75,0",
+      "D": "12,7",
+      "E": "Outro"
+    },
+    "correct_answer": "B",
+    "explanation": "450 g ÷ 149,89 g/mol ≈ 3,00 mol; em 0,400 L, a molaridade é ≈ 7,50 mol/L.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-028",
+    "subject": "Química",
+    "topic": "Alcanos",
+    "difficulty": "Médio",
+    "question": "Um alcano com 74 H tem n(C) =",
+    "options": {
+      "A": "33",
+      "B": "34",
+      "C": "35",
+      "D": "36",
+      "E": "37"
+    },
+    "correct_answer": "D",
+    "explanation": "Para alcanos acíclicos, CₙH₂ₙ₊₂; 2n+2=74 dá n=36.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-029",
+    "subject": "Química",
+    "topic": "Polaridade molecular",
+    "difficulty": "Médio",
+    "question": "É polar:",
+    "options": {
+      "A": "CO₂",
+      "B": "CCl₄",
+      "C": "CH₄",
+      "D": "NH₃",
+      "E": "BF₃"
+    },
+    "correct_answer": "D",
+    "explanation": "NH₃ tem geometria piramidal trigonal e momento dipolar resultante diferente de zero.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-030",
+    "subject": "Química",
+    "topic": "Estequiometria",
+    "difficulty": "Médio",
+    "question": "Combustão do etanol (balanceada): C₂H₆O + x O₂ → 2 CO₂ + 3 H₂O. x =",
+    "options": {
+      "A": "2",
+      "B": "2,5",
+      "C": "3",
+      "D": "3,5",
+      "E": "4"
+    },
+    "correct_answer": "C",
+    "explanation": "O balanceamento dá C₂H₆O + 3 O₂ → 2 CO₂ + 3 H₂O.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-031",
+    "subject": "Física",
+    "topic": "Electromagnetismo",
+    "difficulty": "Médio",
+    "question": "Um condutor rectilíneo é percorrido por corrente eléctrica constante. O campo magnético criado:",
+    "options": {
+      "A": "É nulo",
+      "B": "Tem direcção paralela ao fio",
+      "C": "Forma círculos concêntricos ao redor do fio",
+      "D": "É independente da corrente",
+      "E": "Diminui com o quadrado da distância a partir do fio"
+    },
+    "correct_answer": "C",
+    "explanation": "O campo magnético de um fio rectilíneo forma circunferências concêntricas em torno do fio.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-032",
+    "subject": "Física",
+    "topic": "Indução electromagnética",
+    "difficulty": "Médio",
+    "question": "Quando um íman se aproxima de uma bobina ligada a um amperímetro, observa-se:",
+    "options": {
+      "A": "Corrente contínua constante",
+      "B": "Corrente induzida variável ao longo do movimento",
+      "C": "Corrente alternada permanente, mesmo após o movimento parar",
+      "D": "Aumento da resistência do fio",
+      "E": "Diminuição da força magnética entre íman e bobina"
+    },
+    "correct_answer": "B",
+    "explanation": "A variação do fluxo magnético induz corrente enquanto há movimento relativo.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-033",
+    "subject": "Física",
+    "topic": "Transformadores",
+    "difficulty": "Médio",
+    "question": "Um transformador ideal reduz a tensão de 220 V para 110 V. Relativamente ao número de espiras, o enrolamento secundário tem:",
+    "options": {
+      "A": "O dobro das espiras do primário",
+      "B": "Metade das espiras do primário",
+      "C": "O mesmo número de espiras do primário",
+      "D": "Três vezes mais espiras que o primário",
+      "E": "Número independente da tensão"
+    },
+    "correct_answer": "B",
+    "explanation": "Num transformador ideal, a razão das tensões é igual à razão do número de espiras.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-034",
+    "subject": "Física",
+    "topic": "Força magnética",
+    "difficulty": "Médio",
+    "question": "A força que actua sobre uma carga em movimento num campo magnético uniforme:",
+    "options": {
+      "A": "É paralela à velocidade",
+      "B": "É perpendicular simultaneamente à velocidade e ao campo magnético",
+      "C": "Tem sempre o mesmo sentido do campo magnético",
+      "D": "É sempre nula",
+      "E": "Depende apenas da carga, não da velocidade"
+    },
+    "correct_answer": "B",
+    "explanation": "A força magnética é perpendicular à velocidade e ao campo, quando não é nula.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-035",
+    "subject": "Física",
+    "topic": "Trabalho",
+    "difficulty": "Médio",
+    "question": "O trabalho realizado por uma força constante é:",
+    "options": {
+      "A": "O produto da força pelo deslocamento e pelo cosseno do ângulo entre ambos",
+      "B": "Sempre igual a zero",
+      "C": "Proporcional à energia cinética inicial",
+      "D": "Independente da direcção do deslocamento",
+      "E": "Apenas função da massa do corpo"
+    },
+    "correct_answer": "A",
+    "explanation": "W = F·d·cos(θ) para força constante.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-036",
+    "subject": "Física",
+    "topic": "Potência",
+    "difficulty": "Médio",
+    "question": "A potência média é:",
+    "options": {
+      "A": "O inverso do trabalho realizado",
+      "B": "O trabalho realizado dividido pelo intervalo de tempo",
+      "C": "O produto do tempo pela força aplicada",
+      "D": "Constante em qualquer sistema físico",
+      "E": "Independente da energia transferida"
+    },
+    "correct_answer": "B",
+    "explanation": "Potência média é o trabalho ou energia transferida por unidade de tempo.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-037",
+    "subject": "Física",
+    "topic": "Transferência de calor",
+    "difficulty": "Médio",
+    "question": "O calor pode ser transferido por:",
+    "options": {
+      "A": "Condução apenas",
+      "B": "Condução, convecção e radiação",
+      "C": "Radiação apenas",
+      "D": "Corrente eléctrica apenas",
+      "E": "Difusão molecular exclusivamente"
+    },
+    "correct_answer": "B",
+    "explanation": "Os três mecanismos principais são condução, convecção e radiação.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-038",
+    "subject": "Física",
+    "topic": "Conservação da energia",
+    "difficulty": "Médio",
+    "question": "Num sistema isolado, a energia total:",
+    "options": {
+      "A": "Aumenta continuamente",
+      "B": "Diminui com o tempo",
+      "C": "Mantém-se constante",
+      "D": "Depende apenas da pressão",
+      "E": "É função apenas da massa total"
+    },
+    "correct_answer": "C",
+    "explanation": "A energia total de um sistema isolado conserva-se.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-039",
+    "subject": "Física",
+    "topic": "Ondas sonoras",
+    "difficulty": "Médio",
+    "question": "Uma onda sonora é:",
+    "options": {
+      "A": "Longitudinal e mecânica",
+      "B": "Transversal e electromagnética",
+      "C": "Transversal e mecânica",
+      "D": "Longitudinal e electromagnética",
+      "E": "Uma vibração transversal no vácuo"
+    },
+    "correct_answer": "A",
+    "explanation": "O som necessita de um meio material e, no ar, propaga-se como onda longitudinal.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-040",
+    "subject": "Física",
+    "topic": "Ondas",
+    "difficulty": "Médio",
+    "question": "O comprimento de onda é definido como:",
+    "options": {
+      "A": "A distância entre dois pontos consecutivos em fase",
+      "B": "A amplitude máxima da onda",
+      "C": "A frequência dividida pela velocidade",
+      "D": "O tempo necessário para um ciclo completo",
+      "E": "O número de oscilações por segundo"
+    },
+    "correct_answer": "A",
+    "explanation": "O comprimento de onda é a distância entre pontos consecutivos que estão na mesma fase.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-041",
+    "subject": "Física",
+    "topic": "Ondas",
+    "difficulty": "Médio",
+    "question": "Quando uma onda passa de um meio para outro com velocidade diferente, ocorre:",
+    "options": {
+      "A": "Reflexão total da onda",
+      "B": "Refracção",
+      "C": "Absorção completa",
+      "D": "Dispersão sonora",
+      "E": "Interferência destrutiva obrigatória"
+    },
+    "correct_answer": "B",
+    "explanation": "A mudança de velocidade de propagação ao passar de meio caracteriza a refracção.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-042",
+    "subject": "Física",
+    "topic": "Óptica",
+    "difficulty": "Médio",
+    "question": "A luz branca é composta por:",
+    "options": {
+      "A": "Um único comprimento de onda",
+      "B": "Vários comprimentos de onda que formam o espectro visível",
+      "C": "Apenas luz azul e vermelha",
+      "D": "Ondas sonoras e luminosas",
+      "E": "Energia térmica sem carácter ondulatório"
+    },
+    "correct_answer": "B",
+    "explanation": "A luz branca reúne diferentes comprimentos de onda do espectro visível.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-043",
+    "subject": "Física",
+    "topic": "Leis de Newton",
+    "difficulty": "Médio",
+    "question": "A força resultante sobre um corpo é nula. Isso significa que:",
+    "options": {
+      "A": "O corpo está em repouso ou em movimento rectilíneo uniforme",
+      "B": "O corpo tem aceleração constante",
+      "C": "O corpo está necessariamente em rotação",
+      "D": "A massa do corpo varia",
+      "E": "O trabalho realizado é máximo"
+    },
+    "correct_answer": "A",
+    "explanation": "Força resultante nula implica aceleração translacional nula; o corpo fica em repouso ou mantém velocidade constante.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-044",
+    "subject": "Física",
+    "topic": "Segunda Lei de Newton",
+    "difficulty": "Médio",
+    "question": "A Segunda Lei de Newton estabelece que:",
+    "options": {
+      "A": "F = m·a",
+      "B": "F = m·v",
+      "C": "F = E/t",
+      "D": "F = P·ΔV",
+      "E": "F é sempre constante"
+    },
+    "correct_answer": "A",
+    "explanation": "A força resultante é igual ao produto da massa pela aceleração.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-045",
+    "subject": "Física",
+    "topic": "Energia cinética",
+    "difficulty": "Médio",
+    "question": "Um corpo cai livremente a partir do repouso, sem resistência do ar. A sua energia cinética:",
+    "options": {
+      "A": "Aumenta à medida que desce",
+      "B": "Permanece constante",
+      "C": "Diminui com o tempo",
+      "D": "É sempre nula",
+      "E": "É independente da altura da qual caiu"
+    },
+    "correct_answer": "A",
+    "explanation": "A energia potencial gravítica transforma-se em energia cinética durante a queda.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-046",
+    "subject": "Biologia",
+    "topic": "Genética molecular",
+    "difficulty": "Médio",
+    "question": "Um codão corresponde à sequência de três bases nucleotídicas do:",
+    "options": {
+      "A": "RNA de transferência",
+      "B": "RNA ribossomal",
+      "C": "RNA solúvel",
+      "D": "RNA mensageiro",
+      "E": "RNA condensado"
+    },
+    "correct_answer": "D",
+    "explanation": "Um codão é um tripleto de nucleótidos no RNA mensageiro que especifica um aminoácido ou sinal de terminação.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-047",
+    "subject": "Biologia",
+    "topic": "Ecologia",
+    "difficulty": "Médio",
+    "question": "A relação ecológica que ocorre exclusivamente entre organismos da mesma espécie é:",
+    "options": {
+      "A": "Inquilinismo",
+      "B": "Mutualismo",
+      "C": "Herbivoria",
+      "D": "Parasitismo",
+      "E": "Sociedade"
+    },
+    "correct_answer": "E",
+    "explanation": "Sociedade é uma relação intra-específica com cooperação entre indivíduos sem união física obrigatória.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-048",
+    "subject": "Biologia",
+    "topic": "Membrana celular",
+    "difficulty": "Médio",
+    "question": "O transporte activo através da membrana ocorre quando:",
+    "options": {
+      "A": "De concentração elevada para outra mais baixa",
+      "B": "Não há necessidade de energia",
+      "C": "Entre meios com igual concentração",
+      "D": "De um meio de concentração mais baixa para outro de concentração mais elevada",
+      "E": "Apenas pela difusão facilitada"
+    },
+    "correct_answer": "D",
+    "explanation": "O transporte activo pode mover substâncias contra o gradiente de concentração e requer energia.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-049",
+    "subject": "Biologia",
+    "topic": "Evolução",
+    "difficulty": "Médio",
+    "question": "Quais dos cientistas abaixo deram contribuições importantes para a teoria da evolução?",
+    "options": {
+      "A": "Darwin, Wallace e Lamarck",
+      "B": "Mendel, Newton e Darwin",
+      "C": "Lamarck, Darwin e Lavoisier",
+      "D": "Lineu, Aristóteles e Wallace",
+      "E": "Pasteur, Lavoisier e Darwin"
+    },
+    "correct_answer": "A",
+    "explanation": "Lamarck, Darwin e Alfred Russel Wallace contribuíram para o desenvolvimento das ideias evolutivas.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-050",
+    "subject": "Biologia",
+    "topic": "Excreção",
+    "difficulty": "Médio",
+    "question": "O processo mediante o qual substâncias filtradas que interessam ao organismo regressam ao meio interno denomina-se:",
+    "options": {
+      "A": "Secreção",
+      "B": "Filtração",
+      "C": "Penetração",
+      "D": "Reabsorção",
+      "E": "Excreção"
+    },
+    "correct_answer": "D",
+    "explanation": "Na reabsorção renal, substâncias úteis passam do filtrado de volta para o sangue.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-051",
+    "subject": "Biologia",
+    "topic": "Meiose",
+    "difficulty": "Médio",
+    "question": "Na meiose, as células-filhas apresentam:",
+    "options": {
+      "A": "Número igual de cromossomas da célula-mãe",
+      "B": "Metade do número de cromossomas da célula-mãe",
+      "C": "Um quarto do número de cromossomas da célula-mãe",
+      "D": "Um sexto do número de cromossomas da célula-mãe",
+      "E": "Um oitavo do número de cromossomas da célula-mãe"
+    },
+    "correct_answer": "B",
+    "explanation": "A meiose reduz para metade o número de cromossomas.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-052",
+    "subject": "Biologia",
+    "topic": "Fotossíntese",
+    "difficulty": "Médio",
+    "question": "A fotossíntese é importante porque:",
+    "options": {
+      "A": "Produz glicose e CO₂",
+      "B": "Produz O₂ e CO₂",
+      "C": "Transforma energia química em energia útil a partir de O₂ e H₂O",
+      "D": "Transforma compostos orgânicos em inorgânicos",
+      "E": "Transforma energia luminosa em energia química a partir de CO₂ e H₂O"
+    },
+    "correct_answer": "E",
+    "explanation": "A fotossíntese converte energia luminosa em energia química, usando CO₂ e água para sintetizar compostos orgânicos.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-053",
+    "subject": "Biologia",
+    "topic": "Energia potencial",
+    "difficulty": "Médio",
+    "question": "Em dois corpos de massas diferentes à mesma altura, a maior energia potencial gravítica pertence:",
+    "options": {
+      "A": "Ao corpo de menor massa",
+      "B": "Aos dois, de forma igual",
+      "C": "Ao corpo de maior massa",
+      "D": "À altura, que independe da massa",
+      "E": "A nenhum dos corpos"
+    },
+    "correct_answer": "C",
+    "explanation": "A energia potencial gravítica é Eₚ=mgh; à mesma altura, é maior para a maior massa.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-054",
+    "subject": "Biologia",
+    "topic": "Virologia",
+    "difficulty": "Médio",
+    "question": "A nomenclatura correcta do coronavírus causador da Covid-19 é:",
+    "options": {
+      "A": "COV-SrAR-2",
+      "B": "Cov-SARS-2",
+      "C": "SARS-CoV-2",
+      "D": "SARS-CoV-19",
+      "E": "SA-CoV-19"
+    },
+    "correct_answer": "C",
+    "explanation": "O vírus que causa a COVID-19 chama-se SARS-CoV-2.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-055",
+    "subject": "Biologia",
+    "topic": "Sistema digestivo",
+    "difficulty": "Médio",
+    "question": "O tubo digestivo que possui apenas uma abertura para o exterior chama-se:",
+    "options": {
+      "A": "Tubo digestivo incompleto",
+      "B": "Tubo digestivo completo",
+      "C": "Tubo digestivo detrítico",
+      "D": "Tubo digestivo cilíndrico",
+      "E": "Tubo digestivo aberto"
+    },
+    "correct_answer": "A",
+    "explanation": "Um sistema digestivo incompleto tem uma única abertura que funciona como boca e saída.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-056",
+    "subject": "Biologia",
+    "topic": "Sistema endócrino",
+    "difficulty": "Médio",
+    "question": "O iodo é essencial para a produção de hormonas da glândula:",
+    "options": {
+      "A": "Pâncreas",
+      "B": "Ovário",
+      "C": "Hipófise",
+      "D": "Timo",
+      "E": "Tiróide"
+    },
+    "correct_answer": "E",
+    "explanation": "A tiróide utiliza iodo para produzir T3 e T4.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-057",
+    "subject": "Biologia",
+    "topic": "Respiração",
+    "difficulty": "Médio",
+    "question": "As trocas gasosas no pulmão humano ocorrem:",
+    "options": {
+      "A": "Nos bronquíolos",
+      "B": "Nos brônquios",
+      "C": "Nos alvéolos",
+      "D": "Na traqueia",
+      "E": "Na laringe"
+    },
+    "correct_answer": "C",
+    "explanation": "As trocas de oxigénio e dióxido de carbono ocorrem principalmente nos alvéolos pulmonares.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-058",
+    "subject": "Biologia",
+    "topic": "Enzimas",
+    "difficulty": "Médio",
+    "question": "Num gráfico de actividade enzimática vs. temperatura, o ponto máximo da curva representa:",
+    "options": {
+      "A": "Temperatura mínima de actuação",
+      "B": "Ponto de desnaturação da enzima",
+      "C": "Ponto de desnaturação do produto",
+      "D": "Óptimo de temperatura da enzima",
+      "E": "Máximo de substrato disponível"
+    },
+    "correct_answer": "D",
+    "explanation": "O pico da curva corresponde à temperatura óptima para a actividade enzimática.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-059",
+    "subject": "Biologia",
+    "topic": "Célula eucariótica",
+    "difficulty": "Médio",
+    "question": "Tendo em conta as características da célula eucariota, é verdadeiro afirmar que:",
+    "options": {
+      "A": "Não possui membrana nuclear",
+      "B": "Possui o seu núcleo organizado",
+      "C": "Possui apenas um tipo de organito",
+      "D": "O material genético está no citoplasma",
+      "E": "É menos complexa que as procariotas"
+    },
+    "correct_answer": "B",
+    "explanation": "As células eucarióticas possuem núcleo delimitado por membrana.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  },
+  {
+    "id": "UKB-MED-D-060",
+    "subject": "Biologia",
+    "topic": "Origem da vida",
+    "difficulty": "Médio",
+    "question": "De acordo com a teoria de Oparin, os primeiros seres vivos eram:",
+    "options": {
+      "A": "Autotróficos e fermentativos",
+      "B": "Heterotróficos e fermentativos",
+      "C": "Autotróficos e anaeróbicos",
+      "D": "Autotróficos e fotossintetizantes",
+      "E": "Heterotróficos e aeróbicos"
+    },
+    "correct_answer": "B",
+    "explanation": "Na hipótese clássica de Oparin, os primeiros organismos eram heterotróficos e anaeróbios, obtendo energia por processos simples como fermentação.",
+    "source": "Transcrição da prova fotografada: Medicina, Variante D, UKB. Resposta proposta para estudo; confirmar itens assinalados."
+  }
+]
