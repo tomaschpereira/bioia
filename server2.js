@@ -6,6 +6,7 @@ const { carregarBancoFisica } = require("./bioia_fisica_loader");
 const { carregarBancoQuimica } = require("./bioia_quimica_loader");
 const { carregarBancoVarianteF } = require("./bioia_variante_f_loader");
 const { carregarBancoVarianteA } = require("./bioia_variante_a_loader");
+const { carregarBancoVarianteD } = require("./bioia_variante_d_loader");
 
 app.use(express.json());
 
