@@ -401,12 +401,12 @@ if (s.modo === "escolher_modo_variante_a") {
     s.modo = "escolher_variante";
     s.atual = null;
 
-    await enviar(numero,
+        await enviar(numero,
       "📚 *Testes de exames passados*\n\n" +
-      "Escolhe a variante:\n" +
       "A — Variante A\n" +
-      "F — Variante F\n\n" +
-      "Envia A ou F."
+      "F — Variante F\n" +
+      "D — Variante D (Medicina — UKB)\n\n" +
+      "Envia A, F ou D."
     );
     return;
   }
