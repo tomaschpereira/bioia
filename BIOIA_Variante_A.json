@@ -455,11 +455,10 @@
       "E": "H3O+, apresentado como base"
     },
     "correct_answer": "C",
-    "explanation": "H2SO4 é a fórmula do ácido sulfúrico.",
-    "review_required": true,
-    "validation_status": "rever_enunci
-    "rever_enunciado_original"
-  },
+"explanation": "H2SO4 é a fórmula do ácido sulfúrico.",
+"review_required": true,
+"validation_status": "rever_enunciado_original"
+},
   {
     "id": "A-Q24",
     "variant": "A",
