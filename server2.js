@@ -17,6 +17,75 @@ const PHONE_NUMBER_ID = process.env.PHONE_NUMBER_ID;
 
 const API_VERSION = "v26.0";
 const sessoes = {};
+const filasMensagens = {};
+
+// Processa as mensagens de cada utilizador pela ordem em que chegam.
+function processarEmFila(numero, texto) {
+  const anterior = filasMensagens[numero] || Promise.resolve();
+  const atual = anterior
+    .catch(() => {})
+    .then(() => processar(numero, texto))
+    .catch(erro => console.error("Erro ao processar mensagem:", erro));
+
+  filasMensagens[numero] = atual;
+  return atual.finally(() => {
+    if (filasMensagens[numero] === atual) delete filasMensagens[numero];
+  });
+}
+
+// Divide mensagens longas para respeitar os limites de envio do WhatsApp.
+async function enviarEmPartes(numero, texto, limite = 3000) {
+  const blocos = String(texto).split("\n\n");
+  let parte = "";
+
+  for (const bloco of blocos) {
+    if (bloco.length > limite) {
+      if (parte) { await enviar(numero, parte); parte = ""; }
+      for (let i = 0; i < bloco.length; i += limite) {
+        await enviar(numero, bloco.slice(i, i + limite));
+      }
+      continue;
+    }
+    const candidato = parte ? `${parte}\n\n${bloco}` : bloco;
+    if (candidato.length > limite) {
+      if (parte) await enviar(numero, parte);
+      parte = bloco;
+    } else {
+      parte = candidato;
+    }
+  }
+  if (parte) await enviar(numero, parte);
+}
+
+function resumoDesempenho(s) {
+  const respondidas = Number(s.indice || 0);
+  const pontos = Number(s.pontos || 0);
+  const total = Number(s.total || 0);
+  const erros = Array.isArray(s.erros) ? s.erros : [];
+  const percentagem = respondidas ? Math.round((pontos / respondidas) * 100) : 0;
+  const nota20 = respondidas ? (pontos / respondidas * 20).toFixed(1).replace(".", ",") : "0,0";
+  const porTema = {};
+  for (const erro of erros) {
+    const tema = erro.tema || "Tema não identificado";
+    porTema[tema] = (porTema[tema] || 0) + 1;
+  }
+  const temas = Object.entries(porTema).sort((a, b) => b[1] - a[1]).slice(0, 5);
+
+  let mensagem =
+    `📊 *Relatório de desempenho*\n` +
+    `Perguntas respondidas: ${respondidas}${total ? `/${total}` : ""}\n` +
+    `✅ Acertos: ${pontos}\n` +
+    `❌ Erros: ${erros.length}\n` +
+    `🎯 Aproveitamento: ${percentagem}%\n` +
+    `🏆 Nota estimada: ${nota20}/20`;
+  if (temas.length) {
+    mensagem += "\n\n📚 *Temas a rever (por número de erros):*\n" +
+      temas.map(([tema, quantidade]) => `• ${tema}: ${quantidade} erro(s)`).join("\n");
+  } else if (respondidas) {
+    mensagem += "\n\nExcelente: não há erros registados nesta sessão.";
+  }
+  return mensagem;
+}
 
 const bancos = {
   portugues: carregarBancoPortugues(),
@@ -98,7 +167,6 @@ function menu() {
     "Envia o número da opção."
   ].join("\n");
 }
-
 async function terminarVarianteF(numero, s) {
   const percentagem = s.total
     ? Math.round((s.pontos / s.total) * 100)
@@ -154,30 +222,46 @@ async function terminarVarianteA(numero, s) {
 }
 
 async function terminarVarianteD(numero, s) {
-  const percentagem = s.total
-    ? Math.round((s.pontos / s.total) * 100)
-    : 0;
+  const percentagem = s.total ? Math.round((s.pontos / s.total) * 100) : 0;
+  const nota20 = s.total ? (s.pontos / s.total * 20).toFixed(1).replace(".", ",") : "0,0";
 
   let mensagem =
-    `🏁 *Fim da Variante D!*\n` +
-    `Resultado: ${s.pontos}/${s.total} (${percentagem}%)\n`;
+    `🏁 *Fim da Variante D — Medicina (UKB)!*\n` +
+    `Resultado: ${s.pontos}/${s.total} (${percentagem}%)\n` +
+    `Nota estimada: ${nota20}/20\n` +
+    `Acertos: ${s.pontos} | Erros: ${s.erros.length}`;
 
-  if (s.tipoAtividade === "exame") {
-    mensagem += "\n*Correção:*\n" +
-      s.respostasExame.map((r, i) =>
-        `${i + 1}. A tua resposta: ${r.resposta || "Sem resposta"} — ` +
-        `correta: ${r.corretaId.toUpperCase()}` +
-        `${r.correta ? " ✅" : " ❌"}\n` +
-        `${r.pergunta}\nExplicação: ${r.explicacao}`
-      ).join("\n\n");
+  const porTema = {};
+  for (const erro of s.erros) {
+    const tema = erro.tema || "Tema não identificado";
+    porTema[tema] = (porTema[tema] || 0) + 1;
   }
+  const temas = Object.entries(porTema).sort((a, b) => b[1] - a[1]).slice(0, 5);
+  mensagem += temas.length
+    ? "\n\n📚 *Temas que deves rever:*\n" +
+      temas.map(([tema, quantidade]) => `• ${tema}: ${quantidade} erro(s)`).join("\n")
+    : "\n\nExcelente! Não registaste erros.";
+
+  if (s.tipoAtividade === "exame") mensagem += "\n\n📝 *Correção pergunta a pergunta:*";
+
+  const correcoes = s.tipoAtividade === "exame"
+    ? (s.respostasExame || []).map((r, i) =>
+        `${i + 1}. ${r.pergunta}\n` +
+        `A tua resposta: ${r.respostaTexto || r.resposta || "Sem resposta"}\n` +
+        `Resposta correta: ${r.corretaTexto || r.corretaId?.toUpperCase() || "não identificada"} ` +
+        `${r.correta ? "✅" : "❌"}\n` +
+        `Explicação: ${r.explicacao || "Sem explicação disponível."}`
+      )
+    : [];
 
   s.modo = "menu";
   s.atual = null;
   s.tipoAtividade = null;
   s.respostasExame = [];
 
-  await enviar(numero, `${mensagem}\n\n${menu()}`);
+  await enviarEmPartes(numero, mensagem);
+  if (correcoes.length) await enviarEmPartes(numero, correcoes.join("\n\n"));
+  await enviarEmPartes(numero, menu());
 }
 
 async function mostrarPergunta(numero, s) {
@@ -253,7 +337,7 @@ async function iniciar(numero, s, disciplina) {
   await mostrarPergunta(numero, s);
 }
 async function processar(numero, textoRecebido) {
-  const texto = textoRecebido.trim().toLowerCase();
+    const texto = textoRecebido.trim().toLowerCase();
 
   const s = sessoes[numero] || {
     modo: "menu",
@@ -416,11 +500,14 @@ async function processar(numero, textoRecebido) {
       }
 
       s.respostasExame.push({
+        tema: s.atual.tema,
         pergunta: s.atual.pergunta,
         resposta: resposta.toUpperCase(),
+        respostaTexto: s.atual.opcoes.find(o => o.id === resposta)?.texto || resposta.toUpperCase(),
         correta: acertou,
         corretaId: correta,
-        explicacao: s.atual.explicacao
+        corretaTexto: opcaoCorreta?.texto || correta.toUpperCase(),
+                explicacao: s.atual.explicacao
       });
 
       await enviar(
@@ -590,130 +677,127 @@ async function processar(numero, textoRecebido) {
 
     await enviar(
       numero,
-      "📝 *Simulado iniciado!*\nTerás perguntas das quatro disciplinas."
+            `📚 *Simulado geral iniciado!*\n` +
+      `Total de perguntas: ${s.total}\n` +
+      `Disciplinas: Português, Física, Química e Biologia.`
     );
 
     await mostrarPergunta(numero, s);
     return;
   }
 
-  // REVER ERROS
+  // EXAMES PASSADOS
   if (texto === "6") {
-    if (!s.erros.length) {
-      await enviar(
-        numero,
-        "Ainda não tens erros registados nesta sessão."
-      );
-      return;
-    }
-
-    const resumo = s.erros.map((e, i) =>
-      `${i + 1}. ${e.tema}\n` +
-      `Pergunta: ${e.pergunta}\n` +
-      `A tua resposta: ${e.tuaResposta}\n` +
-      `Resposta correta: ${e.correta}\n` +
-      `Explicação: ${e.explicacao}`
-    ).join("\n\n");
-
-    await enviar(
-      numero,
-      `📘 *Revisão dos erros*\n\n${resumo}`
-    );
-
-    await enviar(numero, menu());
-    s.modo = "menu";
-    return;
-  }
-
-  // RESULTADOS
-  if (texto === "7") {
-    await enviar(
-      numero,
-      `📊 *Resultados da sessão*\n` +
-      `Acertos: ${s.pontos}\n` +
-      `Perguntas respondidas: ${s.indice}\n` +
-      `Erros registados: ${s.erros.length}\n\n` +
-      `${menu()}`
-    );
-
-    s.modo = "menu";
-    return;
-  }
-
-  // TESTES DE EXAMES PASSADOS
-  if (texto === "8") {
     s.modo = "escolher_variante";
-    s.atual = null;
 
     await enviar(
       numero,
-      "📚 *Testes de exames passados*\n\n" +
+      "📘 *Escolhe a variante do exame:*\n\n" +
       "A — Variante A\n" +
       "F — Variante F\n" +
-      "D — Variante D (Medicina — UKB)\n\n" +
-      "Envia A, F ou D."
+      "D — Variante D (Medicina — UKB)"
     );
 
     return;
   }
 
-  // VARIANTE A
+  // DESEMPENHO
+  if (texto === "7") {
+    await enviar(numero, resumoDesempenho(s));
+    return;
+  }
+
+  // REINICIAR
+  if (texto === "8") {
+    sessoes[numero] = {
+      modo: "menu",
+      erros: [],
+      pontos: 0,
+      total: 0
+    };
+
+    await enviar(numero, menu());
+    return;
+  }
+
+  // AJUDA
   if (texto === "9") {
-    s.modo = "escolher_modo_variante_a";
-    s.atual = null;
-
     await enviar(
       numero,
-      "📘 *Variante A — Exames passados*\n" +
-      "Escolhe o modo:\n" +
-      "1️⃣ Modo Estudo — correcção imediata\n" +
-      "2️⃣ Modo Exame — correcção no fim"
+      "ℹ️ *Ajuda BIOIA*\n\n" +
+      "1 — Português\n" +
+      "2 — Física\n" +
+      "3 — Química\n" +
+      "4 — Biologia\n" +
+      "5 — Simulado geral\n" +
+      "6 — Exames passados\n" +
+      "7 — Ver desempenho\n" +
+      "8 — Reiniciar\n" +
+      "9 — Ajuda\n" +
+      "10 — Sobre o BIOIA\n" +
+      "11 — Sair\n\n" +
+      "Durante um exercício, responde com a letra da opção correcta.\n" +
+      "Escreve MENU para voltar ao menu principal."
     );
 
     return;
   }
 
-  // VARIANTE F
+  // SOBRE O BIOIA
   if (texto === "10") {
-    s.modo = "escolher_modo_variante_f";
-    s.atual = null;
-
     await enviar(
       numero,
-      "📘 *Variante F — Exames passados*\n" +
-      "Escolhe o modo:\n" +
-      "1️⃣ Modo Estudo — correcção imediata\n" +
-      "2️⃣ Modo Exame — correcção no fim"
+      "🤖 *BIOIA — Preparação para Exames*\n\n" +
+      "O BIOIA ajuda-te a preparar os exames de admissão, " +
+      "com perguntas de prática, simulados e acompanhamento do desempenho."
     );
 
     return;
   }
 
-  // VARIANTE D — MEDICINA (UKB)
+  // SAIR
   if (texto === "11") {
-    s.modo = "escolher_modo_variante_d";
+    s.modo = "menu";
     s.atual = null;
 
     await enviar(
       numero,
-      "📘 *Variante D — Medicina (UKB)*\n" +
-      "Escolhe o modo:\n" +
-      "1️⃣ Modo Estudo — correção imediata\n" +
-      "2️⃣ Modo Exame — correção no fim"
+      "👋 Até breve! Quando quiseres estudar novamente, escreve MENU."
     );
 
     return;
   }
 
-  await enviar(
-    numero,
-    `Não reconheci essa opção.\n\n${menu()}`
-  );
+  await enviar(numero, menu());
 }
 
-// PÁGINA INICIAL
-app.get("/", (req, res) => {
-  res.status(200).send("BIOIA está online 🤖");
+// WEBHOOK WHATSAPP
+app.post("/webhook", async (req, res) => {
+  res.sendStatus(200);
+
+  try {
+    const entry = req.body.entry || [];
+
+    for (const e of entry) {
+      for (const change of e.changes || []) {
+        const value = change.value || {};
+        const messages = value.messages || [];
+
+        for (const msg of messages) {
+          if (msg.type !== "text") continue;
+
+          const numero = msg.from;
+          const texto = msg.text?.body || "";
+
+          processarEmFila(numero, texto).catch(err => {
+            console.error("Erro ao processar mensagem:", err);
+          });
+        }
+      }
+    }
+  } catch (err) {
+    console.error("Erro no webhook:", err);
+  }
 });
 
 // VERIFICAÇÃO DO WEBHOOK
@@ -729,33 +813,13 @@ app.get("/webhook", (req, res) => {
   return res.sendStatus(403);
 });
 
-// RECEBER MENSAGENS DO WHATSAPP
-app.post("/webhook", (req, res) => {
-  res.sendStatus(200);
-
-  const entradas = req.body?.entry || [];
-
-  for (const entrada of entradas) {
-    for (const mudanca of entrada.changes || []) {
-      const mensagens = mudanca.value?.messages || [];
-
-      for (const mensagem of mensagens) {
-        if (mensagem.type !== "text") continue;
-
-        const numero = mensagem.from;
-        const texto = mensagem.text?.body || "";
-
-        processar(numero, texto).catch(erro => {
-          console.error("Erro ao processar mensagem:", erro);
-        });
-      }
-    }
-  }
+// ROTA DE TESTE
+app.get("/", (req, res) => {
+  res.send("BIOIA está online!");
 });
 
-// INICIAR SERVIDOR
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
-  console.log(`BIOIA online na porta ${PORT}`);
+  console.log(`BIOIA a correr na porta ${PORT}`);
 });
