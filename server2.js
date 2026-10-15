@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+
 const { carregarBancoBiologia } = require("./bioia_biologia_loader");
 const { carregarBancoPortugues } = require("./bioia_portugues_loader");
 const { carregarBancoFisica } = require("./bioia_fisica_loader");
@@ -17,7 +18,7 @@ const PHONE_NUMBER_ID = process.env.PHONE_NUMBER_ID;
 const API_VERSION = "v26.0";
 const sessoes = {};
 
-  const bancos = {
+const bancos = {
   portugues: carregarBancoPortugues(),
   fisica: carregarBancoFisica(),
   quimica: carregarBancoQuimica(),
@@ -26,6 +27,7 @@ const sessoes = {};
 
 const bancoVarianteF = carregarBancoVarianteF();
 const bancoVarianteA = carregarBancoVarianteA();
+const bancoVarianteD = carregarBancoVarianteD();
 
 const nomes = {
   portugues: "Língua Portuguesa",
@@ -88,38 +90,59 @@ function menu() {
     "5️⃣ Simulado das quatro disciplinas",
     "6️⃣ Rever erros da sessão",
     "7️⃣ Ver resultados",
-"8️⃣ Testes de exames passados",
-"9️⃣ Variante A — Exames passados",
-"🔟 Variante F — Exames passados",
+    "8️⃣ Testes de exames passados",
+    "9️⃣ Variante A — Exames passados",
+    "🔟 Variante F — Exames passados",
+    "1️⃣1️⃣ Variante D — Medicina (UKB)",
     "",
     "Envia o número da opção."
   ].join("\n");
 }
 
 async function terminarVarianteF(numero, s) {
-  const percentagem = s.total ? Math.round((s.pontos / s.total) * 100) : 0;
-  let mensagem = `🏁 *Fim da Variante F!*\nResultado: ${s.pontos}/${s.total} (${percentagem}%)\n`;
+  const percentagem = s.total
+    ? Math.round((s.pontos / s.total) * 100)
+    : 0;
+
+  let mensagem =
+    `🏁 *Fim da Variante F!*\n` +
+    `Resultado: ${s.pontos}/${s.total} (${percentagem}%)\n`;
+
   if (s.tipoAtividade === "exame") {
-    mensagem += "\n*Correcção:*\n" + s.respostasExame.map((r, i) =>
-      `${i + 1}. ${r.resposta || "Sem resposta"} — correcta: ${r.corretaId.toUpperCase()}${r.correta ? " ✅" : " ❌"}\n${r.pergunta}\nExplicação: ${r.explicacao}`
-    ).join("\n\n");
+    mensagem += "\n*Correcção:*\n" +
+      s.respostasExame.map((r, i) =>
+        `${i + 1}. ${r.resposta || "Sem resposta"} — ` +
+        `correcta: ${r.corretaId.toUpperCase()}` +
+        `${r.correta ? " ✅" : " ❌"}\n` +
+        `${r.pergunta}\nExplicação: ${r.explicacao}`
+      ).join("\n\n");
   }
+
   s.modo = "menu";
   s.atual = null;
   s.tipoAtividade = null;
   s.respostasExame = [];
+
   await enviar(numero, `${mensagem}\n\n${menu()}`);
 }
 
 async function terminarVarianteA(numero, s) {
-  const percentagem = s.total ? Math.round((s.pontos / s.total) * 100) : 0;
+  const percentagem = s.total
+    ? Math.round((s.pontos / s.total) * 100)
+    : 0;
 
-  let mensagem = `🏁 *Fim da Variante A!*\nResultado: ${s.pontos}/${s.total} (${percentagem}%)\n`;
+  let mensagem =
+    `🏁 *Fim da Variante A!*\n` +
+    `Resultado: ${s.pontos}/${s.total} (${percentagem}%)\n`;
 
   if (s.tipoAtividade === "exame") {
-    mensagem += "\n*Correcção:*\n" + s.respostasExame.map((r, i) =>
-      `${i + 1}. ${r.resposta || "Sem resposta"} — correcta: ${r.corretaId.toUpperCase()}${r.correta ? " ✅" : " ❌"}\n${r.pergunta}\nExplicação: ${r.explicacao}`
-    ).join("\n\n");
+    mensagem += "\n*Correcção:*\n" +
+      s.respostasExame.map((r, i) =>
+        `${i + 1}. ${r.resposta || "Sem resposta"} — ` +
+        `correcta: ${r.corretaId.toUpperCase()}` +
+        `${r.correta ? " ✅" : " ❌"}\n` +
+        `${r.pergunta}\nExplicação: ${r.explicacao}`
+      ).join("\n\n");
   }
 
   s.modo = "menu";
@@ -129,32 +152,76 @@ async function terminarVarianteA(numero, s) {
 
   await enviar(numero, `${mensagem}\n\n${menu()}`);
 }
-async function mostrarPergunta(numero, s) {
-  if (s.indice >= s.fila.length) {
-  if (s.disciplina === "variante_f") {
-    return terminarVarianteF(numero, s);
-  }
 
-  if (s.disciplina === "variante_a") {
-    return terminarVarianteA(numero, s);
+async function terminarVarianteD(numero, s) {
+  const percentagem = s.total
+    ? Math.round((s.pontos / s.total) * 100)
+    : 0;
+
+  let mensagem =
+    `🏁 *Fim da Variante D!*\n` +
+    `Resultado: ${s.pontos}/${s.total} (${percentagem}%)\n`;
+
+  if (s.tipoAtividade === "exame") {
+    mensagem += "\n*Correção:*\n" +
+      s.respostasExame.map((r, i) =>
+        `${i + 1}. A tua resposta: ${r.resposta || "Sem resposta"} — ` +
+        `correta: ${r.corretaId.toUpperCase()}` +
+        `${r.correta ? " ✅" : " ❌"}\n` +
+        `${r.pergunta}\nExplicação: ${r.explicacao}`
+      ).join("\n\n");
   }
 
   s.modo = "menu";
   s.atual = null;
-  await enviar(numero, `🏁 *Fim da atividade!*
+  s.tipoAtividade = null;
+  s.respostasExame = [];
+
+  await enviar(numero, `${mensagem}\n\n${menu()}`);
+}
+
+async function mostrarPergunta(numero, s) {
+  if (s.indice >= s.fila.length) {
+    if (s.disciplina === "variante_f") {
+      return terminarVarianteF(numero, s);
+    }
+
+    if (s.disciplina === "variante_a") {
+      return terminarVarianteA(numero, s);
+    }
+
+    if (s.disciplina === "variante_d") {
+      return terminarVarianteD(numero, s);
+    }
+
+    s.modo = "menu";
+    s.atual = null;
+
+    await enviar(
+      numero,
+      `🏁 *Fim da atividade!*
 Resultado: ${s.pontos}/${s.total}
 Erros: ${s.erros.length}
 
-${menu()}`);
-  return;
-}
+${menu()}`
+    );
+
+    return;
+  }
 
   const original = s.fila[s.indice];
   const opcoes = baralhar(original.opcoes);
+
   s.atual = { ...original, opcoes };
-   const letras = ["variante_f", "variante_a"].includes(s.disciplina)
-  ? "A, B, C, D ou E"
-  : "A, B, C ou D";
+
+  const letras = [
+    "variante_f",
+    "variante_a",
+    "variante_d"
+  ].includes(s.disciplina)
+    ? "A, B, C, D ou E"
+    : "A, B, C ou D";
+
   const texto = [
     `📚 *${s.atual.tema}*`,
     "",
@@ -164,6 +231,7 @@ ${menu()}`);
     "",
     `Responde com ${letras}.`
   ].join("\n");
+
   await enviar(numero, texto);
 }
 
@@ -178,14 +246,15 @@ async function iniciar(numero, s, disciplina) {
 
   await enviar(
     numero,
-    `Vamos estudar ${nomes[disciplina]}! 📖\nTens ${s.total} perguntas nesta atividade.`
+    `Vamos estudar ${nomes[disciplina]}! 📖\n` +
+    `Tens ${s.total} perguntas nesta atividade.`
   );
 
   await mostrarPergunta(numero, s);
 }
-
 async function processar(numero, textoRecebido) {
   const texto = textoRecebido.trim().toLowerCase();
+
   const s = sessoes[numero] || {
     modo: "menu",
     erros: [],
@@ -195,229 +264,459 @@ async function processar(numero, textoRecebido) {
 
   sessoes[numero] = s;
 
-  if (["menu", "inicio", "olá", "ola", "bom dia", "boa tarde", "boa noite"].includes(texto)) {
+  if (
+    ["menu", "inicio", "olá", "ola", "bom dia",
+      "boa tarde", "boa noite"].includes(texto)
+  ) {
     s.modo = "menu";
     s.atual = null;
-    await enviar(numero, menu());
-    return;
-}
 
-  
-if (s.modo === "escolher_modo_variante_a") {
-  if (texto !== "1" && texto !== "2") {
-    await enviar(numero, "Escolhe 1 para Modo Estudo ou 2 para Modo Exame.");
+    await enviar(numero, menu());
     return;
   }
 
-  s.disciplina = "variante_a";
-  s.fila = baralhar(bancoVarianteA);
-  s.indice = 0;
-  s.pontos = 0;
-  s.total = s.fila.length;
-  s.erros = [];
-  s.tipoAtividade = texto === "1" ? "estudo" : "exame";
-  s.respostasExame = [];
-  s.modo = texto === "1" ? "variante_a_estudo" : "variante_a_exame";
+  // VARIANTE D — ESCOLHA DO MODO
+  if (s.modo === "escolher_modo_variante_d") {
+    if (texto !== "1" && texto !== "2") {
+      await enviar(
+        numero,
+        "Escolhe 1 para Modo Estudo ou 2 para Modo Exame."
+      );
+      return;
+    }
 
-  await enviar(numero, texto === "1"
-    ? `📖 *Variante A — Modo Estudo iniciado!*\n${s.total} perguntas. Receberás a correcção após cada resposta.`
-    : `📝 *Variante A — Modo Exame iniciado!*\n${s.total} perguntas. A correcção será apresentada no final.`);
+    s.disciplina = "variante_d";
+    s.fila = baralhar(bancoVarianteD);
+    s.indice = 0;
+    s.pontos = 0;
+    s.total = s.fila.length;
+    s.erros = [];
 
-  await mostrarPergunta(numero, s);
-  return;
-}
+    s.tipoAtividade = texto === "1" ? "estudo" : "exame";
+    s.respostasExame = [];
+
+    s.modo = texto === "1"
+      ? "variante_d_estudo"
+      : "variante_d_exame";
+
+    await enviar(
+      numero,
+      texto === "1"
+        ? `📖 *Variante D — Modo Estudo iniciado!*\n` +
+          `${s.total} perguntas. Receberás a correção após cada resposta.`
+        : `📝 *Variante D — Modo Exame iniciado!*\n` +
+          `${s.total} perguntas. A correção será apresentada no final.`
+    );
+
+    await mostrarPergunta(numero, s);
+    return;
+  }
+
+  // VARIANTE A — ESCOLHA DO MODO
+  if (s.modo === "escolher_modo_variante_a") {
+    if (texto !== "1" && texto !== "2") {
+      await enviar(
+        numero,
+        "Escolhe 1 para Modo Estudo ou 2 para Modo Exame."
+      );
+      return;
+    }
+
+    s.disciplina = "variante_a";
+    s.fila = baralhar(bancoVarianteA);
+    s.indice = 0;
+    s.pontos = 0;
+    s.total = s.fila.length;
+    s.erros = [];
+
+    s.tipoAtividade = texto === "1" ? "estudo" : "exame";
+    s.respostasExame = [];
+
+    s.modo = texto === "1"
+      ? "variante_a_estudo"
+      : "variante_a_exame";
+
+    await enviar(
+      numero,
+      texto === "1"
+        ? `📖 *Variante A — Modo Estudo iniciado!*\n` +
+          `${s.total} perguntas. Receberás a correcção após cada resposta.`
+        : `📝 *Variante A — Modo Exame iniciado!*\n` +
+          `${s.total} perguntas. A correcção será apresentada no final.`
+    );
+
+    await mostrarPergunta(numero, s);
+    return;
+  }
+
+  // PROCESSAMENTO DAS RESPOSTAS
   if (
-  (
-    s.modo === "quiz" ||
-    s.modo === "variante_f_estudo" ||
-    s.modo === "variante_f_exame" ||
-    s.modo === "variante_a_estudo" ||
-    s.modo === "variante_a_exame"
-  ) && s.atual
-) {
+    (
+      s.modo === "quiz" ||
+      s.modo === "variante_f_estudo" ||
+      s.modo === "variante_f_exame" ||
+      s.modo === "variante_a_estudo" ||
+      s.modo === "variante_a_exame" ||
+      s.modo === "variante_d_estudo" ||
+      s.modo === "variante_d_exame"
+    ) && s.atual
+  ) {
     const resposta = texto.replace(/[).]/g, "").toLowerCase();
-    const letrasValidas = ["variante_f", "variante_a"].includes(s.disciplina)
-  ? ["a", "b", "c", "d", "e"]
-  : ["a", "b", "c", "d"];
+
+    const letrasValidas = [
+      "variante_f",
+      "variante_a",
+      "variante_d"
+    ].includes(s.disciplina)
+      ? ["a", "b", "c", "d", "e"]
+      : ["a", "b", "c", "d"];
+
     if (!letrasValidas.includes(resposta)) {
-       await enviar(numero, `Responde apenas com ${["variante_f", "variante_a"].includes(s.disciplina) ? "A, B, C, D ou E" : "A, B, C ou D"}. Para voltar ao menu, escreve MENU.`);
+      const alternativas = [
+        "variante_f",
+        "variante_a",
+        "variante_d"
+      ].includes(s.disciplina)
+        ? "A, B, C, D ou E"
+        : "A, B, C ou D";
+
+      await enviar(
+        numero,
+        `Responde apenas com ${alternativas}. Para voltar ao menu, escreve MENU.`
+      );
+
       return;
     }
 
     const correta = s.atual.correta;
-    const opcaoCorreta = s.atual.opcoes.find(o => o.id === correta);
+    const opcaoCorreta = s.atual.opcoes.find(
+      o => o.id === correta
+    );
+
     const acertou = resposta === correta;
 
-    if (["variante_f", "variante_a"].includes(s.disciplina) && s.tipoAtividade === "exame") {
-      if (acertou) s.pontos++;
-      if (!acertou) s.erros.push({
-        tema: s.atual.tema, pergunta: s.atual.pergunta,
-        tuaResposta: s.atual.opcoes.find(o => o.id === resposta)?.texto || resposta,
-        correta: opcaoCorreta?.texto || correta, explicacao: s.atual.explicacao
-      });
-      s.respostasExame.push({
-        pergunta: s.atual.pergunta, resposta: resposta.toUpperCase(),
-        correta: acertou, corretaId: correta, explicacao: s.atual.explicacao
-      });
-      await enviar(numero, `Resposta ${s.indice + 1}/${s.total} registada. A correcção será apresentada no fim.`);
-    } else {
+    // MODO EXAME: CORREÇÃO NO FINAL
+    if (
+      ["variante_f", "variante_a", "variante_d"].includes(s.disciplina) &&
+      s.tipoAtividade === "exame"
+    ) {
       if (acertou) {
         s.pontos++;
-        await enviar(numero, `✅ *Resposta correcta!*\n${s.atual.explicacao}`);
+      }
+
+      if (!acertou) {
+        s.erros.push({
+          tema: s.atual.tema,
+          pergunta: s.atual.pergunta,
+          tuaResposta:
+            s.atual.opcoes.find(o => o.id === resposta)?.texto || resposta,
+          correta: opcaoCorreta?.texto || correta,
+          explicacao: s.atual.explicacao
+        });
+      }
+
+      s.respostasExame.push({
+        pergunta: s.atual.pergunta,
+        resposta: resposta.toUpperCase(),
+        correta: acertou,
+        corretaId: correta,
+        explicacao: s.atual.explicacao
+      });
+
+      await enviar(
+        numero,
+        `Resposta ${s.indice + 1}/${s.total} registada. ` +
+        "A correção será apresentada no fim."
+      );
+    } else {
+      // MODO ESTUDO: CORREÇÃO IMEDIATA
+      if (acertou) {
+        s.pontos++;
+
+        await enviar(
+          numero,
+          `✅ *Resposta correcta!*\n${s.atual.explicacao}`
+        );
       } else {
         s.erros.push({
-          tema: s.atual.tema, pergunta: s.atual.pergunta,
-          tuaResposta: s.atual.opcoes.find(o => o.id === resposta)?.texto || resposta,
-          correta: opcaoCorreta?.texto || correta, explicacao: s.atual.explicacao
+          tema: s.atual.tema,
+          pergunta: s.atual.pergunta,
+          tuaResposta:
+            s.atual.opcoes.find(o => o.id === resposta)?.texto || resposta,
+          correta: opcaoCorreta?.texto || correta,
+          explicacao: s.atual.explicacao
         });
-        await enviar(numero, `❌ *Resposta incorrecta.*\nResposta certa: ${correta.toUpperCase()}) ${opcaoCorreta?.texto || ""}\n\n${s.atual.explicacao}`);
+
+        await enviar(
+          numero,
+          `❌ *Resposta incorrecta.*\n` +
+          `Resposta certa: ${correta.toUpperCase()}) ` +
+          `${opcaoCorreta?.texto || ""}\n\n` +
+          `${s.atual.explicacao}`
+        );
       }
     }
+
     s.indice++;
+
     await mostrarPergunta(numero, s);
     return;
   }
-    
-   if (s.modo === "escolher_variante") {
-    if (["a", "variante a", "variante-a", "1"].includes(texto)) {
+
+  // ESCOLHER VARIANTE NOS EXAMES PASSADOS
+  if (s.modo === "escolher_variante") {
+    if (
+      ["a", "variante a", "variante-a", "1"].includes(texto)
+    ) {
       s.disciplina = "variante_a";
       s.modo = "escolher_modo_variante_a";
-      await enviar(numero,
+
+      await enviar(
+        numero,
         "📘 *Variante A seleccionada.*\n" +
         "Escolhe o modo:\n" +
         "1️⃣ Modo Estudo — correcção imediata\n" +
         "2️⃣ Modo Exame — correcção no fim"
       );
-    } else if (["f", "variante f", "variante-f", "2"].includes(texto)) {
+    } else if (
+      ["f", "variante f", "variante-f", "2"].includes(texto)
+    ) {
       s.disciplina = "variante_f";
       s.modo = "escolher_modo_variante_f";
-      await enviar(numero,
+
+      await enviar(
+        numero,
         "📘 *Variante F seleccionada.*\n" +
         "Escolhe o modo:\n" +
         "1️⃣ Modo Estudo — correcção imediata\n" +
         "2️⃣ Modo Exame — correcção no fim"
       );
+    } else if (
+      ["d", "variante d", "variante-d", "3"].includes(texto)
+    ) {
+      s.disciplina = "variante_d";
+      s.modo = "escolher_modo_variante_d";
+
+      await enviar(
+        numero,
+        "📘 *Variante D — Medicina (UKB) seleccionada.*\n" +
+        "Escolhe o modo:\n" +
+        "1️⃣ Modo Estudo — correção imediata\n" +
+        "2️⃣ Modo Exame — correção no fim"
+      );
     } else {
-      await enviar(numero,
-        "Escolhe a variante:\nA — Variante A\nF — Variante F"
+      await enviar(
+        numero,
+        "Escolhe a variante:\n" +
+        "A — Variante A\n" +
+        "F — Variante F\n" +
+        "D — Variante D"
       );
     }
+
     return;
   }
+
+  // VARIANTE F — ESCOLHA DO MODO
   if (s.modo === "escolher_modo_variante_f") {
     if (texto !== "1" && texto !== "2") {
-      await enviar(numero, "Escolhe 1 para Modo Estudo ou 2 para Modo Exame.");
+      await enviar(
+        numero,
+        "Escolhe 1 para Modo Estudo ou 2 para Modo Exame."
+      );
       return;
     }
+
     s.disciplina = "variante_f";
     s.fila = baralhar(bancoVarianteF);
     s.indice = 0;
     s.pontos = 0;
     s.total = s.fila.length;
     s.erros = [];
+
     s.tipoAtividade = texto === "1" ? "estudo" : "exame";
     s.respostasExame = [];
-    s.modo = texto === "1" ? "variante_f_estudo" : "variante_f_exame";
-    await enviar(numero, texto === "1"
-      ? `📖 *Modo Estudo iniciado!*\n${s.total} perguntas. Receberás a correcção após cada resposta.`
-      : `📝 *Modo Exame iniciado!*\n${s.total} perguntas. A correcção será apresentada no final.`);
+
+    s.modo = texto === "1"
+      ? "variante_f_estudo"
+      : "variante_f_exame";
+
+    await enviar(
+      numero,
+      texto === "1"
+        ? `📖 *Modo Estudo iniciado!*\n` +
+          `${s.total} perguntas. Receberás a correcção após cada resposta.`
+        : `📝 *Modo Exame iniciado!*\n` +
+          `${s.total} perguntas. A correcção será apresentada no final.`
+    );
+
     await mostrarPergunta(numero, s);
     return;
   }
+  
+  // MENU PRINCIPAL
+  if (texto === "1") {
+    return iniciar(numero, s, "portugues");
+  }
 
-  if (texto === "1") return iniciar(numero, s, "portugues");
-  if (texto === "2") return iniciar(numero, s, "fisica");
-  if (texto === "3") return iniciar(numero, s, "quimica");
-  if (texto === "4") return iniciar(numero, s, "biologia");
+  if (texto === "2") {
+    return iniciar(numero, s, "fisica");
+  }
 
+  if (texto === "3") {
+    return iniciar(numero, s, "quimica");
+  }
+
+  if (texto === "4") {
+    return iniciar(numero, s, "biologia");
+  }
+
+  // SIMULADO DAS QUATRO DISCIPLINAS
   if (texto === "5") {
     s.disciplina = "simulado";
+
     s.fila = baralhar([
       ...bancos.portugues,
       ...bancos.fisica,
       ...bancos.quimica,
       ...bancos.biologia
     ]);
+
     s.indice = 0;
     s.pontos = 0;
     s.total = s.fila.length;
     s.erros = [];
     s.modo = "quiz";
 
-    await enviar(numero, "📝 *Simulado iniciado!*\nTerás perguntas das quatro disciplinas.");
+    await enviar(
+      numero,
+      "📝 *Simulado iniciado!*\nTerás perguntas das quatro disciplinas."
+    );
+
     await mostrarPergunta(numero, s);
     return;
   }
 
+  // REVER ERROS
   if (texto === "6") {
     if (!s.erros.length) {
-      await enviar(numero, "Ainda não tens erros registados nesta sessão.");
+      await enviar(
+        numero,
+        "Ainda não tens erros registados nesta sessão."
+      );
       return;
     }
 
     const resumo = s.erros.map((e, i) =>
-      `${i + 1}. ${e.tema}\nPergunta: ${e.pergunta}\nA tua resposta: ${e.tuaResposta}\nResposta correta: ${e.correta}\nExplicação: ${e.explicacao}`
+      `${i + 1}. ${e.tema}\n` +
+      `Pergunta: ${e.pergunta}\n` +
+      `A tua resposta: ${e.tuaResposta}\n` +
+      `Resposta correta: ${e.correta}\n` +
+      `Explicação: ${e.explicacao}`
     ).join("\n\n");
 
-    await enviar(numero, `📘 *Revisão dos erros*\n\n${resumo}`);
+    await enviar(
+      numero,
+      `📘 *Revisão dos erros*\n\n${resumo}`
+    );
+
     await enviar(numero, menu());
     s.modo = "menu";
     return;
   }
 
+  // RESULTADOS
   if (texto === "7") {
     await enviar(
       numero,
-      `📊 *Resultados da sessão*\nAcertos: ${s.pontos}\nPerguntas respondidas: ${s.indice}\nErros registados: ${s.erros.length}\n\n${menu()}`
+      `📊 *Resultados da sessão*\n` +
+      `Acertos: ${s.pontos}\n` +
+      `Perguntas respondidas: ${s.indice}\n` +
+      `Erros registados: ${s.erros.length}\n\n` +
+      `${menu()}`
     );
+
     s.modo = "menu";
     return;
   }
-  if (texto === "9") {
-    s.modo = "escolher_modo_variante_a";
-    s.atual = null;
 
-    await enviar(numero,
-      "📘 *Variante A — Exames passados*\n" +
-      "Escolhe o modo:\n" +
-      "1️⃣ Modo Estudo — correcção imediata\n" +
-      "2️⃣ Modo Exame — correcção no fim"
-    );
-    return;
-  }
-    if (texto === "10") {
-    s.modo = "escolher_modo_variante_f";
-    s.atual = null;
-
-    await enviar(numero,
-      "📘 *Variante F — Exames passados*\n" +
-      "Escolhe o modo:\n" +
-      "1️⃣ Modo Estudo — correcção imediata\n" +
-      "2️⃣ Modo Exame — correcção no fim"
-    );
-    return;
-  }
+  // TESTES DE EXAMES PASSADOS
   if (texto === "8") {
     s.modo = "escolher_variante";
     s.atual = null;
 
-        await enviar(numero,
+    await enviar(
+      numero,
       "📚 *Testes de exames passados*\n\n" +
       "A — Variante A\n" +
       "F — Variante F\n" +
       "D — Variante D (Medicina — UKB)\n\n" +
       "Envia A, F ou D."
     );
+
     return;
   }
 
-  await enviar(numero, `Não reconheci essa opção.\n\n${menu()}`);
+  // VARIANTE A
+  if (texto === "9") {
+    s.modo = "escolher_modo_variante_a";
+    s.atual = null;
+
+    await enviar(
+      numero,
+      "📘 *Variante A — Exames passados*\n" +
+      "Escolhe o modo:\n" +
+      "1️⃣ Modo Estudo — correcção imediata\n" +
+      "2️⃣ Modo Exame — correcção no fim"
+    );
+
+    return;
+  }
+
+  // VARIANTE F
+  if (texto === "10") {
+    s.modo = "escolher_modo_variante_f";
+    s.atual = null;
+
+    await enviar(
+      numero,
+      "📘 *Variante F — Exames passados*\n" +
+      "Escolhe o modo:\n" +
+      "1️⃣ Modo Estudo — correcção imediata\n" +
+      "2️⃣ Modo Exame — correcção no fim"
+    );
+
+    return;
+  }
+
+  // VARIANTE D — MEDICINA (UKB)
+  if (texto === "11") {
+    s.modo = "escolher_modo_variante_d";
+    s.atual = null;
+
+    await enviar(
+      numero,
+      "📘 *Variante D — Medicina (UKB)*\n" +
+      "Escolhe o modo:\n" +
+      "1️⃣ Modo Estudo — correção imediata\n" +
+      "2️⃣ Modo Exame — correção no fim"
+    );
+
+    return;
+  }
+
+  await enviar(
+    numero,
+    `Não reconheci essa opção.\n\n${menu()}`
+  );
 }
 
+// PÁGINA INICIAL
 app.get("/", (req, res) => {
   res.status(200).send("BIOIA está online 🤖");
 });
 
+// VERIFICAÇÃO DO WEBHOOK
 app.get("/webhook", (req, res) => {
   const mode = req.query["hub.mode"];
   const token = req.query["hub.verify_token"];
@@ -430,6 +729,7 @@ app.get("/webhook", (req, res) => {
   return res.sendStatus(403);
 });
 
+// RECEBER MENSAGENS DO WHATSAPP
 app.post("/webhook", (req, res) => {
   res.sendStatus(200);
 
@@ -453,6 +753,7 @@ app.post("/webhook", (req, res) => {
   }
 });
 
+// INICIAR SERVIDOR
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
