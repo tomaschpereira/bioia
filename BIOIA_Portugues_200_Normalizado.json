@@ -162,7 +162,7 @@
       "D": "Claro / escuro"
     },
     "correct_answer": "B",
-    "explanation": "«Concerto» (apresentação musical) e «conserto» (reparação) têm a mesma pronúncia em muitas variedades do português, mas grafia e significado diferentes."
+    "explanation": "«Concerto» (apresentação musical) e «conserto» (reparação) são homófonas em português europeu: pronunciam-se da mesma forma, mas escrevem-se de modo diferente e têm significados distintos."
   },
   {
     "id": "PT012",
@@ -274,7 +274,7 @@
     "subject": "Língua Portuguesa",
     "topic": "Representação gráfica — hífen",
     "difficulty": "Média",
-    "question": "Qual forma está correctamente escrita segundo a ortografia actual?",
+    "question": "Segundo a norma ortográfica actualmente usada em Portugal (Acordo Ortográfico de 1990), qual forma está correctamente escrita?",
     "options": {
       "A": "anti-social",
       "B": "antissocial",
