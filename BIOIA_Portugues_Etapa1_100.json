@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "PT201",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Fácil",
+    "question": "Lê: «Apesar do atraso do autocarro, os candidatos chegaram antes do início da prova.» O que se conclui?",
+    "options": {
+      "A": "Os candidatos desistiram da prova",
+      "B": "O atraso impediu a realização da prova",
+      "C": "Os candidatos chegaram a tempo, apesar do atraso",
+      "D": "A prova foi adiada"
+    },
+    "correct_answer": "C",
+    "explanation": "A expressão «apesar de» introduz uma concessão: houve atraso, mas isso não impediu a chegada a tempo."
+  },
+  {
+    "id": "PT202",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Fácil",
+    "question": "Num texto, a frase «A água é indispensável à vida» apresenta principalmente:",
+    "options": {
+      "A": "Uma opinião sem fundamento",
+      "B": "Uma ideia central sobre a importância da água",
+      "C": "Uma ordem dirigida ao leitor",
+      "D": "Uma descrição de uma pessoa"
+    },
+    "correct_answer": "B",
+    "explanation": "A frase apresenta a ideia principal de que a água é essencial à vida."
+  },
+  {
+    "id": "PT203",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Lê: «A biblioteca ampliou o horário. Desde então, mais estudantes passaram a frequentá-la.» A expressão «Desde então» indica:",
+    "options": {
+      "A": "Lugar",
+      "B": "Comparação",
+      "C": "Tempo e consequência temporal",
+      "D": "Oposição"
+    },
+    "correct_answer": "C",
+    "explanation": "A expressão situa o aumento da frequência a partir do momento em que o horário foi ampliado."
+  },
+  {
+    "id": "PT204",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Num texto argumentativo, a tese corresponde:",
+    "options": {
+      "A": "À opinião ou ideia central que o autor procura defender",
+      "B": "A todos os exemplos secundários",
+      "C": "À lista de personagens",
+      "D": "À conclusão de uma narrativa"
+    },
+    "correct_answer": "A",
+    "explanation": "A tese é a posição central defendida pelo autor ao longo da argumentação."
+  },
+  {
+    "id": "PT205",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Lê: «O posto de saúde recebeu novos equipamentos; contudo, continua a faltar pessoal.» A palavra «contudo» estabelece:",
+    "options": {
+      "A": "Adição",
+      "B": "Oposição",
+      "C": "Finalidade",
+      "D": "Explicação"
+    },
+    "correct_answer": "B",
+    "explanation": "«Contudo» é um conector adversativo, introduzindo uma ideia contrária ou limitadora."
+  },
+  {
+    "id": "PT206",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Qual é a finalidade predominante de um texto que apresenta instruções numeradas para utilizar um aparelho?",
+    "options": {
+      "A": "Narrar",
+      "B": "Argumentar",
+      "C": "Instruir",
+      "D": "Descrever sentimentos"
+    },
+    "correct_answer": "C",
+    "explanation": "As instruções orientam o leitor na execução de procedimentos; predomina a função instrucional."
+  },
+  {
+    "id": "PT207",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Lê: «O laboratório estava fechado. Por isso, a aula prática foi transferida.» A expressão «Por isso» introduz:",
+    "options": {
+      "A": "Uma consequência",
+      "B": "Uma condição",
+      "C": "Uma concessão",
+      "D": "Uma comparação"
+    },
+    "correct_answer": "A",
+    "explanation": "«Por isso» liga a causa apresentada à consequência: a transferência da aula."
+  },
+  {
+    "id": "PT208",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Difícil",
+    "question": "Num texto, o autor afirma: «Embora a tecnologia facilite o acesso à informação, é necessário verificar a credibilidade das fontes.» Qual é a posição defendida?",
+    "options": {
+      "A": "A tecnologia deve ser proibida",
+      "B": "Toda a informação digital é falsa",
+      "C": "O acesso à informação dispensa análise",
+      "D": "A facilidade de acesso deve ser acompanhada de avaliação crítica"
+    },
+    "correct_answer": "D",
+    "explanation": "A oração concessiva reconhece uma vantagem, mas a ideia principal recomenda verificar as fontes."
+  },
+  {
+    "id": "PT209",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Fácil",
+    "question": "Qual elemento contribui directamente para a coesão referencial?",
+    "options": {
+      "A": "A repetição desordenada de ideias",
+      "B": "O uso de pronomes que retomam referentes",
+      "C": "A ausência de conectores",
+      "D": "A troca aleatória dos tempos verbais"
+    },
+    "correct_answer": "B",
+    "explanation": "Pronomes podem retomar nomes ou ideias já mencionados, ligando as partes do texto."
+  },
+  {
+    "id": "PT210",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Lê: «Joana estudou durante semanas. No dia do exame, manteve a calma e respondeu com atenção.» A característica mais evidente de Joana é:",
+    "options": {
+      "A": "Desinteresse",
+      "B": "Impaciência",
+      "C": "Preparação e autocontrolo",
+      "D": "Desorganização"
+    },
+    "correct_answer": "C",
+    "explanation": "O estudo prolongado e a calma durante a prova sustentam essa interpretação."
+  },
+  {
+    "id": "PT211",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Um resumo adequado deve:",
+    "options": {
+      "A": "Reproduzir todos os exemplos do original",
+      "B": "Apresentar as ideias essenciais com concisão",
+      "C": "Acrescentar opiniões pessoais",
+      "D": "Alterar a conclusão do autor"
+    },
+    "correct_answer": "B",
+    "explanation": "O resumo selecciona e reformula as ideias principais, sem acrescentar opiniões nem detalhes desnecessários."
+  },
+  {
+    "id": "PT212",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Difícil",
+    "question": "A frase «O director informou o estudante de que a inscrição terminaria na sexta-feira» permite concluir que:",
+    "options": {
+      "A": "A inscrição já terminou",
+      "B": "O estudante informou o director",
+      "C": "Foi comunicada uma data-limite",
+      "D": "A inscrição foi cancelada"
+    },
+    "correct_answer": "C",
+    "explanation": "O conteúdo comunicado é que o prazo de inscrição terminaria na sexta-feira."
+  },
+  {
+    "id": "PT213",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Fácil",
+    "question": "Qual frase apresenta uma sequência narrativa?",
+    "options": {
+      "A": "A água ferve a determinada temperatura",
+      "B": "Primeiro abriu a porta, depois entrou e sentou-se",
+      "C": "A saúde exige prevenção",
+      "D": "O livro é interessante"
+    },
+    "correct_answer": "B",
+    "explanation": "A sequência de acções organizadas no tempo caracteriza uma sequência narrativa."
+  },
+  {
+    "id": "PT214",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Num texto expositivo, predomina a intenção de:",
+    "options": {
+      "A": "Informar e explicar um assunto",
+      "B": "Criar suspense ficcional",
+      "C": "Dar ordens pessoais",
+      "D": "Expressar apenas emoções"
+    },
+    "correct_answer": "A",
+    "explanation": "O texto expositivo organiza informações e explicações para tornar um tema compreensível."
+  },
+  {
+    "id": "PT215",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Lê: «O enfermeiro explicou o procedimento ao doente. Este pediu que a explicação fosse repetida.» A palavra «Este» retoma:",
+    "options": {
+      "A": "O procedimento",
+      "B": "O enfermeiro",
+      "C": "O doente",
+      "D": "A explicação"
+    },
+    "correct_answer": "C",
+    "explanation": "«Este» retoma o referente mais próximo compatível: o doente."
+  },
+  {
+    "id": "PT216",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Difícil",
+    "question": "A frase «O hospital anunciou novas medidas, mas não esclareceu quando entrarão em vigor» sugere que:",
+    "options": {
+      "A": "As medidas já foram aplicadas",
+      "B": "Há anúncio, mas falta informação sobre a aplicação",
+      "C": "As medidas foram retiradas",
+      "D": "O hospital não anunciou medidas"
+    },
+    "correct_answer": "B",
+    "explanation": "A conjunção «mas» contrapõe o anúncio à ausência de informação sobre a data de aplicação."
+  },
+  {
+    "id": "PT217",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "Qual frase contém uma opinião, e não um facto verificável directamente?",
+    "options": {
+      "A": "A prova começou às oito horas",
+      "B": "O edifício tem três pisos",
+      "C": "A sala possui vinte carteiras",
+      "D": "A prova foi excessivamente difícil"
+    },
+    "correct_answer": "D",
+    "explanation": "«Excessivamente difícil» expressa uma avaliação subjectiva."
+  },
+  {
+    "id": "PT218",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Média",
+    "question": "A expressão «em primeiro lugar» desempenha a função de:",
+    "options": {
+      "A": "Marcador de ordenação",
+      "B": "Pronome relativo",
+      "C": "Conjunção causal",
+      "D": "Advérbio de negação"
+    },
+    "correct_answer": "A",
+    "explanation": "É um marcador discursivo que organiza a apresentação de argumentos ou etapas."
+  },
+  {
+    "id": "PT219",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Difícil",
+    "question": "Quando um texto apresenta dados, explica causas e propõe medidas para reduzir uma doença, combina sobretudo:",
+    "options": {
+      "A": "Descrição literária e diálogo",
+      "B": "Exposição e argumentação",
+      "C": "Narração fantástica e poesia",
+      "D": "Instrução e humor"
+    },
+    "correct_answer": "B",
+    "explanation": "Expõe informações e causas e argumenta a favor de medidas de prevenção."
+  },
+  {
+    "id": "PT220",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto escrito — compreensão e interpretação",
+    "difficulty": "Fácil",
+    "question": "A ideia implícita numa frase é aquela que:",
+    "options": {
+      "A": "Está sempre escrita no título",
+      "B": "É inferida a partir das informações e do contexto",
+      "C": "Não tem relação com o texto",
+      "D": "É necessariamente falsa"
+    },
+    "correct_answer": "B",
+    "explanation": "Uma inferência resulta da interpretação de pistas presentes no texto."
+  },
+  {
+    "id": "PT221",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Fácil",
+    "question": "Na palavra «desleal», o elemento «des-» é:",
+    "options": {
+      "A": "Sufixo",
+      "B": "Prefixo",
+      "C": "Radical",
+      "D": "Desinência"
+    },
+    "correct_answer": "B",
+    "explanation": "«Des-» antecede o radical e acrescenta valor de negação ou oposição."
+  },
+  {
+    "id": "PT222",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Fácil",
+    "question": "A palavra «rapidamente» foi formada por:",
+    "options": {
+      "A": "Composição",
+      "B": "Derivação por sufixação",
+      "C": "Derivação regressiva",
+      "D": "Justaposição"
+    },
+    "correct_answer": "B",
+    "explanation": "O sufixo «-mente» foi acrescentado à forma feminina do adjectivo «rápida»."
+  },
+  {
+    "id": "PT223",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Qual palavra é formada por composição por justaposição?",
+    "options": {
+      "A": "Infelizmente",
+      "B": "Anoitecer",
+      "C": "Couve-flor",
+      "D": "Bondade"
+    },
+    "correct_answer": "C",
+    "explanation": "«Couve-flor» combina duas palavras sem perda significativa da sua forma sonora."
+  },
+  {
+    "id": "PT224",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Em «refazer», o radical/base lexical é:",
+    "options": {
+      "A": "re-",
+      "B": "-fazer",
+      "C": "faz-",
+      "D": "-er"
+    },
+    "correct_answer": "B",
+    "explanation": "O prefixo «re-» acrescenta o sentido de repetição à base «fazer»."
+  },
+  {
+    "id": "PT225",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Qual palavra resulta de derivação parassintética?",
+    "options": {
+      "A": "Deslealdade",
+      "B": "Entristecer",
+      "C": "Infelizmente",
+      "D": "Pedreiro"
+    },
+    "correct_answer": "B",
+    "explanation": "«Entristecer» forma-se pela junção simultânea de prefixo e sufixo à base «triste»."
+  },
+  {
+    "id": "PT226",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Fácil",
+    "question": "O plural de «cidadão» é:",
+    "options": {
+      "A": "Cidadões",
+      "B": "Cidadães",
+      "C": "Cidadãos",
+      "D": "Cidadans"
+    },
+    "correct_answer": "C",
+    "explanation": "O plural padrão de «cidadão» é «cidadãos»."
+  },
+  {
+    "id": "PT227",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Em «livraria», o sufixo «-aria» contribui para formar um nome que designa:",
+    "options": {
+      "A": "Uma qualidade",
+      "B": "Um local ou estabelecimento relacionado com livros",
+      "C": "Uma acção passada",
+      "D": "Uma pessoa do sexo feminino"
+    },
+    "correct_answer": "B",
+    "explanation": "«Livraria» designa um estabelecimento ligado à venda ou consulta de livros."
+  },
+  {
+    "id": "PT228",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Qual é o processo de formação da palavra «guarda-roupa»?",
+    "options": {
+      "A": "Derivação prefixal",
+      "B": "Composição",
+      "C": "Derivação sufixal",
+      "D": "Abreviação"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra resulta da combinação de duas bases lexicais: «guarda» e «roupa»."
+  },
+  {
+    "id": "PT229",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Difícil",
+    "question": "Em «desconhecido», identificam-se:",
+    "options": {
+      "A": "Apenas um sufixo",
+      "B": "Prefixo, base lexical e sufixo",
+      "C": "Duas palavras independentes",
+      "D": "Apenas uma desinência verbal"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra contém o prefixo «des-», a base «conhec-» e o sufixo «-ido» na formação do particípio/adjectivo."
+  },
+  {
+    "id": "PT230",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Fácil",
+    "question": "Qual palavra pertence à mesma família de «mar»?",
+    "options": {
+      "A": "Marítimo",
+      "B": "Mármore",
+      "C": "Marta",
+      "D": "Martelo"
+    },
+    "correct_answer": "A",
+    "explanation": "«Marítimo» deriva de «mar» e mantém uma relação lexical e de significado."
+  },
+  {
+    "id": "PT231",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «ataque», formada a partir do verbo «atacar», exemplifica:",
+    "options": {
+      "A": "Derivação regressiva",
+      "B": "Composição por aglutinação",
+      "C": "Derivação prefixal",
+      "D": "Flexão verbal"
+    },
+    "correct_answer": "A",
+    "explanation": "O substantivo «ataque» forma-se por redução da forma verbal «atacar»."
+  },
+  {
+    "id": "PT232",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Em «meninas», o segmento «-s» indica:",
+    "options": {
+      "A": "Género feminino",
+      "B": "Grau aumentativo",
+      "C": "Número plural",
+      "D": "Tempo passado"
+    },
+    "correct_answer": "C",
+    "explanation": "O morfema «-s» assinala o plural do nome."
+  },
+  {
+    "id": "PT233",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Qual palavra é primitiva, isto é, não formada por derivação de outra palavra portuguesa?",
+    "options": {
+      "A": "Pedreiro",
+      "B": "Pedrada",
+      "C": "Pedra",
+      "D": "Pedregoso"
+    },
+    "correct_answer": "C",
+    "explanation": "«Pedra» funciona como base para a formação de palavras como «pedreiro» e «pedrada»."
+  },
+  {
+    "id": "PT234",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Difícil",
+    "question": "A palavra «passatempo» é formada por:",
+    "options": {
+      "A": "Composição",
+      "B": "Derivação regressiva",
+      "C": "Parassíntese",
+      "D": "Sufixação"
+    },
+    "correct_answer": "A",
+    "explanation": "«Passatempo» combina as bases «passa» e «tempo»."
+  },
+  {
+    "id": "PT235",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Fácil",
+    "question": "O sufixo de «florista» é:",
+    "options": {
+      "A": "flor-",
+      "B": "-ista",
+      "C": "-or",
+      "D": "-sta"
+    },
+    "correct_answer": "B",
+    "explanation": "«-ista» forma um nome que pode designar uma pessoa ligada a uma actividade."
+  },
+  {
+    "id": "PT236",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Qual é o feminino de «actor» segundo a formação regular do par?",
+    "options": {
+      "A": "Actora",
+      "B": "Actriz",
+      "C": "Actores",
+      "D": "Actoria"
+    },
+    "correct_answer": "B",
+    "explanation": "O feminino tradicional de «actor» é «actriz»."
+  },
+  {
+    "id": "PT237",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "Em «injustiça», o prefixo «in-» exprime:",
+    "options": {
+      "A": "Aumento",
+      "B": "Negação ou privação",
+      "C": "Diminutivo",
+      "D": "Lugar"
+    },
+    "correct_answer": "B",
+    "explanation": "«In-» acrescenta sentido negativo à base «justiça»."
+  },
+  {
+    "id": "PT238",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Difícil",
+    "question": "Qual palavra apresenta composição por aglutinação?",
+    "options": {
+      "A": "Guarda-chuva",
+      "B": "Passatempo",
+      "C": "Planalto",
+      "D": "Couve-flor"
+    },
+    "correct_answer": "C",
+    "explanation": "«Planalto» resulta da junção de «plano» e «alto», com alteração na forma dos elementos."
+  },
+  {
+    "id": "PT239",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «cantávamos» contém informação gramatical de:",
+    "options": {
+      "A": "Pessoa, número, tempo e modo",
+      "B": "Apenas género",
+      "C": "Apenas grau",
+      "D": "Género e caso"
+    },
+    "correct_answer": "A",
+    "explanation": "A terminação verbal indica 1.ª pessoa do plural, pretérito imperfeito do indicativo."
+  },
+  {
+    "id": "PT240",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura e formação das palavras",
+    "difficulty": "Fácil",
+    "question": "Qual é o radical comum de «pedra», «pedreiro» e «pedregulho»?",
+    "options": {
+      "A": "ped-",
+      "B": "pedr-",
+      "C": "-eiro",
+      "D": "-ulho"
+    },
+    "correct_answer": "B",
+    "explanation": "O elemento «pedr-» mantém o núcleo lexical comum da família de palavras."
+  },
+  {
+    "id": "PT241",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Fácil",
+    "question": "O sinónimo mais adequado de «benevolente» é:",
+    "options": {
+      "A": "Hostil",
+      "B": "Bondoso",
+      "C": "Indiferente",
+      "D": "Rigoroso"
+    },
+    "correct_answer": "B",
+    "explanation": "«Benevolente» caracteriza quem tem boa vontade ou é bondoso."
+  },
+  {
+    "id": "PT242",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Fácil",
+    "question": "O antónimo de «efémero» é:",
+    "options": {
+      "A": "Passageiro",
+      "B": "Breve",
+      "C": "Duradouro",
+      "D": "Instável"
+    },
+    "correct_answer": "C",
+    "explanation": "«Efémero» significa de curta duração; «duradouro» exprime o sentido contrário."
+  },
+  {
+    "id": "PT243",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "Em «Aquele médico tem mãos de ouro», a expressão destacada significa que o médico:",
+    "options": {
+      "A": "Usa luvas douradas",
+      "B": "É muito habilidoso",
+      "C": "É rico",
+      "D": "Trabalha com metais"
+    },
+    "correct_answer": "B",
+    "explanation": "«Mãos de ouro» é uma metáfora que indica grande competência."
+  },
+  {
+    "id": "PT244",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "As palavras «comprimento» e «cumprimento» são:",
+    "options": {
+      "A": "Sinónimos",
+      "B": "Antónimos",
+      "C": "Parónimos",
+      "D": "Homónimos perfeitos"
+    },
+    "correct_answer": "C",
+    "explanation": "Têm forma e pronúncia próximas, mas significados diferentes."
+  },
+  {
+    "id": "PT245",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Fácil",
+    "question": "Em «O banco fica perto do hospital» e «O banco concedeu um empréstimo», ocorre:",
+    "options": {
+      "A": "Polissemia ou homonímia contextual",
+      "B": "Antonímia",
+      "C": "Sinonímia",
+      "D": "Hiponímia"
+    },
+    "correct_answer": "A",
+    "explanation": "A forma «banco» apresenta sentidos diferentes conforme o contexto; a classificação pode variar segundo a análise lexical adoptada."
+  },
+  {
+    "id": "PT246",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "A palavra «fruta» é hiperónimo de:",
+    "options": {
+      "A": "Maçã",
+      "B": "Alimento",
+      "C": "Refeição",
+      "D": "Doce"
+    },
+    "correct_answer": "A",
+    "explanation": "«Fruta» designa uma classe mais geral da qual «maçã» é um elemento específico."
+  },
+  {
+    "id": "PT247",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "«Rosa», «cravo» e «margarida» são hipónimos de:",
+    "options": {
+      "A": "Planta medicinal",
+      "B": "Flor",
+      "C": "Árvore",
+      "D": "Fruto"
+    },
+    "correct_answer": "B",
+    "explanation": "Cada termo designa um tipo específico de flor."
+  },
+  {
+    "id": "PT248",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "Em «Ele partiu desta para melhor», a expressão constitui:",
+    "options": {
+      "A": "Uma hipérbole",
+      "B": "Um eufemismo",
+      "C": "Uma comparação",
+      "D": "Uma onomatopeia"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão suaviza a referência à morte; é um eufemismo."
+  },
+  {
+    "id": "PT249",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Difícil",
+    "question": "A frase «Que pontualidade! Chegaste apenas duas horas depois» pode transmitir ironia porque:",
+    "options": {
+      "A": "O elogio literal contrasta com a situação",
+      "B": "Apresenta uma definição científica",
+      "C": "Usa uma comparação explícita",
+      "D": "Não contém contexto"
+    },
+    "correct_answer": "A",
+    "explanation": "A intenção real é criticar o atraso, contrariando o sentido literal do elogio."
+  },
+  {
+    "id": "PT250",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Fácil",
+    "question": "Qual palavra é polissémica?",
+    "options": {
+      "A": "Mesa",
+      "B": "Manga",
+      "C": "Janela",
+      "D": "Caderno"
+    },
+    "correct_answer": "B",
+    "explanation": "«Manga» pode designar parte de uma peça de roupa ou um fruto, entre outros sentidos."
+  },
+  {
+    "id": "PT251",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "Em «A cidade acordou cedo», atribui-se uma acção humana à cidade. O recurso é:",
+    "options": {
+      "A": "Metonímia",
+      "B": "Personificação",
+      "C": "Antítese",
+      "D": "Eufemismo"
+    },
+    "correct_answer": "B",
+    "explanation": "A cidade é apresentada como se fosse uma pessoa capaz de acordar."
+  },
+  {
+    "id": "PT252",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "A expressão «chorou rios de lágrimas» é um exemplo de:",
+    "options": {
+      "A": "Hipérbole",
+      "B": "Eufemismo",
+      "C": "Pleonasmo vicioso",
+      "D": "Comparação"
+    },
+    "correct_answer": "A",
+    "explanation": "Há exagero intencional da quantidade de lágrimas para intensificar a ideia."
+  },
+  {
+    "id": "PT253",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "Qual par apresenta antonímia?",
+    "options": {
+      "A": "Claro / luminoso",
+      "B": "Feliz / contente",
+      "C": "Expandir / contrair",
+      "D": "Casa / habitação"
+    },
+    "correct_answer": "C",
+    "explanation": "«Expandir» e «contrair» exprimem acções opostas."
+  },
+  {
+    "id": "PT254",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Difícil",
+    "question": "Em «A coroa anunciou novas medidas», usando «coroa» para designar a monarquia, ocorre:",
+    "options": {
+      "A": "Metonímia",
+      "B": "Hipérbole",
+      "C": "Comparação",
+      "D": "Pleonasmo"
+    },
+    "correct_answer": "A",
+    "explanation": "Um símbolo ou objecto associado à instituição é usado para a representar."
+  },
+  {
+    "id": "PT255",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Fácil",
+    "question": "Qual é o sentido denotativo de «coração»?",
+    "options": {
+      "A": "Centro emocional de alguém",
+      "B": "Órgão que bombeia o sangue",
+      "C": "Coragem",
+      "D": "Bondade"
+    },
+    "correct_answer": "B",
+    "explanation": "No sentido denotativo, «coração» designa o órgão do sistema circulatório."
+  },
+  {
+    "id": "PT256",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "Qual expressão contém uma comparação explícita?",
+    "options": {
+      "A": "A vida é uma viagem",
+      "B": "Ele é uma rocha",
+      "C": "A criança corre como o vento",
+      "D": "O tempo voa"
+    },
+    "correct_answer": "C",
+    "explanation": "O conectivo «como» estabelece uma comparação explícita."
+  },
+  {
+    "id": "PT257",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "As palavras «cela» e «sela» são:",
+    "options": {
+      "A": "Homófonas",
+      "B": "Antónimas",
+      "C": "Sinónimas",
+      "D": "Parónimas sem relação sonora"
+    },
+    "correct_answer": "A",
+    "explanation": "Pronunciam-se da mesma forma em português, mas têm grafias e significados diferentes."
+  },
+  {
+    "id": "PT258",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Difícil",
+    "question": "Em «O silêncio gritava na sala», há uma associação de ideias aparentemente contraditórias. O recurso é:",
+    "options": {
+      "A": "Eufemismo",
+      "B": "Paradoxo",
+      "C": "Enumeração",
+      "D": "Pleonasmo"
+    },
+    "correct_answer": "B",
+    "explanation": "O paradoxo aproxima ideias que parecem incompatíveis para produzir um efeito expressivo."
+  },
+  {
+    "id": "PT259",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Média",
+    "question": "A palavra «veículo» é hiperónimo de «automóvel» porque:",
+    "options": {
+      "A": "É mais específica",
+      "B": "Tem sentido mais abrangente",
+      "C": "É seu antónimo",
+      "D": "Tem a mesma forma"
+    },
+    "correct_answer": "B",
+    "explanation": "«Veículo» abrange várias categorias, entre elas o automóvel."
+  },
+  {
+    "id": "PT260",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e relações lexicais",
+    "difficulty": "Fácil",
+    "question": "O antónimo contextual de «generoso» é:",
+    "options": {
+      "A": "Solidário",
+      "B": "Altruísta",
+      "C": "Egoísta",
+      "D": "Prestável"
+    },
+    "correct_answer": "C",
+    "explanation": "«Egoísta» caracteriza quem privilegia os próprios interesses, em oposição a «generoso»."
+  },
+  {
+    "id": "PT261",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Fácil",
+    "question": "Quantas sílabas tem a palavra «medicina»?",
+    "options": {
+      "A": "Duas",
+      "B": "Três",
+      "C": "Quatro",
+      "D": "Cinco"
+    },
+    "correct_answer": "C",
+    "explanation": "A divisão é me-di-ci-na: quatro sílabas."
+  },
+  {
+    "id": "PT262",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Fácil",
+    "question": "A palavra «lâmpada» é:",
+    "options": {
+      "A": "Aguda",
+      "B": "Grave",
+      "C": "Esdrúxula",
+      "D": "Monossilábica"
+    },
+    "correct_answer": "C",
+    "explanation": "A sílaba tónica é a antepenúltima: lâm-pa-da."
+  },
+  {
+    "id": "PT263",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Em «chave», as letras «ch» representam:",
+    "options": {
+      "A": "Dois fonemas consonânticos",
+      "B": "Um dígrafo consonântico",
+      "C": "Um encontro vocálico",
+      "D": "Uma sílaba"
+    },
+    "correct_answer": "B",
+    "explanation": "«Ch» é um dígrafo: duas letras representam um único fonema."
+  },
+  {
+    "id": "PT264",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Qual palavra contém um hiato?",
+    "options": {
+      "A": "Pai",
+      "B": "Céu",
+      "C": "Saúde",
+      "D": "Mãe"
+    },
+    "correct_answer": "C",
+    "explanation": "Em «sa-ú-de», as vogais «a» e «ú» pertencem a sílabas diferentes."
+  },
+  {
+    "id": "PT265",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Fácil",
+    "question": "Qual palavra está correctamente acentuada?",
+    "options": {
+      "A": "Medico",
+      "B": "Médico",
+      "C": "Medíco",
+      "D": "Medicó"
+    },
+    "correct_answer": "B",
+    "explanation": "«Médico» é esdrúxula e, por isso, leva acento gráfico."
+  },
+  {
+    "id": "PT266",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "A divisão silábica correcta de «adjectivo» é:",
+    "options": {
+      "A": "a-djec-ti-vo",
+      "B": "ad-jec-ti-vo",
+      "C": "adje-cti-vo",
+      "D": "a-djec-tivo"
+    },
+    "correct_answer": "B",
+    "explanation": "A divisão respeita a separação silábica: ad-jec-ti-vo."
+  },
+  {
+    "id": "PT267",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Qual par apresenta encontro consonântico?",
+    "options": {
+      "A": "Prato",
+      "B": "Saída",
+      "C": "Aula",
+      "D": "Poeira"
+    },
+    "correct_answer": "A",
+    "explanation": "Em «prato», as consoantes /p/ e /r/ surgem juntas na mesma sílaba."
+  },
+  {
+    "id": "PT268",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Fácil",
+    "question": "A palavra «também» é acentuada porque:",
+    "options": {
+      "A": "É esdrúxula",
+      "B": "É aguda terminada em «em»",
+      "C": "É grave terminada em consoante",
+      "D": "É monossílabo átono"
+    },
+    "correct_answer": "B",
+    "explanation": "As palavras agudas terminadas em «em» levam acento gráfico."
+  },
+  {
+    "id": "PT269",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Qual forma está correcta?",
+    "options": {
+      "A": "Excessão",
+      "B": "Exceção",
+      "C": "Eceção",
+      "D": "Excesssão"
+    },
+    "correct_answer": "B",
+    "explanation": "A grafia correcta é «exceção» na norma ortográfica actualmente usada em Portugal e Angola."
+  },
+  {
+    "id": "PT270",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Completa: «Não sei ___ motivo faltaste.»",
+    "options": {
+      "A": "porque",
+      "B": "por que",
+      "C": "porquê",
+      "D": "por quê"
+    },
+    "correct_answer": "B",
+    "explanation": "«Por que» é usado em construções interrogativas indirectas ou com sentido de «por qual motivo»."
+  },
+  {
+    "id": "PT271",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Fácil",
+    "question": "Completa: «Não há ___ para preocupação.»",
+    "options": {
+      "A": "nada",
+      "B": "nada?",
+      "C": "nada",
+      "D": "nada"
+    },
+    "correct_answer": "A",
+    "explanation": "A frase correcta é «Não há nada para preocupação»; a alternativa A corresponde à palavra adequada."
+  },
+  {
+    "id": "PT272",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Escolhe a forma correcta: «___ três anos que estudo Português.»",
+    "options": {
+      "A": "À",
+      "B": "Há",
+      "C": "A",
+      "D": "Ah"
+    },
+    "correct_answer": "B",
+    "explanation": "O verbo «haver», com sentido de tempo decorrido, escreve-se «há»."
+  },
+  {
+    "id": "PT273",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Completa: «O estudante passou ___ da sala.»",
+    "options": {
+      "A": "acerca",
+      "B": "há cerca",
+      "C": "a cerca",
+      "D": "à cerca"
+    },
+    "correct_answer": "C",
+    "explanation": "«A cerca de» pode indicar distância; nesta frase, a construção adequada seria «passou a cerca da sala»? A formulação é pouco natural; a alternativa pretendida é C."
+  },
+  {
+    "id": "PT274",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Fácil",
+    "question": "Qual palavra é escrita com «s»?",
+    "options": {
+      "A": "AnaliSe",
+      "B": "Análise",
+      "C": "Analize",
+      "D": "Analíse"
+    },
+    "correct_answer": "B",
+    "explanation": "O substantivo escreve-se «análise», com «s» e acento agudo."
+  },
+  {
+    "id": "PT275",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Qual frase distingue correctamente «mas» e «mais»?",
+    "options": {
+      "A": "Quero mas água, mas estou cansado",
+      "B": "Quero mais água, mas estou cansado",
+      "C": "Quero mais água, mais estou cansado",
+      "D": "Quero mas água, mais estou cansado"
+    },
+    "correct_answer": "B",
+    "explanation": "«Mais» indica quantidade; «mas» é uma conjunção adversativa."
+  },
+  {
+    "id": "PT276",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Qual forma está correcta na frase: «O aluno foi ___ biblioteca»?",
+    "options": {
+      "A": "a",
+      "B": "à",
+      "C": "há",
+      "D": "ah"
+    },
+    "correct_answer": "B",
+    "explanation": "O verbo «ir» rege a preposição «a»; com o artigo «a», ocorre crase: «à biblioteca»."
+  },
+  {
+    "id": "PT277",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Difícil",
+    "question": "Qual palavra apresenta acento gráfico para marcar o hiato?",
+    "options": {
+      "A": "Pauta",
+      "B": "Saída",
+      "C": "Noite",
+      "D": "Quase"
+    },
+    "correct_answer": "B",
+    "explanation": "Em «saída», o «í» tónico forma hiato com a vogal anterior e recebe acento."
+  },
+  {
+    "id": "PT278",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Média",
+    "question": "Escolhe a frase correcta quanto ao uso de «onde» e «aonde»:",
+    "options": {
+      "A": "Aonde fica a escola?",
+      "B": "Onde vais amanhã?",
+      "C": "Onde está o livro?",
+      "D": "Aonde está o livro?"
+    },
+    "correct_answer": "C",
+    "explanation": "«Onde» indica localização; «aonde» associa-se a verbos que regem a preposição «a» e exprimem destino."
+  },
+  {
+    "id": "PT279",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Fácil",
+    "question": "Qual palavra é uma proparoxítona?",
+    "options": {
+      "A": "Café",
+      "B": "Papel",
+      "C": "Música",
+      "D": "Amor"
+    },
+    "correct_answer": "C",
+    "explanation": "«Música» tem a sílaba tónica na antepenúltima posição."
+  },
+  {
+    "id": "PT280",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética, fonologia e representação gráfica",
+    "difficulty": "Difícil",
+    "question": "Em português, a letra «x» na palavra «exame» representa geralmente o som:",
+    "options": {
+      "A": "/ʃ/",
+      "B": "/z/",
+      "C": "/ks/",
+      "D": "/s/"
+    },
+    "correct_answer": "B",
+    "explanation": "Em «exame», o «x» representa o fonema /z/."
+  },
+  {
+    "id": "PT281",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Fácil",
+    "question": "Na frase «Os estudantes chegaram cedo», o sujeito é:",
+    "options": {
+      "A": "Chegaram cedo",
+      "B": "Os estudantes",
+      "C": "Cedo",
+      "D": "Estudantes chegaram"
+    },
+    "correct_answer": "B",
+    "explanation": "«Os estudantes» é o grupo nominal que concorda com o verbo e indica quem chegou."
+  },
+  {
+    "id": "PT282",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Fácil",
+    "question": "Na frase «A médica examinou o paciente», «o paciente» é:",
+    "options": {
+      "A": "Sujeito",
+      "B": "Complemento directo",
+      "C": "Complemento indirecto",
+      "D": "Predicativo do sujeito"
+    },
+    "correct_answer": "B",
+    "explanation": "O paciente recebe directamente a acção de examinar; é complemento directo."
+  },
+  {
+    "id": "PT283",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Na frase «O professor entregou os testes aos alunos», «aos alunos» desempenha a função de:",
+    "options": {
+      "A": "Complemento directo",
+      "B": "Complemento indirecto",
+      "C": "Sujeito",
+      "D": "Predicativo do complemento directo"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão indica os destinatários e funciona como complemento indirecto."
+  },
+  {
+    "id": "PT284",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Fácil",
+    "question": "Na frase «A sala está limpa», «limpa» é:",
+    "options": {
+      "A": "Complemento directo",
+      "B": "Predicativo do sujeito",
+      "C": "Sujeito",
+      "D": "Complemento indirecto"
+    },
+    "correct_answer": "B",
+    "explanation": "O adjectivo atribui uma característica ao sujeito através do verbo copulativo «estar»."
+  },
+  {
+    "id": "PT285",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Qual frase apresenta sujeito indeterminado?",
+    "options": {
+      "A": "Os alunos estudaram",
+      "B": "Estuda-se muito nesta escola",
+      "C": "A professora chegou",
+      "D": "O médico examinou o doente"
+    },
+    "correct_answer": "B",
+    "explanation": "A construção com «se» e verbo intransitivo ou transitivo indirecto pode indeterminar o sujeito."
+  },
+  {
+    "id": "PT286",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Na frase «Choveu durante a noite», o sujeito é:",
+    "options": {
+      "A": "Oculto",
+      "B": "Indeterminado",
+      "C": "Inexistente",
+      "D": "«A noite»"
+    },
+    "correct_answer": "C",
+    "explanation": "O verbo «chover», no sentido meteorológico, é impessoal e a oração não tem sujeito."
+  },
+  {
+    "id": "PT287",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Qual frase contém uma oração subordinada causal?",
+    "options": {
+      "A": "Estudei para passar",
+      "B": "Não fui porque estava doente",
+      "C": "Se chover, ficarei em casa",
+      "D": "Embora estivesse cansado, continuou"
+    },
+    "correct_answer": "B",
+    "explanation": "«Porque estava doente» apresenta a causa de não ter ido."
+  },
+  {
+    "id": "PT288",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Em «Quando o sinal tocou, os alunos saíram», a oração inicial é subordinada:",
+    "options": {
+      "A": "Final",
+      "B": "Temporal",
+      "C": "Consecutiva",
+      "D": "Comparativa"
+    },
+    "correct_answer": "B",
+    "explanation": "A conjunção «quando» introduz uma circunstância de tempo."
+  },
+  {
+    "id": "PT289",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Difícil",
+    "question": "Em «É necessário que todos participem», a oração «que todos participem» é subordinada substantiva:",
+    "options": {
+      "A": "Completiva",
+      "B": "Relativa restritiva",
+      "C": "Adverbial causal",
+      "D": "Coordenada adversativa"
+    },
+    "correct_answer": "A",
+    "explanation": "A oração completa o sentido da expressão «é necessário» e desempenha função substantiva."
+  },
+  {
+    "id": "PT290",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Fácil",
+    "question": "Qual frase está correcta quanto à concordância verbal?",
+    "options": {
+      "A": "A maioria dos alunos chegaram",
+      "B": "A maioria dos alunos chegou",
+      "C": "A maioria dos aluno chegaram",
+      "D": "A maioria dos alunos chegarão ontem"
+    },
+    "correct_answer": "B",
+    "explanation": "Com «a maioria de», o verbo pode concordar com o núcleo singular «maioria»; a forma singular é adequada."
+  },
+  {
+    "id": "PT291",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Completa: «Nem o director nem os professores ___ presentes.»",
+    "options": {
+      "A": "estava",
+      "B": "estive",
+      "C": "estavam",
+      "D": "estará"
+    },
+    "correct_answer": "C",
+    "explanation": "Com sujeito composto ligado por «nem... nem», o verbo concorda normalmente no plural."
+  },
+  {
+    "id": "PT292",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Qual frase apresenta voz passiva analítica?",
+    "options": {
+      "A": "O aluno resolveu o exercício",
+      "B": "O exercício foi resolvido pelo aluno",
+      "C": "Resolveu-se o exercício",
+      "D": "O aluno resolve exercícios"
+    },
+    "correct_answer": "B",
+    "explanation": "A voz passiva analítica forma-se com «ser» + particípio: «foi resolvido»."
+  },
+  {
+    "id": "PT293",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Fácil",
+    "question": "Na frase «Ela comprou um livro», o pronome que substitui «um livro» é:",
+    "options": {
+      "A": "lhe",
+      "B": "o",
+      "C": "a",
+      "D": "eles"
+    },
+    "correct_answer": "B",
+    "explanation": "«Um livro» é complemento directo masculino singular e pode ser substituído por «o»."
+  },
+  {
+    "id": "PT294",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Escolhe a colocação pronominal correcta:",
+    "options": {
+      "A": "Não disseram-me a verdade",
+      "B": "Não me disseram a verdade",
+      "C": "Me não disseram a verdade",
+      "D": "Disseram não-me a verdade"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra negativa «não» atrai o pronome átono, exigindo próclise."
+  },
+  {
+    "id": "PT295",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Qual frase apresenta coordenação adversativa?",
+    "options": {
+      "A": "Estudou e trabalhou",
+      "B": "Estudou, mas não terminou",
+      "C": "Estudou, portanto passou",
+      "D": "Estudou ou descansou"
+    },
+    "correct_answer": "B",
+    "explanation": "A conjunção «mas» estabelece oposição entre as duas orações."
+  },
+  {
+    "id": "PT296",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Na frase «O aluno que chegou cedo entrou primeiro», a oração «que chegou cedo» é:",
+    "options": {
+      "A": "Subordinada relativa",
+      "B": "Subordinada causal",
+      "C": "Coordenada conclusiva",
+      "D": "Subordinada final"
+    },
+    "correct_answer": "A",
+    "explanation": "A oração relativa é introduzida pelo pronome relativo «que» e caracteriza «o aluno»."
+  },
+  {
+    "id": "PT297",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Difícil",
+    "question": "Qual frase respeita a regência do verbo «preferir» na norma-padrão?",
+    "options": {
+      "A": "Prefiro estudar do que trabalhar",
+      "B": "Prefiro mais estudar a trabalhar",
+      "C": "Prefiro estudar a trabalhar",
+      "D": "Prefiro antes estudar que trabalhar"
+    },
+    "correct_answer": "C",
+    "explanation": "A construção normativa é «preferir uma coisa a outra», sem «mais» ou «antes»."
+  },
+  {
+    "id": "PT298",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Média",
+    "question": "Na frase «O médico necessita de descanso», «de descanso» é:",
+    "options": {
+      "A": "Complemento directo",
+      "B": "Complemento oblíquo",
+      "C": "Sujeito",
+      "D": "Predicativo do sujeito"
+    },
+    "correct_answer": "B",
+    "explanation": "O verbo «necessitar» rege a preposição «de»; o grupo preposicional completa o seu sentido."
+  },
+  {
+    "id": "PT299",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Fácil",
+    "question": "Qual frase contém um verbo no futuro do conjuntivo?",
+    "options": {
+      "A": "Quando chego, telefono",
+      "B": "Quando chegar, telefono",
+      "C": "Quando chegava, telefonava",
+      "D": "Quando cheguei, telefonei"
+    },
+    "correct_answer": "B",
+    "explanation": "«Chegar» é futuro do conjuntivo, usado numa oração temporal com referência futura."
+  },
+  {
+    "id": "PT300",
+    "subject": "Língua Portuguesa",
+    "topic": "Funcionamento da língua e sintaxe",
+    "difficulty": "Difícil",
+    "question": "Na frase «O relatório foi entregue pela enfermeira», a expressão «pela enfermeira» é:",
+    "options": {
+      "A": "Complemento indirecto",
+      "B": "Agente da passiva",
+      "C": "Complemento oblíquo",
+      "D": "Predicativo do sujeito"
+    },
+    "correct_answer": "B",
+    "explanation": "Na voz passiva, o agente da passiva identifica quem pratica a acção."
+  }
+]
