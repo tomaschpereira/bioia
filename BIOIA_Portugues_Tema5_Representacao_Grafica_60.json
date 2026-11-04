@@ -9,7 +9,7 @@
       "A": "Exame",
       "B": "Ezame",
       "C": "Esame",
-      "D": "Ezame"
+      "D": "Ecsame"
     },
     "correct_answer": "A",
     "explanation": "«Exame» escreve-se com x; as restantes formas não correspondem à grafia padrão."
@@ -898,95 +898,5 @@
     },
     "correct_answer": "B",
     "explanation": "Na norma ortográfica actual, a forma plural é «vêm», com acento circunflexo."
-  },
-  {
-    "id": "PT701",
-    "subject": "Língua Portuguesa",
-    "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Qual frase apresenta correctamente o uso de «senão»?",
-    "options": {
-      "A": "Estude, se não queres reprovar.",
-      "B": "Não fez outra coisa senão estudar.",
-      "C": "Se não o relatório, entregou a ficha.",
-      "D": "Senão chover, iremos."
-    },
-    "correct_answer": "B",
-    "explanation": "«Senão» junto pode significar «a não ser»; «se não» separado introduz uma condição."
-  },
-  {
-    "id": "PT702",
-    "subject": "Língua Portuguesa",
-    "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Qual forma completa correctamente a frase: «Não há ___ para adiar a prova.»",
-    "options": {
-      "A": "porque",
-      "B": "por que",
-      "C": "porquê",
-      "D": "por quê"
-    },
-    "correct_answer": "C",
-    "explanation": "«Porquê» é substantivo com sentido de motivo e pode ser precedido de artigo."
-  },
-  {
-    "id": "PT703",
-    "subject": "Língua Portuguesa",
-    "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Qual palavra está correctamente escrita segundo a regra de «r» e «rr»?",
-    "options": {
-      "A": "caro (veículo de transporte)",
-      "B": "carro",
-      "C": "carrro",
-      "D": "caro e carro têm sempre o mesmo significado"
-    },
-    "correct_answer": "B",
-    "explanation": "«Carro» escreve-se com rr entre vogais; «caro» tem outro significado."
-  },
-  {
-    "id": "PT704",
-    "subject": "Língua Portuguesa",
-    "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Qual das palavras apresenta correctamente o dígrafo «ss»?",
-    "options": {
-      "A": "pasar",
-      "B": "passar",
-      "C": "paçar",
-      "D": "pássar"
-    },
-    "correct_answer": "B",
-    "explanation": "«Passar» escreve-se com ss entre vogais para representar o som /s/."
-  },
-  {
-    "id": "PT705",
-    "subject": "Língua Portuguesa",
-    "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Assinale a palavra correctamente escrita com «ç».",
-    "options": {
-      "A": "coração",
-      "B": "corassão",
-      "C": "coraçâo",
-      "D": "coraçao"
-    },
-    "correct_answer": "A",
-    "explanation": "«Coração» escreve-se com ç e til em ão."
-  },
-  {
-    "id": "PT706",
-    "subject": "Língua Portuguesa",
-    "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Qual opção apresenta a grafia correcta da palavra?",
-    "options": {
-      "A": "nascimento",
-      "B": "nacimento",
-      "C": "nassimento",
-      "D": "nascimemto"
-    },
-    "correct_answer": "A",
-    "explanation": "«Nascimento» escreve-se com sc e termina em -mento."
   }
 ]
