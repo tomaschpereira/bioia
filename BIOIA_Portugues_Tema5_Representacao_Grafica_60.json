@@ -4,899 +4,989 @@
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Difícil",
-    "question": "Num relatório, a grafia correcta da palavra é:",
+    "question": "Assinale a palavra correctamente escrita segundo a ortografia do português.",
     "options": {
-      "A": "Excepção",
-      "B": "Excessão",
-      "C": "Eceção",
-      "D": "Exessão"
+      "A": "Exame",
+      "B": "Ezame",
+      "C": "Esame",
+      "D": "Ezame"
     },
     "correct_answer": "A",
-    "explanation": "«Excepção» é a grafia tradicional usada em Angola segundo a norma ortográfica adoptada no material; manter consistência ortográfica é essencial. Nesta questão, aplica-se a regra ao exemplo «Num relatório, a grafia correcta da palavra é:»."
+    "explanation": "«Exame» escreve-se com x; as restantes formas não correspondem à grafia padrão."
   },
   {
     "id": "PT642",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Assinale a forma ortográfica correcta para um texto académico:",
+    "difficulty": "Média",
+    "question": "Complete: «O médico pediu uma ___ ao laboratório.»",
     "options": {
-      "A": "Eceção",
-      "B": "Exessão",
-      "C": "Excepção",
-      "D": "Excessão"
+      "A": "analize",
+      "B": "análize",
+      "C": "análise",
+      "D": "analíse"
     },
     "correct_answer": "C",
-    "explanation": "«Excepção» é a grafia tradicional usada em Angola segundo a norma ortográfica adoptada no material; manter consistência ortográfica é essencial. Nesta questão, aplica-se a regra ao exemplo «Assinale a forma ortográfica correcta para um texto académico:»."
+    "explanation": "«Análise» é um substantivo esdrúxulo e escreve-se com acento agudo na sílaba tónica."
   },
   {
     "id": "PT643",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Qual forma deve ser usada na redacção formal?",
+    "difficulty": "Média",
+    "question": "Qual frase apresenta a acentuação correcta?",
     "options": {
-      "A": "Excepção",
-      "B": "Excessão",
-      "C": "Eceção",
-      "D": "Exessão"
+      "A": "O paciente tem febre e vomito.",
+      "B": "O paciente tem febre e vómito.",
+      "C": "O paciente tem febre e vomitó.",
+      "D": "O paciente tem febre e vomitô."
     },
-    "correct_answer": "A",
-    "explanation": "«Excepção» é a grafia tradicional usada em Angola segundo a norma ortográfica adoptada no material; manter consistência ortográfica é essencial. Nesta questão, aplica-se a regra ao exemplo «Qual forma deve ser usada na redacção formal?»."
+    "correct_answer": "B",
+    "explanation": "«Vómito», enquanto substantivo, é esdrúxulo e recebe acento agudo."
   },
   {
     "id": "PT644",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "Qual frase apresenta uso correcto de maiúscula em nome próprio?",
+    "question": "Seleccione a forma correcta do verbo no passado: «Ontem, ela ___ terminar o relatório.»",
     "options": {
-      "A": "O estudante vive em LUanda.",
-      "B": "O estudante vive em Luanda.",
-      "C": "O estudante vive em luanda.",
-      "D": "O Estudante vive em Luanda."
+      "A": "pode",
+      "B": "pôde",
+      "C": "podê",
+      "D": "póde"
     },
     "correct_answer": "B",
-    "explanation": "Nomes próprios de lugares, como Luanda, iniciam-se com maiúscula; nomes comuns como estudante ficam em minúscula. Nesta questão, aplica-se a regra ao exemplo «Qual frase apresenta uso correcto de maiúscula em nome próprio?»."
+    "explanation": "«Pôde» é a forma do pretérito perfeito; «pode» corresponde ao presente."
   },
   {
     "id": "PT645",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Na escrita formal, assinale a frase correctamente grafada:",
+    "difficulty": "Média",
+    "question": "Em qual opção todas as palavras estão correctamente acentuadas?",
     "options": {
-      "A": "O estudante vive em luanda.",
-      "B": "O Estudante vive em Luanda.",
-      "C": "O estudante vive em LUanda.",
-      "D": "O estudante vive em Luanda."
+      "A": "órgão, difícil, saúde",
+      "B": "orgão, dificil, saude",
+      "C": "órgão, dificíl, saúde",
+      "D": "orgão, difícil, saude"
     },
-    "correct_answer": "D",
-    "explanation": "Nomes próprios de lugares, como Luanda, iniciam-se com maiúscula; nomes comuns como estudante ficam em minúscula. Nesta questão, aplica-se a regra ao exemplo «Na escrita formal, assinale a frase correctamente grafada:»."
+    "correct_answer": "A",
+    "explanation": "«Órgão» e «difícil» são acentuadas pelas regras de tonicidade; «saúde» recebe acento para marcar o hiato."
   },
   {
     "id": "PT646",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Escolha a opção com nome próprio iniciado por maiúscula.",
+    "difficulty": "Difícil",
+    "question": "Qual é a grafia correcta do plural de «papel»?",
     "options": {
-      "A": "O estudante vive em LUanda.",
-      "B": "O estudante vive em Luanda.",
-      "C": "O estudante vive em luanda.",
-      "D": "O Estudante vive em Luanda."
+      "A": "papels",
+      "B": "papéis",
+      "C": "papeis",
+      "D": "papéises"
     },
     "correct_answer": "B",
-    "explanation": "Nomes próprios de lugares, como Luanda, iniciam-se com maiúscula; nomes comuns como estudante ficam em minúscula. Nesta questão, aplica-se a regra ao exemplo «Escolha a opção com nome próprio iniciado por maiúscula.»."
+    "explanation": "O plural de «papel» é «papéis», com acento agudo no ditongo aberto."
   },
   {
     "id": "PT647",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "Qual sinal deve encerrar uma pergunta directa?",
+    "question": "Assinale a palavra que deve levar til.",
     "options": {
-      "A": "Dois-pontos (:)",
-      "B": "Ponto e vírgula (;)",
-      "C": "Ponto de interrogação (?)",
-      "D": "Ponto final (.)"
+      "A": "órgão",
+      "B": "médico",
+      "C": "fácil",
+      "D": "lâmpada"
     },
-    "correct_answer": "C",
-    "explanation": "O ponto de interrogação assinala uma pergunta directa. Nesta questão, aplica-se a regra ao exemplo «Qual sinal deve encerrar uma pergunta directa?»."
+    "correct_answer": "A",
+    "explanation": "«Órgão» apresenta til para indicar nasalidade."
   },
   {
     "id": "PT648",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Uma frase interrogativa directa termina normalmente com:",
+    "difficulty": "Média",
+    "question": "Qual frase distingue correctamente «mas» de «mais»?",
     "options": {
-      "A": "Ponto de interrogação (?)",
-      "B": "Ponto final (.)",
-      "C": "Dois-pontos (:)",
-      "D": "Ponto e vírgula (;)"
+      "A": "Estudou, mais não passou.",
+      "B": "Estudou mas não passou.",
+      "C": "Estudou más não passou.",
+      "D": "Estudou maís não passou."
     },
-    "correct_answer": "A",
-    "explanation": "O ponto de interrogação assinala uma pergunta directa. Nesta questão, aplica-se a regra ao exemplo «Uma frase interrogativa directa termina normalmente com:»."
+    "correct_answer": "B",
+    "explanation": "«Mas» é conjunção adversativa; «mais» exprime quantidade ou intensidade."
   },
   {
     "id": "PT649",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Para assinalar uma pergunta directa, utiliza-se:",
+    "difficulty": "Média",
+    "question": "Complete: «Não compreendi ___ o resultado foi alterado.»",
     "options": {
-      "A": "Dois-pontos (:)",
-      "B": "Ponto e vírgula (;)",
-      "C": "Ponto de interrogação (?)",
-      "D": "Ponto final (.)"
+      "A": "porque",
+      "B": "porquê",
+      "C": "por que",
+      "D": "por quê"
     },
     "correct_answer": "C",
-    "explanation": "O ponto de interrogação assinala uma pergunta directa. Nesta questão, aplica-se a regra ao exemplo «Para assinalar uma pergunta directa, utiliza-se:»."
+    "explanation": "«Por que» separado equivale a «por que razão» numa interrogativa indirecta."
   },
   {
     "id": "PT650",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Em «A prova inclui Biologia, Química e Física», as vírgulas servem para:",
+    "difficulty": "Médio",
+    "question": "Complete: «O resultado foi alterado ___ houve um erro.»",
     "options": {
-      "A": "Indicar uma pergunta",
-      "B": "Marcar sempre o fim do período",
-      "C": "Substituir o acento",
-      "D": "Separar elementos de uma enumeração"
+      "A": "por que",
+      "B": "porquê",
+      "C": "porque",
+      "D": "por quê"
     },
-    "correct_answer": "D",
-    "explanation": "A vírgula separa elementos coordenados numa enumeração. Nesta questão, aplica-se a regra ao exemplo «Em A prova inclui Biologia, Química e Física, as vírgulas servem para:»."
+    "correct_answer": "C",
+    "explanation": "«Porque» junto e sem acento introduz a causa."
   },
   {
     "id": "PT651",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Na enumeração de disciplinas, a vírgula é usada para:",
+    "difficulty": "Difícil",
+    "question": "Na frase «O porquê da decisão não foi explicado», a palavra destacada escreve-se assim porque é:",
     "options": {
-      "A": "Substituir o acento",
-      "B": "Separar elementos de uma enumeração",
-      "C": "Indicar uma pergunta",
-      "D": "Marcar sempre o fim do período"
+      "A": "um verbo",
+      "B": "um substantivo",
+      "C": "uma preposição",
+      "D": "uma conjunção"
     },
     "correct_answer": "B",
-    "explanation": "A vírgula separa elementos coordenados numa enumeração. Nesta questão, aplica-se a regra ao exemplo «Na enumeração de disciplinas, a vírgula é usada para:»."
+    "explanation": "«Porquê» é substantivo, vem precedido do artigo «o» e significa motivo."
   },
   {
     "id": "PT652",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Média",
-    "question": "Qual é a função das vírgulas na enumeração «livros, cadernos e canetas»?",
+    "question": "Qual opção apresenta correctamente o uso de «há»?",
     "options": {
-      "A": "Indicar uma pergunta",
-      "B": "Marcar sempre o fim do período",
-      "C": "Substituir o acento",
-      "D": "Separar elementos de uma enumeração"
+      "A": "A consulta será há tarde.",
+      "B": "Há muitos estudantes na sala.",
+      "C": "Chegarei há Luanda amanhã.",
+      "D": "O livro está há mesa."
     },
-    "correct_answer": "D",
-    "explanation": "A vírgula separa elementos coordenados numa enumeração. Nesta questão, aplica-se a regra ao exemplo «Qual é a função das vírgulas na enumeração livros, cadernos e canetas?»."
+    "correct_answer": "B",
+    "explanation": "«Há» é forma do verbo haver e pode indicar existência; nas outras frases seria necessário «à», «a» ou «na»."
   },
   {
     "id": "PT653",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Em «O candidato, atento, leu as instruções», as vírgulas isolam:",
+    "difficulty": "Médio",
+    "question": "Escolha a frase correcta quanto ao uso de «a» e «à».",
     "options": {
-      "A": "Uma expressão explicativa intercalada",
-      "B": "O sujeito obrigatório",
-      "C": "Uma pergunta indirecta",
-      "D": "Uma palavra composta"
+      "A": "Vou à biblioteca estudar.",
+      "B": "Vou há biblioteca estudar.",
+      "C": "Vou aà biblioteca estudar.",
+      "D": "Vou ah biblioteca estudar."
     },
     "correct_answer": "A",
-    "explanation": "O segmento intercalado acrescenta informação sobre o nome e fica isolado por vírgulas. Nesta questão, aplica-se a regra ao exemplo «Em O candidato, atento, leu as instruções, as vírgulas isolam:»."
+    "explanation": "«À» resulta da contracção da preposição «a» com o artigo feminino «a»."
   },
   {
     "id": "PT654",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Na frase «A enfermeira, muito experiente, orientou a equipa», o segmento entre vírgulas é:",
+    "difficulty": "Média",
+    "question": "Qual palavra está correctamente escrita?",
     "options": {
-      "A": "Uma pergunta indirecta",
-      "B": "Uma palavra composta",
-      "C": "Uma expressão explicativa intercalada",
-      "D": "O sujeito obrigatório"
+      "A": "enchergar",
+      "B": "enxergar",
+      "C": "enxerguar",
+      "D": "encherguar"
     },
-    "correct_answer": "C",
-    "explanation": "O segmento intercalado acrescenta informação sobre o nome e fica isolado por vírgulas. Nesta questão, aplica-se a regra ao exemplo «Na frase A enfermeira, muito experiente, orientou a equipa, o segmento entre vírgulas é:»."
+    "correct_answer": "B",
+    "explanation": "A grafia padrão é «enxergar», com x."
   },
   {
     "id": "PT655",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "As vírgulas podem isolar uma expressão que acrescenta uma característica explicativa; essa expressão é:",
+    "difficulty": "Média",
+    "question": "Seleccione a palavra correctamente grafada.",
     "options": {
-      "A": "Uma expressão explicativa intercalada",
-      "B": "O sujeito obrigatório",
-      "C": "Uma pergunta indirecta",
-      "D": "Uma palavra composta"
+      "A": "pesquiza",
+      "B": "pesquisa",
+      "C": "pequiza",
+      "D": "pesquissa"
     },
-    "correct_answer": "A",
-    "explanation": "O segmento intercalado acrescenta informação sobre o nome e fica isolado por vírgulas. Nesta questão, aplica-se a regra ao exemplo «As vírgulas podem isolar uma expressão que acrescenta uma característica explicativa; essa»."
+    "correct_answer": "B",
+    "explanation": "«Pesquisa» escreve-se com s; a terminação «-quisa» não leva z nem ss."
   },
   {
     "id": "PT656",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Em «É necessário estudar: Biologia, Química e Física», os dois-pontos introduzem:",
+    "difficulty": "Difícil",
+    "question": "Em qual opção o emprego de «g» está correcto?",
     "options": {
-      "A": "Uma abreviatura",
-      "B": "Uma enumeração",
-      "C": "Uma oposição",
-      "D": "Uma pergunta"
+      "A": "viajem (substantivo: uma viagem)",
+      "B": "viagem (substantivo: uma viagem)",
+      "C": "viajem (substantivo: a viagem)",
+      "D": "viájem (substantivo)"
     },
     "correct_answer": "B",
-    "explanation": "Os dois-pontos podem anunciar uma enumeração ou explicitação. Nesta questão, aplica-se a regra ao exemplo «Em É necessário estudar: Biologia, Química e Física, os dois-pontos introduzem:»."
+    "explanation": "O substantivo «viagem» escreve-se com g; «viajem» é forma verbal, como em «que eles viajem»."
   },
   {
     "id": "PT657",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Os dois-pontos antes de uma lista indicam:",
+    "difficulty": "Média",
+    "question": "Complete: «Espero que eles ___ amanhã.»",
     "options": {
-      "A": "Uma oposição",
-      "B": "Uma pergunta",
-      "C": "Uma abreviatura",
-      "D": "Uma enumeração"
+      "A": "viagem",
+      "B": "viajem",
+      "C": "viajém",
+      "D": "viagém"
     },
-    "correct_answer": "D",
-    "explanation": "Os dois-pontos podem anunciar uma enumeração ou explicitação. Nesta questão, aplica-se a regra ao exemplo «Os dois-pontos antes de uma lista indicam:»."
+    "correct_answer": "B",
+    "explanation": "«Viajem» é forma do presente do conjuntivo do verbo «viajar»."
   },
   {
     "id": "PT658",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Na frase «O exame exige três áreas: Português, Biologia e Química», os dois-pontos anunciam:",
+    "difficulty": "Média",
+    "question": "Assinale a palavra correctamente escrita.",
     "options": {
-      "A": "Uma abreviatura",
-      "B": "Uma enumeração",
-      "C": "Uma oposição",
-      "D": "Uma pergunta"
+      "A": "beringela",
+      "B": "berinjela",
+      "C": "berinjéla",
+      "D": "beringéla"
     },
     "correct_answer": "B",
-    "explanation": "Os dois-pontos podem anunciar uma enumeração ou explicitação. Nesta questão, aplica-se a regra ao exemplo «Na frase O exame exige três áreas: Português, Biologia e Química, os dois-pontos anunciam:»."
+    "explanation": "«Berinjela» é uma grafia corrente e aceite; escreve-se com j."
   },
   {
     "id": "PT659",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "O ponto e vírgula é adequado para:",
+    "difficulty": "Médio",
+    "question": "Qual forma está correcta?",
     "options": {
-      "A": "Apenas títulos",
-      "B": "Sempre o sujeito e o verbo",
-      "C": "Partes de um período que já contêm vírgulas ou têm autonomia relativa",
-      "D": "Todas as sílabas"
+      "A": "concerteza",
+      "B": "com certeza",
+      "C": "conserteza",
+      "D": "comserteza"
     },
-    "correct_answer": "C",
-    "explanation": "O ponto e vírgula marca uma pausa intermédia, muitas vezes entre segmentos extensos ou complexos. Nesta questão, aplica-se a regra ao exemplo «O ponto e vírgula é adequado para:»."
+    "correct_answer": "B",
+    "explanation": "A locução adverbial escreve-se separadamente: «com certeza»."
   },
   {
     "id": "PT660",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Média",
-    "question": "Em textos formais, o ponto e vírgula pode separar:",
+    "question": "Escolha a grafia correcta.",
     "options": {
-      "A": "Partes de um período que já contêm vírgulas ou têm autonomia relativa",
-      "B": "Todas as sílabas",
-      "C": "Apenas títulos",
-      "D": "Sempre o sujeito e o verbo"
+      "A": "de repente",
+      "B": "derepente",
+      "C": "derrepente",
+      "D": "de-repente"
     },
     "correct_answer": "A",
-    "explanation": "O ponto e vírgula marca uma pausa intermédia, muitas vezes entre segmentos extensos ou complexos. Nesta questão, aplica-se a regra ao exemplo «Em textos formais, o ponto e vírgula pode separar:»."
+    "explanation": "«De repente» é uma locução escrita em duas palavras."
   },
   {
     "id": "PT661",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Qual é uma função frequente do ponto e vírgula?",
+    "difficulty": "Difícil",
+    "question": "Qual opção apresenta correctamente o emprego de «s» e «z»?",
     "options": {
-      "A": "Apenas títulos",
-      "B": "Sempre o sujeito e o verbo",
-      "C": "Partes de um período que já contêm vírgulas ou têm autonomia relativa",
-      "D": "Todas as sílabas"
+      "A": "análize",
+      "B": "análise",
+      "C": "análize",
+      "D": "analíze"
     },
-    "correct_answer": "C",
-    "explanation": "O ponto e vírgula marca uma pausa intermédia, muitas vezes entre segmentos extensos ou complexos. Nesta questão, aplica-se a regra ao exemplo «Qual é uma função frequente do ponto e vírgula?»."
+    "correct_answer": "B",
+    "explanation": "O substantivo «análise» escreve-se com s e acento agudo."
   },
   {
     "id": "PT662",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "As aspas podem ser usadas para:",
+    "question": "Complete: «A ___ do medicamento foi confirmada.»",
     "options": {
-      "A": "Indicar sempre plural",
-      "B": "Marcar o sujeito",
-      "C": "Substituir todos os pontos",
-      "D": "Destacar uma citação ou expressão reproduzida"
+      "A": "eficásia",
+      "B": "eficácia",
+      "C": "eficassia",
+      "D": "eficázia"
     },
-    "correct_answer": "D",
-    "explanation": "As aspas assinalam citações, títulos em certos usos ou expressões destacadas. Nesta questão, aplica-se a regra ao exemplo «As aspas podem ser usadas para:»."
+    "correct_answer": "B",
+    "explanation": "«Eficácia» escreve-se com c antes de i e termina em -ácia."
   },
   {
     "id": "PT663",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Em «O professor chamou-lhe “um resultado relevante”», as aspas assinalam:",
+    "difficulty": "Média",
+    "question": "Assinale a palavra escrita correctamente.",
     "options": {
-      "A": "Substituir todos os pontos",
-      "B": "Destacar uma citação ou expressão reproduzida",
-      "C": "Indicar sempre plural",
-      "D": "Marcar o sujeito"
+      "A": "excessivo",
+      "B": "escessivo",
+      "C": "excesivo",
+      "D": "eccessivo"
     },
-    "correct_answer": "B",
-    "explanation": "As aspas assinalam citações, títulos em certos usos ou expressões destacadas. Nesta questão, aplica-se a regra ao exemplo «Em O professor chamou-lhe “um resultado relevante”, as aspas assinalam:»."
+    "correct_answer": "A",
+    "explanation": "«Excessivo» escreve-se com x inicial e ss."
   },
   {
     "id": "PT664",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Uma função das aspas na escrita é:",
+    "difficulty": "Média",
+    "question": "Qual é a grafia correcta?",
     "options": {
-      "A": "Indicar sempre plural",
-      "B": "Marcar o sujeito",
-      "C": "Substituir todos os pontos",
-      "D": "Destacar uma citação ou expressão reproduzida"
+      "A": "ascensão",
+      "B": "acensão",
+      "C": "assensão",
+      "D": "asçensão"
     },
-    "correct_answer": "D",
-    "explanation": "As aspas assinalam citações, títulos em certos usos ou expressões destacadas. Nesta questão, aplica-se a regra ao exemplo «Uma função das aspas na escrita é:»."
+    "correct_answer": "A",
+    "explanation": "«Ascensão» escreve-se com sc e s final na sequência -são."
   },
   {
     "id": "PT665",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "O travessão pode introduzir:",
+    "difficulty": "Médio",
+    "question": "Seleccione a palavra que contém correctamente o grupo «ch».",
     "options": {
-      "A": "A fala de uma personagem ou interlocutor",
-      "B": "A separação de sílabas",
-      "C": "O acento tónico",
-      "D": "A indicação de plural"
+      "A": "xave",
+      "B": "chave",
+      "C": "shave",
+      "D": "chavê"
     },
-    "correct_answer": "A",
-    "explanation": "O travessão pode marcar a intervenção de cada interlocutor num diálogo. Nesta questão, aplica-se a regra ao exemplo «O travessão pode introduzir:»."
+    "correct_answer": "B",
+    "explanation": "A grafia padrão da palavra é «chave»."
   },
   {
     "id": "PT666",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Difícil",
-    "question": "Num diálogo escrito, o travessão é frequentemente usado para:",
+    "question": "Em qual palavra o «h» inicial está correctamente usado?",
     "options": {
-      "A": "O acento tónico",
-      "B": "A indicação de plural",
-      "C": "A fala de uma personagem ou interlocutor",
-      "D": "A separação de sílabas"
+      "A": "omem",
+      "B": "homem",
+      "C": "homen",
+      "D": "homeim"
     },
-    "correct_answer": "C",
-    "explanation": "O travessão pode marcar a intervenção de cada interlocutor num diálogo. Nesta questão, aplica-se a regra ao exemplo «Num diálogo escrito, o travessão é frequentemente usado para:»."
+    "correct_answer": "B",
+    "explanation": "«Homem» conserva h inicial, embora essa letra não represente som nesta palavra."
   },
   {
     "id": "PT667",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Qual é uma função do travessão na pontuação?",
+    "difficulty": "Média",
+    "question": "Qual palavra apresenta correctamente o uso de «m» antes de «p»?",
     "options": {
-      "A": "A fala de uma personagem ou interlocutor",
-      "B": "A separação de sílabas",
-      "C": "O acento tónico",
-      "D": "A indicação de plural"
+      "A": "canpo",
+      "B": "campo",
+      "C": "camppo",
+      "D": "cãpo"
     },
-    "correct_answer": "A",
-    "explanation": "O travessão pode marcar a intervenção de cada interlocutor num diálogo. Nesta questão, aplica-se a regra ao exemplo «Qual é uma função do travessão na pontuação?»."
+    "correct_answer": "B",
+    "explanation": "Antes de p e b, usa-se geralmente m para representar a nasalidade."
   },
   {
     "id": "PT668",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Qual frase usa correctamente o hífen numa palavra composta?",
+    "difficulty": "Médio",
+    "question": "Complete correctamente: «O aluno fez uma ___ cuidadosa do texto.»",
     "options": {
-      "A": "Guarda—chuva",
-      "B": "Guarda-chuva",
-      "C": "Guardachuva",
-      "D": "Guarda chuva"
+      "A": "conpreensão",
+      "B": "compreensão",
+      "C": "compreenção",
+      "D": "compreenssão"
     },
     "correct_answer": "B",
-    "explanation": "«Guarda-chuva» escreve-se com hífen, conforme a convenção ortográfica. Nesta questão, aplica-se a regra ao exemplo «Qual frase usa correctamente o hífen numa palavra composta?»."
+    "explanation": "«Compreensão» escreve-se com m antes de p e com s na terminação -são."
   },
   {
     "id": "PT669",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Média",
-    "question": "Assinale a grafia correcta:",
+    "question": "Qual opção apresenta a palavra correctamente grafada?",
     "options": {
-      "A": "Guardachuva",
-      "B": "Guarda chuva",
-      "C": "Guarda—chuva",
-      "D": "Guarda-chuva"
+      "A": "privilégio",
+      "B": "previlégio",
+      "C": "priviléjio",
+      "D": "previléjio"
     },
-    "correct_answer": "D",
-    "explanation": "«Guarda-chuva» escreve-se com hífen, conforme a convenção ortográfica. Nesta questão, aplica-se a regra ao exemplo «Assinale a grafia correcta:»."
+    "correct_answer": "A",
+    "explanation": "A grafia correcta é «privilégio», com i na primeira sílaba e g."
   },
   {
     "id": "PT670",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Média",
-    "question": "Em qual opção a palavra composta está correctamente escrita?",
+    "question": "Assinale a forma correcta.",
     "options": {
-      "A": "Guarda—chuva",
-      "B": "Guarda-chuva",
-      "C": "Guardachuva",
-      "D": "Guarda chuva"
+      "A": "beneficiente",
+      "B": "beneficente",
+      "C": "benificente",
+      "D": "benefissente"
     },
     "correct_answer": "B",
-    "explanation": "«Guarda-chuva» escreve-se com hífen, conforme a convenção ortográfica. Nesta questão, aplica-se a regra ao exemplo «Em qual opção a palavra composta está correctamente escrita?»."
+    "explanation": "«Beneficente» escreve-se com i depois de benef- e termina em -cente."
   },
   {
     "id": "PT671",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "A abreviatura correcta de «doutor» em contexto formal é, geralmente:",
+    "difficulty": "Difícil",
+    "question": "Qual é a grafia correcta do verbo?",
     "options": {
-      "A": "Acrónimo",
-      "B": "Onomatopeia",
-      "C": "Abreviatura",
-      "D": "Sigla"
+      "A": "advinhar",
+      "B": "adivinhar",
+      "C": "advinhár",
+      "D": "adivinhár"
     },
-    "correct_answer": "C",
-    "explanation": "«Dr.» é uma abreviatura, marcada pelo ponto abreviativo. Nesta questão, aplica-se a regra ao exemplo «A abreviatura correcta de doutor em contexto formal é, geralmente:»."
+    "correct_answer": "B",
+    "explanation": "O verbo escreve-se «adivinhar», com i depois de d."
   },
   {
     "id": "PT672",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Qual forma abreviada é convencional para «doutor»?",
+    "difficulty": "Média",
+    "question": "Escolha a palavra correctamente escrita.",
     "options": {
-      "A": "Abreviatura",
-      "B": "Sigla",
-      "C": "Acrónimo",
-      "D": "Onomatopeia"
+      "A": "meteorologia",
+      "B": "metereologia",
+      "C": "meteorolojia",
+      "D": "metereolojia"
     },
     "correct_answer": "A",
-    "explanation": "«Dr.» é uma abreviatura, marcada pelo ponto abreviativo. Nesta questão, aplica-se a regra ao exemplo «Qual forma abreviada é convencional para doutor?»."
+    "explanation": "A forma padrão é «meteorologia», derivada de «meteorologia»."
   },
   {
     "id": "PT673",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Na escrita, «Dr.» é uma:",
+    "difficulty": "Média",
+    "question": "Qual frase usa correctamente a letra maiúscula?",
     "options": {
-      "A": "Acrónimo",
-      "B": "Onomatopeia",
-      "C": "Abreviatura",
-      "D": "Sigla"
+      "A": "O rio kwanza atravessa Angola.",
+      "B": "O Rio Kwanza atravessa angola.",
+      "C": "O rio Kwanza atravessa Angola.",
+      "D": "O Rio kwanza atravessa Angola."
     },
     "correct_answer": "C",
-    "explanation": "«Dr.» é uma abreviatura, marcada pelo ponto abreviativo. Nesta questão, aplica-se a regra ao exemplo «Na escrita, Dr. é uma:»."
+    "explanation": "Nomes próprios geográficos como «Kwanza» e «Angola» começam por maiúscula; «rio» é nome comum."
   },
   {
     "id": "PT674",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "A sigla OMS é formada por:",
+    "question": "Em qual opção o nome de uma instituição está correctamente grafado?",
     "options": {
-      "A": "Sílabas finais de uma frase",
-      "B": "Uma palavra com sentido figurado",
-      "C": "Uma abreviatura de uma única palavra",
-      "D": "Letras iniciais de uma denominação"
+      "A": "universidade Agostinho Neto",
+      "B": "Universidade agostinho neto",
+      "C": "Universidade Agostinho Neto",
+      "D": "universidade agostinho Neto"
     },
-    "correct_answer": "D",
-    "explanation": "OMS resulta das iniciais de Organização Mundial da Saúde. Nesta questão, aplica-se a regra ao exemplo «A sigla OMS é formada por:»."
+    "correct_answer": "C",
+    "explanation": "Os elementos do nome próprio da instituição iniciam-se por maiúscula."
   },
   {
     "id": "PT675",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Em «OMS», cada letra representa:",
+    "difficulty": "Média",
+    "question": "Qual frase está correctamente pontuada?",
     "options": {
-      "A": "Uma abreviatura de uma única palavra",
-      "B": "Letras iniciais de uma denominação",
-      "C": "Sílabas finais de uma frase",
-      "D": "Uma palavra com sentido figurado"
+      "A": "Os candidatos trouxeram lápis, canetas e documentos.",
+      "B": "Os candidatos trouxeram, lápis canetas e documentos.",
+      "C": "Os candidatos trouxeram lápis canetas, e documentos.",
+      "D": "Os candidatos, trouxeram lápis, canetas e documentos."
     },
-    "correct_answer": "B",
-    "explanation": "OMS resulta das iniciais de Organização Mundial da Saúde. Nesta questão, aplica-se a regra ao exemplo «Em OMS, cada letra representa:»."
+    "correct_answer": "A",
+    "explanation": "A vírgula separa os elementos de uma enumeração; não se separa o sujeito do predicado."
   },
   {
     "id": "PT676",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "A designação «OMS» constitui uma sigla porque:",
+    "difficulty": "Difícil",
+    "question": "Assinale a frase em que a vírgula separa correctamente o vocativo.",
     "options": {
-      "A": "Sílabas finais de uma frase",
-      "B": "Uma palavra com sentido figurado",
-      "C": "Uma abreviatura de uma única palavra",
-      "D": "Letras iniciais de uma denominação"
+      "A": "Colega, leia as instruções com atenção.",
+      "B": "Colega leia, as instruções com atenção.",
+      "C": "Colega leia as instruções, com atenção.",
+      "D": "Colega leia as, instruções com atenção."
     },
-    "correct_answer": "D",
-    "explanation": "OMS resulta das iniciais de Organização Mundial da Saúde. Nesta questão, aplica-se a regra ao exemplo «A designação OMS constitui uma sigla porque:»."
+    "correct_answer": "A",
+    "explanation": "O vocativo «Colega» deve ser isolado por vírgula."
   },
   {
     "id": "PT677",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Qual frase apresenta concordância entre sujeito plural e verbo?",
+    "difficulty": "Médio",
+    "question": "Qual frase apresenta pontuação correcta numa intercalação?",
     "options": {
-      "A": "Os resultados foram analisados.",
-      "B": "Os resultados foi analisado.",
-      "C": "Os resultado foram analisado.",
-      "D": "Os resultados era analisados."
+      "A": "O candidato, apesar do nervosismo, respondeu bem.",
+      "B": "O candidato apesar, do nervosismo respondeu bem.",
+      "C": "O candidato apesar do nervosismo respondeu, bem.",
+      "D": "O candidato, apesar do nervosismo respondeu bem."
     },
     "correct_answer": "A",
-    "explanation": "O sujeito plural «os resultados» exige verbo e particípio no plural. Nesta questão, aplica-se a regra ao exemplo «Qual frase apresenta concordância entre sujeito plural e verbo?»."
+    "explanation": "A expressão intercalada «apesar do nervosismo» fica delimitada por duas vírgulas."
   },
   {
     "id": "PT678",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Assinale a opção com concordância verbal correcta:",
+    "difficulty": "Média",
+    "question": "Que sinal deve ser usado para introduzir uma explicação ou enumeração?",
     "options": {
-      "A": "Os resultado foram analisado.",
-      "B": "Os resultados era analisados.",
-      "C": "Os resultados foram analisados.",
-      "D": "Os resultados foi analisado."
+      "A": "Ponto final",
+      "B": "Dois-pontos",
+      "C": "Ponto de interrogação",
+      "D": "Reticências"
     },
-    "correct_answer": "C",
-    "explanation": "O sujeito plural «os resultados» exige verbo e particípio no plural. Nesta questão, aplica-se a regra ao exemplo «Assinale a opção com concordância verbal correcta:»."
+    "correct_answer": "B",
+    "explanation": "Os dois-pontos anunciam uma explicação, esclarecimento ou enumeração."
   },
   {
     "id": "PT679",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Na escrita formal, qual enunciado está correcto?",
+    "difficulty": "Média",
+    "question": "Qual frase usa correctamente o ponto e vírgula?",
     "options": {
-      "A": "Os resultados foram analisados.",
-      "B": "Os resultados foi analisado.",
-      "C": "Os resultado foram analisado.",
-      "D": "Os resultados era analisados."
+      "A": "Estudou Biologia; reviu Química; e resolveu exercícios de Física.",
+      "B": "Estudou; Biologia reviu; Química.",
+      "C": "Estudou Biologia,; reviu Química.",
+      "D": "Estudou Biologia? reviu Química;"
     },
     "correct_answer": "A",
-    "explanation": "O sujeito plural «os resultados» exige verbo e particípio no plural. Nesta questão, aplica-se a regra ao exemplo «Na escrita formal, qual enunciado está correcto?»."
+    "explanation": "O ponto e vírgula pode separar segmentos coordenados, sobretudo quando se pretende uma pausa intermédia."
   },
   {
     "id": "PT680",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "Qual frase apresenta acentuação correcta?",
+    "question": "Em «A professora afirmou: “A prova começa às oito.”», as aspas indicam:",
     "options": {
-      "A": "Análize",
-      "B": "Análise",
-      "C": "Analise (nome)",
-      "D": "Analíse"
+      "A": "uma citação directa",
+      "B": "uma pergunta",
+      "C": "uma enumeração",
+      "D": "uma abreviatura"
     },
-    "correct_answer": "B",
-    "explanation": "«Análise» é nome esdrúxulo e recebe acento agudo. Nesta questão, aplica-se a regra ao exemplo «Qual frase apresenta acentuação correcta?»."
+    "correct_answer": "A",
+    "explanation": "As aspas delimitam as palavras reproduzidas directamente."
   },
   {
     "id": "PT681",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Escolha a forma correctamente acentuada:",
+    "difficulty": "Difícil",
+    "question": "Num diálogo, qual sinal introduz normalmente a fala de uma personagem?",
     "options": {
-      "A": "Analise (nome)",
-      "B": "Analíse",
-      "C": "Análize",
-      "D": "Análise"
+      "A": "Hífen",
+      "B": "Travessão",
+      "C": "Vírgula",
+      "D": "Apóstrofo"
     },
-    "correct_answer": "D",
-    "explanation": "«Análise» é nome esdrúxulo e recebe acento agudo. Nesta questão, aplica-se a regra ao exemplo «Escolha a forma correctamente acentuada:»."
+    "correct_answer": "B",
+    "explanation": "O travessão marca convencionalmente a intervenção de uma personagem no diálogo."
   },
   {
     "id": "PT682",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Qual palavra está grafada de acordo com a acentuação padrão?",
+    "difficulty": "Média",
+    "question": "Qual frase termina correctamente com ponto de interrogação?",
     "options": {
-      "A": "Análize",
-      "B": "Análise",
-      "C": "Analise (nome)",
-      "D": "Analíse"
+      "A": "O candidato perguntou onde era a sala?",
+      "B": "Onde fica a sala de exame?",
+      "C": "A sala fica no segundo andar?",
+      "D": "Ele perguntou se a sala estava aberta?"
     },
     "correct_answer": "B",
-    "explanation": "«Análise» é nome esdrúxulo e recebe acento agudo. Nesta questão, aplica-se a regra ao exemplo «Qual palavra está grafada de acordo com a acentuação padrão?»."
+    "explanation": "A pergunta directa termina com ponto de interrogação; as interrogativas indirectas normalmente não o exigem."
   },
   {
     "id": "PT683",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "Em «pôde» e «pode», o acento distingue:",
+    "question": "Qual frase usa correctamente as reticências?",
     "options": {
-      "A": "Singular e plural",
-      "B": "Substantivo e adjectivo",
-      "C": "Pretérito perfeito e presente do indicativo do verbo poder",
-      "D": "Masculino e feminino"
+      "A": "Não sei... talvez seja melhor confirmar.",
+      "B": "Não sei,,, talvez seja melhor confirmar.",
+      "C": "Não sei;;; talvez seja melhor confirmar.",
+      "D": "Não sei::: talvez seja melhor confirmar."
     },
-    "correct_answer": "C",
-    "explanation": "«Pôde» indica passado; «pode» indica presente. Nesta questão, aplica-se a regra ao exemplo «Em pôde e pode, o acento distingue:»."
+    "correct_answer": "A",
+    "explanation": "As reticências são três pontos e podem indicar suspensão ou hesitação."
   },
   {
     "id": "PT684",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "O acento circunflexo em «pôde» serve para:",
+    "difficulty": "Média",
+    "question": "Qual é a forma correcta da abreviatura de «doutor»?",
     "options": {
-      "A": "Pretérito perfeito e presente do indicativo do verbo poder",
-      "B": "Masculino e feminino",
-      "C": "Singular e plural",
-      "D": "Substantivo e adjectivo"
+      "A": "Dr",
+      "B": "Dr.",
+      "C": "Dº",
+      "D": "Dout."
     },
-    "correct_answer": "A",
-    "explanation": "«Pôde» indica passado; «pode» indica presente. Nesta questão, aplica-se a regra ao exemplo «O acento circunflexo em pôde serve para:»."
+    "correct_answer": "B",
+    "explanation": "A abreviatura convencional de «doutor» é «Dr.», com ponto abreviativo."
   },
   {
     "id": "PT685",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "A oposição gráfica entre «pôde» e «pode» assinala:",
+    "difficulty": "Média",
+    "question": "A forma «ONU» é classificada como:",
     "options": {
-      "A": "Singular e plural",
-      "B": "Substantivo e adjectivo",
-      "C": "Pretérito perfeito e presente do indicativo do verbo poder",
-      "D": "Masculino e feminino"
+      "A": "abreviatura",
+      "B": "sigla",
+      "C": "onomatopeia",
+      "D": "interjeição"
     },
-    "correct_answer": "C",
-    "explanation": "«Pôde» indica passado; «pode» indica presente. Nesta questão, aplica-se a regra ao exemplo «A oposição gráfica entre pôde e pode assinala:»."
+    "correct_answer": "B",
+    "explanation": "«ONU» é uma sigla formada pelas letras iniciais de «Organização das Nações Unidas»."
   },
   {
     "id": "PT686",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Qual é a forma correcta do plural de «cidadão»?",
+    "difficulty": "Difícil",
+    "question": "Qual das seguintes formas é um acrónimo pronunciado como palavra?",
     "options": {
-      "A": "Cidadões",
-      "B": "Cidadães",
-      "C": "Cidadãoses",
-      "D": "Cidadãos"
+      "A": "ONU",
+      "B": "UNICEF",
+      "C": "Dr.",
+      "D": "etc."
     },
-    "correct_answer": "D",
-    "explanation": "O plural mais comum de «cidadão» é «cidadãos». Nesta questão, aplica-se a regra ao exemplo «Qual é a forma correcta do plural de cidadão?»."
+    "correct_answer": "B",
+    "explanation": "«UNICEF» é formado por elementos iniciais e é pronunciado como uma palavra."
   },
   {
     "id": "PT687",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Média",
-    "question": "A grafia correcta no plural de «cidadão» é:",
+    "question": "Qual palavra composta está correctamente escrita?",
     "options": {
-      "A": "Cidadãoses",
-      "B": "Cidadãos",
-      "C": "Cidadões",
-      "D": "Cidadães"
+      "A": "segunda feira",
+      "B": "segunda-feira",
+      "C": "segunda—feira",
+      "D": "segundafeira"
     },
     "correct_answer": "B",
-    "explanation": "O plural mais comum de «cidadão» é «cidadãos». Nesta questão, aplica-se a regra ao exemplo «A grafia correcta no plural de cidadão é:»."
+    "explanation": "«Segunda-feira» escreve-se com hífen."
   },
   {
     "id": "PT688",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Média",
-    "question": "Seleccione o plural ortográfico de «cidadão».",
+    "question": "Assinale a grafia correcta da palavra composta.",
     "options": {
-      "A": "Cidadões",
-      "B": "Cidadães",
-      "C": "Cidadãoses",
-      "D": "Cidadãos"
+      "A": "guarda roupa",
+      "B": "guarda-roupa",
+      "C": "guardaroupa",
+      "D": "guarda—roupa"
     },
-    "correct_answer": "D",
-    "explanation": "O plural mais comum de «cidadão» é «cidadãos». Nesta questão, aplica-se a regra ao exemplo «Seleccione o plural ortográfico de cidadão.»."
+    "correct_answer": "B",
+    "explanation": "«Guarda-roupa» é uma palavra composta convencionalmente escrita com hífen."
   },
   {
     "id": "PT689",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Qual forma apresenta correctamente o uso de «porque» numa resposta causal?",
+    "difficulty": "Médio",
+    "question": "Qual opção apresenta correctamente o plural de «cidadão»?",
     "options": {
-      "A": "porque",
-      "B": "por que",
-      "C": "porquê",
-      "D": "por quê"
+      "A": "cidadões",
+      "B": "cidadães",
+      "C": "cidadãos",
+      "D": "cidadãoses"
     },
-    "correct_answer": "A",
-    "explanation": "«Porque» junto e sem acento é conjunção causal ou explicativa. Nesta questão, aplica-se a regra ao exemplo «Qual forma apresenta correctamente o uso de porque numa resposta causal?»."
+    "correct_answer": "C",
+    "explanation": "O plural padrão de «cidadão» é «cidadãos»."
   },
   {
     "id": "PT690",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Difícil",
-    "question": "Complete: «O candidato faltou ___ estava doente.»",
+    "difficulty": "Média",
+    "question": "Qual é o plural correcto de «mão»?",
     "options": {
-      "A": "porquê",
-      "B": "por quê",
-      "C": "porque",
-      "D": "por que"
+      "A": "mãos",
+      "B": "mões",
+      "C": "mães",
+      "D": "mãoses"
     },
-    "correct_answer": "C",
-    "explanation": "«Porque» junto e sem acento é conjunção causal ou explicativa. Nesta questão, aplica-se a regra ao exemplo «Complete: O candidato faltou ___ estava doente.»."
+    "correct_answer": "A",
+    "explanation": "O plural de «mão» é «mãos»."
   },
   {
     "id": "PT691",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Difícil",
-    "question": "Para introduzir a causa numa frase afirmativa, escreve-se:",
+    "question": "Seleccione a forma correcta do plural de «animal».",
     "options": {
-      "A": "porque",
-      "B": "por que",
-      "C": "porquê",
-      "D": "por quê"
+      "A": "animals",
+      "B": "animales",
+      "C": "animais",
+      "D": "animães"
     },
-    "correct_answer": "A",
-    "explanation": "«Porque» junto e sem acento é conjunção causal ou explicativa. Nesta questão, aplica-se a regra ao exemplo «Para introduzir a causa numa frase afirmativa, escreve-se:»."
+    "correct_answer": "C",
+    "explanation": "Os nomes terminados em -al formam geralmente o plural em -ais: animal/animais."
   },
   {
     "id": "PT692",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "Qual forma se usa no fim de uma pergunta quando «por que» aparece antes do verbo?",
+    "question": "Qual frase apresenta concordância gráfica e gramatical correcta?",
     "options": {
-      "A": "Por quê",
-      "B": "Por que",
-      "C": "Porque",
-      "D": "Porquê"
+      "A": "Haviam muitos candidatos na sala.",
+      "B": "Havia muitos candidatos na sala.",
+      "C": "Haviam muito candidato na sala.",
+      "D": "Havia muitos candidato na sala."
     },
     "correct_answer": "B",
-    "explanation": "«Por que» separado é usado em perguntas com sentido de «por qual razão». Nesta questão, aplica-se a regra ao exemplo «Qual forma se usa no fim de uma pergunta quando por que aparece antes do verbo?»."
+    "explanation": "O verbo «haver» com sentido de existir é impessoal e fica na terceira pessoa do singular."
   },
   {
     "id": "PT693",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Complete: «___ razão escolheste Medicina?»",
+    "difficulty": "Média",
+    "question": "Qual frase apresenta correctamente a concordância nominal?",
     "options": {
-      "A": "Porque",
-      "B": "Porquê",
-      "C": "Por quê",
-      "D": "Por que"
+      "A": "As questões estavam difíceis.",
+      "B": "As questões estava difícil.",
+      "C": "A questões estavam difíceis.",
+      "D": "As questão estavam difícil."
     },
-    "correct_answer": "D",
-    "explanation": "«Por que» separado é usado em perguntas com sentido de «por qual razão». Nesta questão, aplica-se a regra ao exemplo «Complete: ___ razão escolheste Medicina?»."
+    "correct_answer": "A",
+    "explanation": "O adjectivo «difíceis» concorda em género e número com «questões»."
   },
   {
     "id": "PT694",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "A sequência interrogativa equivalente a «por qual motivo» é:",
+    "difficulty": "Média",
+    "question": "Qual frase está correctamente escrita quanto à separação de palavras?",
     "options": {
-      "A": "Por quê",
-      "B": "Por que",
-      "C": "Porque",
-      "D": "Porquê"
+      "A": "A fim de melhorar, estudou diariamente.",
+      "B": "Afim de melhorar, estudou diariamente.",
+      "C": "A-fim de melhorar, estudou diariamente.",
+      "D": "Afim-de melhorar, estudou diariamente."
     },
-    "correct_answer": "B",
-    "explanation": "«Por que» separado é usado em perguntas com sentido de «por qual razão». Nesta questão, aplica-se a regra ao exemplo «A sequência interrogativa equivalente a por qual motivo é:»."
+    "correct_answer": "A",
+    "explanation": "«A fim de» é uma locução que exprime finalidade; «afim» significa semelhante ou relacionado."
   },
   {
     "id": "PT695",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Em «Não sei o porquê da alteração», a palavra «porquê» é:",
+    "difficulty": "Médio",
+    "question": "Complete: «O estudante agiu ___, por isso foi elogiado.»",
     "options": {
-      "A": "Preposição",
-      "B": "Interjeição",
-      "C": "Substantivo",
-      "D": "Conjunção causal"
+      "A": "mal",
+      "B": "mau",
+      "C": "máu",
+      "D": "mál"
     },
-    "correct_answer": "C",
-    "explanation": "Com artigo, «porquê» é substantivo e significa motivo ou razão. Nesta questão, aplica-se a regra ao exemplo «Em Não sei o porquê da alteração, a palavra porquê é:»."
+    "correct_answer": "A",
+    "explanation": "«Mal» é advérbio, opõe-se a «bem»; «mau» é adjectivo, opõe-se a «bom»."
   },
   {
     "id": "PT696",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Média",
-    "question": "Quando «porquê» é antecedido de artigo, funciona como:",
+    "difficulty": "Difícil",
+    "question": "Qual frase usa correctamente «onde»?",
     "options": {
-      "A": "Substantivo",
-      "B": "Conjunção causal",
-      "C": "Preposição",
-      "D": "Interjeição"
+      "A": "Aonde fica o laboratório?",
+      "B": "Onde fica o laboratório?",
+      "C": "De onde vais para o laboratório?",
+      "D": "Onde vais amanhã?"
     },
-    "correct_answer": "A",
-    "explanation": "Com artigo, «porquê» é substantivo e significa motivo ou razão. Nesta questão, aplica-se a regra ao exemplo «Quando porquê é antecedido de artigo, funciona como:»."
+    "correct_answer": "B",
+    "explanation": "«Onde» indica localização estática; «aonde» combina a preposição a com ideia de movimento/destino."
   },
   {
     "id": "PT697",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Média",
-    "question": "Na frase «Explicou o porquê da decisão», «porquê» é:",
+    "question": "Qual opção apresenta a grafia correcta do numeral ordinal?",
     "options": {
-      "A": "Preposição",
-      "B": "Interjeição",
-      "C": "Substantivo",
-      "D": "Conjunção causal"
+      "A": "décimo primeiro",
+      "B": "décimo-primeiro",
+      "C": "decimo primeiro",
+      "D": "décimo-primeiró"
     },
-    "correct_answer": "C",
-    "explanation": "Com artigo, «porquê» é substantivo e significa motivo ou razão. Nesta questão, aplica-se a regra ao exemplo «Na frase Explicou o porquê da decisão, porquê é:»."
+    "correct_answer": "A",
+    "explanation": "Na escrita corrente, os ordinais compostos como «décimo primeiro» escrevem-se separados."
   },
   {
     "id": "PT698",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
     "difficulty": "Médio",
-    "question": "Qual frase utiliza correctamente «há» com sentido de tempo decorrido?",
+    "question": "Qual é a grafia correcta da palavra que designa um instrumento para medir a temperatura?",
     "options": {
-      "A": "À duas semanas",
-      "B": "A duas semanas",
-      "C": "Ah duas semanas",
-      "D": "Há duas semanas"
+      "A": "termómetro",
+      "B": "termometro",
+      "C": "termômetro",
+      "D": "termómettro"
     },
-    "correct_answer": "D",
-    "explanation": "«Há» é forma do verbo haver e indica tempo decorrido. Nesta questão, aplica-se a regra ao exemplo «Qual frase utiliza correctamente há com sentido de tempo decorrido?»."
+    "correct_answer": "A",
+    "explanation": "«Termómetro» é a grafia usada no português europeu e angolano, com acento agudo."
   },
   {
     "id": "PT699",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Complete: «A última revisão ocorreu ___ duas semanas.»",
+    "difficulty": "Média",
+    "question": "Assinale a frase em que o acento distingue correctamente duas formas verbais.",
     "options": {
-      "A": "Ah duas semanas",
-      "B": "Há duas semanas",
-      "C": "À duas semanas",
-      "D": "A duas semanas"
+      "A": "Ele tem razão; eles têm razão.",
+      "B": "Ele têm razão; eles tem razão.",
+      "C": "Ele têem razão; eles têm razão.",
+      "D": "Ele tem razão; eles têem razão."
     },
-    "correct_answer": "B",
-    "explanation": "«Há» é forma do verbo haver e indica tempo decorrido. Nesta questão, aplica-se a regra ao exemplo «Complete: A última revisão ocorreu ___ duas semanas.»."
+    "correct_answer": "A",
+    "explanation": "«Tem» é singular e «têm» é plural na terceira pessoa do presente do indicativo."
   },
   {
     "id": "PT700",
     "subject": "Língua Portuguesa",
     "topic": "Representação Gráfica da Língua Falada",
-    "difficulty": "Médio",
-    "question": "Na indicação de tempo passado, a forma correcta é:",
+    "difficulty": "Média",
+    "question": "Qual opção apresenta a forma correcta do verbo «vir» na terceira pessoa do plural do presente?",
     "options": {
-      "A": "À duas semanas",
-      "B": "A duas semanas",
-      "C": "Ah duas semanas",
-      "D": "Há duas semanas"
+      "A": "eles vem",
+      "B": "eles vêm",
+      "C": "eles vêem",
+      "D": "eles veem"
     },
-    "correct_answer": "D",
-    "explanation": "«Há» é forma do verbo haver e indica tempo decorrido. Nesta questão, aplica-se a regra ao exemplo «Na indicação de tempo passado, a forma correcta é:»."
+    "correct_answer": "B",
+    "explanation": "Na norma ortográfica actual, a forma plural é «vêm», com acento circunflexo."
+  },
+  {
+    "id": "PT701",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação Gráfica da Língua Falada",
+    "difficulty": "Difícil",
+    "question": "Qual frase apresenta correctamente o uso de «senão»?",
+    "options": {
+      "A": "Estude, se não queres reprovar.",
+      "B": "Não fez outra coisa senão estudar.",
+      "C": "Se não o relatório, entregou a ficha.",
+      "D": "Senão chover, iremos."
+    },
+    "correct_answer": "B",
+    "explanation": "«Senão» junto pode significar «a não ser»; «se não» separado introduz uma condição."
+  },
+  {
+    "id": "PT702",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação Gráfica da Língua Falada",
+    "difficulty": "Média",
+    "question": "Qual forma completa correctamente a frase: «Não há ___ para adiar a prova.»",
+    "options": {
+      "A": "porque",
+      "B": "por que",
+      "C": "porquê",
+      "D": "por quê"
+    },
+    "correct_answer": "C",
+    "explanation": "«Porquê» é substantivo com sentido de motivo e pode ser precedido de artigo."
+  },
+  {
+    "id": "PT703",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação Gráfica da Língua Falada",
+    "difficulty": "Média",
+    "question": "Qual palavra está correctamente escrita segundo a regra de «r» e «rr»?",
+    "options": {
+      "A": "caro (veículo de transporte)",
+      "B": "carro",
+      "C": "carrro",
+      "D": "caro e carro têm sempre o mesmo significado"
+    },
+    "correct_answer": "B",
+    "explanation": "«Carro» escreve-se com rr entre vogais; «caro» tem outro significado."
+  },
+  {
+    "id": "PT704",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação Gráfica da Língua Falada",
+    "difficulty": "Médio",
+    "question": "Qual das palavras apresenta correctamente o dígrafo «ss»?",
+    "options": {
+      "A": "pasar",
+      "B": "passar",
+      "C": "paçar",
+      "D": "pássar"
+    },
+    "correct_answer": "B",
+    "explanation": "«Passar» escreve-se com ss entre vogais para representar o som /s/."
+  },
+  {
+    "id": "PT705",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação Gráfica da Língua Falada",
+    "difficulty": "Média",
+    "question": "Assinale a palavra correctamente escrita com «ç».",
+    "options": {
+      "A": "coração",
+      "B": "corassão",
+      "C": "coraçâo",
+      "D": "coraçao"
+    },
+    "correct_answer": "A",
+    "explanation": "«Coração» escreve-se com ç e til em ão."
+  },
+  {
+    "id": "PT706",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação Gráfica da Língua Falada",
+    "difficulty": "Difícil",
+    "question": "Qual opção apresenta a grafia correcta da palavra?",
+    "options": {
+      "A": "nascimento",
+      "B": "nacimento",
+      "C": "nassimento",
+      "D": "nascimemto"
+    },
+    "correct_answer": "A",
+    "explanation": "«Nascimento» escreve-se com sc e termina em -mento."
   }
 ]
