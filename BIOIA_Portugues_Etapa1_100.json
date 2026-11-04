@@ -1223,7 +1223,7 @@
     "options": {
       "A": "Sujeito",
       "B": "Complemento direto",
-      "C": "Complemento indirecto",
+      "C": "Complemento indireto",
       "D": "Predicativo do sujeito"
     },
     "correct_answer": "B",
@@ -1236,10 +1236,10 @@
     "difficulty": "Média",
     "question": "Na frase «O professor entregou os testes aos alunos», «aos alunos» desempenha a função de:",
     "options": {
-      "A": "Complemento directo",
+      "A": "Complemento direto",
       "B": "Complemento indireto",
       "C": "Sujeito",
-      "D": "Predicativo do complemento directo"
+      "D": "Predicativo do complemento direto"
     },
     "correct_answer": "B",
     "explanation": "A expressão indica os destinatários e funciona como complemento indireto."
@@ -1272,7 +1272,7 @@
       "D": "O médico examinou o doente"
     },
     "correct_answer": "B",
-    "explanation": "A construção com «se» e verbo intransitivo ou transitivo indirecto pode indeterminar o sujeito."
+    "explanation": "A construção com «se» e verbo intransitivo ou transitivo indireto pode indeterminar o sujeito."
   },
   {
     "id": "PT286",
@@ -1326,7 +1326,7 @@
     "difficulty": "Difícil",
     "question": "Em «É necessário que todos participem», a oração «que todos participem» é subordinada substantiva:",
     "options": {
-      "A": "Subjectiva",
+      "A": "Subjetiva",
       "B": "Completiva",
       "C": "Relativa restritiva",
       "D": "Adverbial causal"
