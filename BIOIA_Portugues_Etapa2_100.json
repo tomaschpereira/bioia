@@ -68,11 +68,11 @@
     "options": {
       "A": "A prova começou às oito.",
       "B": "O livro tem 120 páginas.",
-      "C": "A leitura é a actividade mais enriquecedora.",
+      "C": "A leitura é a atividade mais enriquecedora.",
       "D": "A água ferve perto de 100 °C ao nível do mar."
     },
     "correct_answer": "C",
-    "explanation": "É uma avaliação subjectiva."
+    "explanation": "É uma avaliação subjetiva."
   },
   {
     "id": "PT306",
@@ -139,7 +139,7 @@
     "subject": "Língua Portuguesa",
     "topic": "Texto escrito — compreensão e coerência",
     "difficulty": "Média",
-    "question": "«Inscrições até 15 de Março» num aviso indica:",
+    "question": "«Inscrições até 15 de março» num aviso indica:",
     "options": {
       "A": "Uma opinião",
       "B": "Um prazo",
