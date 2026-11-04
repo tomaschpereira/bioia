@@ -1,0 +1,60 @@
+{
+  "bank": "BIOIA_Portugues_500.json",
+  "branch": "feature/portugues-500-questoes",
+  "total": 500,
+  "expected_topics": [
+    "Texto escrito",
+    "Estrutura das palavras",
+    "Semântica",
+    "Fonética e Fonologia",
+    "Representação gráfica da Língua falada"
+  ],
+  "counts_by_topic": {
+    "Texto escrito": 100,
+    "Estrutura das palavras": 100,
+    "Semântica": 100,
+    "Fonética e Fonologia": 100,
+    "Representação gráfica da Língua falada": 100
+  },
+  "structural_validation": "PASS",
+  "unique_ids": "PASS",
+  "options_A_to_D": "PASS",
+  "correct_answer_keys": "PASS",
+  "explanations_present": "PASS",
+  "normalized_question_stems": {
+    "status": "FAIL",
+    "duplicate_groups": 50,
+    "records_in_duplicate_groups": 300,
+    "examples": [
+      [
+        "PT201",
+        "PT221"
+      ],
+      [
+        "PT202",
+        "PT222"
+      ],
+      [
+        "PT203",
+        "PT223"
+      ],
+      [
+        "PT204",
+        "PT224"
+      ]
+    ]
+  },
+  "integration": {
+    "status": "BLOCKED",
+    "reason": "O loader continua a usar BIOIA_Portugues_200_Normalizado.json. Não activar o banco de 500 enquanto as 300 ocorrências em grupos repetidos e os enunciados suspeitos não forem corrigidos e revistos."
+  },
+  "production": "NOT_MERGED",
+  "content_quality": {
+    "status": "REVIEW_REQUIRED",
+    "suspicious_context_fragments": 20,
+    "notes": [
+      "Foram detectados contextos parentéticos artificiais em enunciados, por exemplo '(na biblioteca)'.",
+      "A contagem de 500 e a estrutura não comprovam, por si só, a qualidade pedagógica nem a exactidão de todas as respostas."
+    ]
+  }
+}
