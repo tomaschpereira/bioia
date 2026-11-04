@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT461",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «infeliz», qual é o prefixo?",
+    "options": {
+      "A": "in-",
+      "B": "fel",
+      "C": "-iz",
+      "D": "-liz"
+    },
+    "correct_answer": "A",
+    "explanation": "«In-» é o prefixo acrescentado à base «feliz», transmitindo uma ideia de negação."
+  },
+  {
+    "id": "PT462",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «pedreiro», qual é o radical?",
+    "options": {
+      "A": "-eiro",
+      "B": "pedr-",
+      "C": "pedre",
+      "D": "-ro"
+    },
+    "correct_answer": "B",
+    "explanation": "«Pedr-» é o radical que conserva o significado principal da palavra."
+  },
+  {
+    "id": "PT463",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «livraria» foi formada por:",
+    "options": {
+      "A": "Derivação prefixal",
+      "B": "Composição por aglutinação",
+      "C": "Derivação sufixal",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "C",
+    "explanation": "A palavra forma-se a partir de «livro» com o acréscimo do sufixo «-aria»."
+  },
+  {
+    "id": "PT464",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «desleal», o elemento «des-» é:",
+    "options": {
+      "A": "Radical",
+      "B": "Sufixo",
+      "C": "Desinência",
+      "D": "Prefixo"
+    },
+    "correct_answer": "D",
+    "explanation": "«Des-» aparece antes da base e é, por isso, um prefixo."
+  },
+  {
+    "id": "PT465",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na forma verbal «cantávamos», o elemento «-mos» indica:",
+    "options": {
+      "A": "Primeira pessoa do plural",
+      "B": "Terceira pessoa do singular",
+      "C": "Segunda pessoa do plural",
+      "D": "Primeira pessoa do singular"
+    },
+    "correct_answer": "A",
+    "explanation": "A forma «cantávamos» corresponde a «nós cantávamos», isto é, à primeira pessoa do plural."
+  },
+  {
+    "id": "PT466",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual palavra pertence à mesma família de «mar»?",
+    "options": {
+      "A": "Mesa",
+      "B": "Marinho",
+      "C": "Mato",
+      "D": "Mármore"
+    },
+    "correct_answer": "B",
+    "explanation": "«Marinho» pertence à família de «mar», partilhando a mesma base lexical e uma relação de significado."
+  },
+  {
+    "id": "PT467",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «guarda-chuva» é formada por:",
+    "options": {
+      "A": "Derivação sufixal",
+      "B": "Aglutinação",
+      "C": "Composição por justaposição",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "C",
+    "explanation": "«Guarda-chuva» une dois elementos que mantêm a sua forma, característica da justaposição."
+  },
+  {
+    "id": "PT468",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «felizmente», o elemento «-mente» é:",
+    "options": {
+      "A": "Prefixo",
+      "B": "Radical",
+      "C": "Desinência",
+      "D": "Sufixo"
+    },
+    "correct_answer": "D",
+    "explanation": "«-mente» é um sufixo usado para formar advérbios a partir de adjectivos."
+  },
+  {
+    "id": "PT469",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «infelizmente» apresenta:",
+    "options": {
+      "A": "Apenas derivação sufixal",
+      "B": "Derivação prefixal e sufixal",
+      "C": "Composição por aglutinação",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra contém o prefixo «in-» e o sufixo «-mente», acrescentados à base «feliz»."
+  },
+  {
+    "id": "PT470",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «anoitecer» é formada por:",
+    "options": {
+      "A": "Derivação parassintética",
+      "B": "Derivação regressiva",
+      "C": "Composição por justaposição",
+      "D": "Derivação imprópria"
+    },
+    "correct_answer": "A",
+    "explanation": "«Anoitecer» forma-se com prefixo e sufixo acrescentados simultaneamente à base «noite»."
+  },
+  {
+    "id": "PT471",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «florista», qual é o radical?",
+    "options": {
+      "A": "flor",
+      "B": "ista",
+      "C": "floris",
+      "D": "ora"
+    },
+    "correct_answer": "A",
+    "explanation": "«Flor» é a base que contém o significado principal da palavra. «-ista» é o sufixo."
+  },
+  {
+    "id": "PT472",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «rapidamente», o elemento «-mente» é:",
+    "options": {
+      "A": "Prefixo",
+      "B": "Radical",
+      "C": "Sufixo",
+      "D": "Desinência verbal"
+    },
+    "correct_answer": "C",
+    "explanation": "«-mente» acrescenta informação à palavra «rápida», formando um advérbio."
+  },
+  {
+    "id": "PT473",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta derivação prefixal?",
+    "options": {
+      "A": "Beleza",
+      "B": "Refazer",
+      "C": "Pedreiro",
+      "D": "Livraria"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra «refazer» foi formada pela junção do prefixo «re-» à palavra «fazer»."
+  },
+  {
+    "id": "PT474",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «bondade» foi formada por:",
+    "options": {
+      "A": "Derivação sufixal",
+      "B": "Composição",
+      "C": "Derivação regressiva",
+      "D": "Derivação parassintética"
+    },
+    "correct_answer": "A",
+    "explanation": "«Bondade» deriva de «bom», com a formação da base «bond-» e o acréscimo do sufixo «-dade»."
+  },
+  {
+    "id": "PT475",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Em «cantaremos», a terminação «-mos» indica:",
+    "options": {
+      "A": "Terceira pessoa do singular",
+      "B": "Primeira pessoa do plural",
+      "C": "Segunda pessoa do plural",
+      "D": "Terceira pessoa do plural"
+    },
+    "correct_answer": "B",
+    "explanation": "«Cantaremos» corresponde a «nós cantaremos»."
+  },
+  {
+    "id": "PT476",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das seguintes palavras é composta por justaposição?",
+    "options": {
+      "A": "Planalto",
+      "B": "Aguardente",
+      "C": "Guarda-roupa",
+      "D": "Embora"
+    },
+    "correct_answer": "C",
+    "explanation": "Na justaposição, os elementos juntam-se sem perda significativa da sua estrutura sonora."
+  },
+  {
+    "id": "PT477",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «planalto» resulta de:",
+    "options": {
+      "A": "Derivação prefixal",
+      "B": "Composição por aglutinação",
+      "C": "Derivação sufixal",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "B",
+    "explanation": "«Planalto» resulta da união de «plano» e «alto», com alterações na forma dos elementos."
+  },
+  {
+    "id": "PT478",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual é o processo de formação da palavra «anoitecer»?",
+    "options": {
+      "A": "Derivação regressiva",
+      "B": "Composição por justaposição",
+      "C": "Derivação parassintética",
+      "D": "Derivação imprópria"
+    },
+    "correct_answer": "C",
+    "explanation": "A palavra forma-se com prefixo e sufixo acrescentados simultaneamente à base «noite»."
+  },
+  {
+    "id": "PT479",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras é primitiva?",
+    "options": {
+      "A": "Casinha",
+      "B": "Caseiro",
+      "C": "Casa",
+      "D": "Casamento"
+    },
+    "correct_answer": "C",
+    "explanation": "«Casa» serve de base para a formação de outras palavras da mesma família."
+  },
+  {
+    "id": "PT480",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «meninas», o elemento «-s» indica:",
+    "options": {
+      "A": "Género feminino",
+      "B": "Grau diminutivo",
+      "C": "Número plural",
+      "D": "Tempo verbal"
+    },
+    "correct_answer": "C",
+    "explanation": "O «-s» é uma desinência nominal de número, indicando mais de uma menina."
+  },
+  {
+    "id": "PT481",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «desorganização», o prefixo é:",
+    "options": {
+      "A": "-ção",
+      "B": "des-",
+      "C": "-ização",
+      "D": "organiza"
+    },
+    "correct_answer": "B",
+    "explanation": "«Des-» é o prefixo que transmite a ideia de negação ou inversão."
+  },
+  {
+    "id": "PT482",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta derivação regressiva?",
+    "options": {
+      "A": "Pesca",
+      "B": "Pescador",
+      "C": "Pescaria",
+      "D": "Repescar"
+    },
+    "correct_answer": "A",
+    "explanation": "«Pesca» é formada a partir do verbo «pescar», com redução da forma verbal."
+  },
+  {
+    "id": "PT483",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «infelizmente», qual é a base a que se acrescentam os afixos?",
+    "options": {
+      "A": "Feliz",
+      "B": "Mente",
+      "C": "In",
+      "D": "Infelizmente"
+    },
+    "correct_answer": "A",
+    "explanation": "A palavra tem como base «feliz», à qual se juntam o prefixo «in-» e o sufixo «-mente»."
+  },
+  {
+    "id": "PT484",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das opções apresenta derivação imprópria?",
+    "options": {
+      "A": "O jantar estava delicioso.",
+      "B": "O menino brincava.",
+      "C": "A casa é grande.",
+      "D": "Ela corre rapidamente."
+    },
+    "correct_answer": "A",
+    "explanation": "«Jantar», originalmente verbo, é usado como substantivo. Não houve alteração na sua forma."
+  },
+  {
+    "id": "PT485",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «amávamos», a terminação verbal indica:",
+    "options": {
+      "A": "Primeira pessoa do plural",
+      "B": "Primeira pessoa do singular",
+      "C": "Segunda pessoa do singular",
+      "D": "Terceira pessoa do plural"
+    },
+    "correct_answer": "A",
+    "explanation": "«Amávamos» corresponde a «nós amávamos»."
+  },
+  {
+    "id": "PT486",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras pertence à mesma família de «pedra»?",
+    "options": {
+      "A": "Pedreiro",
+      "B": "Papel",
+      "C": "Pedaço",
+      "D": "Padrão"
+    },
+    "correct_answer": "A",
+    "explanation": "«Pedreiro» deriva de «pedra» e conserva a relação de significado com essa palavra."
+  },
+  {
+    "id": "PT487",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «cafezinho», o elemento «-zinho» exprime:",
+    "options": {
+      "A": "Aumentativo",
+      "B": "Diminutivo",
+      "C": "Plural",
+      "D": "Negação"
+    },
+    "correct_answer": "B",
+    "explanation": "O sufixo «-zinho» pode indicar tamanho pequeno ou valor afectivo."
+  },
+  {
+    "id": "PT488",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta flexão de género?",
+    "options": {
+      "A": "Menino / menina",
+      "B": "Casa / casas",
+      "C": "Cantar / cantando",
+      "D": "Flor / florista"
+    },
+    "correct_answer": "A",
+    "explanation": "A mudança de «-o» para «-a» assinala a oposição entre masculino e feminino."
+  },
+  {
+    "id": "PT489",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «corríamos», o elemento «-íamos» está relacionado com:",
+    "options": {
+      "A": "A formação do plural nominal",
+      "B": "A flexão verbal",
+      "C": "A formação do diminutivo",
+      "D": "A composição de palavras"
+    },
+    "correct_answer": "B",
+    "explanation": "A terminação indica características gramaticais do verbo, como tempo, modo, pessoa e número."
+  },
+  {
+    "id": "PT490",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das opções apresenta uma palavra formada por composição?",
+    "options": {
+      "A": "Infeliz",
+      "B": "Girassol",
+      "C": "Beleza",
+      "D": "Felizmente"
+    },
+    "correct_answer": "B",
+    "explanation": "«Girassol» resulta da união dos elementos «gira» e «sol»."
+  },
+  {
+    "id": "PT491",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «incapaz», o prefixo «in-» exprime:",
+    "options": {
+      "A": "Intensidade",
+      "B": "Negação",
+      "C": "Diminuição",
+      "D": "Repetição"
+    },
+    "correct_answer": "B",
+    "explanation": "O prefixo «in-» transmite uma ideia de negação. «Incapaz» significa não capaz."
+  },
+  {
+    "id": "PT492",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual é o radical da palavra «trabalhador»?",
+    "options": {
+      "A": "Trabalha",
+      "B": "Dor",
+      "C": "Trabalh-",
+      "D": "Trabalhador"
+    },
+    "correct_answer": "C",
+    "explanation": "O radical contém o significado fundamental da palavra e serve de base para outras palavras da mesma família."
+  },
+  {
+    "id": "PT493",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta um sufixo que indica profissão ou ocupação?",
+    "options": {
+      "A": "Feliz",
+      "B": "Motorista",
+      "C": "Infeliz",
+      "D": "Refazer"
+    },
+    "correct_answer": "B",
+    "explanation": "O sufixo «-ista» pode indicar uma pessoa que exerce determinada actividade ou profissão."
+  },
+  {
+    "id": "PT494",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «desfazer» foi formada por:",
+    "options": {
+      "A": "Derivação prefixal",
+      "B": "Derivação sufixal",
+      "C": "Composição por aglutinação",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "A",
+    "explanation": "Acrescentou-se o prefixo «des-» ao verbo «fazer»."
+  },
+  {
+    "id": "PT495",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta composição por aglutinação?",
+    "options": {
+      "A": "Passatempo",
+      "B": "Guarda-costas",
+      "C": "Pernalta",
+      "D": "Segunda-feira"
+    },
+    "correct_answer": "C",
+    "explanation": "«Pernalta» resulta da união de «perna» e «alta», com alteração e perda de elementos na forma original."
+  },
+  {
+    "id": "PT496",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «meninos», qual é a desinência de género?",
+    "options": {
+      "A": "-s",
+      "B": "-o",
+      "C": "-n",
+      "D": "-men"
+    },
+    "correct_answer": "B",
+    "explanation": "O «-o» marca o masculino, enquanto o «-s» indica o plural."
+  },
+  {
+    "id": "PT497",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das seguintes palavras é derivada por sufixação?",
+    "options": {
+      "A": "Reabrir",
+      "B": "Beleza",
+      "C": "Guarda-chuva",
+      "D": "Embora"
+    },
+    "correct_answer": "B",
+    "explanation": "«Beleza» é formada a partir de «belo», com o acréscimo do sufixo «-eza»."
+  },
+  {
+    "id": "PT498",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Em «partiremos», o verbo encontra-se na:",
+    "options": {
+      "A": "Primeira pessoa do singular",
+      "B": "Segunda pessoa do plural",
+      "C": "Primeira pessoa do plural",
+      "D": "Terceira pessoa do singular"
+    },
+    "correct_answer": "C",
+    "explanation": "«Partiremos» corresponde a «nós partiremos»."
+  },
+  {
+    "id": "PT499",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras é formada por derivação parassintética?",
+    "options": {
+      "A": "Envelhecer",
+      "B": "Felizmente",
+      "C": "Desleal",
+      "D": "Pedreiro"
+    },
+    "correct_answer": "A",
+    "explanation": "Forma-se com o prefixo «en-» e o sufixo «-ecer» acrescentados simultaneamente à base «velho»."
+  },
+  {
+    "id": "PT500",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual é a palavra primitiva da família de «florista»?",
+    "options": {
+      "A": "Florir",
+      "B": "Florista",
+      "C": "Flor",
+      "D": "Florescer"
+    },
+    "correct_answer": "C",
+    "explanation": "«Flor» é a palavra primitiva da qual se formam outras palavras da mesma família."
+  },
+  {
+    "id": "PT501",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «reconstrução», o prefixo «re-» indica:",
+    "options": {
+      "A": "Negação",
+      "B": "Repetição",
+      "C": "Diminuição",
+      "D": "Oposição"
+    },
+    "correct_answer": "B",
+    "explanation": "O prefixo «re-» pode indicar que uma acção é realizada novamente."
+  },
+  {
+    "id": "PT502",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das opções apresenta um exemplo de derivação regressiva?",
+    "options": {
+      "A": "Combate, derivado de combater",
+      "B": "Combateiro, derivado de combate",
+      "C": "Combativo, derivado de combate",
+      "D": "Combater, derivado de combateiro"
+    },
+    "correct_answer": "A",
+    "explanation": "Na derivação regressiva, uma palavra é formada pela redução de outra, frequentemente um verbo que dá origem a um substantivo."
+  },
+  {
+    "id": "PT503",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «cantávamos», o elemento «-va-» está associado:",
+    "options": {
+      "A": "Ao plural nominal",
+      "B": "Ao tempo verbal",
+      "C": "Ao género feminino",
+      "D": "Ao grau aumentativo"
+    },
+    "correct_answer": "B",
+    "explanation": "A terminação «-va-» participa na formação do pretérito imperfeito do indicativo dos verbos da primeira conjugação."
+  },
+  {
+    "id": "PT504",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta um prefixo de oposição ou sentido contrário?",
+    "options": {
+      "A": "Desobedecer",
+      "B": "Florista",
+      "C": "Pedreiro",
+      "D": "Bondade"
+    },
+    "correct_answer": "A",
+    "explanation": "O prefixo «des-» acrescenta uma ideia de oposição ou negação ao verbo «obedecer»."
+  },
+  {
+    "id": "PT505",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «aguardente» resulta da composição por:",
+    "options": {
+      "A": "Justaposição",
+      "B": "Aglutinação",
+      "C": "Sufixação",
+      "D": "Prefixação"
+    },
+    "correct_answer": "B",
+    "explanation": "«Aguardente» resulta da união de «água» e «ardente», com alterações na forma dos elementos."
+  },
+  {
+    "id": "PT506",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta flexão de número?",
+    "options": {
+      "A": "Bonito / bonita",
+      "B": "Livro / livros",
+      "C": "Belo / beleza",
+      "D": "Feliz / infelizmente"
+    },
+    "correct_answer": "B",
+    "explanation": "A passagem de «livro» para «livros» indica a mudança do singular para o plural."
+  },
+  {
+    "id": "PT507",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «infelizmente», o elemento «-mente» forma uma palavra pertencente à classe dos:",
+    "options": {
+      "A": "Substantivos",
+      "B": "Verbos",
+      "C": "Advérbios",
+      "D": "Pronomes"
+    },
+    "correct_answer": "C",
+    "explanation": "O sufixo «-mente» forma geralmente advérbios de modo a partir de adjectivos."
+  },
+  {
+    "id": "PT508",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das opções apresenta uma palavra composta por justaposição?",
+    "options": {
+      "A": "Aguardente",
+      "B": "Planalto",
+      "C": "Couve-flor",
+      "D": "Pernalta"
+    },
+    "correct_answer": "C",
+    "explanation": "«Couve-flor» resulta da união de duas palavras que mantêm a sua estrutura original."
+  },
+  {
+    "id": "PT509",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «comeríamos», a terminação verbal indica:",
+    "options": {
+      "A": "Primeira pessoa do plural, no futuro do pretérito do indicativo",
+      "B": "Terceira pessoa do singular, no presente",
+      "C": "Segunda pessoa do plural, no passado",
+      "D": "Primeira pessoa do singular, no futuro"
+    },
+    "correct_answer": "A",
+    "explanation": "«Comeríamos» corresponde a «nós comeríamos» e exprime uma acção hipotética ou condicionada."
+  },
+  {
+    "id": "PT510",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «desnecessário», o prefixo é:",
+    "options": {
+      "A": "-ário",
+      "B": "des-",
+      "C": "necess-",
+      "D": "-necessário"
+    },
+    "correct_answer": "B",
+    "explanation": "«Des-» é um prefixo que acrescenta uma ideia de negação ou oposição."
+  },
+  {
+    "id": "PT511",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta derivação sufixal?",
+    "options": {
+      "A": "Infeliz",
+      "B": "Reescrever",
+      "C": "Rapidez",
+      "D": "Guarda-chuva"
+    },
+    "correct_answer": "C",
+    "explanation": "«Rapidez» forma-se a partir de «rápido», com o sufixo «-ez»."
+  },
+  {
+    "id": "PT512",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «estudantes», o elemento «-s» indica:",
+    "options": {
+      "A": "Género",
+      "B": "Número plural",
+      "C": "Tempo verbal",
+      "D": "Grau diminutivo"
+    },
+    "correct_answer": "B",
+    "explanation": "O «-s» indica que a palavra está no plural."
+  },
+  {
+    "id": "PT513",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras apresenta derivação prefixal e sufixal?",
+    "options": {
+      "A": "Deslealdade",
+      "B": "Flor",
+      "C": "Guarda-roupa",
+      "D": "Pedreiro"
+    },
+    "correct_answer": "A",
+    "explanation": "A palavra apresenta o prefixo «des-» e o sufixo «-dade», acrescentados à base «leal»."
+  },
+  {
+    "id": "PT514",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual é o radical do verbo «vender»?",
+    "options": {
+      "A": "Vend-",
+      "B": "-er",
+      "C": "Vende",
+      "D": "-der"
+    },
+    "correct_answer": "A",
+    "explanation": "O radical é obtido retirando a terminação do infinitivo. Em «vender», retiramos «-er»."
+  },
+  {
+    "id": "PT515",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "A palavra «passatempo» é um exemplo de:",
+    "options": {
+      "A": "Derivação regressiva",
+      "B": "Composição por justaposição",
+      "C": "Derivação sufixal",
+      "D": "Derivação parassintética"
+    },
+    "correct_answer": "B",
+    "explanation": "Resulta da união de «passa» e «tempo», sem alteração significativa dos elementos."
+  },
+  {
+    "id": "PT516",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das palavras pertence à mesma família de «terra»?",
+    "options": {
+      "A": "Terreno",
+      "B": "Tecido",
+      "C": "Termómetro",
+      "D": "Tesoura"
+    },
+    "correct_answer": "A",
+    "explanation": "«Terreno» deriva da palavra «terra» e mantém uma relação de significado com ela."
+  },
+  {
+    "id": "PT517",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «amavelmente», o sufixo «-mente» transforma o adjectivo «amável» num:",
+    "options": {
+      "A": "Substantivo",
+      "B": "Verbo",
+      "C": "Advérbio",
+      "D": "Pronome"
+    },
+    "correct_answer": "C",
+    "explanation": "«Amavelmente» é um advérbio de modo formado a partir do adjectivo «amável»."
+  },
+  {
+    "id": "PT518",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das opções apresenta uma palavra no grau aumentativo?",
+    "options": {
+      "A": "Casinha",
+      "B": "Livrinho",
+      "C": "Casarão",
+      "D": "Menino"
+    },
+    "correct_answer": "C",
+    "explanation": "O sufixo «-ão» pode indicar aumento de dimensão ou intensidade."
+  },
+  {
+    "id": "PT519",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Na palavra «partiremos», a vogal temática é:",
+    "options": {
+      "A": "a",
+      "B": "e",
+      "C": "i",
+      "D": "o"
+    },
+    "correct_answer": "C",
+    "explanation": "O verbo «partir» pertence à terceira conjugação, cuja vogal temática é «i»."
+  },
+  {
+    "id": "PT520",
+    "subject": "Língua Portuguesa",
+    "topic": "Estrutura das palavras",
+    "difficulty": "Média",
+    "question": "Qual das seguintes opções apresenta correctamente uma palavra derivada de «mar»?",
+    "options": {
+      "A": "Marinho",
+      "B": "Mesa",
+      "C": "Mato",
+      "D": "Mapa"
+    },
+    "correct_answer": "A",
+    "explanation": "«Marinho» pertence à família de «mar» e é formado por derivação sufixal."
+  }
+]
