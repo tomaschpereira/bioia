@@ -394,7 +394,7 @@
     "subject": "Língua Portuguesa",
     "topic": "Estrutura e formação das palavras",
     "difficulty": "Média",
-    "question": "O radical comum de «pedra», «pedreiro» e «pedregulho» é:",
+    "question": "O radical comum de «pedra», «pedreiro» e «pedraria» é:",
     "options": {
       "A": "pedr-",
       "B": "-eiro",
@@ -402,14 +402,14 @@
       "D": "pedreiro"
     },
     "correct_answer": "A",
-    "explanation": "«Pedr-» é a base lexical comum."
+    "explanation": "As três palavras partilham o radical «pedr-»."
   },
   {
     "id": "PT328",
     "subject": "Língua Portuguesa",
     "topic": "Estrutura e formação das palavras",
     "difficulty": "Média",
-    "question": "«Desconhecido» contém:",
+    "question": "A palavra «deslealdade» contém:",
     "options": {
       "A": "Apenas sufixo",
       "B": "Prefixo e sufixo",
@@ -417,7 +417,7 @@
       "D": "Composição"
     },
     "correct_answer": "B",
-    "explanation": "Apresenta o prefixo «des-» e a terminação derivacional «-ido»."
+    "explanation": "Apresenta o prefixo «des-» e o sufixo «-dade», acrescentados à base «leal»."
   },
   {
     "id": "PT329",
@@ -432,7 +432,7 @@
       "D": "Embelezar"
     },
     "correct_answer": "A",
-    "explanation": "«Beleza» é substantivo derivado do adjectivo."
+    "explanation": "«Beleza» é um substantivo derivado do adjetivo «belo»."
   },
   {
     "id": "PT330",
@@ -484,15 +484,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Estrutura e formação das palavras",
     "difficulty": "Média",
-    "question": "O feminino tradicional de «actor» é:",
+    "question": "O feminino de «ator» é:",
     "options": {
-      "A": "Actora",
-      "B": "Actriz",
-      "C": "Actorae",
-      "D": "Actriza"
+      "A": "Atora",
+      "B": "Atriz",
+      "C": "Atorae",
+      "D": "Atriza"
     },
     "correct_answer": "B",
-    "explanation": "A forma feminina tradicional é «actriz»."
+    "explanation": "O feminino de «ator» é «atriz»."
   },
   {
     "id": "PT334",
@@ -822,7 +822,7 @@
       "D": "Eufemismo"
     },
     "correct_answer": "A",
-    "explanation": "Atribui à cidade uma acção humana."
+    "explanation": "Atribui à cidade uma ação humana."
   },
   {
     "id": "PT356",
@@ -837,7 +837,7 @@
       "D": "Imitar sons"
     },
     "correct_answer": "B",
-    "explanation": "Substitui uma expressão directa por outra mais suave."
+    "explanation": "Substitui uma expressão direta por outra mais suave."
   },
   {
     "id": "PT357",
