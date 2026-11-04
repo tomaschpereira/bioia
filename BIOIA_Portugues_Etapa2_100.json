@@ -1062,7 +1062,7 @@
       "D": "Parede"
     },
     "correct_answer": "A",
-    "explanation": "A grafia correcta é «júri», palavra esdrúxula."
+    "explanation": "A grafia correta é «júri», palavra esdrúxula."
   },
   {
     "id": "PT372",
@@ -1147,12 +1147,12 @@
     "question": "Qual palavra tem tonicidade na penúltima sílaba?",
     "options": {
       "A": "Árvore",
-      "B": "Café",
+      "B": "Mesa",
       "C": "Sofá",
       "D": "Também"
     },
-    "correct_answer": "A",
-    "explanation": "«Árvore» é grave: ár-vo-re."
+    "correct_answer": "B",
+    "explanation": "«Mesa» é grave: me-sa. A sílaba tónica é a penúltima."
   },
   {
     "id": "PT378",
@@ -1212,7 +1212,7 @@
       "D": "Exercício"
     },
     "correct_answer": "A",
-    "explanation": "É o grupo nominal que pratica a acção."
+    "explanation": "É o grupo nominal que pratica a ação."
   },
   {
     "id": "PT382",
@@ -1237,8 +1237,8 @@
     "question": "Em «O rapaz ofereceu flores à mãe», «flores» é:",
     "options": {
       "A": "Sujeito",
-      "B": "Complemento directo",
-      "C": "Complemento indirecto",
+      "B": "Complemento direto",
+      "C": "Complemento indireto",
       "D": "Predicativo"
     },
     "correct_answer": "B",
@@ -1251,8 +1251,8 @@
     "difficulty": "Média",
     "question": "Em «A Ana entregou o livro ao colega», «ao colega» é:",
     "options": {
-      "A": "Complemento directo",
-      "B": "Complemento indirecto",
+      "A": "Complemento direto",
+      "B": "Complemento indireto",
       "C": "Sujeito",
       "D": "Vocativo"
     },
@@ -1332,7 +1332,7 @@
       "D": "Eu estudaria."
     },
     "correct_answer": "C",
-    "explanation": "«Estudei» apresenta acção concluída no passado."
+    "explanation": "«Estudei» apresenta ação concluída no passado."
   },
   {
     "id": "PT390",
@@ -1401,8 +1401,8 @@
     "difficulty": "Média",
     "question": "Em «Entreguei-lhe os documentos», «lhe» funciona como:",
     "options": {
-      "A": "Complemento indirecto",
-      "B": "Complemento directo",
+      "A": "Complemento indireto",
+      "B": "Complemento direto",
       "C": "Sujeito",
       "D": "Predicativo"
     },
@@ -1461,7 +1461,7 @@
     "difficulty": "Média",
     "question": "Em «O rapaz correu rapidamente», «rapidamente» é:",
     "options": {
-      "A": "Adjectivo",
+      "A": "Adjetivo",
       "B": "Advérbio de modo",
       "C": "Substantivo",
       "D": "Pronome"
@@ -1491,7 +1491,7 @@
     "difficulty": "Média",
     "question": "Em «É necessário que todos participem», a oração «que todos participem» é:",
     "options": {
-      "A": "Subordinada substantiva subjectiva",
+      "A": "Subordinada substantiva subjetiva",
       "B": "Subordinada adverbial temporal",
       "C": "Coordenada adversativa",
       "D": "Oração relativa"
