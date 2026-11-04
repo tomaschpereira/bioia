@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT581",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "A unidade sonora capaz de distinguir «faca» de «vaca» é um:",
+    "options": {
+      "A": "Fonema",
+      "B": "Morfema",
+      "C": "Grafema",
+      "D": "Sílaba"
+    },
+    "correct_answer": "A",
+    "explanation": "Fonema é uma unidade sonora distintiva; a troca de /f/ por /v/ altera a palavra."
+  },
+  {
+    "id": "PT582",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "A oposição entre /f/ e /v/ em palavras como «faca/vaca» demonstra a função do:",
+    "options": {
+      "A": "Fonema",
+      "B": "Morfema",
+      "C": "Grafema",
+      "D": "Sílaba"
+    },
+    "correct_answer": "A",
+    "explanation": "Fonema é uma unidade sonora distintiva; a troca de /f/ por /v/ altera a palavra."
+  },
+  {
+    "id": "PT583",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "Em fonologia, o elemento mínimo distintivo de uma língua chama-se:",
+    "options": {
+      "A": "Fonema",
+      "B": "Morfema",
+      "C": "Grafema",
+      "D": "Sílaba"
+    },
+    "correct_answer": "A",
+    "explanation": "Fonema é uma unidade sonora distintiva; a troca de /f/ por /v/ altera a palavra."
+  },
+  {
+    "id": "PT584",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A letra escrita que representa um som é designada:",
+    "options": {
+      "A": "Grafema",
+      "B": "Morfema",
+      "C": "Sintagma",
+      "D": "Acento tónico"
+    },
+    "correct_answer": "A",
+    "explanation": "Grafema é a unidade ou sequência gráfica usada para representar sons na escrita."
+  },
+  {
+    "id": "PT585",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Na análise da escrita, a unidade gráfica que pode representar um fonema é o:",
+    "options": {
+      "A": "Grafema",
+      "B": "Morfema",
+      "C": "Sintagma",
+      "D": "Acento tónico"
+    },
+    "correct_answer": "A",
+    "explanation": "Grafema é a unidade ou sequência gráfica usada para representar sons na escrita."
+  },
+  {
+    "id": "PT586",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A distinção entre som e letra corresponde a fonema e:",
+    "options": {
+      "A": "Grafema",
+      "B": "Morfema",
+      "C": "Sintagma",
+      "D": "Acento tónico"
+    },
+    "correct_answer": "A",
+    "explanation": "Grafema é a unidade ou sequência gráfica usada para representar sons na escrita."
+  },
+  {
+    "id": "PT587",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Em português, as vogais distinguem-se das consoantes porque, na sua produção, há:",
+    "options": {
+      "A": "Passagem do ar sem obstrução significativa no tracto vocal",
+      "B": "Fecho completo obrigatório da boca",
+      "C": "Ausência de vibração em todos os casos",
+      "D": "Interrupção total do fluxo de ar"
+    },
+    "correct_answer": "A",
+    "explanation": "As vogais são produzidas sem obstrução significativa da passagem do ar."
+  },
+  {
+    "id": "PT588",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Do ponto de vista articulatório, as vogais são produzidas geralmente:",
+    "options": {
+      "A": "Passagem do ar sem obstrução significativa no tracto vocal",
+      "B": "Fecho completo obrigatório da boca",
+      "C": "Ausência de vibração em todos os casos",
+      "D": "Interrupção total do fluxo de ar"
+    },
+    "correct_answer": "A",
+    "explanation": "As vogais são produzidas sem obstrução significativa da passagem do ar."
+  },
+  {
+    "id": "PT589",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Qual característica define as vogais em contraste com as consoantes?",
+    "options": {
+      "A": "Passagem do ar sem obstrução significativa no tracto vocal",
+      "B": "Fecho completo obrigatório da boca",
+      "C": "Ausência de vibração em todos os casos",
+      "D": "Interrupção total do fluxo de ar"
+    },
+    "correct_answer": "A",
+    "explanation": "As vogais são produzidas sem obstrução significativa da passagem do ar."
+  },
+  {
+    "id": "PT590",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Os sons /p/ e /b/ distinguem-se principalmente pela:",
+    "options": {
+      "A": "Sonoridade: ausência ou presença de vibração das pregas vocais",
+      "B": "Número de sílabas",
+      "C": "Posição do acento gráfico",
+      "D": "Nasalidade obrigatória"
+    },
+    "correct_answer": "A",
+    "explanation": "/p/, /t/ e /f/ são surdos; /b/, /d/ e /v/ são sonoros."
+  },
+  {
+    "id": "PT591",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Na oposição entre /t/ e /d/, um traço articulatório relevante é:",
+    "options": {
+      "A": "Sonoridade: ausência ou presença de vibração das pregas vocais",
+      "B": "Número de sílabas",
+      "C": "Posição do acento gráfico",
+      "D": "Nasalidade obrigatória"
+    },
+    "correct_answer": "A",
+    "explanation": "/p/, /t/ e /f/ são surdos; /b/, /d/ e /v/ são sonoros."
+  },
+  {
+    "id": "PT592",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual característica diferencia /f/ de /v/?",
+    "options": {
+      "A": "Sonoridade: ausência ou presença de vibração das pregas vocais",
+      "B": "Número de sílabas",
+      "C": "Posição do acento gráfico",
+      "D": "Nasalidade obrigatória"
+    },
+    "correct_answer": "A",
+    "explanation": "/p/, /t/ e /f/ são surdos; /b/, /d/ e /v/ são sonoros."
+  },
+  {
+    "id": "PT593",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "Os sons /m/ e /n/ são classificados como consoantes:",
+    "options": {
+      "A": "Nasais",
+      "B": "Oclusivas surdas",
+      "C": "Vogais abertas",
+      "D": "Laterais"
+    },
+    "correct_answer": "A",
+    "explanation": "São consoantes nasais, produzidas com participação da cavidade nasal."
+  },
+  {
+    "id": "PT594",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "Na produção de /m/ e /n/, o ar passa também pela cavidade:",
+    "options": {
+      "A": "Nasais",
+      "B": "Oclusivas surdas",
+      "C": "Vogais abertas",
+      "D": "Laterais"
+    },
+    "correct_answer": "A",
+    "explanation": "São consoantes nasais, produzidas com participação da cavidade nasal."
+  },
+  {
+    "id": "PT595",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "Qual traço comum apresentam /m/ e /n/?",
+    "options": {
+      "A": "Nasais",
+      "B": "Oclusivas surdas",
+      "C": "Vogais abertas",
+      "D": "Laterais"
+    },
+    "correct_answer": "A",
+    "explanation": "São consoantes nasais, produzidas com participação da cavidade nasal."
+  },
+  {
+    "id": "PT596",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A transcrição fonética é útil porque regista:",
+    "options": {
+      "A": "Os sons efectivamente pronunciados",
+      "B": "Apenas a origem histórica das palavras",
+      "C": "Somente a divisão morfológica",
+      "D": "A pontuação do texto"
+    },
+    "correct_answer": "A",
+    "explanation": "A transcrição fonética representa a realização sonora, recorrendo a símbolos convencionais."
+  },
+  {
+    "id": "PT597",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Ao contrário da ortografia, a transcrição fonética procura representar:",
+    "options": {
+      "A": "Os sons efectivamente pronunciados",
+      "B": "Apenas a origem histórica das palavras",
+      "C": "Somente a divisão morfológica",
+      "D": "A pontuação do texto"
+    },
+    "correct_answer": "A",
+    "explanation": "A transcrição fonética representa a realização sonora, recorrendo a símbolos convencionais."
+  },
+  {
+    "id": "PT598",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Num estudo da pronúncia, a transcrição fonética permite observar:",
+    "options": {
+      "A": "Os sons efectivamente pronunciados",
+      "B": "Apenas a origem histórica das palavras",
+      "C": "Somente a divisão morfológica",
+      "D": "A pontuação do texto"
+    },
+    "correct_answer": "A",
+    "explanation": "A transcrição fonética representa a realização sonora, recorrendo a símbolos convencionais."
+  },
+  {
+    "id": "PT599",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A fonética estuda principalmente:",
+    "options": {
+      "A": "Aspectos físicos e articulatórios dos sons da fala",
+      "B": "Relações de significado entre palavras",
+      "C": "Estrutura dos parágrafos",
+      "D": "Regras de concordância"
+    },
+    "correct_answer": "A",
+    "explanation": "A fonética estuda os sons da fala nas suas dimensões articulatória, acústica e perceptiva."
+  },
+  {
+    "id": "PT600",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O ramo que analisa a produção, transmissão e percepção dos sons da fala é:",
+    "options": {
+      "A": "Aspectos físicos e articulatórios dos sons da fala",
+      "B": "Relações de significado entre palavras",
+      "C": "Estrutura dos parágrafos",
+      "D": "Regras de concordância"
+    },
+    "correct_answer": "A",
+    "explanation": "A fonética estuda os sons da fala nas suas dimensões articulatória, acústica e perceptiva."
+  },
+  {
+    "id": "PT601",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Ao investigar como a língua e os lábios produzem um som, recorre-se à:",
+    "options": {
+      "A": "Aspectos físicos e articulatórios dos sons da fala",
+      "B": "Relações de significado entre palavras",
+      "C": "Estrutura dos parágrafos",
+      "D": "Regras de concordância"
+    },
+    "correct_answer": "A",
+    "explanation": "A fonética estuda os sons da fala nas suas dimensões articulatória, acústica e perceptiva."
+  },
+  {
+    "id": "PT602",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A fonologia ocupa-se sobretudo:",
+    "options": {
+      "A": "Sistema e função dos sons numa língua",
+      "B": "A caligrafia individual",
+      "C": "A origem dos textos literários",
+      "D": "A pontuação"
+    },
+    "correct_answer": "A",
+    "explanation": "A fonologia analisa como os sons se organizam e funcionam no sistema linguístico."
+  },
+  {
+    "id": "PT603",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "O estudo da função dos sons e das oposições que distinguem palavras pertence à:",
+    "options": {
+      "A": "Sistema e função dos sons numa língua",
+      "B": "A caligrafia individual",
+      "C": "A origem dos textos literários",
+      "D": "A pontuação"
+    },
+    "correct_answer": "A",
+    "explanation": "A fonologia analisa como os sons se organizam e funcionam no sistema linguístico."
+  },
+  {
+    "id": "PT604",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Quando se analisa a organização dos fonemas de uma língua, estuda-se:",
+    "options": {
+      "A": "Sistema e função dos sons numa língua",
+      "B": "A caligrafia individual",
+      "C": "A origem dos textos literários",
+      "D": "A pontuação"
+    },
+    "correct_answer": "A",
+    "explanation": "A fonologia analisa como os sons se organizam e funcionam no sistema linguístico."
+  },
+  {
+    "id": "PT605",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "A diferença entre «canto» e «canto» com entoações diferentes pode envolver elementos prosódicos como:",
+    "options": {
+      "A": "Prosódia",
+      "B": "Morfologia",
+      "C": "Ortografia",
+      "D": "Etimologia"
+    },
+    "correct_answer": "A",
+    "explanation": "A prosódia inclui entoação, ritmo e acento, elementos que organizam a fala."
+  },
+  {
+    "id": "PT606",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "A entoação contribui para:",
+    "options": {
+      "A": "Prosódia",
+      "B": "Morfologia",
+      "C": "Ortografia",
+      "D": "Etimologia"
+    },
+    "correct_answer": "A",
+    "explanation": "A prosódia inclui entoação, ritmo e acento, elementos que organizam a fala."
+  },
+  {
+    "id": "PT607",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "A melodia da fala, que pode distinguir pergunta de afirmação, chama-se:",
+    "options": {
+      "A": "Prosódia",
+      "B": "Morfologia",
+      "C": "Ortografia",
+      "D": "Etimologia"
+    },
+    "correct_answer": "A",
+    "explanation": "A prosódia inclui entoação, ritmo e acento, elementos que organizam a fala."
+  },
+  {
+    "id": "PT608",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A intensidade com que uma sílaba é pronunciada relaciona-se com:",
+    "options": {
+      "A": "Acento de palavra",
+      "B": "Pontuação",
+      "C": "Hifenização",
+      "D": "Concordância"
+    },
+    "correct_answer": "A",
+    "explanation": "O acento de palavra destaca uma sílaba relativamente às restantes."
+  },
+  {
+    "id": "PT609",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O destaque de uma sílaba numa palavra é um fenómeno de:",
+    "options": {
+      "A": "Acento de palavra",
+      "B": "Pontuação",
+      "C": "Hifenização",
+      "D": "Concordância"
+    },
+    "correct_answer": "A",
+    "explanation": "O acento de palavra destaca uma sílaba relativamente às restantes."
+  },
+  {
+    "id": "PT610",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Na análise prosódica, a sílaba tónica distingue-se por:",
+    "options": {
+      "A": "Acento de palavra",
+      "B": "Pontuação",
+      "C": "Hifenização",
+      "D": "Concordância"
+    },
+    "correct_answer": "A",
+    "explanation": "O acento de palavra destaca uma sílaba relativamente às restantes."
+  },
+  {
+    "id": "PT611",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A variação da duração de um som na fala é um fenómeno:",
+    "options": {
+      "A": "Duração",
+      "B": "Sonoridade",
+      "C": "Altura gráfica",
+      "D": "Morfologia"
+    },
+    "correct_answer": "A",
+    "explanation": "Duração é o intervalo temporal de realização de um som."
+  },
+  {
+    "id": "PT612",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A duração ou extensão temporal de um segmento sonoro corresponde a um aspecto:",
+    "options": {
+      "A": "Duração",
+      "B": "Sonoridade",
+      "C": "Altura gráfica",
+      "D": "Morfologia"
+    },
+    "correct_answer": "A",
+    "explanation": "Duração é o intervalo temporal de realização de um som."
+  },
+  {
+    "id": "PT613",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Na descrição acústica, o tempo durante o qual um som é produzido mede a sua:",
+    "options": {
+      "A": "Duração",
+      "B": "Sonoridade",
+      "C": "Altura gráfica",
+      "D": "Morfologia"
+    },
+    "correct_answer": "A",
+    "explanation": "Duração é o intervalo temporal de realização de um som."
+  },
+  {
+    "id": "PT614",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A frequência de vibração de um som está associada à sua:",
+    "options": {
+      "A": "Altura",
+      "B": "Intensidade apenas",
+      "C": "Duração escrita",
+      "D": "Nasalidade"
+    },
+    "correct_answer": "A",
+    "explanation": "A altura perceptiva relaciona-se com a frequência da vibração sonora."
+  },
+  {
+    "id": "PT615",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Na descrição acústica, a frequência fundamental relaciona-se com a percepção de:",
+    "options": {
+      "A": "Altura",
+      "B": "Intensidade apenas",
+      "C": "Duração escrita",
+      "D": "Nasalidade"
+    },
+    "correct_answer": "A",
+    "explanation": "A altura perceptiva relaciona-se com a frequência da vibração sonora."
+  },
+  {
+    "id": "PT616",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Um som percebido como mais agudo apresenta, em geral, maior:",
+    "options": {
+      "A": "Altura",
+      "B": "Intensidade apenas",
+      "C": "Duração escrita",
+      "D": "Nasalidade"
+    },
+    "correct_answer": "A",
+    "explanation": "A altura perceptiva relaciona-se com a frequência da vibração sonora."
+  },
+  {
+    "id": "PT617",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "A intensidade acústica de um som está associada à percepção de:",
+    "options": {
+      "A": "Força ou amplitude percebida",
+      "B": "Altura da sílaba na página",
+      "C": "Quantidade de letras",
+      "D": "Classe gramatical"
+    },
+    "correct_answer": "A",
+    "explanation": "A intensidade está relacionada com a amplitude e com a percepção de força sonora."
+  },
+  {
+    "id": "PT618",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "Um som mais forte distingue-se principalmente pela sua:",
+    "options": {
+      "A": "Força ou amplitude percebida",
+      "B": "Altura da sílaba na página",
+      "C": "Quantidade de letras",
+      "D": "Classe gramatical"
+    },
+    "correct_answer": "A",
+    "explanation": "A intensidade está relacionada com a amplitude e com a percepção de força sonora."
+  },
+  {
+    "id": "PT619",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "Na descrição sonora, a intensidade refere-se à:",
+    "options": {
+      "A": "Força ou amplitude percebida",
+      "B": "Altura da sílaba na página",
+      "C": "Quantidade de letras",
+      "D": "Classe gramatical"
+    },
+    "correct_answer": "A",
+    "explanation": "A intensidade está relacionada com a amplitude e com a percepção de força sonora."
+  },
+  {
+    "id": "PT620",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A articulação de /p/ envolve um bloqueio momentâneo do ar e libertação, sendo uma consoante:",
+    "options": {
+      "A": "Oclusiva",
+      "B": "Fricativa",
+      "C": "Vibrante",
+      "D": "Lateral"
+    },
+    "correct_answer": "A",
+    "explanation": "As oclusivas resultam de um fecho completo seguido de libertação do ar."
+  },
+  {
+    "id": "PT621",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Os sons /b/ e /t/ são exemplos de consoantes:",
+    "options": {
+      "A": "Oclusiva",
+      "B": "Fricativa",
+      "C": "Vibrante",
+      "D": "Lateral"
+    },
+    "correct_answer": "A",
+    "explanation": "As oclusivas resultam de um fecho completo seguido de libertação do ar."
+  },
+  {
+    "id": "PT622",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Uma consoante produzida por oclusão e posterior libertação do ar é:",
+    "options": {
+      "A": "Oclusiva",
+      "B": "Fricativa",
+      "C": "Vibrante",
+      "D": "Lateral"
+    },
+    "correct_answer": "A",
+    "explanation": "As oclusivas resultam de um fecho completo seguido de libertação do ar."
+  },
+  {
+    "id": "PT623",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "O som /f/ é produzido com fricção do ar e classifica-se como:",
+    "options": {
+      "A": "Fricativa",
+      "B": "Oclusiva",
+      "C": "Nasal",
+      "D": "Vogal"
+    },
+    "correct_answer": "A",
+    "explanation": "As fricativas produzem ruído pela passagem do ar num canal estreito."
+  },
+  {
+    "id": "PT624",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "/s/ e /ʃ/ são exemplos de consoantes:",
+    "options": {
+      "A": "Fricativa",
+      "B": "Oclusiva",
+      "C": "Nasal",
+      "D": "Vogal"
+    },
+    "correct_answer": "A",
+    "explanation": "As fricativas produzem ruído pela passagem do ar num canal estreito."
+  },
+  {
+    "id": "PT625",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Uma consoante produzida por estreitamento que gera ruído é:",
+    "options": {
+      "A": "Fricativa",
+      "B": "Oclusiva",
+      "C": "Nasal",
+      "D": "Vogal"
+    },
+    "correct_answer": "A",
+    "explanation": "As fricativas produzem ruído pela passagem do ar num canal estreito."
+  },
+  {
+    "id": "PT626",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O som /l/ é classificado, quanto ao modo de articulação, como:",
+    "options": {
+      "A": "Lateral",
+      "B": "Oclusiva",
+      "C": "Nasal",
+      "D": "Vibrante múltipla"
+    },
+    "correct_answer": "A",
+    "explanation": "Nas laterais, o ar escoa pelos lados da língua."
+  },
+  {
+    "id": "PT627",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Nas consoantes laterais, o ar passa:",
+    "options": {
+      "A": "Lateral",
+      "B": "Oclusiva",
+      "C": "Nasal",
+      "D": "Vibrante múltipla"
+    },
+    "correct_answer": "A",
+    "explanation": "Nas laterais, o ar escoa pelos lados da língua."
+  },
+  {
+    "id": "PT628",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O /l/ de «lua» é uma consoante:",
+    "options": {
+      "A": "Lateral",
+      "B": "Oclusiva",
+      "C": "Nasal",
+      "D": "Vibrante múltipla"
+    },
+    "correct_answer": "A",
+    "explanation": "Nas laterais, o ar escoa pelos lados da língua."
+  },
+  {
+    "id": "PT629",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "O som /r/ em certas pronúncias pode ser produzido por vibração; trata-se de uma consoante:",
+    "options": {
+      "A": "Vibrante",
+      "B": "Nasal",
+      "C": "Lateral",
+      "D": "Oclusiva"
+    },
+    "correct_answer": "A",
+    "explanation": "As vibrantes envolvem vibração de um articulador, como a língua."
+  },
+  {
+    "id": "PT630",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "A consoante vibrante caracteriza-se por:",
+    "options": {
+      "A": "Vibrante",
+      "B": "Nasal",
+      "C": "Lateral",
+      "D": "Oclusiva"
+    },
+    "correct_answer": "A",
+    "explanation": "As vibrantes envolvem vibração de um articulador, como a língua."
+  },
+  {
+    "id": "PT631",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Difícil",
+    "question": "Na classificação articulatória, os sons produzidos por vibração de um articulador são:",
+    "options": {
+      "A": "Vibrante",
+      "B": "Nasal",
+      "C": "Lateral",
+      "D": "Oclusiva"
+    },
+    "correct_answer": "A",
+    "explanation": "As vibrantes envolvem vibração de um articulador, como a língua."
+  },
+  {
+    "id": "PT632",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A assimilação ocorre quando um som:",
+    "options": {
+      "A": "Assimilação",
+      "B": "Apócope",
+      "C": "Paragoge",
+      "D": "Afixação"
+    },
+    "correct_answer": "A",
+    "explanation": "Na assimilação, um som torna-se semelhante a outro segmento próximo."
+  },
+  {
+    "id": "PT633",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Na fala encadeada, um segmento pode aproximar-se de outro por:",
+    "options": {
+      "A": "Assimilação",
+      "B": "Apócope",
+      "C": "Paragoge",
+      "D": "Afixação"
+    },
+    "correct_answer": "A",
+    "explanation": "Na assimilação, um som torna-se semelhante a outro segmento próximo."
+  },
+  {
+    "id": "PT634",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "O processo fonológico em que um som adquire traços de um som vizinho chama-se:",
+    "options": {
+      "A": "Assimilação",
+      "B": "Apócope",
+      "C": "Paragoge",
+      "D": "Afixação"
+    },
+    "correct_answer": "A",
+    "explanation": "Na assimilação, um som torna-se semelhante a outro segmento próximo."
+  },
+  {
+    "id": "PT635",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A supressão de um som no início de uma palavra chama-se:",
+    "options": {
+      "A": "Aférese",
+      "B": "Síncope",
+      "C": "Apócope",
+      "D": "Prótese"
+    },
+    "correct_answer": "A",
+    "explanation": "Aférese é a supressão de um segmento no início da palavra."
+  },
+  {
+    "id": "PT636",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Quando um segmento inicial desaparece na evolução ou pronúncia de uma palavra, ocorre:",
+    "options": {
+      "A": "Aférese",
+      "B": "Síncope",
+      "C": "Apócope",
+      "D": "Prótese"
+    },
+    "correct_answer": "A",
+    "explanation": "Aférese é a supressão de um segmento no início da palavra."
+  },
+  {
+    "id": "PT637",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A queda de um som no início do vocábulo é denominada:",
+    "options": {
+      "A": "Aférese",
+      "B": "Síncope",
+      "C": "Apócope",
+      "D": "Prótese"
+    },
+    "correct_answer": "A",
+    "explanation": "Aférese é a supressão de um segmento no início da palavra."
+  },
+  {
+    "id": "PT638",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A supressão de um som no interior de uma palavra denomina-se:",
+    "options": {
+      "A": "Síncope",
+      "B": "Aférese",
+      "C": "Apócope",
+      "D": "Prótese"
+    },
+    "correct_answer": "A",
+    "explanation": "Síncope é a supressão de um segmento no interior da palavra."
+  },
+  {
+    "id": "PT639",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "A queda de um segmento medial é um caso de:",
+    "options": {
+      "A": "Síncope",
+      "B": "Aférese",
+      "C": "Apócope",
+      "D": "Prótese"
+    },
+    "correct_answer": "A",
+    "explanation": "Síncope é a supressão de um segmento no interior da palavra."
+  },
+  {
+    "id": "PT640",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Médio",
+    "question": "Quando um som desaparece no meio de um vocábulo, ocorre:",
+    "options": {
+      "A": "Síncope",
+      "B": "Aférese",
+      "C": "Apócope",
+      "D": "Prótese"
+    },
+    "correct_answer": "A",
+    "explanation": "Síncope é a supressão de um segmento no interior da palavra."
+  }
+]
