@@ -2359,15 +2359,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Representação gráfica",
     "difficulty": "Fácil",
-    "question": "Qual palavra está correctamente escrita?",
+    "question": "Segundo a ortografia actualmente usada em Portugal (Acordo Ortográfico de 1990), qual palavra está correctamente escrita?",
     "options": {
       "A": "Escessão",
       "B": "Excessão",
       "C": "Eceção",
-      "D": "Excepção"
+      "D": "Exceção"
     },
     "correct_answer": "D",
-    "explanation": "“Excepção” é a grafia tradicional; em Angola, ambas as normas podem surgir, mas a forma apresentada segue a grafia anterior ao AO90."
+    "explanation": "A grafia actualmente usada em Portugal é «exceção», sem «p» antes do «ç»."
   },
   {
     "id": "PT159",
@@ -2599,15 +2599,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Representação gráfica",
     "difficulty": "Fácil",
-    "question": "Qual palavra completa correctamente: “O aluno fez uma ___ ao regulamento”?",
+    "question": "Qual palavra completa correctamente a frase: «O aluno apresentou uma ___ ao regulamento.»",
     "options": {
-      "A": "Objeção de consciência",
+      "A": "Objeção",
       "B": "Objectivo",
       "C": "Objecto",
       "D": "Objecção"
     },
-    "correct_answer": "D",
-    "explanation": "“Objecção” significa contestação ou oposição formal."
+    "correct_answer": "A",
+    "explanation": "«Objeção» significa contestação ou oposição formal. Esta é a grafia usada actualmente em Portugal segundo o Acordo Ortográfico de 1990."
   },
   {
     "id": "PT175",
@@ -2884,15 +2884,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Constituintes da frase",
     "difficulty": "Média",
-    "question": "Na frase “O livro que comprei é interessante”, a oração “que comprei” é:",
+    "question": "Na frase «O livro que comprei é interessante», como se classifica a oração «que comprei»?",
     "options": {
-      "A": "O livro",
-      "B": "É interessante",
-      "C": "Que comprei",
-      "D": "O livro é interessante"
+      "A": "Oração subordinada adjectiva relativa",
+      "B": "Oração subordinada causal",
+      "C": "Oração coordenada adversativa",
+      "D": "Oração subordinada final"
     },
-    "correct_answer": "C",
-    "explanation": "É uma oração subordinada adjectiva relativa que caracteriza “livro”."
+    "correct_answer": "A",
+    "explanation": "«Que comprei» é uma oração subordinada adjectiva relativa, introduzida pelo pronome relativo «que», que modifica o nome «livro»."
   },
   {
     "id": "PT194",
@@ -2966,8 +2966,8 @@
       "C": "Concessiva",
       "D": "Consecutiva"
     },
-    "correct_answer": "D",
-    "explanation": "“Porque” introduz a causa da falta."
+    "correct_answer": "B",
+    "explanation": "«Porque estava doente» indica a causa da falta; é uma oração subordinada adverbial causal."
   },
   {
     "id": "PT199",
