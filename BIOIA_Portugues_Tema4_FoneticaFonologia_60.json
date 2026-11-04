@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT581",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A Fonética estuda principalmente:",
+    "options": {
+      "A": "Os significados",
+      "B": "A produção e percepção dos sons da fala",
+      "C": "A formação dos períodos",
+      "D": "A origem das palavras"
+    },
+    "correct_answer": "B",
+    "explanation": "Estuda a produção, transmissão e percepção física dos sons."
+  },
+  {
+    "id": "PT582",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A Fonologia estuda:",
+    "options": {
+      "A": "Os fonemas no sistema da língua",
+      "B": "A caligrafia",
+      "C": "A pontuação",
+      "D": "Os parágrafos"
+    },
+    "correct_answer": "A",
+    "explanation": "Analisa a função dos sons e as oposições entre fonemas."
+  },
+  {
+    "id": "PT583",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A menor unidade sonora distintiva é o:",
+    "options": {
+      "A": "Morfema",
+      "B": "Grafema",
+      "C": "Fonema",
+      "D": "Período"
+    },
+    "correct_answer": "C",
+    "explanation": "O fonema distingue palavras, embora não tenha significado próprio."
+  },
+  {
+    "id": "PT584",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual par difere por um fonema?",
+    "options": {
+      "A": "casa/casas",
+      "B": "pato/gato",
+      "C": "mesa/mesas",
+      "D": "flor/flores"
+    },
+    "correct_answer": "B",
+    "explanation": "Pato e gato diferem no fonema inicial."
+  },
+  {
+    "id": "PT585",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Quantas letras tem 'faca'?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "explanation": "Faca contém quatro letras."
+  },
+  {
+    "id": "PT586",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Em 'chuva', ch representa:",
+    "options": {
+      "A": "Dois sons consonânticos",
+      "B": "Um fonema consonântico",
+      "C": "Uma vogal",
+      "D": "Uma semivogal"
+    },
+    "correct_answer": "B",
+    "explanation": "Ch é um dígrafo consonântico."
+  },
+  {
+    "id": "PT587",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Os fonemas são unidades que:",
+    "options": {
+      "A": "Têm significado lexical próprio",
+      "B": "Distinguem palavras",
+      "C": "Existem só na escrita",
+      "D": "São sempre duas letras"
+    },
+    "correct_answer": "B",
+    "explanation": "Os fonemas distinguem significados sem terem significado próprio."
+  },
+  {
+    "id": "PT588",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O aparelho fonador participa na:",
+    "options": {
+      "A": "Produção da fala",
+      "B": "Digestão",
+      "C": "Circulação",
+      "D": "Visão"
+    },
+    "correct_answer": "A",
+    "explanation": "É o conjunto de estruturas usadas na produção dos sons."
+  },
+  {
+    "id": "PT589",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A principal fonte de ar da fala é:",
+    "options": {
+      "A": "Estômago",
+      "B": "Pulmões",
+      "C": "Rins",
+      "D": "Ouvido"
+    },
+    "correct_answer": "B",
+    "explanation": "O ar expirado pelos pulmões é usado na fala."
+  },
+  {
+    "id": "PT590",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "As pregas vocais situam-se na:",
+    "options": {
+      "A": "Laringe",
+      "B": "Língua",
+      "C": "Boca",
+      "D": "Traqueia inferior"
+    },
+    "correct_answer": "A",
+    "explanation": "As pregas vocais estão localizadas na laringe."
+  },
+  {
+    "id": "PT591",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Um som produzido com vibração das pregas vocais é:",
+    "options": {
+      "A": "Surdo",
+      "B": "Sonoro",
+      "C": "Oclusivo",
+      "D": "Átono"
+    },
+    "correct_answer": "B",
+    "explanation": "A vibração caracteriza os sons sonoros."
+  },
+  {
+    "id": "PT592",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual é um som surdo?",
+    "options": {
+      "A": "/b/",
+      "B": "/d/",
+      "C": "/p/",
+      "D": "/z/"
+    },
+    "correct_answer": "C",
+    "explanation": "/p/ é produzido sem vibração das pregas vocais."
+  },
+  {
+    "id": "PT593",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual é um som sonoro?",
+    "options": {
+      "A": "/f/",
+      "B": "/s/",
+      "C": "/ʃ/",
+      "D": "/v/"
+    },
+    "correct_answer": "D",
+    "explanation": "/v/ é produzido com vibração das pregas vocais."
+  },
+  {
+    "id": "PT594",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "As vogais são produzidas com:",
+    "options": {
+      "A": "Obstrução total",
+      "B": "Passagem livre ou pouco obstruída do ar",
+      "C": "Fecho dos lábios",
+      "D": "Contacto obrigatório dos dentes"
+    },
+    "correct_answer": "B",
+    "explanation": "O ar passa sem obstrução significativa."
+  },
+  {
+    "id": "PT595",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "As consoantes envolvem geralmente:",
+    "options": {
+      "A": "Ausência de articulação",
+      "B": "Constrição ou obstrução do ar",
+      "C": "Apenas nasalidade",
+      "D": "Apenas vibração"
+    },
+    "correct_answer": "B",
+    "explanation": "A produção consonântica envolve obstáculo ao fluxo de ar."
+  },
+  {
+    "id": "PT596",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O lugar da constrição chama-se:",
+    "options": {
+      "A": "Ponto de articulação",
+      "B": "Modo verbal",
+      "C": "Acento gráfico",
+      "D": "Núcleo"
+    },
+    "correct_answer": "A",
+    "explanation": "Indica a região do trato vocal onde o som é articulado."
+  },
+  {
+    "id": "PT597",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O modo de articulação indica:",
+    "options": {
+      "A": "Como o ar é modificado",
+      "B": "A origem da palavra",
+      "C": "O número de letras",
+      "D": "A sílaba tónica"
+    },
+    "correct_answer": "A",
+    "explanation": "Descreve o tipo de obstáculo ou passagem do ar."
+  },
+  {
+    "id": "PT598",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "/p/ e /b/ são:",
+    "options": {
+      "A": "Oclusivas bilabiais",
+      "B": "Fricativas",
+      "C": "Laterais",
+      "D": "Vibrantes"
+    },
+    "correct_answer": "A",
+    "explanation": "São articuladas com os dois lábios."
+  },
+  {
+    "id": "PT599",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "/f/ e /v/ são:",
+    "options": {
+      "A": "Bilabiais",
+      "B": "Labiodentais",
+      "C": "Alveolares",
+      "D": "Velares"
+    },
+    "correct_answer": "B",
+    "explanation": "O lábio inferior aproxima-se dos dentes superiores."
+  },
+  {
+    "id": "PT600",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "/s/ e /z/ são:",
+    "options": {
+      "A": "Fricativas alveolares",
+      "B": "Oclusivas bilabiais",
+      "C": "Nasais",
+      "D": "Laterais"
+    },
+    "correct_answer": "A",
+    "explanation": "São fricativas produzidas na região alveolar."
+  },
+  {
+    "id": "PT601",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O som inicial de 'mala' é:",
+    "options": {
+      "A": "Oclusivo oral",
+      "B": "Nasal bilabial",
+      "C": "Fricativo",
+      "D": "Vibrante"
+    },
+    "correct_answer": "B",
+    "explanation": "/m/ é nasal e bilabial."
+  },
+  {
+    "id": "PT602",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O som /l/ é uma consoante:",
+    "options": {
+      "A": "Lateral",
+      "B": "Oclusiva",
+      "C": "Nasal",
+      "D": "Vibrante"
+    },
+    "correct_answer": "A",
+    "explanation": "O ar passa pelos lados da língua."
+  },
+  {
+    "id": "PT603",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A diferença entre /t/ e /d/ é principalmente:",
+    "options": {
+      "A": "Ponto de articulação",
+      "B": "Sonoridade",
+      "C": "Número de sílabas",
+      "D": "Nasalidade"
+    },
+    "correct_answer": "B",
+    "explanation": "/t/ é surdo e /d/ é sonoro."
+  },
+  {
+    "id": "PT604",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A semivogal ocorre normalmente:",
+    "options": {
+      "A": "Como núcleo silábico",
+      "B": "Junto de uma vogal na mesma sílaba",
+      "C": "Sozinha na sílaba",
+      "D": "Apenas antes de pausa"
+    },
+    "correct_answer": "B",
+    "explanation": "A semivogal acompanha uma vogal na mesma sílaba."
+  },
+  {
+    "id": "PT605",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Em 'pai', o núcleo do ditongo é:",
+    "options": {
+      "A": "/p/",
+      "B": "/a/",
+      "C": "/i/",
+      "D": "Nenhum"
+    },
+    "correct_answer": "B",
+    "explanation": "/a/ é a vogal; /i/ funciona como semivogal."
+  },
+  {
+    "id": "PT606",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Ditongo é o encontro de:",
+    "options": {
+      "A": "Duas vogais em sílabas diferentes",
+      "B": "Vogal e semivogal na mesma sílaba",
+      "C": "Três consoantes",
+      "D": "Duas sílabas"
+    },
+    "correct_answer": "B",
+    "explanation": "O ditongo tem vogal e semivogal na mesma sílaba."
+  },
+  {
+    "id": "PT607",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A palavra 'saúde' contém:",
+    "options": {
+      "A": "Ditongo",
+      "B": "Tritongo",
+      "C": "Hiato",
+      "D": "Dígrafo"
+    },
+    "correct_answer": "C",
+    "explanation": "Sa-ú-de separa as duas vogais em sílabas distintas."
+  },
+  {
+    "id": "PT608",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Hiato ocorre quando:",
+    "options": {
+      "A": "Vogais ficam na mesma sílaba",
+      "B": "Vogais ficam em sílabas diferentes",
+      "C": "Três vogais se juntam",
+      "D": "Consoantes se juntam"
+    },
+    "correct_answer": "B",
+    "explanation": "As vogais do hiato pertencem a sílabas diferentes."
+  },
+  {
+    "id": "PT609",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual palavra contém ditongo?",
+    "options": {
+      "A": "Pai",
+      "B": "Saída",
+      "C": "Poeta",
+      "D": "Raiz"
+    },
+    "correct_answer": "A",
+    "explanation": "Em pai, a vogal e a semivogal estão na mesma sílaba."
+  },
+  {
+    "id": "PT610",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual palavra contém hiato?",
+    "options": {
+      "A": "Céu",
+      "B": "Mãe",
+      "C": "País",
+      "D": "Pão"
+    },
+    "correct_answer": "C",
+    "explanation": "Pa-ís contém hiato."
+  },
+  {
+    "id": "PT611",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Tritongo é formado por:",
+    "options": {
+      "A": "Semivogal+vogal+semivogal",
+      "B": "Três vogais separadas",
+      "C": "Duas consoantes",
+      "D": "Três sílabas"
+    },
+    "correct_answer": "A",
+    "explanation": "Os três elementos vocálicos ficam na mesma sílaba."
+  },
+  {
+    "id": "PT612",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "'Paraguai' apresenta, na pronúncia habitual:",
+    "options": {
+      "A": "Hiato",
+      "B": "Tritongo",
+      "C": "Dígrafo",
+      "D": "Encontro consonântico"
+    },
+    "correct_answer": "B",
+    "explanation": "A sequência final pode formar um tritongo."
+  },
+  {
+    "id": "PT613",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A divisão silábica de 'saúde' é:",
+    "options": {
+      "A": "Sau-de",
+      "B": "Sa-ú-de",
+      "C": "Saú-de",
+      "D": "S-aú-de"
+    },
+    "correct_answer": "B",
+    "explanation": "As vogais do hiato ficam em sílabas separadas."
+  },
+  {
+    "id": "PT614",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A sílaba é:",
+    "options": {
+      "A": "Unidade sonora da palavra",
+      "B": "Letra",
+      "C": "Sinal de pontuação",
+      "D": "Morfema obrigatório"
+    },
+    "correct_answer": "A",
+    "explanation": "É uma unidade de organização dos sons na fala."
+  },
+  {
+    "id": "PT615",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O núcleo silábico em português é normalmente:",
+    "options": {
+      "A": "Consoante",
+      "B": "Vogal",
+      "C": "Hífen",
+      "D": "Espaço"
+    },
+    "correct_answer": "B",
+    "explanation": "A vogal constitui normalmente o núcleo da sílaba."
+  },
+  {
+    "id": "PT616",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual é monossílabo?",
+    "options": {
+      "A": "Janela",
+      "B": "Flor",
+      "C": "Caderno",
+      "D": "Amigo"
+    },
+    "correct_answer": "B",
+    "explanation": "Flor tem uma só sílaba."
+  },
+  {
+    "id": "PT617",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A divisão correcta de 'médico' é:",
+    "options": {
+      "A": "Mé-di-co",
+      "B": "Me-dí-co",
+      "C": "Méd-ico",
+      "D": "Mé-dic-o"
+    },
+    "correct_answer": "A",
+    "explanation": "Médico tem três sílabas."
+  },
+  {
+    "id": "PT618",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Encontro consonântico ocorre quando:",
+    "options": {
+      "A": "Duas consoantes juntas são pronunciadas",
+      "B": "Duas letras fazem sempre um som",
+      "C": "Duas vogais separam-se",
+      "D": "Há acento gráfico"
+    },
+    "correct_answer": "A",
+    "explanation": "As duas consoantes mantêm os seus sons."
+  },
+  {
+    "id": "PT619",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual contém encontro consonântico?",
+    "options": {
+      "A": "Chave",
+      "B": "Prato",
+      "C": "Ninho",
+      "D": "Carro"
+    },
+    "correct_answer": "B",
+    "explanation": "Em prato, /p/ e /ɾ/ são pronunciados."
+  },
+  {
+    "id": "PT620",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Dígrafo é:",
+    "options": {
+      "A": "Duas letras para um fonema",
+      "B": "Uma letra para duas sílabas",
+      "C": "Duas vogais separadas",
+      "D": "Três fonemas"
+    },
+    "correct_answer": "A",
+    "explanation": "Duas letras representam um único som."
+  },
+  {
+    "id": "PT621",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual contém dígrafo consonântico?",
+    "options": {
+      "A": "Prato",
+      "B": "Chave",
+      "C": "Pato",
+      "D": "Blusa"
+    },
+    "correct_answer": "B",
+    "explanation": "Ch representa um único fonema."
+  },
+  {
+    "id": "PT622",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Em 'ninho', nh representa:",
+    "options": {
+      "A": "Dois fonemas",
+      "B": "Um fonema",
+      "C": "Uma vogal",
+      "D": "Encontro consonântico"
+    },
+    "correct_answer": "B",
+    "explanation": "Nh é um dígrafo nasal palatal."
+  },
+  {
+    "id": "PT623",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Em 'carro', rr representa:",
+    "options": {
+      "A": "Um fonema consonântico",
+      "B": "Dois fonemas",
+      "C": "Um ditongo",
+      "D": "Duas sílabas"
+    },
+    "correct_answer": "A",
+    "explanation": "As duas letras representam um único som forte."
+  },
+  {
+    "id": "PT624",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual contém dígrafo vocálico?",
+    "options": {
+      "A": "Campo",
+      "B": "Prato",
+      "C": "Lua",
+      "D": "Mesa"
+    },
+    "correct_answer": "A",
+    "explanation": "Am assinala nasalidade da vogal em campo."
+  },
+  {
+    "id": "PT625",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A nasalidade pode ser indicada por:",
+    "options": {
+      "A": "Til ou m/n em certos contextos",
+      "B": "Hífen",
+      "C": "H inicial",
+      "D": "Ponto final"
+    },
+    "correct_answer": "A",
+    "explanation": "Til e certas sequências com m ou n indicam nasalidade."
+  },
+  {
+    "id": "PT626",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Em 'mãe', o til indica:",
+    "options": {
+      "A": "Acento grave",
+      "B": "Nasalidade",
+      "C": "Hiato",
+      "D": "Som consonântico"
+    },
+    "correct_answer": "B",
+    "explanation": "O til marca nasalidade."
+  },
+  {
+    "id": "PT627",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Transcrição fonética representa:",
+    "options": {
+      "A": "A pronúncia dos sons",
+      "B": "Apenas a ortografia",
+      "C": "O significado",
+      "D": "A pontuação"
+    },
+    "correct_answer": "A",
+    "explanation": "Regista a realização sonora da fala."
+  },
+  {
+    "id": "PT628",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O AFI serve para:",
+    "options": {
+      "A": "Representar sons de modo padronizado",
+      "B": "Substituir a ortografia",
+      "C": "Indicar etimologia",
+      "D": "Classificar frases"
+    },
+    "correct_answer": "A",
+    "explanation": "O Alfabeto Fonético Internacional padroniza a representação dos sons."
+  },
+  {
+    "id": "PT629",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A mesma letra pode representar sons diferentes porque:",
+    "options": {
+      "A": "A correspondência letra-som varia",
+      "B": "Cada letra tem um som fixo",
+      "C": "A fala não se relaciona com escrita",
+      "D": "As vogais são sempre iguais"
+    },
+    "correct_answer": "A",
+    "explanation": "A relação entre grafema e fonema depende do contexto."
+  },
+  {
+    "id": "PT630",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O x em 'exame' representa geralmente:",
+    "options": {
+      "A": "/z/",
+      "B": "/ʃ/",
+      "C": "/ks/",
+      "D": "/s/"
+    },
+    "correct_answer": "A",
+    "explanation": "Na pronúncia habitual, x tem valor de /z/."
+  },
+  {
+    "id": "PT631",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O c antes de e ou i representa geralmente:",
+    "options": {
+      "A": "/k/",
+      "B": "/s/",
+      "C": "/ʃ/",
+      "D": "/z/"
+    },
+    "correct_answer": "B",
+    "explanation": "C antes de e ou i representa normalmente /s/."
+  },
+  {
+    "id": "PT632",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O g antes de e ou i, como em 'gelo', representa:",
+    "options": {
+      "A": "/g/",
+      "B": "/ʒ/",
+      "C": "/k/",
+      "D": "/ʃ/"
+    },
+    "correct_answer": "B",
+    "explanation": "G antes de e ou i representa geralmente /ʒ/."
+  },
+  {
+    "id": "PT633",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "O h inicial de 'hoje' é normalmente:",
+    "options": {
+      "A": "Pronunciado /h/",
+      "B": "Mudo",
+      "C": "Semivogal",
+      "D": "Nasal"
+    },
+    "correct_answer": "B",
+    "explanation": "O h inicial não representa som na pronúncia portuguesa habitual."
+  },
+  {
+    "id": "PT634",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "A vogal nasal distingue-se da oral pela:",
+    "options": {
+      "A": "Participação da cavidade nasal",
+      "B": "Quantidade de letras",
+      "C": "Posição na frase",
+      "D": "Presença de oclusiva"
+    },
+    "correct_answer": "A",
+    "explanation": "A cavidade nasal participa na ressonância da vogal nasal."
+  },
+  {
+    "id": "PT635",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual contém vogal nasal?",
+    "options": {
+      "A": "Lã",
+      "B": "Lata",
+      "C": "Lago",
+      "D": "Lado"
+    },
+    "correct_answer": "A",
+    "explanation": "A vogal de lã é nasal."
+  },
+  {
+    "id": "PT636",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Tonicidade de uma sílaba é:",
+    "options": {
+      "A": "Destaque na pronúncia",
+      "B": "Número de letras",
+      "C": "Posição alfabética",
+      "D": "Presença obrigatória de acento"
+    },
+    "correct_answer": "A",
+    "explanation": "A sílaba tónica recebe maior destaque relativo."
+  },
+  {
+    "id": "PT637",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Em 'café', a sílaba tónica é:",
+    "options": {
+      "A": "ca",
+      "B": "fé",
+      "C": "Ambas",
+      "D": "Nenhuma"
+    },
+    "correct_answer": "B",
+    "explanation": "Café é uma palavra aguda."
+  },
+  {
+    "id": "PT638",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Em 'lâmpada', a sílaba tónica é:",
+    "options": {
+      "A": "lâm",
+      "B": "pa",
+      "C": "da",
+      "D": "Nenhuma"
+    },
+    "correct_answer": "A",
+    "explanation": "Lâmpada é esdrúxula; a antepenúltima sílaba é tónica."
+  },
+  {
+    "id": "PT639",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Consoantes nasais permitem:",
+    "options": {
+      "A": "Passagem do ar pela cavidade nasal",
+      "B": "Apenas ar oral",
+      "C": "Ausência de voz",
+      "D": "Fecho da glote"
+    },
+    "correct_answer": "A",
+    "explanation": "O ar sai pela cavidade nasal durante a produção."
+  },
+  {
+    "id": "PT640",
+    "subject": "Língua Portuguesa",
+    "topic": "Fonética e Fonologia",
+    "difficulty": "Média",
+    "question": "Qual conjunto tem apenas nasais?",
+    "options": {
+      "A": "/m/, /n/, /ɲ/",
+      "B": "/p/, /t/, /k/",
+      "C": "/f/, /s/, /ʃ/",
+      "D": "/l/, /ɾ/, /ʎ/"
+    },
+    "correct_answer": "A",
+    "explanation": "/m/, /n/ e /ɲ/ são consoantes nasais."
+  }
+]
