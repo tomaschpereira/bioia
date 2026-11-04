@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT521",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "O que estuda principalmente a Semântica linguística?",
+    "options": {
+      "A": "A estrutura das sílabas",
+      "B": "O significado das palavras e expressões em contexto",
+      "C": "A classificação dos sons da fala",
+      "D": "A ordem dos constituintes da frase"
+    },
+    "correct_answer": "B",
+    "explanation": "A Semântica estuda o significado e a interpretação de palavras, frases e expressões, considerando o contexto."
+  },
+  {
+    "id": "PT522",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual palavra é sinónima de «íntegro» no sentido moral?",
+    "options": {
+      "A": "Corrupto",
+      "B": "Honesto",
+      "C": "Vaidoso",
+      "D": "Indeciso"
+    },
+    "correct_answer": "B",
+    "explanation": "No sentido moral, íntegro é quem age com honestidade e rectidão."
+  },
+  {
+    "id": "PT523",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual é o antónimo de «frequente»?",
+    "options": {
+      "A": "Habitual",
+      "B": "Constante",
+      "C": "Raro",
+      "D": "Repetido"
+    },
+    "correct_answer": "C",
+    "explanation": "Frequente é aquilo que ocorre muitas vezes; raro ocorre poucas vezes."
+  },
+  {
+    "id": "PT524",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Uma decisão imparcial é uma decisão que:",
+    "options": {
+      "A": "Favorece um amigo",
+      "B": "É tomada sem favorecer nenhuma das partes",
+      "C": "Ignora todas as provas",
+      "D": "É sempre adiada"
+    },
+    "correct_answer": "B",
+    "explanation": "Imparcialidade significa não favorecer nem prejudicar qualquer das partes."
+  },
+  {
+    "id": "PT525",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual palavra pode substituir «obstáculo» sem alterar substancialmente o sentido?",
+    "options": {
+      "A": "Impedimento",
+      "B": "Prémio",
+      "C": "Benefício",
+      "D": "Atalho"
+    },
+    "correct_answer": "A",
+    "explanation": "Obstáculo é algo que dificulta ou impede uma acção; impedimento é sinónimo adequado."
+  },
+  {
+    "id": "PT526",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "O antónimo de «superficial», no sentido de análise pouco aprofundada, é:",
+    "options": {
+      "A": "Exterior",
+      "B": "Leve",
+      "C": "Profundo",
+      "D": "Breve"
+    },
+    "correct_answer": "C",
+    "explanation": "Uma análise profunda examina um assunto com detalhe, ao contrário de uma análise superficial."
+  },
+  {
+    "id": "PT527",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Na frase «Aquela médica tem mãos de fada», a expressão destacada significa que ela:",
+    "options": {
+      "A": "Tem mãos muito pequenas",
+      "B": "É habilidosa e cuidadosa no que faz",
+      "C": "Trabalha com fadas",
+      "D": "Usa luvas especiais"
+    },
+    "correct_answer": "B",
+    "explanation": "«Mãos de fada» é uma expressão conotativa que elogia a habilidade e o cuidado."
+  },
+  {
+    "id": "PT528",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "A palavra «inevitável» significa:",
+    "options": {
+      "A": "Que pode ser evitado",
+      "B": "Que não pode ser evitado",
+      "C": "Que acontece raramente",
+      "D": "Que ainda não foi confirmado"
+    },
+    "correct_answer": "B",
+    "explanation": "Inevitável é aquilo que não se consegue evitar ou impedir."
+  },
+  {
+    "id": "PT529",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Em qual par existe uma relação de antonímia?",
+    "options": {
+      "A": "Calmo — tranquilo",
+      "B": "Feliz — contente",
+      "C": "Generoso — egoísta",
+      "D": "Rápido — veloz"
+    },
+    "correct_answer": "C",
+    "explanation": "Generoso e egoísta exprimem atitudes opostas."
+  },
+  {
+    "id": "PT530",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual é o antónimo de «escasso»?",
+    "options": {
+      "A": "Limitado",
+      "B": "Insuficiente",
+      "C": "Abundante",
+      "D": "Reduzido"
+    },
+    "correct_answer": "C",
+    "explanation": "Escasso significa pouco; abundante significa existente em grande quantidade."
+  },
+  {
+    "id": "PT531",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Na frase «A família é o meu porto seguro», a expressão significa:",
+    "options": {
+      "A": "Um cais marítimo",
+      "B": "Uma fonte de protecção e apoio",
+      "C": "Um local de trabalho",
+      "D": "Uma viagem distante"
+    },
+    "correct_answer": "B",
+    "explanation": "«Porto seguro» é uma metáfora para protecção, apoio e confiança."
+  },
+  {
+    "id": "PT532",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual é o sinónimo de «essencial»?",
+    "options": {
+      "A": "Dispensável",
+      "B": "Fundamental",
+      "C": "Secundário",
+      "D": "Acidental"
+    },
+    "correct_answer": "B",
+    "explanation": "Essencial significa fundamental ou indispensável."
+  },
+  {
+    "id": "PT533",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual é o antónimo de «optimista»?",
+    "options": {
+      "A": "Esperançoso",
+      "B": "Confiante",
+      "C": "Pessimista",
+      "D": "Entusiasmado"
+    },
+    "correct_answer": "C",
+    "explanation": "O optimista espera resultados favoráveis; o pessimista tende a esperar resultados desfavoráveis."
+  },
+  {
+    "id": "PT534",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Na frase «O rio atravessa a cidade», a palavra «rio» designa:",
+    "options": {
+      "A": "Uma forma do verbo rir",
+      "B": "Um curso natural de água",
+      "C": "Uma estrada",
+      "D": "Um tipo de edifício"
+    },
+    "correct_answer": "B",
+    "explanation": "O contexto mostra que «rio» é o nome comum que designa um curso de água."
+  },
+  {
+    "id": "PT535",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual afirmação explica melhor a influência do contexto no significado?",
+    "options": {
+      "A": "O contexto nunca interfere no significado",
+      "B": "O contexto ajuda a determinar o sentido pretendido",
+      "C": "Todas as palavras têm apenas um sentido",
+      "D": "O contexto altera sempre a grafia"
+    },
+    "correct_answer": "B",
+    "explanation": "O contexto linguístico e situacional permite identificar o sentido adequado de uma palavra ou expressão."
+  },
+  {
+    "id": "PT536",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "As palavras «casa» e «habitação» são, em muitos contextos, exemplos de:",
+    "options": {
+      "A": "Antonímia",
+      "B": "Sinonímia",
+      "C": "Homonímia",
+      "D": "Paronímia"
+    },
+    "correct_answer": "B",
+    "explanation": "Sinonímia é a relação de proximidade ou equivalência de significado entre palavras."
+  },
+  {
+    "id": "PT537",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "Qual par apresenta palavras antónimas?",
+    "options": {
+      "A": "Claro — luminoso",
+      "B": "Comprar — adquirir",
+      "C": "Entrar — sair",
+      "D": "Belo — bonito"
+    },
+    "correct_answer": "C",
+    "explanation": "Entrar e sair indicam movimentos em sentidos opostos."
+  },
+  {
+    "id": "PT538",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "As palavras «rio» (curso de água) e «rio» (forma do verbo rir) são exemplos de:",
+    "options": {
+      "A": "Homonímia",
+      "B": "Sinonímia",
+      "C": "Antonímia",
+      "D": "Hiperonímia"
+    },
+    "correct_answer": "A",
+    "explanation": "Têm a mesma grafia e pronúncia, mas significados diferentes; são homónimas."
+  },
+  {
+    "id": "PT539",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "As palavras «colher» (utensílio) e «colher» (verbo) são exemplos de:",
+    "options": {
+      "A": "Homofonia",
+      "B": "Homografia",
+      "C": "Antonímia",
+      "D": "Sinonímia"
+    },
+    "correct_answer": "B",
+    "explanation": "Escrevem-se da mesma forma, mas têm pronúncias diferentes e significados distintos; são homógrafas."
+  },
+  {
+    "id": "PT540",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Fácil",
+    "question": "As palavras «cem» e «sem» são exemplos de:",
+    "options": {
+      "A": "Homografia",
+      "B": "Homofonia",
+      "C": "Hiperonímia",
+      "D": "Polissemia"
+    },
+    "correct_answer": "B",
+    "explanation": "Pronunciam-se da mesma maneira, mas têm grafia e significado diferentes; são homófonas."
+  },
+  {
+    "id": "PT541",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«Previdência» e «providência» são palavras:",
+    "options": {
+      "A": "Sinónimas perfeitas",
+      "B": "Antónimas",
+      "C": "Parónimas",
+      "D": "Homófonas"
+    },
+    "correct_answer": "C",
+    "explanation": "São parónimas porque têm formas semelhantes, mas significados diferentes."
+  },
+  {
+    "id": "PT542",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual opção apresenta correctamente o significado de «descrição»?",
+    "options": {
+      "A": "Qualidade de ser discreto",
+      "B": "Acto de representar ou caracterizar algo por palavras",
+      "C": "Cumprimento de uma obrigação",
+      "D": "Reparação de um objecto"
+    },
+    "correct_answer": "B",
+    "explanation": "Descrição é a exposição das características de uma pessoa, objecto, lugar ou situação."
+  },
+  {
+    "id": "PT543",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual é o significado de «discrição»?",
+    "options": {
+      "A": "Relato detalhado de um lugar",
+      "B": "Reserva e prudência no comportamento",
+      "C": "Acto de medir o comprimento",
+      "D": "Cumprimento de uma promessa"
+    },
+    "correct_answer": "B",
+    "explanation": "Discrição é a qualidade de quem age com reserva, prudência e cuidado."
+  },
+  {
+    "id": "PT544",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na frase «A manga da camisa está rasgada», «manga» significa:",
+    "options": {
+      "A": "Fruto tropical",
+      "B": "Parte da peça de vestuário que cobre o braço",
+      "C": "Árvore de fruto",
+      "D": "Uma ferramenta"
+    },
+    "correct_answer": "B",
+    "explanation": "O contexto «da camisa» determina que manga designa a parte da roupa."
+  },
+  {
+    "id": "PT545",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na frase «Comprei mangas no mercado», «mangas» significa:",
+    "options": {
+      "A": "Partes de uma camisa",
+      "B": "Frutos",
+      "C": "Peças de máquinas",
+      "D": "Medidas de comprimento"
+    },
+    "correct_answer": "B",
+    "explanation": "A referência ao mercado e ao acto de comprar indica o fruto."
+  },
+  {
+    "id": "PT546",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A palavra «banco», nas frases «Sentei-me no banco» e «O banco concedeu um empréstimo», apresenta:",
+    "options": {
+      "A": "Apenas um significado",
+      "B": "Polissemia ou sentidos distintos conforme o contexto",
+      "C": "Antonímia",
+      "D": "Homofonia"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra pode designar um assento ou uma instituição financeira; o contexto esclarece o sentido."
+  },
+  {
+    "id": "PT547",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A palavra «cabeça» pode designar a parte do corpo e também a pessoa que lidera um grupo. Este fenómeno é:",
+    "options": {
+      "A": "Polissemia",
+      "B": "Homofonia",
+      "C": "Antonímia",
+      "D": "Paronímia"
+    },
+    "correct_answer": "A",
+    "explanation": "Polissemia ocorre quando uma mesma palavra apresenta vários sentidos relacionados."
+  },
+  {
+    "id": "PT548",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "O significado literal e objectivo de uma palavra corresponde à:",
+    "options": {
+      "A": "Conotação",
+      "B": "Denotação",
+      "C": "Ambiguidade",
+      "D": "Ironia"
+    },
+    "correct_answer": "B",
+    "explanation": "Denotação é o sentido literal, mais directo e objectivo de uma expressão."
+  },
+  {
+    "id": "PT549",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na expressão «coração de pedra», a palavra «pedra» está usada em sentido:",
+    "options": {
+      "A": "Denotativo",
+      "B": "Conotativo",
+      "C": "Técnico",
+      "D": "Unívoco"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão não descreve um coração feito de pedra; sugere insensibilidade, logo é conotativa."
+  },
+  {
+    "id": "PT550",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual frase apresenta sentido predominantemente denotativo?",
+    "options": {
+      "A": "Aquele rapaz tem um coração de ouro",
+      "B": "A notícia voou pela cidade",
+      "C": "A água ferve a 100 °C ao nível do mar",
+      "D": "A esperança iluminou a sala"
+    },
+    "correct_answer": "C",
+    "explanation": "A frase apresenta uma informação literal e objectiva sobre a água."
+  },
+  {
+    "id": "PT551",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A expressão «A cidade acordou cedo» é um exemplo de:",
+    "options": {
+      "A": "Personificação",
+      "B": "Sinonímia",
+      "C": "Homofonia",
+      "D": "Antonomásia"
+    },
+    "correct_answer": "A",
+    "explanation": "Atribui-se à cidade uma acção humana, acordar; trata-se de personificação."
+  },
+  {
+    "id": "PT552",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na frase «A notícia espalhou-se como fogo», a expressão indica que a notícia:",
+    "options": {
+      "A": "Foi queimada",
+      "B": "Se divulgou rapidamente",
+      "C": "Foi escondida",
+      "D": "Era falsa"
+    },
+    "correct_answer": "B",
+    "explanation": "A comparação sugere uma divulgação muito rápida."
+  },
+  {
+    "id": "PT553",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual é o hiperónimo de «rosa»?",
+    "options": {
+      "A": "Pétala",
+      "B": "Flor",
+      "C": "Jardim",
+      "D": "Espinho"
+    },
+    "correct_answer": "B",
+    "explanation": "Flor é uma categoria mais abrangente que inclui a rosa; por isso é seu hiperónimo."
+  },
+  {
+    "id": "PT554",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual é o hipónimo de «animal»?",
+    "options": {
+      "A": "Ser vivo",
+      "B": "Organismo",
+      "C": "Cão",
+      "D": "Natureza"
+    },
+    "correct_answer": "C",
+    "explanation": "Cão é um tipo específico de animal, portanto é hipónimo de animal."
+  },
+  {
+    "id": "PT555",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na relação «fruta» — «maçã», qual é a classificação correcta?",
+    "options": {
+      "A": "Maçã é hiperónimo de fruta",
+      "B": "Fruta é hipónimo de maçã",
+      "C": "Fruta é hiperónimo de maçã",
+      "D": "São antónimos"
+    },
+    "correct_answer": "C",
+    "explanation": "Fruta é a categoria geral; maçã é um elemento específico dessa categoria."
+  },
+  {
+    "id": "PT556",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual palavra pertence ao campo semântico da medicina?",
+    "options": {
+      "A": "Estetoscópio",
+      "B": "Martelo",
+      "C": "Sanfona",
+      "D": "Enxada"
+    },
+    "correct_answer": "A",
+    "explanation": "Estetoscópio é um instrumento associado à prática médica."
+  },
+  {
+    "id": "PT557",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual conjunto reúne palavras do mesmo campo semântico?",
+    "options": {
+      "A": "Médico, enfermeiro, hospital, paciente",
+      "B": "Rio, lápis, montanha, janela",
+      "C": "Cadeira, correr, azul, ontem",
+      "D": "Livro, tempestade, sapato, cantar"
+    },
+    "correct_answer": "A",
+    "explanation": "As palavras do conjunto estão relacionadas com a área da saúde."
+  },
+  {
+    "id": "PT558",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A palavra «efémero» significa:",
+    "options": {
+      "A": "Que dura para sempre",
+      "B": "Que dura pouco tempo",
+      "C": "Que é muito pesado",
+      "D": "Que não tem significado"
+    },
+    "correct_answer": "B",
+    "explanation": "Efémero é aquilo que tem curta duração ou é passageiro."
+  },
+  {
+    "id": "PT559",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A palavra «ambíguo» caracteriza algo que:",
+    "options": {
+      "A": "Tem apenas um sentido evidente",
+      "B": "Pode admitir mais de uma interpretação",
+      "C": "É sempre falso",
+      "D": "Não pode ser explicado"
+    },
+    "correct_answer": "B",
+    "explanation": "Ambíguo é aquilo que permite interpretações diferentes ou não é suficientemente claro."
+  },
+  {
+    "id": "PT560",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Uma frase é semanticamente ambígua quando:",
+    "options": {
+      "A": "Apresenta uma única interpretação possível",
+      "B": "Pode ser entendida de duas ou mais maneiras",
+      "C": "Não contém verbos",
+      "D": "Está escrita sem pontuação"
+    },
+    "correct_answer": "B",
+    "explanation": "A ambiguidade ocorre quando uma construção permite mais de uma interpretação."
+  },
+  {
+    "id": "PT561",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na frase «Vi o homem com o telescópio», a ambiguidade resulta de:",
+    "options": {
+      "A": "Erro de concordância",
+      "B": "Dúvida sobre quem usa o telescópio",
+      "C": "Ausência de sujeito",
+      "D": "Uso de uma palavra antónima"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão «com o telescópio» pode indicar o instrumento usado por quem viu ou algo que o homem possuía."
+  },
+  {
+    "id": "PT562",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A palavra «meticuloso» significa:",
+    "options": {
+      "A": "Descuidado",
+      "B": "Muito cuidadoso e minucioso",
+      "C": "Apressado",
+      "D": "Indiferente"
+    },
+    "correct_answer": "B",
+    "explanation": "Meticuloso é quem presta muita atenção aos detalhes."
+  },
+  {
+    "id": "PT563",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Uma pessoa resiliente é aquela que:",
+    "options": {
+      "A": "Desiste perante qualquer dificuldade",
+      "B": "Consegue recuperar e adaptar-se perante dificuldades",
+      "C": "Nunca enfrenta problemas",
+      "D": "Evita aprender coisas novas"
+    },
+    "correct_answer": "B",
+    "explanation": "Resiliência é a capacidade de enfrentar adversidades, adaptar-se e recuperar."
+  },
+  {
+    "id": "PT564",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual é o significado de «benevolente»?",
+    "options": {
+      "A": "Mal-intencionado",
+      "B": "Bondoso e disposto a fazer o bem",
+      "C": "Invejoso",
+      "D": "Desatento"
+    },
+    "correct_answer": "B",
+    "explanation": "Benevolente significa que demonstra boa vontade, bondade ou disposição favorável."
+  },
+  {
+    "id": "PT565",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual opção contém um par de palavras homónimas?",
+    "options": {
+      "A": "Manga (fruto) — manga (parte da camisa)",
+      "B": "Feliz — contente",
+      "C": "Alto — baixo",
+      "D": "Previdência — providência"
+    },
+    "correct_answer": "A",
+    "explanation": "As duas formas «manga» têm a mesma grafia e pronúncia, mas significados diferentes."
+  },
+  {
+    "id": "PT566",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual opção contém um par de palavras homófonas?",
+    "options": {
+      "A": "Paço — passo",
+      "B": "Belo — bonito",
+      "C": "Quente — frio",
+      "D": "Banco — assento"
+    },
+    "correct_answer": "A",
+    "explanation": "«Paço» e «passo» pronunciam-se de forma igual em muitas variedades do português, mas escrevem-se e significam coisas diferentes."
+  },
+  {
+    "id": "PT567",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual par é formado por parónimos?",
+    "options": {
+      "A": "Comprimento — cumprimento",
+      "B": "Cedo — tarde",
+      "C": "Casa — lar",
+      "D": "Entrar — sair"
+    },
+    "correct_answer": "A",
+    "explanation": "Comprimento refere-se à extensão; cumprimento pode ser uma saudação ou o acto de cumprir. As formas são semelhantes."
+  },
+  {
+    "id": "PT568",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Na frase «O aluno cumprimentou o professor», o verbo «cumprimentou» significa:",
+    "options": {
+      "A": "Mediu a extensão do professor",
+      "B": "Saudou o professor",
+      "C": "Corrigiu o professor",
+      "D": "Acompanhou o professor"
+    },
+    "correct_answer": "B",
+    "explanation": "Cumprimentar significa saudar alguém; não deve ser confundido com comprimento."
+  },
+  {
+    "id": "PT569",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Na frase «O concerto foi adiado», «concerto» significa:",
+    "options": {
+      "A": "Reparação de um aparelho",
+      "B": "Apresentação musical",
+      "C": "Acordo ortográfico",
+      "D": "Peça de roupa"
+    },
+    "correct_answer": "B",
+    "explanation": "Concerto, com c, pode designar uma apresentação musical."
+  },
+  {
+    "id": "PT570",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Na frase «O técnico fez o conserto do aparelho», «conserto» significa:",
+    "options": {
+      "A": "Apresentação musical",
+      "B": "Reparação",
+      "C": "Discussão",
+      "D": "Ensaio"
+    },
+    "correct_answer": "B",
+    "explanation": "Conserto, com s, significa reparação ou acto de consertar."
+  },
+  {
+    "id": "PT571",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual palavra completa correctamente a frase: «Ele comportou-se ___ durante a prova»?",
+    "options": {
+      "A": "Mau",
+      "B": "Mal",
+      "C": "Maus",
+      "D": "Más"
+    },
+    "correct_answer": "B",
+    "explanation": "Mal é advérbio e modifica o verbo «comportou-se»; mau é adjectivo."
+  },
+  {
+    "id": "PT572",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual palavra completa correctamente a frase: «O resultado foi ___»?",
+    "options": {
+      "A": "Mal",
+      "B": "Mau",
+      "C": "Males",
+      "D": "Maus"
+    },
+    "correct_answer": "B",
+    "explanation": "Mau é adjectivo e concorda com o substantivo masculino singular «resultado»."
+  },
+  {
+    "id": "PT573",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Na frase «A directora é a cabeça da equipa», «cabeça» significa:",
+    "options": {
+      "A": "Parte do corpo",
+      "B": "Pessoa que lidera",
+      "C": "Parte inferior",
+      "D": "Instrumento de trabalho"
+    },
+    "correct_answer": "B",
+    "explanation": "O contexto atribui à palavra o sentido figurado de líder ou responsável principal."
+  },
+  {
+    "id": "PT574",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual afirmação distingue correctamente Semântica de Sintaxe?",
+    "options": {
+      "A": "A Semântica estuda significados; a Sintaxe estuda a organização das palavras na frase",
+      "B": "A Semântica estuda sons; a Sintaxe estuda letras",
+      "C": "Ambas estudam exclusivamente a ortografia",
+      "D": "A Sintaxe estuda apenas sinónimos"
+    },
+    "correct_answer": "A",
+    "explanation": "A Semântica ocupa-se do significado, enquanto a Sintaxe analisa a estrutura e as relações entre os elementos da frase."
+  },
+  {
+    "id": "PT575",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Na frase «O médico examinou o paciente», o significado de «paciente» é determinado sobretudo:",
+    "options": {
+      "A": "Pelo número de letras",
+      "B": "Pelo contexto da frase",
+      "C": "Pela posição do acento gráfico",
+      "D": "Pela divisão silábica"
+    },
+    "correct_answer": "B",
+    "explanation": "No contexto médico, paciente é a pessoa que recebe cuidados ou é examinada."
+  },
+  {
+    "id": "PT576",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual opção apresenta uma relação de hiperonímia?",
+    "options": {
+      "A": "Ave é hiperónimo de pardal",
+      "B": "Pardal é hiperónimo de ave",
+      "C": "Pardal é antónimo de ave",
+      "D": "Ave e pardal são homófonos"
+    },
+    "correct_answer": "A",
+    "explanation": "Ave é uma categoria geral que inclui o pardal; portanto, é seu hiperónimo."
+  },
+  {
+    "id": "PT577",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A palavra «claro» pode significar luminoso ou evidente, conforme o contexto. Este exemplo ilustra:",
+    "options": {
+      "A": "Polissemia",
+      "B": "Homofonia",
+      "C": "Antonímia",
+      "D": "Paronímia"
+    },
+    "correct_answer": "A",
+    "explanation": "Uma mesma palavra pode apresentar sentidos diferentes relacionados, fenómeno chamado polissemia."
+  },
+  {
+    "id": "PT578",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Na expressão «Ele é uma raposa», aplicada a uma pessoa, «raposa» sugere que ela é:",
+    "options": {
+      "A": "Lenta",
+      "B": "Astuta",
+      "C": "Desajeitada",
+      "D": "Barulhenta"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão atribui à pessoa a característica figurada de astúcia associada à raposa."
+  },
+  {
+    "id": "PT579",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual opção apresenta um exemplo de conotação?",
+    "options": {
+      "A": "O gelo derreteu ao sol",
+      "B": "A sala tem quatro janelas",
+      "C": "A notícia deixou-o gelado",
+      "D": "O termómetro marcou 5 °C"
+    },
+    "correct_answer": "C",
+    "explanation": "«Deixou-o gelado» significa que a notícia o surpreendeu ou assustou, não que baixou a sua temperatura."
+  },
+  {
+    "id": "PT580",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual é a finalidade principal de analisar o significado de uma palavra dentro de uma frase?",
+    "options": {
+      "A": "Identificar apenas o número de sílabas",
+      "B": "Compreender o sentido que ela assume naquele contexto",
+      "C": "Determinar sempre a sua classe gramatical",
+      "D": "Descobrir a sua origem histórica"
+    },
+    "correct_answer": "B",
+    "explanation": "A interpretação contextual permite seleccionar o significado adequado entre os vários sentidos possíveis."
+  }
+]
