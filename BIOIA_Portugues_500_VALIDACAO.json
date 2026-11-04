@@ -24,11 +24,37 @@
   "normalized_question_stems": {
     "status": "FAIL",
     "duplicate_groups": 50,
-    "records_in_duplicate_groups": 300
+    "records_in_duplicate_groups": 300,
+    "examples": [
+      [
+        "PT201",
+        "PT221"
+      ],
+      [
+        "PT202",
+        "PT222"
+      ],
+      [
+        "PT203",
+        "PT223"
+      ],
+      [
+        "PT204",
+        "PT224"
+      ]
+    ]
   },
   "integration": {
-    "status": "NOT_CHANGED",
-    "reason": "O loader actual ainda aponta para BIOIA_Portugues_200_Normalizado.json. A integração fica bloqueada até eliminar as repetições e rever a qualidade pedagógica."
+    "status": "BLOCKED",
+    "reason": "O loader continua a usar BIOIA_Portugues_200_Normalizado.json. Não activar o banco de 500 enquanto as 300 ocorrências em grupos repetidos e os enunciados suspeitos não forem corrigidos e revistos."
   },
-  "production": "NOT_MERGED"
+  "production": "NOT_MERGED",
+  "content_quality": {
+    "status": "REVIEW_REQUIRED",
+    "suspicious_context_fragments": 20,
+    "notes": [
+      "Foram detectados contextos parentéticos artificiais em enunciados, por exemplo '(na biblioteca)'.",
+      "A contagem de 500 e a estrutura não comprovam, por si só, a qualidade pedagógica nem a exactidão de todas as respostas."
+    ]
+  }
 }
