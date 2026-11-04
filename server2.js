@@ -157,12 +157,11 @@ function menu() {
     "3️⃣ Química",
     "4️⃣ Biologia",
     "5️⃣ Simulado das quatro disciplinas",
-    "6️⃣ Rever erros da sessão",
-    "7️⃣ Ver resultados",
-    "8️⃣ Testes de exames passados",
-    "9️⃣ Variante A — Exames passados",
-    "🔟 Variante F — Exames passados",
-    "1️⃣1️⃣ Variante D — Medicina (UKB)",
+    "6️⃣ Meu Desempenho",
+    "7️⃣ Testes de exames passados",
+    "8️⃣ Variante A — Exames passados",
+    "9️⃣ Variante F — Exames passados",
+    "🔟 Variante D — Medicina (UKB)",
     "",
     "Envia o número da opção."
   ].join("\n");
@@ -686,41 +685,60 @@ async function processar(numero, textoRecebido) {
     return;
   }
 
-  // REVER ERROS DA SESSÃO
-  if (texto === "6") {
-    const erros = Array.isArray(s.erros) ? s.erros : [];
-
-    if (!erros.length) {
-      await enviar(
-        numero,
-        "✅ Ainda não há erros registados nesta sessão. Continua a estudar!"
-      );
-      return;
-    }
-
-    const revisao = erros.map((erro, i) =>
-      `${i + 1}. ${erro.pergunta}\n` +
-      `A tua resposta: ${erro.tuaResposta || "Não registada"}\n` +
-      `Resposta correcta: ${erro.correta || "Não identificada"}\n` +
-      `Tema: ${erro.tema || "Não identificado"}\n` +
-      `Explicação: ${erro.explicacao || "Sem explicação disponível."}`
-    ).join("\n\n");
-
-    await enviarEmPartes(
+  // MEU DESEMPENHO — SUBMENU
+  if (texto === "6" || texto === "desempenho" || texto === "meu desempenho") {
+    s.modo = "meu_desempenho";
+    await enviar(
       numero,
-      `📚 *Revisão dos erros da sessão*\nTotal de erros: ${erros.length}\n\n${revisao}`
+      "📊 *MEU DESEMPENHO*\\n\\n" +
+      "1️⃣ Rever erros desta atividade\\n" +
+      "2️⃣ Ver relatório de desempenho\\n" +
+      "0️⃣ Voltar ao menu principal\\n\\n" +
+      "Escolhe uma opção."
     );
     return;
   }
 
-  // DESEMPENHO
-  if (texto === "7") {
-    await enviar(numero, resumoDesempenho(s));
+  if (s.modo === "meu_desempenho") {
+    if (texto === "0" || texto === "menu") {
+      s.modo = "menu";
+      await enviar(numero, menu());
+      return;
+    }
+
+    if (texto === "1") {
+      const erros = Array.isArray(s.erros) ? s.erros : [];
+      if (!erros.length) {
+        await enviar(numero, "✅ Ainda não há erros registados nesta atividade. Continua a estudar!");
+        return;
+      }
+
+      const revisao = erros.map((erro, i) =>
+        `${i + 1}. ${erro.pergunta}\\n` +
+        `A tua resposta: ${erro.tuaResposta || "Não registada"}\\n` +
+        `Resposta correcta: ${erro.correta || "Não identificada"}\\n` +
+        `Tema: ${erro.tema || "Não identificado"}\\n` +
+        `Explicação: ${erro.explicacao || "Sem explicação disponível."}`
+      ).join("\\n\\n");
+
+      await enviarEmPartes(
+        numero,
+        `📚 *ERROS DESTA ATIVIDADE*\\nTotal de erros: ${erros.length}\\n\\n${revisao}`
+      );
+      return;
+    }
+
+    if (texto === "2") {
+      await enviar(numero, resumoDesempenho(s));
+      return;
+    }
+
+    await enviar(numero, "Escolhe 1 para rever erros, 2 para ver o relatório ou 0 para voltar ao menu.");
     return;
   }
 
   // EXAMES PASSADOS — ESCOLHER VARIANTE
-  if (texto === "8") {
+  if (texto === "7") {
     s.modo = "escolher_variante";
 
     await enviar(
@@ -729,16 +747,16 @@ async function processar(numero, textoRecebido) {
       "A — Variante A\n" +
       "F — Variante F\n" +
       "D — Variante D (Medicina — UKB)\n\n" +
-      "Também podes escolher directamente no menu as opções 9, 10 ou 11."
+      "Também podes escolher directamente no menu as opções 8, 9 ou 10."
     );
     return;
   }
 
   // ACESSO DIRECTO ÀS VARIANTES A, F E D
   const variantesMenu = {
-    "9": { disciplina: "variante_a", modo: "escolher_modo_variante_a", nome: "Variante A" },
-    "10": { disciplina: "variante_f", modo: "escolher_modo_variante_f", nome: "Variante F" },
-    "11": { disciplina: "variante_d", modo: "escolher_modo_variante_d", nome: "Variante D — Medicina (UKB)" }
+    "8": { disciplina: "variante_a", modo: "escolher_modo_variante_a", nome: "Variante A" },
+    "9": { disciplina: "variante_f", modo: "escolher_modo_variante_f", nome: "Variante F" },
+    "10": { disciplina: "variante_d", modo: "escolher_modo_variante_d", nome: "Variante D — Medicina (UKB)" }
   };
 
   if (variantesMenu[texto]) {
