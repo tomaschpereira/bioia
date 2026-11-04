@@ -259,15 +259,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética e Fonologia",
     "difficulty": "Médio",
-    "question": "A palavra «café» é:",
+    "question": "Na palavra «ninho», o grupo «nh» representa:",
     "options": {
-      "A": "proparoxítona",
-      "B": "paroxítona",
-      "C": "oxítona",
-      "D": "monossílabo átono"
+      "A": "um encontro vocálico",
+      "B": "um dígrafo consonantal",
+      "C": "um encontro consonantal",
+      "D": "um ditongo"
     },
-    "correct_answer": "C",
-    "explanation": "A sílaba tónica é a última: ca-FÉ."
+    "correct_answer": "B",
+    "explanation": "O grupo «nh» é um dígrafo consonantal: duas letras representam um único som consonântico."
   },
   {
     "id": "PT599",
