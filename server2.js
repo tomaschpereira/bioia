@@ -690,10 +690,10 @@ async function processar(numero, textoRecebido) {
     s.modo = "meu_desempenho";
     await enviar(
       numero,
-      "📊 *MEU DESEMPENHO*\\n\\n" +
-      "1️⃣ Rever erros desta atividade\\n" +
-      "2️⃣ Ver relatório de desempenho\\n" +
-      "0️⃣ Voltar ao menu principal\\n\\n" +
+      "📊 *MEU DESEMPENHO*\n\n" +
+      "1️⃣ Rever erros desta atividade\n" +
+      "2️⃣ Ver relatório de desempenho\n" +
+      "0️⃣ Voltar ao menu principal\n\n" +
       "Escolhe uma opção."
     );
     return;
@@ -714,16 +714,16 @@ async function processar(numero, textoRecebido) {
       }
 
       const revisao = erros.map((erro, i) =>
-        `${i + 1}. ${erro.pergunta}\\n` +
-        `A tua resposta: ${erro.tuaResposta || "Não registada"}\\n` +
-        `Resposta correcta: ${erro.correta || "Não identificada"}\\n` +
-        `Tema: ${erro.tema || "Não identificado"}\\n` +
+        `${i + 1}. ${erro.pergunta}\n` +
+        `A tua resposta: ${erro.tuaResposta || "Não registada"}\n` +
+        `Resposta correcta: ${erro.correta || "Não identificada"}\n` +
+        `Tema: ${erro.tema || "Não identificado"}\n` +
         `Explicação: ${erro.explicacao || "Sem explicação disponível."}`
-      ).join("\\n\\n");
+      ).join("\n\n");
 
       await enviarEmPartes(
         numero,
-        `📚 *ERROS DESTA ATIVIDADE*\\nTotal de erros: ${erros.length}\\n\\n${revisao}`
+        `📚 *ERROS DESTA ATIVIDADE*\nTotal de erros: ${erros.length}\n\n${revisao}`
       );
       return;
     }
