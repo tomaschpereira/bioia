@@ -34,7 +34,7 @@ const pool = process.env.DATABASE_URL
   : null;
 
 const ADMIN_WHATSAPP_NUMBER = String(process.env.ADMIN_WHATSAPP_NUMBER || "")
-  .replace(/\\D/g, "");
+  .replace(/\D/g, "");
 
 const authDbReady = pool
   ? pool.query(`
@@ -57,7 +57,7 @@ const authDbReady = pool
   : Promise.resolve(false);
 
 function normalizarNumero(numero) {
-  return String(numero || "").replace(/\\D/g, "");
+  return String(numero || "").replace(/\D/g, "");
 }
 
 async function criarHashCodigo(codigo) {
@@ -76,7 +76,7 @@ async function verificarHashCodigo(codigo, armazenado) {
 
 async function gerirComandosAdministrador(numero, texto) {
   if (!ADMIN_WHATSAPP_NUMBER || normalizarNumero(numero) !== ADMIN_WHATSAPP_NUMBER) return false;
-  const partes = String(texto).trim().split(/\\s+/);
+  const partes = String(texto).trim().split(/\s+/);
   const comando = (partes[0] || "").toUpperCase();
 
   if (comando === "PENDENTES") {
@@ -93,8 +93,8 @@ async function gerirComandosAdministrador(numero, texto) {
     }
     const lista = r.rows.map((u, i) =>
       `${i + 1}. ${u.nome || "Sem nome"} | ${u.telefone}\nCurso: ${u.curso || "—"}\nUniversidade: ${u.universidade || "—"}\nAPROVAR ${u.telefone} ou RECUSAR ${u.telefone}`
-    ).join("\\n\\n");
-    await enviarEmPartes(numero, "📋 *PEDIDOS DE ACESSO PENDENTES*\\n\\n" + lista);
+    ).join("\n\n");
+    await enviarEmPartes(numero, "📋 *PEDIDOS DE ACESSO PENDENTES*\n\n" + lista);
     return true;
   }
 
@@ -138,11 +138,11 @@ async function gerirComandosAdministrador(numero, texto) {
 
   if (comando === "AJUDA" || comando === "ADMIN") {
     await enviar(numero,
-      "🛡️ *COMANDOS DO ADMINISTRADOR*\\n" +
-      "PENDENTES — ver pedidos\\n" +
-      "APROVAR 244XXXXXXXXX — autorizar estudante\\n" +
-      "RECUSAR 244XXXXXXXXX — recusar pedido\\n" +
-      "BLOQUEAR 244XXXXXXXXX — bloquear acesso\\n" +
+      "🛡️ *COMANDOS DO ADMINISTRADOR*\n" +
+      "PENDENTES — ver pedidos\n" +
+      "APROVAR 244XXXXXXXXX — autorizar estudante\n" +
+      "RECUSAR 244XXXXXXXXX — recusar pedido\n" +
+      "BLOQUEAR 244XXXXXXXXX — bloquear acesso\n" +
       "DESBLOQUEAR 244XXXXXXXXX — reativar acesso"
     );
     return true;
@@ -179,8 +179,8 @@ async function controlarAcesso(numero, textoRecebido, s) {
     );
     s.modoAcesso = "cadastro";
     await enviar(numero,
-      "👋 Olá! Sou a *BIOIA — Assistente Académico*.\\n" +
-      "Ajudo estudantes a preparar exames, estudar disciplinas e acompanhar o seu desempenho.\\n\\n" +
+      "👋 Olá! Sou a *BIOIA — Assistente Académico*.\n" +
+      "Ajudo estudantes a preparar exames, estudar disciplinas e acompanhar o seu desempenho.\n\n" +
       "Antes de começar, quero conhecer-te. *Qual é o teu nome completo?*"
     );
     return true;
@@ -215,8 +215,8 @@ async function controlarAcesso(numero, textoRecebido, s) {
     await enviar(numero, "✅ O teu pedido foi enviado ao administrador. Assim que for aprovado, receberás uma mensagem para criares o teu código de segurança.");
     if (ADMIN_WHATSAPP_NUMBER) {
       await enviar(ADMIN_WHATSAPP_NUMBER,
-        "🔔 *NOVO PEDIDO DE ACESSO À BIOIA*\\n" +
-        `Nome: ${estudante.nome || "A preencher"}\\nCurso: ${estudante.curso || "A preencher"}\\nUniversidade: ${texto}\\nNúmero: ${numeroLimpo}\\n\\n` +
+        "🔔 *NOVO PEDIDO DE ACESSO À BIOIA*\n" +
+        `Nome: ${estudante.nome || "A preencher"}\nCurso: ${estudante.curso || "A preencher"}\nUniversidade: ${texto}\nNúmero: ${numeroLimpo}\n\n` +
         `Responde: APROVAR ${numeroLimpo} ou RECUSAR ${numeroLimpo}. Também podes escrever PENDENTES.`
       );
     }
@@ -244,26 +244,32 @@ async function controlarAcesso(numero, textoRecebido, s) {
   }
 
   if (!estudante.codigo_hash) {
-    if (!/^\\d{6,12}$/.test(texto)) {
+    if (!/^\d{6,12}$/.test(texto)) {
       await enviar(numero, "🔐 Cria o teu código pessoal com *6 a 12 algarismos*. Não uses datas de nascimento ou sequências fáceis.");
       return true;
     }
     const hash = await criarHashCodigo(texto);
     await pool.query("UPDATE bioia_estudantes SET codigo_hash=$1,tentativas=0 WHERE telefone=$2", [hash, numeroLimpo]);
     s.autenticado = true;
+    s.autenticadoAte = Date.now() + 30 * 60 * 1000;
     s.modo = "menu";
-    await enviar(numero, "✅ Código criado e protegido com sucesso!\\n\\n" + menu());
+    await enviar(numero, "✅ Código criado e protegido com sucesso!\n\n" + menu());
     return true;
   }
 
-  if (s.autenticado) return false;
+  if (s.autenticado && Number(s.autenticadoAte || 0) > Date.now()) {
+    s.autenticadoAte = Date.now() + 30 * 60 * 1000;
+    return false;
+  }
+  s.autenticado = false;
+  s.autenticadoAte = 0;
 
   if (estudante.bloqueado_ate && new Date(estudante.bloqueado_ate).getTime() > Date.now()) {
     await enviar(numero, "🔒 Muitas tentativas incorretas. Tenta novamente depois de 15 minutos.");
     return true;
   }
 
-  if (!/^\\d{6,12}$/.test(texto)) {
+  if (!/^\d{6,12}$/.test(texto)) {
     await enviar(numero, "🔐 Bem-vindo de volta à BIOIA. Introduz o teu código pessoal de segurança (6 a 12 algarismos).");
     return true;
   }
@@ -271,7 +277,8 @@ async function controlarAcesso(numero, textoRecebido, s) {
   if (await verificarHashCodigo(texto, estudante.codigo_hash)) {
     await pool.query("UPDATE bioia_estudantes SET tentativas=0,bloqueado_ate=NULL WHERE telefone=$1", [numeroLimpo]);
     s.autenticado = true;
-    await enviar(numero, "✅ Acesso autorizado!\\n\\n" + menu());
+    s.autenticadoAte = Date.now() + 30 * 60 * 1000;
+    await enviar(numero, "✅ Acesso autorizado!\n\n" + menu());
     return true;
   }
 
