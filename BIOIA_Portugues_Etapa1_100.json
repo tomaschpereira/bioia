@@ -739,15 +739,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Semântica e relações lexicais",
     "difficulty": "Fácil",
-    "question": "Qual palavra é polissémica?",
+    "question": "Qual palavra apresenta polissemia, isto é, vários sentidos relacionados entre si?",
     "options": {
-      "A": "Mesa",
-      "B": "Manga",
+      "A": "Cadeira",
+      "B": "Cabeça",
       "C": "Janela",
       "D": "Caderno"
     },
     "correct_answer": "B",
-    "explanation": "«Manga» pode designar parte de uma peça de roupa ou um fruto, entre outros sentidos."
+    "explanation": "«Cabeça» pode designar a parte do corpo e, por extensão, a parte principal ou inicial de algo, como em «cabeça de uma lista». São sentidos relacionados, característicos da polissemia."
   },
   {
     "id": "PT251",
@@ -904,15 +904,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Fácil",
-    "question": "Completa: «Não há ___ motivo para preocupação.»",
+    "question": "Na palavra «saída», o acento gráfico assinala:",
     "options": {
-      "A": "nenhum",
-      "B": "algum",
-      "C": "qualquer",
-      "D": "alguém"
+      "A": "O «i» tónico num hiato",
+      "B": "Um ditongo decrescente",
+      "C": "A nasalização da vogal «a»",
+      "D": "A sílaba tónica na primeira sílaba"
     },
     "correct_answer": "A",
-    "explanation": "A construção negativa «não há nenhum motivo» é correcta e exprime a inexistência de motivo para preocupação."
+    "explanation": "Em «sa-í-da», as vogais «a» e «i» pertencem a sílabas diferentes, formando um hiato. O «i» é tónico e recebe acento gráfico."
   },
   {
     "id": "PT262",
@@ -1099,15 +1099,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Fácil",
-    "question": "Qual palavra é escrita com «s»?",
+    "question": "Qual é a grafia correcta do substantivo que designa o estudo ou exame de algo?",
     "options": {
-      "A": "AnaliSe",
+      "A": "Analize",
       "B": "Análise",
-      "C": "Analize",
-      "D": "Analíse"
+      "C": "Analíse",
+      "D": "Análize"
     },
     "correct_answer": "B",
-    "explanation": "O substantivo escreve-se «análise», com «s» e acento agudo."
+    "explanation": "O substantivo escreve-se «análise», com «s» e acento agudo no «a». «Analise», sem acento, é uma forma verbal."
   },
   {
     "id": "PT275",
