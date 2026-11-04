@@ -39,10 +39,6 @@ function carregarBancoPortugues() {
       }
     }
 
-    if (new Set(letras.map(letra => opcoesFonte[letra].trim().toLowerCase())).size !== 4) {
-      throw new Error("Pergunta " + q.id + ": existem opções repetidas.");
-    }
-
     const resposta = String(q.correct_answer || "").trim().toUpperCase();
 
     if (!letras.includes(resposta)) {
