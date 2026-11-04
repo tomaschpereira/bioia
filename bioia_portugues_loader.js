@@ -4,7 +4,8 @@ const path = require("path");
 function carregarBancoPortugues() {
   const ficheiros = [
     "BIOIA_Portugues_200_Normalizado.json",
-    "BIOIA_Portugues_Etapa1_100.json"
+    "BIOIA_Portugues_Etapa1_100.json",
+    "BIOIA_Portugues_Etapa2_100.json"
   ];
 
   const letras = ["A", "B", "C", "D"];
