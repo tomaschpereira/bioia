@@ -686,18 +686,30 @@ async function processar(numero, textoRecebido) {
     return;
   }
 
-  // EXAMES PASSADOS
+  // REVER ERROS DA SESSÃO
   if (texto === "6") {
-    s.modo = "escolher_variante";
+    const erros = Array.isArray(s.erros) ? s.erros : [];
 
-    await enviar(
+    if (!erros.length) {
+      await enviar(
+        numero,
+        "✅ Ainda não há erros registados nesta sessão. Continua a estudar!"
+      );
+      return;
+    }
+
+    const revisao = erros.map((erro, i) =>
+      `${i + 1}. ${erro.pergunta}\n` +
+      `A tua resposta: ${erro.tuaResposta || "Não registada"}\n` +
+      `Resposta correcta: ${erro.correta || "Não identificada"}\n` +
+      `Tema: ${erro.tema || "Não identificado"}\n` +
+      `Explicação: ${erro.explicacao || "Sem explicação disponível."}`
+    ).join("\n\n");
+
+    await enviarEmPartes(
       numero,
-      "📘 *Escolhe a variante do exame:*\n\n" +
-      "A — Variante A\n" +
-      "F — Variante F\n" +
-      "D — Variante D (Medicina — UKB)"
+      `📚 *Revisão dos erros da sessão*\nTotal de erros: ${erros.length}\n\n${revisao}`
     );
-
     return;
   }
 
@@ -707,64 +719,40 @@ async function processar(numero, textoRecebido) {
     return;
   }
 
-  // REINICIAR
+  // EXAMES PASSADOS — ESCOLHER VARIANTE
   if (texto === "8") {
-    sessoes[numero] = {
-      modo: "menu",
-      erros: [],
-      pontos: 0,
-      total: 0
-    };
-
-    await enviar(numero, menu());
-    return;
-  }
-
-  // AJUDA
-  if (texto === "9") {
-    await enviar(
-      numero,
-      "ℹ️ *Ajuda BIOIA*\n\n" +
-      "1 — Português\n" +
-      "2 — Física\n" +
-      "3 — Química\n" +
-      "4 — Biologia\n" +
-      "5 — Simulado geral\n" +
-      "6 — Exames passados\n" +
-      "7 — Ver desempenho\n" +
-      "8 — Reiniciar\n" +
-      "9 — Ajuda\n" +
-      "10 — Sobre o BIOIA\n" +
-      "11 — Sair\n\n" +
-      "Durante um exercício, responde com a letra da opção correcta.\n" +
-      "Escreve MENU para voltar ao menu principal."
-    );
-
-    return;
-  }
-
-  // SOBRE O BIOIA
-  if (texto === "10") {
-    await enviar(
-      numero,
-      "🤖 *BIOIA — Preparação para Exames*\n\n" +
-      "O BIOIA ajuda-te a preparar os exames de admissão, " +
-      "com perguntas de prática, simulados e acompanhamento do desempenho."
-    );
-
-    return;
-  }
-
-  // SAIR
-  if (texto === "11") {
-    s.modo = "menu";
-    s.atual = null;
+    s.modo = "escolher_variante";
 
     await enviar(
       numero,
-      "👋 Até breve! Quando quiseres estudar novamente, escreve MENU."
+      "📘 *Escolhe a variante do exame:*\n\n" +
+      "A — Variante A\n" +
+      "F — Variante F\n" +
+      "D — Variante D (Medicina — UKB)\n\n" +
+      "Também podes escolher directamente no menu as opções 9, 10 ou 11."
     );
+    return;
+  }
 
+  // ACESSO DIRECTO ÀS VARIANTES A, F E D
+  const variantesMenu = {
+    "9": { disciplina: "variante_a", modo: "escolher_modo_variante_a", nome: "Variante A" },
+    "10": { disciplina: "variante_f", modo: "escolher_modo_variante_f", nome: "Variante F" },
+    "11": { disciplina: "variante_d", modo: "escolher_modo_variante_d", nome: "Variante D — Medicina (UKB)" }
+  };
+
+  if (variantesMenu[texto]) {
+    const variante = variantesMenu[texto];
+    s.disciplina = variante.disciplina;
+    s.modo = variante.modo;
+
+    await enviar(
+      numero,
+      `📘 *${variante.nome} seleccionada.*\n` +
+      "Escolhe o modo:\n" +
+      "1️⃣ Modo Estudo — correcção imediata\n" +
+      "2️⃣ Modo Exame — correcção no fim"
+    );
     return;
   }
 
