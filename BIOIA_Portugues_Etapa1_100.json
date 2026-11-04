@@ -1222,12 +1222,12 @@
     "question": "Na frase «A médica examinou o paciente», «o paciente» é:",
     "options": {
       "A": "Sujeito",
-      "B": "Complemento directo",
+      "B": "Complemento direto",
       "C": "Complemento indirecto",
       "D": "Predicativo do sujeito"
     },
     "correct_answer": "B",
-    "explanation": "O paciente recebe directamente a acção de examinar; é complemento directo."
+    "explanation": "O paciente recebe diretamente a ação de examinar; é complemento direto."
   },
   {
     "id": "PT283",
@@ -1237,12 +1237,12 @@
     "question": "Na frase «O professor entregou os testes aos alunos», «aos alunos» desempenha a função de:",
     "options": {
       "A": "Complemento directo",
-      "B": "Complemento indirecto",
+      "B": "Complemento indireto",
       "C": "Sujeito",
       "D": "Predicativo do complemento directo"
     },
     "correct_answer": "B",
-    "explanation": "A expressão indica os destinatários e funciona como complemento indirecto."
+    "explanation": "A expressão indica os destinatários e funciona como complemento indireto."
   },
   {
     "id": "PT284",
@@ -1332,7 +1332,7 @@
       "D": "Adverbial causal"
     },
     "correct_answer": "A",
-    "explanation": "A oração «que todos participem» funciona como sujeito da expressão «é necessário»: é uma oração subordinada substantiva subjectiva."
+    "explanation": "A oração «que todos participem» funciona como sujeito da expressão «é necessário»: é uma oração subordinada substantiva subjetiva."
   },
   {
     "id": "PT290",
@@ -1392,7 +1392,7 @@
       "D": "eles"
     },
     "correct_answer": "B",
-    "explanation": "«Um livro» é complemento directo masculino singular e pode ser substituído por «o»."
+    "explanation": "«Um livro» é complemento direto masculino singular e pode ser substituído por «o»."
   },
   {
     "id": "PT294",
