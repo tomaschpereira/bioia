@@ -3228,8 +3228,8 @@
       "C": "pequeno",
       "D": "insuficiente"
     },
-    "correct_answer": "A",
-    "explanation": "“raro” exprime uma ideia contrária à de “escasso”."
+    "correct_answer": "B",
+    "explanation": "“Abundante” é o antónimo de “escasso”; “raro” é próximo de “escasso”, não o seu contrário."
   },
   {
     "id": "PT203",
@@ -3308,8 +3308,8 @@
       "C": "homónimas",
       "D": "parónimas"
     },
-    "correct_answer": "A",
-    "explanation": "Sinónimos têm sentidos iguais ou próximos, embora a escolha dependa do contexto."
+    "correct_answer": "B",
+    "explanation": "“Hostil” e “amigável” exprimem sentidos opostos; são antónimos."
   },
   {
     "id": "PT208",
@@ -3381,7 +3381,7 @@
     "topic": "Semântica",
     "subtopic": "Antonímia contextual",
     "difficulty": "Fácil",
-    "question": "Se o autor usa “escasso” em oposição a “raro”, estabelece uma relação de:",
+    "question": "Se o autor usa “escasso” em oposição a “abundante”, estabelece uma relação de:",
     "options": {
       "A": "antonímia",
       "B": "hiperonímia",
@@ -3389,7 +3389,7 @@
       "D": "derivação"
     },
     "correct_answer": "A",
-    "explanation": "As palavras estão em oposição semântica nesse par."
+    "explanation": "“Escasso” e “abundante” exprimem sentidos opostos; são antónimos."
   },
   {
     "id": "PT213",
@@ -3468,8 +3468,8 @@
       "C": "distante",
       "D": "formal"
     },
-    "correct_answer": "A",
-    "explanation": "“amigável” tem significado mais próximo de “hostil” no uso comum."
+    "correct_answer": "B",
+    "explanation": "“Agressivo” é o sinónimo mais próximo de “hostil” entre as opções apresentadas."
   },
   {
     "id": "PT218",
@@ -3548,8 +3548,8 @@
       "C": "pequeno",
       "D": "insuficiente"
     },
-    "correct_answer": "A",
-    "explanation": "“raro” exprime uma ideia contrária à de “escasso”."
+    "correct_answer": "B",
+    "explanation": "“Abundante” é o antónimo de “escasso”; “raro” é próximo de “escasso”, não o seu contrário."
   },
   {
     "id": "PT223",
@@ -3628,8 +3628,8 @@
       "C": "homónimas",
       "D": "parónimas"
     },
-    "correct_answer": "A",
-    "explanation": "Sinónimos têm sentidos iguais ou próximos, embora a escolha dependa do contexto."
+    "correct_answer": "B",
+    "explanation": "“Hostil” e “amigável” exprimem sentidos opostos; são antónimos."
   },
   {
     "id": "PT228",
@@ -3701,7 +3701,7 @@
     "topic": "Semântica",
     "subtopic": "Antonímia contextual",
     "difficulty": "Fácil",
-    "question": "Se o autor usa “escasso” em oposição a “raro”, estabelece uma relação de:",
+    "question": "Se o autor usa “escasso” em oposição a “abundante”, estabelece uma relação de:",
     "options": {
       "A": "antonímia",
       "B": "hiperonímia",
@@ -3709,7 +3709,7 @@
       "D": "derivação"
     },
     "correct_answer": "A",
-    "explanation": "As palavras estão em oposição semântica nesse par."
+    "explanation": "“Escasso” e “abundante” exprimem sentidos opostos; são antónimos."
   },
   {
     "id": "PT233",
@@ -3788,8 +3788,8 @@
       "C": "distante",
       "D": "formal"
     },
-    "correct_answer": "A",
-    "explanation": "“amigável” tem significado mais próximo de “hostil” no uso comum."
+    "correct_answer": "B",
+    "explanation": "“Agressivo” é o sinónimo mais próximo de “hostil” entre as opções apresentadas."
   },
   {
     "id": "PT238",
