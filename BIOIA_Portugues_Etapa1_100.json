@@ -349,15 +349,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Estrutura e formação das palavras",
     "difficulty": "Média",
-    "question": "Em «refazer», o radical/base lexical é:",
+    "question": "Em «refazer», qual é a base lexical a que se junta o prefixo «re-»?",
     "options": {
       "A": "re-",
-      "B": "-fazer",
-      "C": "faz-",
-      "D": "-er"
+      "B": "fazer",
+      "C": "-er",
+      "D": "-mente"
     },
     "correct_answer": "B",
-    "explanation": "O prefixo «re-» acrescenta o sentido de repetição à base «fazer»."
+    "explanation": "O prefixo «re-», com sentido de repetição, junta-se à base lexical «fazer»."
   },
   {
     "id": "PT225",
@@ -424,15 +424,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Estrutura e formação das palavras",
     "difficulty": "Difícil",
-    "question": "Em «desconhecido», identificam-se:",
+    "question": "Na palavra «desconhecido», o elemento «des-» é:",
     "options": {
-      "A": "Apenas um sufixo",
-      "B": "Prefixo, base lexical e sufixo",
-      "C": "Duas palavras independentes",
-      "D": "Apenas uma desinência verbal"
+      "A": "Um prefixo de negação ou oposição",
+      "B": "Um sufixo nominal",
+      "C": "A desinência verbal",
+      "D": "Um elemento de composição"
     },
-    "correct_answer": "B",
-    "explanation": "A palavra contém o prefixo «des-», a base «conhec-» e o sufixo «-ido» na formação do particípio/adjectivo."
+    "correct_answer": "A",
+    "explanation": "«Des-» é um prefixo que se acrescenta a «conhecido», formando «desconhecido» e introduzindo uma ideia de negação ou oposição."
   },
   {
     "id": "PT230",
@@ -664,15 +664,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Semântica e relações lexicais",
     "difficulty": "Fácil",
-    "question": "Em «O banco fica perto do hospital» e «O banco concedeu um empréstimo», ocorre:",
+    "question": "O facto de «banco» poder designar um assento ou uma instituição financeira evidencia:",
     "options": {
-      "A": "Polissemia ou homonímia contextual",
+      "A": "Ambiguidade lexical",
       "B": "Antonímia",
       "C": "Sinonímia",
       "D": "Hiponímia"
     },
     "correct_answer": "A",
-    "explanation": "A forma «banco» apresenta sentidos diferentes conforme o contexto; a classificação pode variar segundo a análise lexical adoptada."
+    "explanation": "O contexto permite identificar qual dos sentidos da palavra «banco» está a ser utilizado. A questão avalia a existência de vários sentidos associados à mesma forma."
   },
   {
     "id": "PT246",
@@ -964,15 +964,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Fácil",
-    "question": "Qual palavra está correctamente acentuada?",
+    "question": "Qual forma verbal está acentuada correctamente para indicar uma acção passada?",
     "options": {
-      "A": "Medico",
-      "B": "Médico",
-      "C": "Medíco",
-      "D": "Medicó"
+      "A": "pode",
+      "B": "pôde",
+      "C": "podê",
+      "D": "póde"
     },
     "correct_answer": "B",
-    "explanation": "«Médico» é esdrúxula e, por isso, leva acento gráfico."
+    "explanation": "«Pôde» é a forma do pretérito perfeito do indicativo do verbo «poder»; «pode», sem acento, corresponde ao presente do indicativo."
   },
   {
     "id": "PT266",
@@ -1024,15 +1024,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Média",
-    "question": "Qual forma está correcta?",
+    "question": "Qual é a grafia correcta segundo a ortografia tradicionalmente usada em Angola?",
     "options": {
       "A": "Excessão",
-      "B": "Exceção",
+      "B": "Excepção",
       "C": "Eceção",
       "D": "Excesssão"
     },
     "correct_answer": "B",
-    "explanation": "A grafia correcta é «exceção» na norma ortográfica actualmente usada em Portugal e Angola."
+    "explanation": "Na grafia tradicionalmente usada em Angola, escreve-se «excepção», com «p» antes de «ç»."
   },
   {
     "id": "PT270",
@@ -1054,15 +1054,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Fácil",
-    "question": "Completa: «Não há ___ para preocupação.»",
+    "question": "Completa: «Não há ___ pessoas na sala.»",
     "options": {
-      "A": "nada",
-      "B": "nada?",
-      "C": "nada",
-      "D": "nada"
+      "A": "nenhum",
+      "B": "nenhumas",
+      "C": "nenhuns",
+      "D": "nenhuma"
     },
-    "correct_answer": "A",
-    "explanation": "A frase correcta é «Não há nada para preocupação»; a alternativa A corresponde à palavra adequada."
+    "correct_answer": "B",
+    "explanation": "«Pessoas» é um nome feminino plural; o determinante indefinido negativo deve concordar em género e número: «nenhumas pessoas»."
   },
   {
     "id": "PT272",
@@ -1162,12 +1162,12 @@
     "question": "Escolhe a frase correcta quanto ao uso de «onde» e «aonde»:",
     "options": {
       "A": "Aonde fica a escola?",
-      "B": "Onde vais amanhã?",
+      "B": "Aonde vais amanhã?",
       "C": "Onde está o livro?",
       "D": "Aonde está o livro?"
     },
     "correct_answer": "C",
-    "explanation": "«Onde» indica localização; «aonde» associa-se a verbos que regem a preposição «a» e exprimem destino."
+    "explanation": "«Onde» indica localização; «aonde» é usado com verbos que regem a preposição «a» e exprimem destino, como «ir»."
   },
   {
     "id": "PT279",
@@ -1326,28 +1326,28 @@
     "difficulty": "Difícil",
     "question": "Em «É necessário que todos participem», a oração «que todos participem» é subordinada substantiva:",
     "options": {
-      "A": "Completiva",
-      "B": "Relativa restritiva",
-      "C": "Adverbial causal",
-      "D": "Coordenada adversativa"
+      "A": "Subjectiva",
+      "B": "Completiva",
+      "C": "Relativa restritiva",
+      "D": "Adverbial causal"
     },
     "correct_answer": "A",
-    "explanation": "A oração completa o sentido da expressão «é necessário» e desempenha função substantiva."
+    "explanation": "A oração «que todos participem» funciona como sujeito da expressão «é necessário»: é uma oração subordinada substantiva subjectiva."
   },
   {
     "id": "PT290",
     "subject": "Língua Portuguesa",
     "topic": "Funcionamento da língua e sintaxe",
     "difficulty": "Fácil",
-    "question": "Qual frase está correcta quanto à concordância verbal?",
+    "question": "Qual frase apresenta concordância verbal correcta?",
     "options": {
-      "A": "A maioria dos alunos chegaram",
-      "B": "A maioria dos alunos chegou",
-      "C": "A maioria dos aluno chegaram",
-      "D": "A maioria dos alunos chegarão ontem"
+      "A": "Os resultados do exame está disponíveis",
+      "B": "Os resultados do exame estão disponíveis",
+      "C": "Os resultado do exame estão disponível",
+      "D": "Os resultados do exame esteve disponíveis"
     },
     "correct_answer": "B",
-    "explanation": "Com «a maioria de», o verbo pode concordar com o núcleo singular «maioria»; a forma singular é adequada."
+    "explanation": "O sujeito «Os resultados do exame» está no plural; por isso, o verbo «estar» também deve ficar no plural: «estão»."
   },
   {
     "id": "PT291",
