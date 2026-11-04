@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT521",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "«O banco concedeu um empréstimo» usa «banco» no sentido de",
+    "options": {
+      "A": "assento",
+      "B": "instituição financeira",
+      "C": "margem de rio",
+      "D": "conjunto de dados"
+    },
+    "correct_answer": "B",
+    "explanation": "O empréstimo identifica a instituição financeira."
+  },
+  {
+    "id": "PT522",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual par apresenta antonímia gradativa?",
+    "options": {
+      "A": "vivo/morto",
+      "B": "presente/ausente",
+      "C": "quente/frio",
+      "D": "solteiro/casado"
+    },
+    "correct_answer": "C",
+    "explanation": "A temperatura admite graus intermédios."
+  },
+  {
+    "id": "PT523",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A oposição entre «comprar» e «vender» é de antónimos:",
+    "options": {
+      "A": "conversos",
+      "B": "complementares",
+      "C": "graduais",
+      "D": "homónimos"
+    },
+    "correct_answer": "A",
+    "explanation": "Os verbos descrevem uma transacção de perspectivas opostas."
+  },
+  {
+    "id": "PT524",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual par é formado por homófonos?",
+    "options": {
+      "A": "cela/sela",
+      "B": "canto/canto",
+      "C": "claro/escuro",
+      "D": "banco/margem"
+    },
+    "correct_answer": "A",
+    "explanation": "«Cela» e «sela» têm pronúncia igual, mas grafia e significado diferentes."
+  },
+  {
+    "id": "PT525",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Sede» (vontade de beber) e «sede» (local principal) são exemplos de:",
+    "options": {
+      "A": "homógrafos",
+      "B": "sinónimos",
+      "C": "hipónimos",
+      "D": "parónimos"
+    },
+    "correct_answer": "A",
+    "explanation": "Têm a mesma grafia, mas pronúncia e significado distintos."
+  },
+  {
+    "id": "PT526",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A palavra «iminente» significa:",
+    "options": {
+      "A": "ilustre",
+      "B": "prestes a acontecer",
+      "C": "muito antigo",
+      "D": "discreto"
+    },
+    "correct_answer": "B",
+    "explanation": "«Iminente» significa que algo está prestes a ocorrer."
+  },
+  {
+    "id": "PT527",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A relação entre «roda» e «automóvel» é de:",
+    "options": {
+      "A": "sinonímia",
+      "B": "parte-todo",
+      "C": "antonímia",
+      "D": "homonímia"
+    },
+    "correct_answer": "B",
+    "explanation": "A roda é uma parte do automóvel."
+  },
+  {
+    "id": "PT528",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «A equipa venceu o campeonato», «equipa» é semanticamente:",
+    "options": {
+      "A": "agente",
+      "B": "instrumento",
+      "C": "destinatário",
+      "D": "causa"
+    },
+    "correct_answer": "A",
+    "explanation": "A equipa realiza a acção de vencer."
+  },
+  {
+    "id": "PT529",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual frase pressupõe que a pessoa estudava anteriormente?",
+    "options": {
+      "A": "Ela estuda diariamente.",
+      "B": "Ela voltou a estudar.",
+      "C": "Ela talvez estude.",
+      "D": "Ela gosta de estudar."
+    },
+    "correct_answer": "B",
+    "explanation": "«Voltou» pressupõe uma actividade anterior interrompida."
+  },
+  {
+    "id": "PT530",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«Até o director compareceu» sugere que a presença do director era:",
+    "options": {
+      "A": "esperada em absoluto",
+      "B": "menos esperada ou surpreendente",
+      "C": "proibida",
+      "D": "impossível"
+    },
+    "correct_answer": "B",
+    "explanation": "O operador «até» destaca um caso considerado menos provável."
+  },
+  {
+    "id": "PT531",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Se todos os mamíferos respiram e a baleia é mamífero, conclui-se que:",
+    "options": {
+      "A": "a baleia respira",
+      "B": "a baleia é peixe",
+      "C": "a baleia não respira",
+      "D": "nenhum mamífero respira"
+    },
+    "correct_answer": "A",
+    "explanation": "A conclusão decorre logicamente das premissas."
+  },
+  {
+    "id": "PT532",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual expressão é idiomática?",
+    "options": {
+      "A": "casa branca",
+      "B": "dar uma mão",
+      "C": "água fria",
+      "D": "livro novo"
+    },
+    "correct_answer": "B",
+    "explanation": "«Dar uma mão» significa ajudar, não entregar literalmente uma mão."
+  },
+  {
+    "id": "PT533",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "«Mais vale prevenir do que remediar» aconselha a:",
+    "options": {
+      "A": "evitar problemas antes que ocorram",
+      "B": "adiar decisões",
+      "C": "ignorar riscos",
+      "D": "agir sem pensar"
+    },
+    "correct_answer": "A",
+    "explanation": "O provérbio valoriza a prevenção."
+  },
+  {
+    "id": "PT534",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "«Aquela pessoa tem um coração de ouro» significa que é:",
+    "options": {
+      "A": "rica",
+      "B": "generosa",
+      "C": "doente",
+      "D": "insensível"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão metafórica caracteriza a bondade."
+  },
+  {
+    "id": "PT535",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Em «A cidade acordou cedo», ocorre:",
+    "options": {
+      "A": "personificação",
+      "B": "eufemismo",
+      "C": "pleonasmo",
+      "D": "onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "Atribui-se à cidade uma acção humana."
+  },
+  {
+    "id": "PT536",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Um mar de gente» é uma metáfora que indica:",
+    "options": {
+      "A": "poucas pessoas",
+      "B": "uma multidão",
+      "C": "água contaminada",
+      "D": "uma viagem marítima"
+    },
+    "correct_answer": "B",
+    "explanation": "«Mar» sugere figuradamente uma quantidade enorme."
+  },
+  {
+    "id": "PT537",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «Li Agostinho Neto durante as férias», o nome do autor pode representar:",
+    "options": {
+      "A": "a obra do autor",
+      "B": "a editora",
+      "C": "o leitor",
+      "D": "a biblioteca"
+    },
+    "correct_answer": "A",
+    "explanation": "O autor é mencionado em lugar da sua obra: metonímia."
+  },
+  {
+    "id": "PT538",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual frase apresenta sentido conotativo?",
+    "options": {
+      "A": "A água ferve.",
+      "B": "O livro tem cem páginas.",
+      "C": "A notícia caiu como uma bomba.",
+      "D": "O exame começa às oito."
+    },
+    "correct_answer": "C",
+    "explanation": "A expressão sugere impacto emocional, não uma explosão literal."
+  },
+  {
+    "id": "PT539",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«A notícia aqueceu-lhe o coração» significa que a notícia causou:",
+    "options": {
+      "A": "aumento de temperatura",
+      "B": "alegria ou emoção",
+      "C": "febre",
+      "D": "dor física"
+    },
+    "correct_answer": "B",
+    "explanation": "«Aqueceu o coração» tem sentido figurado."
+  },
+  {
+    "id": "PT540",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«Diagnóstico, consulta, paciente e tratamento» pertencem ao campo lexical de:",
+    "options": {
+      "A": "medicina",
+      "B": "agricultura",
+      "C": "arquitectura",
+      "D": "astronomia"
+    },
+    "correct_answer": "A",
+    "explanation": "Todos os termos estão associados à área da saúde."
+  },
+  {
+    "id": "PT541",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual é o hiperónimo de «pediatria»?",
+    "options": {
+      "A": "medicina",
+      "B": "pediatra",
+      "C": "criança",
+      "D": "consulta"
+    },
+    "correct_answer": "A",
+    "explanation": "Medicina é a categoria mais abrangente."
+  },
+  {
+    "id": "PT542",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Rosa», «tulipa» e «girassol» são co-hipónimos de:",
+    "options": {
+      "A": "flor",
+      "B": "raiz",
+      "C": "árvore",
+      "D": "semente"
+    },
+    "correct_answer": "A",
+    "explanation": "São tipos específicos de flor."
+  },
+  {
+    "id": "PT543",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual frase elimina a ambiguidade e indica que o telescópio foi usado para observar?",
+    "options": {
+      "A": "Com o telescópio, observei o homem.",
+      "B": "Vi o homem que tinha um telescópio.",
+      "C": "O homem viu-me.",
+      "D": "O homem estava perto do telescópio."
+    },
+    "correct_answer": "A",
+    "explanation": "A expressão inicial identifica o instrumento da observação."
+  },
+  {
+    "id": "PT544",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «A professora falou à aluna porque estava preocupada», a ambiguidade está em:",
+    "options": {
+      "A": "não se saber quem estava preocupada",
+      "B": "falta de verbo",
+      "C": "erro de pontuação obrigatório",
+      "D": "uso de palavra estrangeira"
+    },
+    "correct_answer": "A",
+    "explanation": "O sujeito de «estava» pode ser a professora ou a aluna."
+  },
+  {
+    "id": "PT545",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Em «A cabeça do grupo apresentou o plano», «cabeça» significa:",
+    "options": {
+      "A": "parte do corpo",
+      "B": "líder",
+      "C": "medida",
+      "D": "alimento"
+    },
+    "correct_answer": "B",
+    "explanation": "O contexto usa «cabeça» como líder."
+  },
+  {
+    "id": "PT546",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Em «raiz quadrada», a palavra «raiz» pertence ao domínio:",
+    "options": {
+      "A": "botânica",
+      "B": "matemática",
+      "C": "culinária",
+      "D": "geografia"
+    },
+    "correct_answer": "B",
+    "explanation": "A expressão tem significado matemático específico."
+  },
+  {
+    "id": "PT547",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Em «O médico examinou o doente», «examinou» pode ser substituído por:",
+    "options": {
+      "A": "avaliou",
+      "B": "ignorou",
+      "C": "escondeu",
+      "D": "recusou"
+    },
+    "correct_answer": "A",
+    "explanation": "«Avaliou» preserva o sentido contextual de examinar."
+  },
+  {
+    "id": "PT548",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«Faleceu» em vez de «morreu» é uma escolha que altera sobretudo:",
+    "options": {
+      "A": "o número",
+      "B": "o registo e a carga expressiva",
+      "C": "o tempo verbal",
+      "D": "o género"
+    },
+    "correct_answer": "B",
+    "explanation": "«Faleceu» é uma forma mais suave e formal."
+  },
+  {
+    "id": "PT549",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "O uso de uma palavra com significado diferente em comunidades distintas evidencia:",
+    "options": {
+      "A": "variação semântica",
+      "B": "concordância",
+      "C": "rima",
+      "D": "flexão verbal"
+    },
+    "correct_answer": "A",
+    "explanation": "O significado e o uso podem variar entre comunidades."
+  },
+  {
+    "id": "PT550",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A atribuição de um novo significado a uma palavra ao longo do tempo chama-se:",
+    "options": {
+      "A": "mudança semântica",
+      "B": "derivação",
+      "C": "flexão",
+      "D": "transcrição"
+    },
+    "correct_answer": "A",
+    "explanation": "O léxico muda com as transformações sociais e culturais."
+  },
+  {
+    "id": "PT551",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «O vírus invadiu o sistema informático», «invadiu» é usado por:",
+    "options": {
+      "A": "metáfora",
+      "B": "hiperonímia",
+      "C": "sinonímia",
+      "D": "eufemismo"
+    },
+    "correct_answer": "A",
+    "explanation": "Um verbo associado a invasão física é aplicado à informática."
+  },
+  {
+    "id": "PT552",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual conector introduz uma causa?",
+    "options": {
+      "A": "porque",
+      "B": "embora",
+      "C": "para que",
+      "D": "contudo"
+    },
+    "correct_answer": "A",
+    "explanation": "«Porque» introduz a razão de um acontecimento."
+  },
+  {
+    "id": "PT553",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Apesar da chuva, realizou-se a prova» exprime:",
+    "options": {
+      "A": "concessão",
+      "B": "finalidade",
+      "C": "consequência",
+      "D": "adição"
+    },
+    "correct_answer": "A",
+    "explanation": "A chuva não impediu a realização da prova."
+  },
+  {
+    "id": "PT554",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Não foi o médico que telefonou» pode pressupor que:",
+    "options": {
+      "A": "houve uma chamada",
+      "B": "ninguém telefonou",
+      "C": "o médico não existe",
+      "D": "o telefone avariou"
+    },
+    "correct_answer": "A",
+    "explanation": "A construção correctiva pressupõe normalmente uma chamada."
+  },
+  {
+    "id": "PT555",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual palavra é semanticamente incompatível com «consultório»?",
+    "options": {
+      "A": "médico",
+      "B": "paciente",
+      "C": "consulta",
+      "D": "oceano"
+    },
+    "correct_answer": "D",
+    "explanation": "«Oceano» não pertence normalmente ao domínio de consultório."
+  },
+  {
+    "id": "PT556",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«O silêncio falou mais alto» contém um:",
+    "options": {
+      "A": "paradoxo",
+      "B": "sinónimo",
+      "C": "hiperónimo",
+      "D": "eufemismo"
+    },
+    "correct_answer": "A",
+    "explanation": "A frase aproxima ideias aparentemente contraditórias."
+  },
+  {
+    "id": "PT557",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A expressão «subir para cima» constitui:",
+    "options": {
+      "A": "pleonasmo vicioso",
+      "B": "metáfora",
+      "C": "ironia",
+      "D": "antítese"
+    },
+    "correct_answer": "A",
+    "explanation": "«Para cima» repete uma ideia já contida em «subir»."
+  },
+  {
+    "id": "PT558",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A relação semântica entre «médico» e «profissional de saúde» é de:",
+    "options": {
+      "A": "hiponímia",
+      "B": "homonímia",
+      "C": "antonímia",
+      "D": "paronímia"
+    },
+    "correct_answer": "A",
+    "explanation": "Médico é um tipo de profissional de saúde."
+  },
+  {
+    "id": "PT559",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual frase contém uma hipérbole?",
+    "options": {
+      "A": "Esperei mil anos por esta consulta.",
+      "B": "A consulta começou às nove.",
+      "C": "O médico chegou cedo.",
+      "D": "A sala tem dez cadeiras."
+    },
+    "correct_answer": "A",
+    "explanation": "«Mil anos» é um exagero intencional."
+  },
+  {
+    "id": "PT560",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «Que pontualidade!» dito a quem chegou muito atrasado, há:",
+    "options": {
+      "A": "ironia",
+      "B": "eufemismo",
+      "C": "sinonímia",
+      "D": "hiperonímia"
+    },
+    "correct_answer": "A",
+    "explanation": "A frase diz o contrário do que se pretende comunicar."
+  },
+  {
+    "id": "PT561",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A expressão «partiu desta para melhor» é um exemplo de:",
+    "options": {
+      "A": "eufemismo",
+      "B": "hipérbole",
+      "C": "antítese",
+      "D": "onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "A expressão suaviza a referência à morte."
+  },
+  {
+    "id": "PT562",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«O vento sussurrava entre as árvores» apresenta:",
+    "options": {
+      "A": "personificação",
+      "B": "paronímia",
+      "C": "pleonasmo",
+      "D": "hiperonímia"
+    },
+    "correct_answer": "A",
+    "explanation": "Atribui-se ao vento uma acção humana."
+  },
+  {
+    "id": "PT563",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual par apresenta palavras parónimas?",
+    "options": {
+      "A": "descrição/discrição",
+      "B": "casa/lar",
+      "C": "alto/baixo",
+      "D": "flor/rosa"
+    },
+    "correct_answer": "A",
+    "explanation": "As palavras têm forma semelhante e significados diferentes."
+  },
+  {
+    "id": "PT564",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A relação entre «fruta» e «laranja» é de:",
+    "options": {
+      "A": "hiperonímia/hiponímia",
+      "B": "antonímia",
+      "C": "homofonia",
+      "D": "paronímia"
+    },
+    "correct_answer": "A",
+    "explanation": "«Fruta» é hiperónimo e «laranja» é hipónimo."
+  },
+  {
+    "id": "PT565",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «O hospital anunciou novas medidas», o nome da instituição pode representar os seus responsáveis por:",
+    "options": {
+      "A": "metonímia",
+      "B": "hipérbole",
+      "C": "antítese",
+      "D": "aliteração"
+    },
+    "correct_answer": "A",
+    "explanation": "A instituição é mencionada em lugar das pessoas que nela actuam."
+  },
+  {
+    "id": "PT566",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual expressão indica uma relação de finalidade?",
+    "options": {
+      "A": "para que o doente melhore",
+      "B": "porque o doente melhorou",
+      "C": "embora tenha melhorado",
+      "D": "quando melhorou"
+    },
+    "correct_answer": "A",
+    "explanation": "«Para que» introduz o objectivo da acção."
+  },
+  {
+    "id": "PT567",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«O tratamento foi eficaz; portanto, os sintomas diminuíram». «Portanto» indica:",
+    "options": {
+      "A": "conclusão",
+      "B": "oposição",
+      "C": "condição",
+      "D": "tempo"
+    },
+    "correct_answer": "A",
+    "explanation": "O conector introduz uma conclusão ou consequência."
+  },
+  {
+    "id": "PT568",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«O resultado foi positivo, mas exige confirmação». «Mas» exprime:",
+    "options": {
+      "A": "oposição",
+      "B": "causa",
+      "C": "finalidade",
+      "D": "explicação"
+    },
+    "correct_answer": "A",
+    "explanation": "«Mas» é um conector adversativo."
+  },
+  {
+    "id": "PT569",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A expressão «luz no fim do túnel» significa, em sentido figurado:",
+    "options": {
+      "A": "esperança de solução",
+      "B": "iluminação eléctrica",
+      "C": "fim de uma estrada",
+      "D": "ausência de energia"
+    },
+    "correct_answer": "A",
+    "explanation": "A expressão representa esperança após uma dificuldade."
+  },
+  {
+    "id": "PT570",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Em «O paciente está estável», o adjectivo significa que o estado está:",
+    "options": {
+      "A": "sem grandes alterações",
+      "B": "a piorar rapidamente",
+      "C": "completamente desconhecido",
+      "D": "curado necessariamente"
+    },
+    "correct_answer": "A",
+    "explanation": "No contexto clínico, «estável» indica ausência de alterações importantes."
+  },
+  {
+    "id": "PT571",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual opção é uma antonímia complementar?",
+    "options": {
+      "A": "aberto/fechado",
+      "B": "quente/frio",
+      "C": "alto/baixo",
+      "D": "bom/mau"
+    },
+    "correct_answer": "A",
+    "explanation": "No sentido básico de estado de uma porta, não estar aberta implica estar fechada."
+  },
+  {
+    "id": "PT572",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A expressão «a capital decidiu» pode representar o governo que nela funciona. É um caso de:",
+    "options": {
+      "A": "metonímia",
+      "B": "sinonímia",
+      "C": "hipérbole",
+      "D": "paronímia"
+    },
+    "correct_answer": "A",
+    "explanation": "O lugar é usado para designar a instituição ou os seus representantes."
+  },
+  {
+    "id": "PT573",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "O significado de «positivo» em «resultado positivo» depende sobretudo:",
+    "options": {
+      "A": "do contexto",
+      "B": "da quantidade de sílabas",
+      "C": "da letra inicial",
+      "D": "da ordem alfabética"
+    },
+    "correct_answer": "A",
+    "explanation": "O contexto determina se «positivo» indica detecção, aprovação ou avaliação favorável."
+  },
+  {
+    "id": "PT574",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual frase apresenta uma relação de consequência?",
+    "options": {
+      "A": "A amostra foi contaminada, por isso repetiram a análise.",
+      "B": "Repetiram a análise para aprender.",
+      "C": "Embora chovesse, chegaram.",
+      "D": "Quando chegou, sentou-se."
+    },
+    "correct_answer": "A",
+    "explanation": "«Por isso» introduz o resultado da contaminação."
+  },
+  {
+    "id": "PT575",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Em «O estudo confirmou a hipótese», «confirmou» significa:",
+    "options": {
+      "A": "corroborou",
+      "B": "negou",
+      "C": "escondeu",
+      "D": "ignorou"
+    },
+    "correct_answer": "A",
+    "explanation": "«Corroborou» é sinónimo contextual de confirmar."
+  },
+  {
+    "id": "PT576",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A palavra «malária» é hipónimo de:",
+    "options": {
+      "A": "doença",
+      "B": "medicamento",
+      "C": "sintoma",
+      "D": "hospital"
+    },
+    "correct_answer": "A",
+    "explanation": "Malária é um tipo específico de doença."
+  },
+  {
+    "id": "PT577",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Em «O laboratório analisou a amostra», «amostra» designa:",
+    "options": {
+      "A": "material recolhido para análise",
+      "B": "pessoa que realiza análise",
+      "C": "instrumento de escrita",
+      "D": "resultado final"
+    },
+    "correct_answer": "A",
+    "explanation": "A amostra é o material submetido a exame."
+  },
+  {
+    "id": "PT578",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual expressão contém antítese?",
+    "options": {
+      "A": "Uns choravam, outros sorriam.",
+      "B": "O vento soprava.",
+      "C": "A consulta terminou.",
+      "D": "O paciente entrou."
+    },
+    "correct_answer": "A",
+    "explanation": "A frase contrapõe ideias opostas: chorar e sorrir."
+  },
+  {
+    "id": "PT579",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «A palavra ganhou novo sentido na linguagem digital», ocorreu:",
+    "options": {
+      "A": "ampliação semântica",
+      "B": "erro de concordância",
+      "C": "apócope",
+      "D": "rima"
+    },
+    "correct_answer": "A",
+    "explanation": "Uma palavra pode ampliar os seus usos para nomear novas realidades."
+  },
+  {
+    "id": "PT580",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A relação entre «professor» e «aluno» no acto de ensinar é de:",
+    "options": {
+      "A": "papéis conversos",
+      "B": "sinonímia",
+      "C": "homonímia",
+      "D": "hiperonímia"
+    },
+    "correct_answer": "A",
+    "explanation": "Os papéis são definidos em relação recíproca no processo de ensino."
+  }
+]
