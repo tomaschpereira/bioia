@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT401",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A leitura regular contribui para o desenvolvimento do indivíduo porque permite:",
+    "options": {
+      "A": "Aumentar apenas a velocidade da fala",
+      "B": "Ampliar conhecimentos e desenvolver o pensamento crítico",
+      "C": "Eliminar a necessidade de estudar",
+      "D": "Substituir todas as formas de comunicação"
+    },
+    "correct_answer": "B",
+    "explanation": "A leitura amplia conhecimentos, vocabulário e capacidade de análise."
+  },
+  {
+    "id": "PT402",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Num texto argumentativo, a tese corresponde:",
+    "options": {
+      "A": "À ideia ou posição que o autor procura defender",
+      "B": "Ao conjunto de personagens",
+      "C": "À descrição do espaço",
+      "D": "À lista de referências"
+    },
+    "correct_answer": "A",
+    "explanation": "A tese é a posição central defendida pelo autor."
+  },
+  {
+    "id": "PT403",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Na frase «Consequentemente, a equipa melhorou os resultados», o conector indica:",
+    "options": {
+      "A": "Oposição",
+      "B": "Condição",
+      "C": "Consequência",
+      "D": "Finalidade"
+    },
+    "correct_answer": "C",
+    "explanation": "«Consequentemente» introduz o resultado de uma situação anterior."
+  },
+  {
+    "id": "PT404",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Um manual que explica como utilizar um equipamento é predominantemente:",
+    "options": {
+      "A": "Narrativo",
+      "B": "Instrucional",
+      "C": "Poético",
+      "D": "Descritivo"
+    },
+    "correct_answer": "B",
+    "explanation": "O texto instrucional apresenta orientações e etapas a seguir."
+  },
+  {
+    "id": "PT405",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Na frase «Embora tivesse pouco tempo, concluiu o trabalho», «Embora» exprime:",
+    "options": {
+      "A": "Causa",
+      "B": "Concessão",
+      "C": "Conclusão",
+      "D": "Finalidade"
+    },
+    "correct_answer": "B",
+    "explanation": "A oração concessiva apresenta uma circunstância que não impede a realização da acção."
+  },
+  {
+    "id": "PT406",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Qual frase apresenta uma opinião?",
+    "options": {
+      "A": "A prova ocorreu na segunda-feira.",
+      "B": "O curso tem cinco disciplinas.",
+      "C": "A Medicina é uma das profissões mais nobres.",
+      "D": "A sala possui quarenta carteiras."
+    },
+    "correct_answer": "C",
+    "explanation": "A frase expressa uma avaliação subjectiva, não um dado verificável."
+  },
+  {
+    "id": "PT407",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "No excerto «A escola criou uma biblioteca. Essa iniciativa incentivou a leitura», a expressão «Essa iniciativa» retoma:",
+    "options": {
+      "A": "A leitura",
+      "B": "A escola",
+      "C": "A criação da biblioteca",
+      "D": "O excerto"
+    },
+    "correct_answer": "C",
+    "explanation": "A expressão retoma a acção anteriormente mencionada: criar uma biblioteca."
+  },
+  {
+    "id": "PT408",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A linguagem mais adequada a um relatório é:",
+    "options": {
+      "A": "Formal e objectiva",
+      "B": "Gíria e abreviaturas",
+      "C": "Exclusivamente emotiva",
+      "D": "Ambígua e informal"
+    },
+    "correct_answer": "A",
+    "explanation": "O relatório exige clareza, precisão e registo formal."
+  },
+  {
+    "id": "PT409",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A principal função de um resumo é:",
+    "options": {
+      "A": "Acrescentar opiniões pessoais",
+      "B": "Reproduzir todos os exemplos",
+      "C": "Apresentar de forma breve as ideias essenciais",
+      "D": "Alterar a intenção do autor"
+    },
+    "correct_answer": "C",
+    "explanation": "O resumo selecciona as informações fundamentais e conserva o sentido do texto."
+  },
+  {
+    "id": "PT410",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Ao consultar um edital, o candidato deve primeiro:",
+    "options": {
+      "A": "Ignorar os prazos",
+      "B": "Verificar requisitos, datas e procedimentos",
+      "C": "Ler apenas os comentários",
+      "D": "Preencher dados sem ler as instruções"
+    },
+    "correct_answer": "B",
+    "explanation": "A leitura atenta do edital permite conhecer as condições e os prazos do processo."
+  },
+  {
+    "id": "PT411",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A finalidade de um texto escrito depende sobretudo:",
+    "options": {
+      "A": "Da intenção comunicativa e do contexto",
+      "B": "Do número de letras do título",
+      "C": "Da quantidade de páginas",
+      "D": "Do tipo de papel utilizado"
+    },
+    "correct_answer": "A",
+    "explanation": "O propósito e a situação de comunicação determinam a organização e a linguagem do texto."
+  },
+  {
+    "id": "PT412",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Uma ideia explícita num texto é aquela que:",
+    "options": {
+      "A": "Está directamente apresentada",
+      "B": "Só pode ser adivinhada",
+      "C": "Contradiz o assunto",
+      "D": "Aparece sempre no título"
+    },
+    "correct_answer": "A",
+    "explanation": "A informação explícita encontra-se expressa directamente no texto."
+  },
+  {
+    "id": "PT413",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Quando o leitor identifica a intenção do autor, procura compreender:",
+    "options": {
+      "A": "O objectivo comunicativo do texto",
+      "B": "A dimensão física das páginas",
+      "C": "A idade do leitor",
+      "D": "O número de parágrafos"
+    },
+    "correct_answer": "A",
+    "explanation": "A intenção comunicativa indica o que o autor pretende alcançar."
+  },
+  {
+    "id": "PT414",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A frase que melhor resume «A vacinação protege as pessoas e reduz a propagação de doenças» é:",
+    "options": {
+      "A": "As vacinas são difíceis de transportar.",
+      "B": "A vacinação contribui para a protecção individual e colectiva.",
+      "C": "As doenças não existem.",
+      "D": "A protecção depende apenas dos hospitais."
+    },
+    "correct_answer": "B",
+    "explanation": "A opção reúne as duas ideias essenciais do enunciado."
+  },
+  {
+    "id": "PT415",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Num texto, a sequência cronológica organiza os acontecimentos:",
+    "options": {
+      "A": "Por ordem alfabética",
+      "B": "Segundo a ordem em que ocorrem no tempo",
+      "C": "Pela extensão das frases",
+      "D": "Sem qualquer relação"
+    },
+    "correct_answer": "B",
+    "explanation": "A sequência cronológica respeita a sucessão temporal dos acontecimentos."
+  },
+  {
+    "id": "PT416",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Um texto descritivo procura principalmente:",
+    "options": {
+      "A": "Defender uma tese",
+      "B": "Apresentar características de pessoas, lugares ou objectos",
+      "C": "Dar ordens",
+      "D": "Relatar apenas acontecimentos passados"
+    },
+    "correct_answer": "B",
+    "explanation": "A descrição destaca propriedades, aspectos e características do elemento descrito."
+  },
+  {
+    "id": "PT417",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A linguagem denotativa caracteriza-se pelo uso de palavras:",
+    "options": {
+      "A": "Com sentido literal",
+      "B": "Sempre figurado",
+      "C": "Com sentido secreto",
+      "D": "Exclusivamente poético"
+    },
+    "correct_answer": "A",
+    "explanation": "A denotação corresponde ao sentido literal ou mais directo das palavras."
+  },
+  {
+    "id": "PT418",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Num texto, o destinatário é:",
+    "options": {
+      "A": "A pessoa ou o grupo a quem a mensagem se dirige",
+      "B": "O autor da obra",
+      "C": "O título do texto",
+      "D": "O conjunto de parágrafos"
+    },
+    "correct_answer": "A",
+    "explanation": "O destinatário é quem recebe a mensagem."
+  },
+  {
+    "id": "PT419",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A presença de argumentos e exemplos num texto serve para:",
+    "options": {
+      "A": "Tornar a ideia defendida mais convincente",
+      "B": "Eliminar a tese",
+      "C": "Criar uma sequência temporal",
+      "D": "Substituir o tema"
+    },
+    "correct_answer": "A",
+    "explanation": "Os argumentos justificam a tese e os exemplos ajudam a sustentá-la."
+  },
+  {
+    "id": "PT420",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A adequação textual significa:",
+    "options": {
+      "A": "Usar sempre palavras difíceis",
+      "B": "Adaptar a linguagem e a organização à situação comunicativa",
+      "C": "Escrever sem considerar o leitor",
+      "D": "Evitar qualquer estrutura"
+    },
+    "correct_answer": "B",
+    "explanation": "Um texto adequado considera o objectivo, o destinatário e o contexto."
+  },
+  {
+    "id": "PT421",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Num texto, a ideia principal corresponde:",
+    "options": {
+      "A": "Ao exemplo menos importante apresentado pelo autor",
+      "B": "À informação central que o autor pretende transmitir",
+      "C": "Ao número de parágrafos existentes",
+      "D": "À opinião de uma personagem secundária"
+    },
+    "correct_answer": "B",
+    "explanation": "A ideia principal é a mensagem central do texto, em torno da qual se organizam as informações secundárias."
+  },
+  {
+    "id": "PT422",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "«A leitura permite ao indivíduo adquirir conhecimentos, desenvolver o pensamento crítico e melhorar a comunicação.» Qual é o assunto principal?",
+    "options": {
+      "A": "A importância da leitura",
+      "B": "A dificuldade de escrever",
+      "C": "A história da comunicação",
+      "D": "A utilização dos computadores"
+    },
+    "correct_answer": "A",
+    "explanation": "O excerto apresenta os benefícios da leitura para o desenvolvimento intelectual e comunicativo."
+  },
+  {
+    "id": "PT423",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Quando o leitor relaciona informações para descobrir algo não escrito directamente, faz uma:",
+    "options": {
+      "A": "Cópia textual",
+      "B": "Inferência",
+      "C": "Transcrição",
+      "D": "Enumeração"
+    },
+    "correct_answer": "B",
+    "explanation": "Inferir significa chegar a uma conclusão com base nas pistas e informações do texto."
+  },
+  {
+    "id": "PT424",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "«Apesar das dificuldades económicas, Maria continuou os estudos e conseguiu concluir o ensino médio.» Pode concluir-se que Maria demonstrou:",
+    "options": {
+      "A": "Desinteresse",
+      "B": "Desistência",
+      "C": "Perseverança",
+      "D": "Indiferença"
+    },
+    "correct_answer": "C",
+    "explanation": "Maria enfrentou dificuldades, mas não desistiu. Isso demonstra perseverança."
+  },
+  {
+    "id": "PT425",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A informação secundária serve principalmente para:",
+    "options": {
+      "A": "Eliminar a ideia principal",
+      "B": "Apoiar e desenvolver a ideia principal",
+      "C": "Substituir o título",
+      "D": "Impedir a compreensão"
+    },
+    "correct_answer": "B",
+    "explanation": "As informações secundárias complementam, explicam ou exemplificam a ideia principal."
+  },
+  {
+    "id": "PT426",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Um parágrafo é constituído por:",
+    "options": {
+      "A": "Uma ou várias frases relacionadas com uma ideia",
+      "B": "Apenas uma palavra",
+      "C": "Frases sem qualquer relação entre si",
+      "D": "Exclusivamente por títulos"
+    },
+    "correct_answer": "A",
+    "explanation": "O parágrafo desenvolve uma ideia ou um aspecto específico do assunto tratado."
+  },
+  {
+    "id": "PT427",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Qual é a função principal do título de um texto?",
+    "options": {
+      "A": "Apresentar todas as conclusões",
+      "B": "Identificar ou anunciar o assunto do texto",
+      "C": "Substituir o desenvolvimento",
+      "D": "Indicar o número de páginas"
+    },
+    "correct_answer": "B",
+    "explanation": "O título apresenta uma indicação sobre o conteúdo e ajuda o leitor a antecipar o assunto."
+  },
+  {
+    "id": "PT428",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A introdução de um texto organizado em introdução, desenvolvimento e conclusão tem como finalidade:",
+    "options": {
+      "A": "Apresentar o assunto que será tratado",
+      "B": "Repetir todas as informações",
+      "C": "Apresentar apenas a opinião final",
+      "D": "Encerrar a discussão"
+    },
+    "correct_answer": "A",
+    "explanation": "A introdução apresenta o tema e prepara o leitor para o desenvolvimento das ideias."
+  },
+  {
+    "id": "PT429",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A conclusão de um texto argumentativo deve, geralmente:",
+    "options": {
+      "A": "Introduzir um assunto completamente diferente",
+      "B": "Apresentar uma síntese ou posição final sobre o assunto",
+      "C": "Repetir a introdução palavra por palavra",
+      "D": "Eliminar os argumentos apresentados"
+    },
+    "correct_answer": "B",
+    "explanation": "A conclusão encerra o raciocínio, retomando os aspectos fundamentais e apresentando uma posição final."
+  },
+  {
+    "id": "PT430",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A sequência lógica das ideias num texto contribui para:",
+    "options": {
+      "A": "A confusão do leitor",
+      "B": "A falta de sentido",
+      "C": "A coerência textual",
+      "D": "A repetição desnecessária"
+    },
+    "correct_answer": "C",
+    "explanation": "A coerência depende da organização lógica das ideias e da relação de sentido entre elas."
+  },
+  {
+    "id": "PT431",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "«Estudei bastante, portanto consegui bons resultados.» A palavra «portanto» estabelece uma relação de:",
+    "options": {
+      "A": "Oposição",
+      "B": "Conclusão",
+      "C": "Dúvida",
+      "D": "Comparação"
+    },
+    "correct_answer": "B",
+    "explanation": "«Portanto» introduz uma conclusão ou consequência do que foi apresentado anteriormente."
+  },
+  {
+    "id": "PT432",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Completa correctamente: «O estudante faltou à aula ______ estava doente.»",
+    "options": {
+      "A": "Porque",
+      "B": "Embora",
+      "C": "Contudo",
+      "D": "Portanto"
+    },
+    "correct_answer": "A",
+    "explanation": "«Porque» apresenta a causa da ausência do estudante."
+  },
+  {
+    "id": "PT433",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "«João comprou um livro. Ele começou a lê-lo imediatamente.» O pronome «Ele» refere-se a:",
+    "options": {
+      "A": "Livro",
+      "B": "Imediatamente",
+      "C": "João",
+      "D": "Leitura"
+    },
+    "correct_answer": "C",
+    "explanation": "O pronome «Ele» retoma o nome João, evitando a repetição desnecessária."
+  },
+  {
+    "id": "PT434",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Qual dos conectores indica oposição?",
+    "options": {
+      "A": "Além disso",
+      "B": "Portanto",
+      "C": "Contudo",
+      "D": "Porque"
+    },
+    "correct_answer": "C",
+    "explanation": "«Contudo» introduz uma ideia contrária ou uma ressalva relativamente à informação anterior."
+  },
+  {
+    "id": "PT435",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "«A educação é importante, pois contribui para o desenvolvimento da sociedade.» «Pois» introduz:",
+    "options": {
+      "A": "Uma explicação",
+      "B": "Uma oposição",
+      "C": "Uma comparação",
+      "D": "Uma condição"
+    },
+    "correct_answer": "A",
+    "explanation": "Neste contexto, «pois» apresenta a justificação da importância da educação."
+  },
+  {
+    "id": "PT436",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "O texto narrativo caracteriza-se principalmente por:",
+    "options": {
+      "A": "Apresentar acontecimentos envolvendo personagens",
+      "B": "Apresentar apenas conceitos científicos",
+      "C": "Dar instruções para realizar uma tarefa",
+      "D": "Defender exclusivamente uma opinião"
+    },
+    "correct_answer": "A",
+    "explanation": "A narração apresenta acontecimentos, personagens, espaço e tempo, organizados numa sequência narrativa."
+  },
+  {
+    "id": "PT437",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Um texto que apresenta características de uma pessoa, de um lugar ou de um objecto é predominantemente:",
+    "options": {
+      "A": "Argumentativo",
+      "B": "Descritivo",
+      "C": "Instrucional",
+      "D": "Dialogal"
+    },
+    "correct_answer": "B",
+    "explanation": "O texto descritivo procura apresentar características e propriedades de algo ou alguém."
+  },
+  {
+    "id": "PT438",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Qual é a principal finalidade de um texto argumentativo?",
+    "options": {
+      "A": "Contar uma aventura fictícia",
+      "B": "Descrever uma paisagem",
+      "C": "Defender uma ideia através de argumentos",
+      "D": "Apresentar somente instruções"
+    },
+    "correct_answer": "C",
+    "explanation": "O texto argumentativo procura convencer ou persuadir o leitor por meio de razões, exemplos e argumentos."
+  },
+  {
+    "id": "PT439",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Uma receita culinária é um exemplo de texto:",
+    "options": {
+      "A": "Instrucional",
+      "B": "Narrativo",
+      "C": "Poético",
+      "D": "Argumentativo"
+    },
+    "correct_answer": "A",
+    "explanation": "A receita apresenta instruções e etapas que devem ser seguidas para preparar um alimento."
+  },
+  {
+    "id": "PT440",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Uma notícia tem como principal finalidade:",
+    "options": {
+      "A": "Divertir através de acontecimentos imaginários",
+      "B": "Informar sobre acontecimentos de interesse público",
+      "C": "Apresentar exclusivamente sentimentos pessoais",
+      "D": "Ensinar a preparar uma refeição"
+    },
+    "correct_answer": "B",
+    "explanation": "A notícia comunica acontecimentos relevantes, procurando apresentar informações de interesse para o público."
+  },
+  {
+    "id": "PT441",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Fazer um resumo significa:",
+    "options": {
+      "A": "Reproduzir integralmente o texto original",
+      "B": "Apresentar as ideias essenciais de forma breve",
+      "C": "Acrescentar opiniões sem relação com o texto",
+      "D": "Alterar completamente o sentido do texto"
+    },
+    "correct_answer": "B",
+    "explanation": "O resumo reduz a extensão do texto, preservando as suas ideias fundamentais."
+  },
+  {
+    "id": "PT442",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A paráfrase consiste em:",
+    "options": {
+      "A": "Reproduzir uma ideia por outras palavras, mantendo o seu sentido",
+      "B": "Eliminar todas as informações do texto",
+      "C": "Criar um assunto sem relação com o original",
+      "D": "Copiar obrigatoriamente todas as frases"
+    },
+    "correct_answer": "A",
+    "explanation": "Parafrasear é reformular uma mensagem com palavras diferentes, sem alterar a ideia essencial."
+  },
+  {
+    "id": "PT443",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Num texto académico, a utilização de fontes de informação serve para:",
+    "options": {
+      "A": "Substituir o pensamento do autor",
+      "B": "Dar fundamentação às informações e ideias apresentadas",
+      "C": "Aumentar artificialmente o número de páginas",
+      "D": "Evitar a apresentação de argumentos"
+    },
+    "correct_answer": "B",
+    "explanation": "As fontes permitem fundamentar afirmações, apresentar evidências e reconhecer o trabalho de outros autores."
+  },
+  {
+    "id": "PT444",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Um requerimento é um documento utilizado principalmente para:",
+    "options": {
+      "A": "Narrar acontecimentos imaginários",
+      "B": "Fazer formalmente um pedido a uma entidade ou autoridade",
+      "C": "Descrever personagens de uma história",
+      "D": "Apresentar uma composição poética"
+    },
+    "correct_answer": "B",
+    "explanation": "O requerimento é um documento formal através do qual uma pessoa solicita algo a uma instituição ou autoridade."
+  },
+  {
+    "id": "PT445",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Qual característica é fundamental numa boa produção escrita?",
+    "options": {
+      "A": "Falta de organização das ideias",
+      "B": "Uso excessivo de repetições",
+      "C": "Clareza, coerência e coesão",
+      "D": "Ausência de relação entre os parágrafos"
+    },
+    "correct_answer": "C",
+    "explanation": "Um bom texto deve transmitir a mensagem com clareza, apresentar ideias logicamente organizadas e utilizar mecanismos de ligação."
+  },
+  {
+    "id": "PT446",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A linguagem utilizada num documento oficial deve ser, preferencialmente:",
+    "options": {
+      "A": "Informal e humorística",
+      "B": "Clara, objectiva e formal",
+      "C": "Ambígua e subjectiva",
+      "D": "Exclusivamente literária"
+    },
+    "correct_answer": "B",
+    "explanation": "Os documentos oficiais exigem linguagem formal, clara e objectiva."
+  },
+  {
+    "id": "PT447",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Num texto expositivo, o autor procura principalmente:",
+    "options": {
+      "A": "Apresentar e explicar informações sobre determinado assunto",
+      "B": "Contar uma história imaginária",
+      "C": "Expressar exclusivamente sentimentos",
+      "D": "Convencer através de ataques pessoais"
+    },
+    "correct_answer": "A",
+    "explanation": "O texto expositivo apresenta conhecimentos e esclarece determinado tema."
+  },
+  {
+    "id": "PT448",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A finalidade principal de um relatório é:",
+    "options": {
+      "A": "Criar uma história fictícia",
+      "B": "Registar e apresentar informações sobre uma actividade ou situação",
+      "C": "Apresentar apenas opiniões sem fundamento",
+      "D": "Produzir versos e rimas"
+    },
+    "correct_answer": "B",
+    "explanation": "O relatório apresenta informações organizadas sobre actividades, observações ou acontecimentos."
+  },
+  {
+    "id": "PT449",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Num texto, a expressão «Em primeiro lugar» é utilizada para:",
+    "options": {
+      "A": "Indicar uma sequência ou ordem de ideias",
+      "B": "Apresentar uma oposição",
+      "C": "Indicar uma consequência",
+      "D": "Introduzir uma dúvida"
+    },
+    "correct_answer": "A",
+    "explanation": "A expressão ajuda a organizar as informações numa sequência lógica."
+  },
+  {
+    "id": "PT450",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "«A água é indispensável à vida. Por isso, devemos evitar o seu desperdício.» A expressão «Por isso» introduz:",
+    "options": {
+      "A": "Uma consequência",
+      "B": "Uma comparação",
+      "C": "Uma oposição",
+      "D": "Uma condição"
+    },
+    "correct_answer": "A",
+    "explanation": "A necessidade de preservar a água decorre da importância que ela tem para a vida."
+  },
+  {
+    "id": "PT451",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A principal característica de um texto informativo é:",
+    "options": {
+      "A": "Apresentar informações sobre determinado assunto",
+      "B": "Apresentar obrigatoriamente personagens",
+      "C": "Utilizar apenas linguagem figurada",
+      "D": "Evitar a transmissão de conhecimentos"
+    },
+    "correct_answer": "A",
+    "explanation": "O texto informativo tem como objectivo transmitir dados e conhecimentos ao leitor."
+  },
+  {
+    "id": "PT452",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A expressão «Em conclusão» é normalmente utilizada para:",
+    "options": {
+      "A": "Iniciar uma descrição",
+      "B": "Introduzir o encerramento de uma exposição de ideias",
+      "C": "Apresentar uma personagem",
+      "D": "Indicar uma dúvida"
+    },
+    "correct_answer": "B",
+    "explanation": "É um marcador discursivo utilizado para introduzir a conclusão de um raciocínio."
+  },
+  {
+    "id": "PT453",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A opinião do autor distingue-se de um facto porque:",
+    "options": {
+      "A": "A opinião expressa uma avaliação ou ponto de vista pessoal",
+      "B": "A opinião é sempre comprovada cientificamente",
+      "C": "O facto depende exclusivamente dos sentimentos",
+      "D": "Não existe diferença entre ambos"
+    },
+    "correct_answer": "A",
+    "explanation": "O facto pode ser verificado, enquanto a opinião representa uma interpretação ou avaliação de alguém."
+  },
+  {
+    "id": "PT454",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Qual opção representa uma característica de um texto narrativo?",
+    "options": {
+      "A": "Personagens, acontecimentos e sequência temporal",
+      "B": "Apenas dados estatísticos",
+      "C": "Exclusivamente instruções",
+      "D": "Ausência de acontecimentos"
+    },
+    "correct_answer": "A",
+    "explanation": "A narrativa organiza acontecimentos que envolvem personagens num determinado tempo e espaço."
+  },
+  {
+    "id": "PT455",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A leitura crítica de um texto exige que o leitor:",
+    "options": {
+      "A": "Aceite todas as informações sem questionar",
+      "B": "Analise, compare e avalie as informações apresentadas",
+      "C": "Memorize apenas o título",
+      "D": "Ignore os argumentos do autor"
+    },
+    "correct_answer": "B",
+    "explanation": "A leitura crítica implica reflexão, avaliação da informação e identificação dos argumentos utilizados."
+  },
+  {
+    "id": "PT456",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A unidade temática de um texto significa que:",
+    "options": {
+      "A": "Todas as ideias estão relacionadas com o assunto central",
+      "B": "Cada parágrafo aborda um assunto sem ligação aos restantes",
+      "C": "O texto não apresenta título",
+      "D": "As frases devem ter o mesmo número de palavras"
+    },
+    "correct_answer": "A",
+    "explanation": "A unidade temática garante que as diferentes partes do texto contribuem para o desenvolvimento do mesmo assunto."
+  },
+  {
+    "id": "PT457",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Quando um autor apresenta um problema e, em seguida, propõe medidas para o resolver, utiliza uma organização baseada em:",
+    "options": {
+      "A": "Problema e solução",
+      "B": "Descrição física",
+      "C": "Diálogo teatral",
+      "D": "Enumeração de personagens"
+    },
+    "correct_answer": "A",
+    "explanation": "Esta organização apresenta uma situação problemática e possíveis soluções."
+  },
+  {
+    "id": "PT458",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Qual é a finalidade de uma carta formal?",
+    "options": {
+      "A": "Comunicar informalmente com amigos através de brincadeiras",
+      "B": "Estabelecer uma comunicação escrita respeitosa e institucional",
+      "C": "Apresentar exclusivamente uma narrativa fictícia",
+      "D": "Substituir todos os documentos oficiais"
+    },
+    "correct_answer": "B",
+    "explanation": "A carta formal é utilizada para comunicar com instituições, autoridades ou pessoas em contextos profissionais."
+  },
+  {
+    "id": "PT459",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "A repetição excessiva de palavras pode prejudicar:",
+    "options": {
+      "A": "A clareza e a qualidade da expressão escrita",
+      "B": "A existência de parágrafos",
+      "C": "A identificação do autor",
+      "D": "A quantidade de páginas"
+    },
+    "correct_answer": "A",
+    "explanation": "Repetições desnecessárias tornam a leitura menos fluida. Pronomes e expressões equivalentes podem melhorar o texto."
+  },
+  {
+    "id": "PT460",
+    "subject": "Língua Portuguesa",
+    "topic": "Texto Escrito",
+    "difficulty": "Média",
+    "question": "Um texto bem construído deve apresentar:",
+    "options": {
+      "A": "Ideias contraditórias e desorganizadas",
+      "B": "Ausência de ligação entre frases",
+      "C": "Clareza, coerência, coesão e adequação ao contexto",
+      "D": "Repetição constante da mesma informação"
+    },
+    "correct_answer": "C",
+    "explanation": "Estas características permitem transmitir uma mensagem compreensível, organizada e apropriada à situação comunicativa."
+  }
+]
