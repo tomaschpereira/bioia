@@ -529,15 +529,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Estrutura e formação das palavras",
     "difficulty": "Média",
-    "question": "Qual é o feminino de «actor» segundo a formação regular do par?",
+    "question": "Qual é o feminino de «ator», segundo a ortografia actualmente usada em Portugal?",
     "options": {
-      "A": "Actora",
-      "B": "Actriz",
-      "C": "Actores",
-      "D": "Actoria"
+      "A": "Atora",
+      "B": "Atriz",
+      "C": "Atores",
+      "D": "Atoria"
     },
     "correct_answer": "B",
-    "explanation": "O feminino tradicional de «actor» é «actriz»."
+    "explanation": "O feminino de «ator» é «atriz». A forma «ator» é a grafia actualmente usada em Portugal."
   },
   {
     "id": "PT237",
@@ -859,15 +859,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Semântica e relações lexicais",
     "difficulty": "Difícil",
-    "question": "Em «O silêncio gritava na sala», há uma associação de ideias aparentemente contraditórias. O recurso é:",
+    "question": "Em «O silêncio gritava na sala», atribui-se ao silêncio uma acção própria de um ser humano. O recurso expressivo é:",
     "options": {
       "A": "Eufemismo",
-      "B": "Paradoxo",
+      "B": "Personificação",
       "C": "Enumeração",
       "D": "Pleonasmo"
     },
     "correct_answer": "B",
-    "explanation": "O paradoxo aproxima ideias que parecem incompatíveis para produzir um efeito expressivo."
+    "explanation": "Atribui-se ao silêncio a capacidade humana de gritar; trata-se de personificação."
   },
   {
     "id": "PT259",
@@ -979,15 +979,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Média",
-    "question": "A divisão silábica correcta de «adjectivo» é:",
+    "question": "Qual é a divisão silábica correcta da palavra «adjetivo»?",
     "options": {
-      "A": "a-djec-ti-vo",
-      "B": "ad-jec-ti-vo",
-      "C": "adje-cti-vo",
-      "D": "a-djec-tivo"
+      "A": "a-dje-ti-vo",
+      "B": "ad-je-ti-vo",
+      "C": "adje-ti-vo",
+      "D": "ad-je-tivo"
     },
     "correct_answer": "B",
-    "explanation": "A divisão respeita a separação silábica: ad-jec-ti-vo."
+    "explanation": "A palavra «adjetivo» divide-se em quatro sílabas: ad-je-ti-vo. Esta é a grafia actualmente usada em Portugal."
   },
   {
     "id": "PT267",
@@ -1024,15 +1024,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Média",
-    "question": "Qual é a grafia correcta segundo a ortografia tradicionalmente usada em Angola?",
+    "question": "Qual é a grafia correcta segundo a ortografia actualmente usada em Portugal?",
     "options": {
       "A": "Excessão",
       "B": "Excepção",
       "C": "Eceção",
-      "D": "Excesssão"
+      "D": "Exceção"
     },
-    "correct_answer": "B",
-    "explanation": "Na grafia tradicionalmente usada em Angola, escreve-se «excepção», com «p» antes de «ç»."
+    "correct_answer": "D",
+    "explanation": "Segundo o Acordo Ortográfico de 1990, actualmente usado em Portugal, escreve-se «exceção», sem «p» antes de «ç»."
   },
   {
     "id": "PT270",
