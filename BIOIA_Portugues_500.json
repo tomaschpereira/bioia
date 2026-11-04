@@ -165,7 +165,7 @@
     "topic": "Texto escrito",
     "subtopic": "Ideia principal",
     "difficulty": "Fácil",
-    "question": "Lê: “Embora estivesse cansada, Joana reviu as respostas.” A expressão “embora” introduz uma ideia de: (na biblioteca).",
+    "question": "Lê: “Embora estivesse cansada, Joana reviu as respostas.” A expressão “embora” introduz uma ideia de:",
     "options": {
       "A": "concessão",
       "B": "finalidade",
@@ -181,7 +181,7 @@
     "topic": "Texto escrito",
     "subtopic": "Inferência",
     "difficulty": "Fácil",
-    "question": "Lê: “O candidato estudou diariamente, consultou gramáticas e resolveu exercícios.” O texto evidencia principalmente: (na biblioteca).",
+    "question": "Lê: “O candidato estudou diariamente, consultou gramáticas e resolveu exercícios.” O texto evidencia principalmente:",
     "options": {
       "A": "uma sequência de preparação",
       "B": "uma discussão sem solução",
@@ -197,7 +197,7 @@
     "topic": "Texto escrito",
     "subtopic": "Coesão referencial",
     "difficulty": "Média",
-    "question": "Lê: “A equipa recolheu amostras para identificar a origem da contaminação.” A finalidade da recolha era: (na biblioteca).",
+    "question": "Lê: “A equipa recolheu amostras para identificar a origem da contaminação.” A finalidade da recolha era:",
     "options": {
       "A": "decorar o laboratório",
       "B": "identificar a origem da contaminação",
@@ -213,7 +213,7 @@
     "topic": "Texto escrito",
     "subtopic": "Conector adversativo",
     "difficulty": "Média",
-    "question": "Lê: “O posto de saúde alargou o horário; por isso, mais moradores conseguiram ser atendidos.” O conector “por isso” exprime: (na biblioteca).",
+    "question": "Lê: “O posto de saúde alargou o horário; por isso, mais moradores conseguiram ser atendidos.” O conector “por isso” exprime:",
     "options": {
       "A": "causa",
       "B": "consequência",
@@ -229,7 +229,7 @@
     "topic": "Texto escrito",
     "subtopic": "Relação causal",
     "difficulty": "Difícil",
-    "question": "Lê: “A biblioteca recebeu novos manuais. Esses materiais serão catalogados amanhã.” “Esses materiais” refere-se a: (na biblioteca).",
+    "question": "Lê: “A biblioteca recebeu novos manuais. Esses materiais serão catalogados amanhã.” “Esses materiais” refere-se a:",
     "options": {
       "A": "a biblioteca",
       "B": "os novos manuais",
@@ -245,7 +245,7 @@
     "topic": "Texto escrito",
     "subtopic": "Facto e opinião",
     "difficulty": "Fácil",
-    "question": "Lê: “O médico explicou os cuidados. Depois, entregou as recomendações por escrito.” “Depois” indica: (na biblioteca).",
+    "question": "Lê: “O médico explicou os cuidados. Depois, entregou as recomendações por escrito.” “Depois” indica:",
     "options": {
       "A": "lugar",
       "B": "tempo",
@@ -261,7 +261,7 @@
     "topic": "Texto escrito",
     "subtopic": "Tipologia textual",
     "difficulty": "Fácil",
-    "question": "Lê: “O texto apresenta dados, compara resultados e termina com uma recomendação.” A organização sugere um texto: (na biblioteca).",
+    "question": "Lê: “O texto apresenta dados, compara resultados e termina com uma recomendação.” A organização sugere um texto:",
     "options": {
       "A": "informativo-argumentativo",
       "B": "exclusivamente dialogal",
@@ -277,7 +277,7 @@
     "topic": "Texto escrito",
     "subtopic": "Conclusão",
     "difficulty": "Média",
-    "question": "Lê: “O relatório foi revisto pela equipa antes de ser enviado.” A informação explícita é que o relatório: (na biblioteca).",
+    "question": "Lê: “O relatório foi revisto pela equipa antes de ser enviado.” A informação explícita é que o relatório:",
     "options": {
       "A": "foi enviado sem revisão",
       "B": "foi revisto antes do envio",
@@ -293,7 +293,7 @@
     "topic": "Texto escrito",
     "subtopic": "Coerência",
     "difficulty": "Média",
-    "question": "Lê: “A água potável é essencial; contudo, muitas comunidades ainda têm acesso limitado.” “Contudo” assinala: (na biblioteca).",
+    "question": "Lê: “A água potável é essencial; contudo, muitas comunidades ainda têm acesso limitado.” “Contudo” assinala:",
     "options": {
       "A": "contraste",
       "B": "explicação",
@@ -309,7 +309,7 @@
     "topic": "Texto escrito",
     "subtopic": "Objectivo comunicativo",
     "difficulty": "Difícil",
-    "question": "Lê: “Nem todos os inscritos compareceram, mas a prova realizou-se.” Pode concluir-se que: (na biblioteca).",
+    "question": "Lê: “Nem todos os inscritos compareceram, mas a prova realizou-se.” Pode concluir-se que:",
     "options": {
       "A": "ninguém compareceu",
       "B": "a ausência de alguns não impediu a prova",
@@ -325,7 +325,7 @@
     "topic": "Texto escrito",
     "subtopic": "Ideia principal",
     "difficulty": "Fácil",
-    "question": "Lê: “O relatório foi revisto pela equipa antes de ser enviado.” A informação explícita é que o relatório: (durante uma consulta).",
+    "question": "Lê: “O relatório foi revisto pela equipa antes de ser enviado.” A informação explícita é que o relatório:",
     "options": {
       "A": "foi enviado sem revisão",
       "B": "foi revisto antes do envio",
@@ -341,7 +341,7 @@
     "topic": "Texto escrito",
     "subtopic": "Inferência",
     "difficulty": "Fácil",
-    "question": "Lê: “A água potável é essencial; contudo, muitas comunidades ainda têm acesso limitado.” “Contudo” assinala: (durante uma consulta).",
+    "question": "Lê: “A água potável é essencial; contudo, muitas comunidades ainda têm acesso limitado.” “Contudo” assinala:",
     "options": {
       "A": "contraste",
       "B": "explicação",
@@ -357,7 +357,7 @@
     "topic": "Texto escrito",
     "subtopic": "Coesão referencial",
     "difficulty": "Média",
-    "question": "Lê: “Nem todos os inscritos compareceram, mas a prova realizou-se.” Pode concluir-se que: (durante uma consulta).",
+    "question": "Lê: “Nem todos os inscritos compareceram, mas a prova realizou-se.” Pode concluir-se que:",
     "options": {
       "A": "ninguém compareceu",
       "B": "a ausência de alguns não impediu a prova",
@@ -373,7 +373,7 @@
     "topic": "Texto escrito",
     "subtopic": "Conector adversativo",
     "difficulty": "Média",
-    "question": "Lê: “Embora estivesse cansada, Joana reviu as respostas.” A expressão “embora” introduz uma ideia de: (durante uma consulta).",
+    "question": "Lê: “Embora estivesse cansada, Joana reviu as respostas.” A expressão “embora” introduz uma ideia de:",
     "options": {
       "A": "concessão",
       "B": "finalidade",
@@ -389,7 +389,7 @@
     "topic": "Texto escrito",
     "subtopic": "Relação causal",
     "difficulty": "Difícil",
-    "question": "Lê: “O candidato estudou diariamente, consultou gramáticas e resolveu exercícios.” O texto evidencia principalmente: (durante uma consulta).",
+    "question": "Lê: “O candidato estudou diariamente, consultou gramáticas e resolveu exercícios.” O texto evidencia principalmente:",
     "options": {
       "A": "uma sequência de preparação",
       "B": "uma discussão sem solução",
@@ -405,7 +405,7 @@
     "topic": "Texto escrito",
     "subtopic": "Facto e opinião",
     "difficulty": "Fácil",
-    "question": "Lê: “A equipa recolheu amostras para identificar a origem da contaminação.” A finalidade da recolha era: (durante uma consulta).",
+    "question": "Lê: “A equipa recolheu amostras para identificar a origem da contaminação.” A finalidade da recolha era:",
     "options": {
       "A": "decorar o laboratório",
       "B": "identificar a origem da contaminação",
@@ -421,7 +421,7 @@
     "topic": "Texto escrito",
     "subtopic": "Tipologia textual",
     "difficulty": "Fácil",
-    "question": "Lê: “O posto de saúde alargou o horário; por isso, mais moradores conseguiram ser atendidos.” O conector “por isso” exprime: (durante uma consulta).",
+    "question": "Lê: “O posto de saúde alargou o horário; por isso, mais moradores conseguiram ser atendidos.” O conector “por isso” exprime:",
     "options": {
       "A": "causa",
       "B": "consequência",
@@ -437,7 +437,7 @@
     "topic": "Texto escrito",
     "subtopic": "Conclusão",
     "difficulty": "Média",
-    "question": "Lê: “A biblioteca recebeu novos manuais. Esses materiais serão catalogados amanhã.” “Esses materiais” refere-se a: (durante uma consulta).",
+    "question": "Lê: “A biblioteca recebeu novos manuais. Esses materiais serão catalogados amanhã.” “Esses materiais” refere-se a:",
     "options": {
       "A": "a biblioteca",
       "B": "os novos manuais",
@@ -453,7 +453,7 @@
     "topic": "Texto escrito",
     "subtopic": "Coerência",
     "difficulty": "Média",
-    "question": "Lê: “O médico explicou os cuidados. Depois, entregou as recomendações por escrito.” “Depois” indica: (durante uma consulta).",
+    "question": "Lê: “O médico explicou os cuidados. Depois, entregou as recomendações por escrito.” “Depois” indica:",
     "options": {
       "A": "lugar",
       "B": "tempo",
@@ -469,7 +469,7 @@
     "topic": "Texto escrito",
     "subtopic": "Objectivo comunicativo",
     "difficulty": "Difícil",
-    "question": "Lê: “O texto apresenta dados, compara resultados e termina com uma recomendação.” A organização sugere um texto: (durante uma consulta).",
+    "question": "Lê: “O texto apresenta dados, compara resultados e termina com uma recomendação.” A organização sugere um texto:",
     "options": {
       "A": "informativo-argumentativo",
       "B": "exclusivamente dialogal",
