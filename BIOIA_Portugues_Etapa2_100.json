@@ -1352,17 +1352,17 @@
   {
     "id": "PT391",
     "subject": "Língua Portuguesa",
-    "topic": "Funcionamento da língua e sintaxe",
+    "topic": "Funcionamento da língua e sintaxe — futuro do conjuntivo",
     "difficulty": "Média",
-    "question": "Em «Quando chegares, telefona-me», «chegares» está no:",
+    "question": "Completa: «Quando os candidatos ___ o resultado, deverão confirmar a inscrição.»",
     "options": {
-      "A": "Conjuntivo futuro",
-      "B": "Indicativo presente",
-      "C": "Imperativo",
-      "D": "Infinitivo pessoal"
+      "A": "sabem",
+      "B": "souberam",
+      "C": "saberão",
+      "D": "souberem"
     },
-    "correct_answer": "A",
-    "explanation": "A oração temporal usa o futuro do conjuntivo."
+    "correct_answer": "D",
+    "explanation": "«Souberem» é o futuro do conjuntivo do verbo «saber», usado na oração temporal com referência a uma situação futura: «Quando os candidatos souberem o resultado…»."
   },
   {
     "id": "PT392",
