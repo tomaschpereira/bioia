@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT521",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Num relatório clínico, «o doente apresentou febre» usa «febre» em sentido:",
+    "options": {
+      "A": "Denotativo, pois nomeia directamente um fenómeno",
+      "B": "Conotativo, pois cria uma imagem poética",
+      "C": "Irónico, pois exprime o contrário",
+      "D": "Metafórico, pois substitui uma pessoa"
+    },
+    "correct_answer": "A",
+    "explanation": "O sentido denotativo é o sentido directo e convencional da palavra."
+  },
+  {
+    "id": "PT522",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Na frase «A febre é um sinal que deve ser avaliado», a palavra «febre» foi usada com valor:",
+    "options": {
+      "A": "Denotativo, pois nomeia directamente um fenómeno",
+      "B": "Conotativo, pois cria uma imagem poética",
+      "C": "Irónico, pois exprime o contrário",
+      "D": "Metafórico, pois substitui uma pessoa"
+    },
+    "correct_answer": "A",
+    "explanation": "O sentido denotativo é o sentido directo e convencional da palavra."
+  },
+  {
+    "id": "PT523",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Assinale a interpretação literal de «febre» no contexto de uma consulta.",
+    "options": {
+      "A": "Denotativo, pois nomeia directamente um fenómeno",
+      "B": "Conotativo, pois cria uma imagem poética",
+      "C": "Irónico, pois exprime o contrário",
+      "D": "Metafórico, pois substitui uma pessoa"
+    },
+    "correct_answer": "A",
+    "explanation": "O sentido denotativo é o sentido directo e convencional da palavra."
+  },
+  {
+    "id": "PT524",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Na expressão «o coração da equipa», «coração» está em sentido:",
+    "options": {
+      "A": "Literal",
+      "B": "Figurado, por extensão metafórica",
+      "C": "Técnico-científico obrigatório",
+      "D": "Antónimo"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra é usada figuradamente para indicar o elemento central ou essencial."
+  },
+  {
+    "id": "PT525",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «A solidariedade é o coração do projecto», identifica-se:",
+    "options": {
+      "A": "Literal",
+      "B": "Figurado, por extensão metafórica",
+      "C": "Técnico-científico obrigatório",
+      "D": "Antónimo"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra é usada figuradamente para indicar o elemento central ou essencial."
+  },
+  {
+    "id": "PT526",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A palavra «coração» em «o coração da cidade» apresenta uso:",
+    "options": {
+      "A": "Literal",
+      "B": "Figurado, por extensão metafórica",
+      "C": "Técnico-científico obrigatório",
+      "D": "Antónimo"
+    },
+    "correct_answer": "B",
+    "explanation": "A palavra é usada figuradamente para indicar o elemento central ou essencial."
+  },
+  {
+    "id": "PT527",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual palavra é sinónima de « célere»?",
+    "options": {
+      "A": "Lenta",
+      "B": "Rápida",
+      "C": "Incerta",
+      "D": "Rara"
+    },
+    "correct_answer": "B",
+    "explanation": "«Célere» significa rápido ou veloz."
+  },
+  {
+    "id": "PT528",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Num texto científico, «resposta célere» pode ser substituída por:",
+    "options": {
+      "A": "Lenta",
+      "B": "Rápida",
+      "C": "Incerta",
+      "D": "Rara"
+    },
+    "correct_answer": "B",
+    "explanation": "«Célere» significa rápido ou veloz."
+  },
+  {
+    "id": "PT529",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "O sinónimo mais adequado de «célere» é:",
+    "options": {
+      "A": "Lenta",
+      "B": "Rápida",
+      "C": "Incerta",
+      "D": "Rara"
+    },
+    "correct_answer": "B",
+    "explanation": "«Célere» significa rápido ou veloz."
+  },
+  {
+    "id": "PT530",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual é o antónimo de «benigno»?",
+    "options": {
+      "A": "Maligno",
+      "B": "Favorável",
+      "C": "Inofensivo",
+      "D": "Leve"
+    },
+    "correct_answer": "A",
+    "explanation": "«Maligno» exprime sentido contrário ao de «benigno»."
+  },
+  {
+    "id": "PT531",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na classificação de uma condição, o termo oposto a «benigno» é:",
+    "options": {
+      "A": "Maligno",
+      "B": "Favorável",
+      "C": "Inofensivo",
+      "D": "Leve"
+    },
+    "correct_answer": "A",
+    "explanation": "«Maligno» exprime sentido contrário ao de «benigno»."
+  },
+  {
+    "id": "PT532",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A relação lexical entre «benigno» e «maligno» é de:",
+    "options": {
+      "A": "Maligno",
+      "B": "Favorável",
+      "C": "Inofensivo",
+      "D": "Leve"
+    },
+    "correct_answer": "A",
+    "explanation": "«Maligno» exprime sentido contrário ao de «benigno»."
+  },
+  {
+    "id": "PT533",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "«Descrição» e «discrição» são palavras:",
+    "options": {
+      "A": "Sinónimas",
+      "B": "Parónimas",
+      "C": "Antónimas",
+      "D": "Hiperónimas"
+    },
+    "correct_answer": "B",
+    "explanation": "Parónimos têm forma ou som semelhantes, mas significados diferentes."
+  },
+  {
+    "id": "PT534",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A semelhança formal entre «descrição» e «discrição», com significados distintos, caracteriza:",
+    "options": {
+      "A": "Sinónimas",
+      "B": "Parónimas",
+      "C": "Antónimas",
+      "D": "Hiperónimas"
+    },
+    "correct_answer": "B",
+    "explanation": "Parónimos têm forma ou som semelhantes, mas significados diferentes."
+  },
+  {
+    "id": "PT535",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Escolha a classificação adequada para «descrição/discrição».",
+    "options": {
+      "A": "Sinónimas",
+      "B": "Parónimas",
+      "C": "Antónimas",
+      "D": "Hiperónimas"
+    },
+    "correct_answer": "B",
+    "explanation": "Parónimos têm forma ou som semelhantes, mas significados diferentes."
+  },
+  {
+    "id": "PT536",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A palavra «manga» (fruto/parte da camisa) exemplifica:",
+    "options": {
+      "A": "Polissemia ou homonímia, conforme a análise lexical adoptada",
+      "B": "Antonímia",
+      "C": "Hiponímia obrigatória",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "A",
+    "explanation": "A mesma forma «manga» possui sentidos diferentes; a classificação pode depender da relação histórica entre os sentidos."
+  },
+  {
+    "id": "PT537",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Quando uma mesma forma lexical apresenta significados distintos relacionados ou não, pode ocorrer:",
+    "options": {
+      "A": "Polissemia ou homonímia, conforme a análise lexical adoptada",
+      "B": "Antonímia",
+      "C": "Hiponímia obrigatória",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "A",
+    "explanation": "A mesma forma «manga» possui sentidos diferentes; a classificação pode depender da relação histórica entre os sentidos."
+  },
+  {
+    "id": "PT538",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A palavra «manga» é exemplo escolar de:",
+    "options": {
+      "A": "Polissemia ou homonímia, conforme a análise lexical adoptada",
+      "B": "Antonímia",
+      "C": "Hiponímia obrigatória",
+      "D": "Derivação regressiva"
+    },
+    "correct_answer": "A",
+    "explanation": "A mesma forma «manga» possui sentidos diferentes; a classificação pode depender da relação histórica entre os sentidos."
+  },
+  {
+    "id": "PT539",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "«Instrumento» é hiperónimo de «estetoscópio» porque:",
+    "options": {
+      "A": "Designa uma categoria mais geral",
+      "B": "Designa um elemento mais específico",
+      "C": "Tem sentido contrário",
+      "D": "É uma palavra homófona"
+    },
+    "correct_answer": "A",
+    "explanation": "Hiperónimo é o termo de significado mais abrangente que inclui outros."
+  },
+  {
+    "id": "PT540",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na relação entre «instrumento» e «estetoscópio», o termo mais abrangente é:",
+    "options": {
+      "A": "Designa uma categoria mais geral",
+      "B": "Designa um elemento mais específico",
+      "C": "Tem sentido contrário",
+      "D": "É uma palavra homófona"
+    },
+    "correct_answer": "A",
+    "explanation": "Hiperónimo é o termo de significado mais abrangente que inclui outros."
+  },
+  {
+    "id": "PT541",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Qual termo funciona como hiperónimo de «seringa»?",
+    "options": {
+      "A": "Designa uma categoria mais geral",
+      "B": "Designa um elemento mais específico",
+      "C": "Tem sentido contrário",
+      "D": "É uma palavra homófona"
+    },
+    "correct_answer": "A",
+    "explanation": "Hiperónimo é o termo de significado mais abrangente que inclui outros."
+  },
+  {
+    "id": "PT542",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Rosa» é hipónimo de «flor» porque:",
+    "options": {
+      "A": "É mais específico e pertence à categoria indicada",
+      "B": "É mais geral do que a categoria",
+      "C": "Tem significado oposto",
+      "D": "É foneticamente idêntico"
+    },
+    "correct_answer": "A",
+    "explanation": "Hipónimo é o termo específico incluído no significado de um termo mais geral."
+  },
+  {
+    "id": "PT543",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Na relação «doença — malária», «malária» é:",
+    "options": {
+      "A": "É mais específico e pertence à categoria indicada",
+      "B": "É mais geral do que a categoria",
+      "C": "Tem significado oposto",
+      "D": "É foneticamente idêntico"
+    },
+    "correct_answer": "A",
+    "explanation": "Hipónimo é o termo específico incluído no significado de um termo mais geral."
+  },
+  {
+    "id": "PT544",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual afirmação explica correctamente a hiponímia?",
+    "options": {
+      "A": "É mais específico e pertence à categoria indicada",
+      "B": "É mais geral do que a categoria",
+      "C": "Tem significado oposto",
+      "D": "É foneticamente idêntico"
+    },
+    "correct_answer": "A",
+    "explanation": "Hipónimo é o termo específico incluído no significado de um termo mais geral."
+  },
+  {
+    "id": "PT545",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A frase «O médico observou o estudante com o microscópio» pode ser ambígua porque:",
+    "options": {
+      "A": "Não se percebe a quem pertence ou a que se liga o instrumento",
+      "B": "Há uma palavra escrita incorrectamente",
+      "C": "O verbo está sempre no futuro",
+      "D": "A frase não tem sujeito"
+    },
+    "correct_answer": "A",
+    "explanation": "O complemento «com o microscópio/binóculos» pode ligar-se a constituintes diferentes."
+  },
+  {
+    "id": "PT546",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A ambiguidade sintáctica ocorre quando:",
+    "options": {
+      "A": "Não se percebe a quem pertence ou a que se liga o instrumento",
+      "B": "Há uma palavra escrita incorrectamente",
+      "C": "O verbo está sempre no futuro",
+      "D": "A frase não tem sujeito"
+    },
+    "correct_answer": "A",
+    "explanation": "O complemento «com o microscópio/binóculos» pode ligar-se a constituintes diferentes."
+  },
+  {
+    "id": "PT547",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Qual é a razão da ambiguidade em «Vi o professor com os binóculos»?",
+    "options": {
+      "A": "Não se percebe a quem pertence ou a que se liga o instrumento",
+      "B": "Há uma palavra escrita incorrectamente",
+      "C": "O verbo está sempre no futuro",
+      "D": "A frase não tem sujeito"
+    },
+    "correct_answer": "A",
+    "explanation": "O complemento «com o microscópio/binóculos» pode ligar-se a constituintes diferentes."
+  },
+  {
+    "id": "PT548",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Em «A cultura de bactérias foi analisada», o contexto ajuda a determinar «cultura» como:",
+    "options": {
+      "A": "Cultivo ou crescimento de células em condições controladas",
+      "B": "Conjunto de costumes de um povo",
+      "C": "Formação artística",
+      "D": "Cerimónia tradicional"
+    },
+    "correct_answer": "A",
+    "explanation": "O contexto técnico selecciona o sentido de cultivo/desenvolvimento biológico."
+  },
+  {
+    "id": "PT549",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A palavra «cultura» pode significar conhecimento ou cultivo; numa frase laboratorial, o contexto indica:",
+    "options": {
+      "A": "Cultivo ou crescimento de células em condições controladas",
+      "B": "Conjunto de costumes de um povo",
+      "C": "Formação artística",
+      "D": "Cerimónia tradicional"
+    },
+    "correct_answer": "A",
+    "explanation": "O contexto técnico selecciona o sentido de cultivo/desenvolvimento biológico."
+  },
+  {
+    "id": "PT550",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "O sentido de «cultura» em «cultura celular» é:",
+    "options": {
+      "A": "Cultivo ou crescimento de células em condições controladas",
+      "B": "Conjunto de costumes de um povo",
+      "C": "Formação artística",
+      "D": "Cerimónia tradicional"
+    },
+    "correct_answer": "A",
+    "explanation": "O contexto técnico selecciona o sentido de cultivo/desenvolvimento biológico."
+  },
+  {
+    "id": "PT551",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Hospital, médico, enfermeiro, consulta» constituem um campo lexical associado a:",
+    "options": {
+      "A": "Saúde e actividade clínica",
+      "B": "Agricultura",
+      "C": "Navegação",
+      "D": "Arquitectura"
+    },
+    "correct_answer": "A",
+    "explanation": "Campo lexical reúne palavras associadas a uma mesma área temática."
+  },
+  {
+    "id": "PT552",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Qual é o campo lexical comum a «diagnóstico, consulta, paciente, tratamento»?",
+    "options": {
+      "A": "Saúde e actividade clínica",
+      "B": "Agricultura",
+      "C": "Navegação",
+      "D": "Arquitectura"
+    },
+    "correct_answer": "A",
+    "explanation": "Campo lexical reúne palavras associadas a uma mesma área temática."
+  },
+  {
+    "id": "PT553",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "As palavras «análise, laboratório, amostra e reagente» pertencem ao campo lexical de:",
+    "options": {
+      "A": "Saúde e actividade clínica",
+      "B": "Agricultura",
+      "C": "Navegação",
+      "D": "Arquitectura"
+    },
+    "correct_answer": "A",
+    "explanation": "Campo lexical reúne palavras associadas a uma mesma área temática."
+  },
+  {
+    "id": "PT554",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Na frase «O laboratório anunciou os resultados», «laboratório» representa os profissionais por metonímia?",
+    "options": {
+      "A": "Metonímia",
+      "B": "Antítese",
+      "C": "Hipérbole",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "A metonímia substitui um termo por outro com o qual mantém relação de proximidade."
+  },
+  {
+    "id": "PT555",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «Luanda celebrou a vitória», o nome da cidade pode representar os seus habitantes: trata-se de:",
+    "options": {
+      "A": "Metonímia",
+      "B": "Antítese",
+      "C": "Hipérbole",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "A metonímia substitui um termo por outro com o qual mantém relação de proximidade."
+  },
+  {
+    "id": "PT556",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A substituição do autor pela obra em «Li Agostinho Neto» é exemplo de:",
+    "options": {
+      "A": "Metonímia",
+      "B": "Antítese",
+      "C": "Hipérbole",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "A metonímia substitui um termo por outro com o qual mantém relação de proximidade."
+  },
+  {
+    "id": "PT557",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Em «A esperança abriu uma janela», a expressão destaca uma ideia por:",
+    "options": {
+      "A": "Metáfora",
+      "B": "Pleonasmo",
+      "C": "Eufemismo",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "A metáfora estabelece uma identificação figurada sem usar comparação explícita."
+  },
+  {
+    "id": "PT558",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "«A informação é uma ponte para o conhecimento» contém:",
+    "options": {
+      "A": "Metáfora",
+      "B": "Pleonasmo",
+      "C": "Eufemismo",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "A metáfora estabelece uma identificação figurada sem usar comparação explícita."
+  },
+  {
+    "id": "PT559",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "No enunciado «A ciência ilumina a sociedade», identifica-se:",
+    "options": {
+      "A": "Metáfora",
+      "B": "Pleonasmo",
+      "C": "Eufemismo",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "A metáfora estabelece uma identificação figurada sem usar comparação explícita."
+  },
+  {
+    "id": "PT560",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Que pontualidade!» dito a alguém que chegou muito atrasado pode ser:",
+    "options": {
+      "A": "Dizer algo cujo sentido pretendido contrasta com o literal",
+      "B": "Repetir sons consonânticos",
+      "C": "Enumerar factos neutros",
+      "D": "Usar sempre o sentido técnico"
+    },
+    "correct_answer": "A",
+    "explanation": "A ironia cria um contraste entre o enunciado literal e a intenção comunicativa."
+  },
+  {
+    "id": "PT561",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Quando se afirma «Excelente organização!» perante uma desordem evidente, ocorre:",
+    "options": {
+      "A": "Dizer algo cujo sentido pretendido contrasta com o literal",
+      "B": "Repetir sons consonânticos",
+      "C": "Enumerar factos neutros",
+      "D": "Usar sempre o sentido técnico"
+    },
+    "correct_answer": "A",
+    "explanation": "A ironia cria um contraste entre o enunciado literal e a intenção comunicativa."
+  },
+  {
+    "id": "PT562",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A ironia caracteriza-se por:",
+    "options": {
+      "A": "Dizer algo cujo sentido pretendido contrasta com o literal",
+      "B": "Repetir sons consonânticos",
+      "C": "Enumerar factos neutros",
+      "D": "Usar sempre o sentido técnico"
+    },
+    "correct_answer": "A",
+    "explanation": "A ironia cria um contraste entre o enunciado literal e a intenção comunicativa."
+  },
+  {
+    "id": "PT563",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A expressão «partiu desta para melhor» pode suavizar a referência à morte por meio de:",
+    "options": {
+      "A": "Eufemismo",
+      "B": "Hipérbole",
+      "C": "Antonomásia",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "O eufemismo atenua uma realidade ou expressão considerada dura."
+  },
+  {
+    "id": "PT564",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "O recurso que substitui uma expressão considerada desagradável por outra mais suave chama-se:",
+    "options": {
+      "A": "Eufemismo",
+      "B": "Hipérbole",
+      "C": "Antonomásia",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "O eufemismo atenua uma realidade ou expressão considerada dura."
+  },
+  {
+    "id": "PT565",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Num comunicado sensível, «faleceu» em vez de «morreu» pode funcionar como:",
+    "options": {
+      "A": "Eufemismo",
+      "B": "Hipérbole",
+      "C": "Antonomásia",
+      "D": "Onomatopeia"
+    },
+    "correct_answer": "A",
+    "explanation": "O eufemismo atenua uma realidade ou expressão considerada dura."
+  },
+  {
+    "id": "PT566",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Em «Esperei uma eternidade», há uma:",
+    "options": {
+      "A": "Hipérbole",
+      "B": "Litotes",
+      "C": "Metonímia",
+      "D": "Comparação"
+    },
+    "correct_answer": "A",
+    "explanation": "A hipérbole é um exagero expressivo intencional."
+  },
+  {
+    "id": "PT567",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A afirmação «havia mil pessoas na fila», usada para exagerar, é:",
+    "options": {
+      "A": "Hipérbole",
+      "B": "Litotes",
+      "C": "Metonímia",
+      "D": "Comparação"
+    },
+    "correct_answer": "A",
+    "explanation": "A hipérbole é um exagero expressivo intencional."
+  },
+  {
+    "id": "PT568",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "A figura que intensifica uma ideia por exagero chama-se:",
+    "options": {
+      "A": "Hipérbole",
+      "B": "Litotes",
+      "C": "Metonímia",
+      "D": "Comparação"
+    },
+    "correct_answer": "A",
+    "explanation": "A hipérbole é um exagero expressivo intencional."
+  },
+  {
+    "id": "PT569",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A expressão «silêncio ensurdecedor» aproxima ideias aparentemente opostas e constitui:",
+    "options": {
+      "A": "Oxímoro",
+      "B": "Sinónimo",
+      "C": "Hipónimo",
+      "D": "Pleonasmo"
+    },
+    "correct_answer": "A",
+    "explanation": "O oxímoro combina palavras de sentidos aparentemente incompatíveis."
+  },
+  {
+    "id": "PT570",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "Em «luz escura», num contexto poético, pode ocorrer:",
+    "options": {
+      "A": "Oxímoro",
+      "B": "Sinónimo",
+      "C": "Hipónimo",
+      "D": "Pleonasmo"
+    },
+    "correct_answer": "A",
+    "explanation": "O oxímoro combina palavras de sentidos aparentemente incompatíveis."
+  },
+  {
+    "id": "PT571",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Difícil",
+    "question": "A associação de termos contraditórios numa mesma expressão chama-se:",
+    "options": {
+      "A": "Oxímoro",
+      "B": "Sinónimo",
+      "C": "Hipónimo",
+      "D": "Pleonasmo"
+    },
+    "correct_answer": "A",
+    "explanation": "O oxímoro combina palavras de sentidos aparentemente incompatíveis."
+  },
+  {
+    "id": "PT572",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "«Subir para cima» apresenta repetição desnecessária de uma ideia, isto é:",
+    "options": {
+      "A": "Pleonasmo vicioso",
+      "B": "Metáfora",
+      "C": "Antítese",
+      "D": "Eufemismo"
+    },
+    "correct_answer": "A",
+    "explanation": "O pleonasmo vicioso repete desnecessariamente uma ideia."
+  },
+  {
+    "id": "PT573",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "A expressão «elo de ligação» pode ser considerada:",
+    "options": {
+      "A": "Pleonasmo vicioso",
+      "B": "Metáfora",
+      "C": "Antítese",
+      "D": "Eufemismo"
+    },
+    "correct_answer": "A",
+    "explanation": "O pleonasmo vicioso repete desnecessariamente uma ideia."
+  },
+  {
+    "id": "PT574",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Quando se repete uma informação já contida no sentido de outra palavra, ocorre:",
+    "options": {
+      "A": "Pleonasmo vicioso",
+      "B": "Metáfora",
+      "C": "Antítese",
+      "D": "Eufemismo"
+    },
+    "correct_answer": "A",
+    "explanation": "O pleonasmo vicioso repete desnecessariamente uma ideia."
+  },
+  {
+    "id": "PT575",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Na frase «O tratamento foi eficaz; portanto, os sintomas diminuíram», «portanto» estabelece:",
+    "options": {
+      "A": "Conclusão ou consequência",
+      "B": "Oposição",
+      "C": "Condição",
+      "D": "Concessão"
+    },
+    "correct_answer": "A",
+    "explanation": "Estes conectores apresentam uma conclusão ou consequência lógica."
+  },
+  {
+    "id": "PT576",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "O conector «por conseguinte» introduz uma relação de:",
+    "options": {
+      "A": "Conclusão ou consequência",
+      "B": "Oposição",
+      "C": "Condição",
+      "D": "Concessão"
+    },
+    "correct_answer": "A",
+    "explanation": "Estes conectores apresentam uma conclusão ou consequência lógica."
+  },
+  {
+    "id": "PT577",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Média",
+    "question": "Em «O exame confirmou a hipótese, logo o diagnóstico foi revisto», «logo» indica:",
+    "options": {
+      "A": "Conclusão ou consequência",
+      "B": "Oposição",
+      "C": "Condição",
+      "D": "Concessão"
+    },
+    "correct_answer": "A",
+    "explanation": "Estes conectores apresentam uma conclusão ou consequência lógica."
+  },
+  {
+    "id": "PT578",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Na frase «O resultado foi positivo, mas exige confirmação», «mas» exprime:",
+    "options": {
+      "A": "Oposição ou contraste",
+      "B": "Causa",
+      "C": "Finalidade",
+      "D": "Explicação"
+    },
+    "correct_answer": "A",
+    "explanation": "«Mas», «contudo» e «porém» são conectores adversativos."
+  },
+  {
+    "id": "PT579",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "O conector «contudo» estabelece uma relação de:",
+    "options": {
+      "A": "Oposição ou contraste",
+      "B": "Causa",
+      "C": "Finalidade",
+      "D": "Explicação"
+    },
+    "correct_answer": "A",
+    "explanation": "«Mas», «contudo» e «porém» são conectores adversativos."
+  },
+  {
+    "id": "PT580",
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica",
+    "difficulty": "Médio",
+    "question": "Em «Estudou muito, porém não alcançou a nota», o conector assinala:",
+    "options": {
+      "A": "Oposição ou contraste",
+      "B": "Causa",
+      "C": "Finalidade",
+      "D": "Explicação"
+    },
+    "correct_answer": "A",
+    "explanation": "«Mas», «contudo» e «porém» são conectores adversativos."
+  }
+]
