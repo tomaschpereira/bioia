@@ -1594,7 +1594,7 @@
     "subject": "Língua Portuguesa",
     "topic": "Estrutura das palavras — composição",
     "difficulty": "Difícil",
-    "question": "Qual palavra é formada por composição por justaposição na análise escolar tradicional?",
+    "question": "Qual palavra é formada por composição por aglutinação, na análise escolar tradicional?",
     "options": {
       "A": "Infelizmente",
       "B": "Girassol",
@@ -1602,7 +1602,7 @@
       "D": "Bondoso"
     },
     "correct_answer": "B",
-    "explanation": "«Girassol» resulta da junção de duas bases lexicais, «gira» e «sol», mantendo elementos reconhecíveis sem uma simples afixação."
+    "explanation": "«Girassol» resulta da fusão de duas bases lexicais («gira» + «sol»), com alteração da forma dos elementos na palavra composta; é um exemplo tradicional de composição por aglutinação."
   },
   {
     "id": "PT108",
@@ -1819,15 +1819,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Representação gráfica — palavras juntas e separadas",
     "difficulty": "Média",
-    "question": "Qual opção completa correctamente a frase: «Não sei ___ ele faltou.»",
+    "question": "Completa correctamente a frase: «Não sei ___ ele faltou.»",
     "options": {
       "A": "porque",
       "B": "por que",
       "C": "porquê",
       "D": "por quê"
     },
-    "correct_answer": "A",
-    "explanation": "Neste contexto, «porque» introduz a causa ou explicação da falta: «Não sei porque ele faltou»."
+    "correct_answer": "B",
+    "explanation": "Trata-se de uma interrogativa indirecta equivalente a «Não sei por que razão ele faltou». Usa-se «por que», separado."
   },
   {
     "id": "PT123",
@@ -2179,7 +2179,7 @@
     "subject": "Língua Portuguesa",
     "topic": "Concordância verbal — expressão partitiva",
     "difficulty": "Difícil",
-    "question": "Completa de acordo com uma concordância normativa possível: «A maioria dos estudantes ___ a tempo.»",
+    "question": "Completa: «A maioria da turma ___ a tempo.»",
     "options": {
       "A": "chegaram",
       "B": "chegou",
@@ -2187,7 +2187,7 @@
       "D": "chegavas"
     },
     "correct_answer": "B",
-    "explanation": "Com o núcleo singular «maioria», a concordância no singular é adequada: «A maioria dos estudantes chegou a tempo». Em certos contextos, a concordância com o complemento plural também pode ocorrer."
+    "explanation": "O núcleo do sujeito é «maioria», um nome singular; por isso, nesta frase, a concordância faz-se no singular: «A maioria da turma chegou a tempo»."
   },
   {
     "id": "PT147",
