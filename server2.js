@@ -640,6 +640,45 @@ async function processar(numero, textoRecebido) {
     return;
   }
   
+  if (s.modo === "meu_desempenho") {
+    if (texto === "0" || texto === "menu") {
+      s.modo = "menu";
+      await enviar(numero, menu());
+      return;
+    }
+
+    if (texto === "1") {
+      const erros = Array.isArray(s.erros) ? s.erros : [];
+      if (!erros.length) {
+        await enviar(numero, "✅ Ainda não há erros registados nesta atividade. Continua a estudar!");
+        return;
+      }
+
+      const revisao = erros.map((erro, i) =>
+        `${i + 1}. ${erro.pergunta}\n` +
+        `A tua resposta: ${erro.tuaResposta || "Não registada"}\n` +
+        `Resposta correcta: ${erro.correta || "Não identificada"}\n` +
+        `Tema: ${erro.tema || "Não identificado"}\n` +
+        `Explicação: ${erro.explicacao || "Sem explicação disponível."}`
+      ).join("\n\n");
+
+      await enviarEmPartes(
+        numero,
+        `📚 *ERROS DESTA ATIVIDADE*\nTotal de erros: ${erros.length}\n\n${revisao}`
+      );
+      return;
+    }
+
+    if (texto === "2") {
+      await enviar(numero, resumoDesempenho(s));
+      return;
+    }
+
+    await enviar(numero, "Escolhe 1 para rever erros, 2 para ver o relatório ou 0 para voltar ao menu.");
+    return;
+  }
+
+
   // MENU PRINCIPAL
   if (texto === "1") {
     return iniciar(numero, s, "portugues");
@@ -699,43 +738,6 @@ async function processar(numero, textoRecebido) {
     return;
   }
 
-  if (s.modo === "meu_desempenho") {
-    if (texto === "0" || texto === "menu") {
-      s.modo = "menu";
-      await enviar(numero, menu());
-      return;
-    }
-
-    if (texto === "1") {
-      const erros = Array.isArray(s.erros) ? s.erros : [];
-      if (!erros.length) {
-        await enviar(numero, "✅ Ainda não há erros registados nesta atividade. Continua a estudar!");
-        return;
-      }
-
-      const revisao = erros.map((erro, i) =>
-        `${i + 1}. ${erro.pergunta}\n` +
-        `A tua resposta: ${erro.tuaResposta || "Não registada"}\n` +
-        `Resposta correcta: ${erro.correta || "Não identificada"}\n` +
-        `Tema: ${erro.tema || "Não identificado"}\n` +
-        `Explicação: ${erro.explicacao || "Sem explicação disponível."}`
-      ).join("\n\n");
-
-      await enviarEmPartes(
-        numero,
-        `📚 *ERROS DESTA ATIVIDADE*\nTotal de erros: ${erros.length}\n\n${revisao}`
-      );
-      return;
-    }
-
-    if (texto === "2") {
-      await enviar(numero, resumoDesempenho(s));
-      return;
-    }
-
-    await enviar(numero, "Escolhe 1 para rever erros, 2 para ver o relatório ou 0 para voltar ao menu.");
-    return;
-  }
 
   // EXAMES PASSADOS — ESCOLHER VARIANTE
   if (texto === "7") {
