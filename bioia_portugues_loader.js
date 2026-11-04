@@ -7,7 +7,8 @@ function carregarBancoPortugues() {
     "BIOIA_Portugues_Etapa1_100.json",
     "BIOIA_Portugues_Etapa2_100.json",
     "BIOIA_Portugues_Tema1_TextoEscrito_60.json",
-    "BIOIA_Portugues_Tema2_EstruturaPalavras_60.json"
+    "BIOIA_Portugues_Tema2_EstruturaPalavras_60.json",
+    "BIOIA_Portugues_Tema3_Semantica_60.json"
   ];
 
   const letras = ["A", "B", "C", "D"];
