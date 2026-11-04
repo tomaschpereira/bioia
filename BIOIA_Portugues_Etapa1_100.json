@@ -904,15 +904,15 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Fácil",
-    "question": "Quantas sílabas tem a palavra «medicina»?",
+    "question": "Completa: «Não há ___ motivo para preocupação.»",
     "options": {
-      "A": "Duas",
-      "B": "Três",
-      "C": "Quatro",
-      "D": "Cinco"
+      "A": "nenhum",
+      "B": "algum",
+      "C": "qualquer",
+      "D": "alguém"
     },
-    "correct_answer": "C",
-    "explanation": "A divisão é me-di-ci-na: quatro sílabas."
+    "correct_answer": "A",
+    "explanation": "A construção negativa «não há nenhum motivo» é correcta e exprime a inexistência de motivo para preocupação."
   },
   {
     "id": "PT262",
@@ -1084,7 +1084,7 @@
     "subject": "Língua Portuguesa",
     "topic": "Fonética, fonologia e representação gráfica",
     "difficulty": "Média",
-    "question": "Completa: «O estudante passou ___ da sala.»",
+    "question": "Completa: «A farmácia fica ___ de cem metros da escola.»",
     "options": {
       "A": "acerca",
       "B": "há cerca",
@@ -1092,7 +1092,7 @@
       "D": "à cerca"
     },
     "correct_answer": "C",
-    "explanation": "«A cerca de» pode indicar distância; nesta frase, a construção adequada seria «passou a cerca da sala»? A formulação é pouco natural; a alternativa pretendida é C."
+    "explanation": "A expressão «a cerca de» indica distância aproximada. «Acerca de» significa «sobre»; «há cerca de» indica tempo decorrido."
   },
   {
     "id": "PT274",
