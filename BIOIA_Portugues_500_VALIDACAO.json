@@ -1,0 +1,34 @@
+{
+  "bank": "BIOIA_Portugues_500.json",
+  "branch": "feature/portugues-500-questoes",
+  "total": 500,
+  "expected_topics": [
+    "Texto escrito",
+    "Estrutura das palavras",
+    "Semântica",
+    "Fonética e Fonologia",
+    "Representação gráfica da Língua falada"
+  ],
+  "counts_by_topic": {
+    "Texto escrito": 100,
+    "Estrutura das palavras": 100,
+    "Semântica": 100,
+    "Fonética e Fonologia": 100,
+    "Representação gráfica da Língua falada": 100
+  },
+  "structural_validation": "PASS",
+  "unique_ids": "PASS",
+  "options_A_to_D": "PASS",
+  "correct_answer_keys": "PASS",
+  "explanations_present": "PASS",
+  "normalized_question_stems": {
+    "status": "FAIL",
+    "duplicate_groups": 50,
+    "records_in_duplicate_groups": 300
+  },
+  "integration": {
+    "status": "NOT_CHANGED",
+    "reason": "O loader actual ainda aponta para BIOIA_Portugues_200_Normalizado.json. A integração fica bloqueada até eliminar as repetições e rever a qualidade pedagógica."
+  },
+  "production": "NOT_MERGED"
+}
