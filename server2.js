@@ -27,9 +27,7 @@ const scryptAsync = promisify(crypto.scrypt);
 const pool = process.env.DATABASE_URL
   ? new Pool({
       connectionString: process.env.DATABASE_URL,
-      ssl: process.env.DATABASE_URL.includes("render.com")
-        ? { rejectUnauthorized: false }
-        : (process.env.PGSSL === "true" ? { rejectUnauthorized: false } : undefined)
+      ssl: process.env.PGSSL === "false" ? undefined : { rejectUnauthorized: false }
     })
   : null;
 
