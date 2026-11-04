@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PT641",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Grafema é uma: (item 1)",
+    "options": {
+      "A": "unidade gráfica",
+      "B": "unidade sonora",
+      "C": "sílaba",
+      "D": "pausa"
+    },
+    "correct_answer": "A",
+    "explanation": "Grafema é uma unidade do sistema de escrita."
+  },
+  {
+    "id": "PT642",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Em «chave», o dígrafo é: (item 2)",
+    "options": {
+      "A": "ch",
+      "B": "av",
+      "C": "ve",
+      "D": "ha"
+    },
+    "correct_answer": "A",
+    "explanation": "ch representa um único fonema."
+  },
+  {
+    "id": "PT643",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Em «ninho», o dígrafo é: (item 3)",
+    "options": {
+      "A": "nh",
+      "B": "ni",
+      "C": "in",
+      "D": "ho"
+    },
+    "correct_answer": "A",
+    "explanation": "nh representa um único som consonântico."
+  },
+  {
+    "id": "PT644",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Letra e fonema distinguem-se porque: (item 4)",
+    "options": {
+      "A": "letra é escrita; fonema é som distintivo",
+      "B": "ambos são sons",
+      "C": "ambos são sinais",
+      "D": "fonema é sílaba"
+    },
+    "correct_answer": "A",
+    "explanation": "A letra é gráfica; o fonema é sonoro."
+  },
+  {
+    "id": "PT645",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Quantas letras tem o alfabeto português atual? (item 5)",
+    "options": {
+      "A": "23",
+      "B": "24",
+      "C": "26",
+      "D": "28"
+    },
+    "correct_answer": "C",
+    "explanation": "O alfabeto tem 26 letras."
+  },
+  {
+    "id": "PT646",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Que conjunto integra o alfabeto atual? (item 6)",
+    "options": {
+      "A": "K, W e Y",
+      "B": "apenas K e W",
+      "C": "apenas Y",
+      "D": "nenhuma"
+    },
+    "correct_answer": "A",
+    "explanation": "K, W e Y integram o alfabeto."
+  },
+  {
+    "id": "PT647",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Grafia correta de exceção: (item 7)",
+    "options": {
+      "A": "excessão",
+      "B": "exceção",
+      "C": "esceção",
+      "D": "excessam"
+    },
+    "correct_answer": "B",
+    "explanation": "A forma correta é exceção."
+  },
+  {
+    "id": "PT648",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Grafia correta de privilégio: (item 8)",
+    "options": {
+      "A": "privilégio",
+      "B": "previlégio",
+      "C": "privilêgio",
+      "D": "prevelégio"
+    },
+    "correct_answer": "A",
+    "explanation": "A forma correta é privilégio."
+  },
+  {
+    "id": "PT649",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Grafia correta de beneficente: (item 9)",
+    "options": {
+      "A": "beneficiente",
+      "B": "beneficente",
+      "C": "benefissente",
+      "D": "beneficênte"
+    },
+    "correct_answer": "B",
+    "explanation": "Escreve-se beneficente."
+  },
+  {
+    "id": "PT650",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Grafia correta de disciplina: (item 10)",
+    "options": {
+      "A": "disciplina",
+      "B": "diciplina",
+      "C": "disiplina",
+      "D": "dissiplina"
+    },
+    "correct_answer": "A",
+    "explanation": "A grafia correta é disciplina."
+  },
+  {
+    "id": "PT651",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Grafia correta de necessário: (item 11)",
+    "options": {
+      "A": "necessário",
+      "B": "necesário",
+      "C": "nessessário",
+      "D": "neccessário"
+    },
+    "correct_answer": "A",
+    "explanation": "Necessário escreve-se com c e ss."
+  },
+  {
+    "id": "PT652",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafia — Grafia correta de ascensão: (item 12)",
+    "options": {
+      "A": "ascenção",
+      "B": "ascensão",
+      "C": "ascessão",
+      "D": "assensão"
+    },
+    "correct_answer": "B",
+    "explanation": "A grafia correta é ascensão."
+  },
+  {
+    "id": "PT653",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual palavra está corretamente acentuada? (item 13)",
+    "options": {
+      "A": "lapis",
+      "B": "cafe",
+      "C": "avó",
+      "D": "util"
+    },
+    "correct_answer": "C",
+    "explanation": "Avó recebe acento agudo."
+  },
+  {
+    "id": "PT654",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual palavra leva acento circunflexo? (item 14)",
+    "options": {
+      "A": "avô",
+      "B": "papeis",
+      "C": "heroi",
+      "D": "ideia"
+    },
+    "correct_answer": "A",
+    "explanation": "Avô tem circunflexo."
+  },
+  {
+    "id": "PT655",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — O til em «irmã» indica: (item 15)",
+    "options": {
+      "A": "pausa",
+      "B": "nasalização",
+      "C": "pergunta",
+      "D": "plural"
+    },
+    "correct_answer": "B",
+    "explanation": "O til assinala nasalidade."
+  },
+  {
+    "id": "PT656",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Em «à escola», o acento grave indica: (item 16)",
+    "options": {
+      "A": "acento tónico",
+      "B": "crase",
+      "C": "nasalização",
+      "D": "plural"
+    },
+    "correct_answer": "B",
+    "explanation": "O grave marca a contração da preposição a com o artigo a."
+  },
+  {
+    "id": "PT657",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Frase com acento grave correto: (item 17)",
+    "options": {
+      "A": "Vou à biblioteca.",
+      "B": "Vou á biblioteca.",
+      "C": "Vou aà biblioteca.",
+      "D": "Vou há biblioteca."
+    },
+    "correct_answer": "A",
+    "explanation": "A preposição a contrai-se com o artigo a."
+  },
+  {
+    "id": "PT658",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual palavra é proparoxítona? (item 18)",
+    "options": {
+      "A": "publico",
+      "B": "público",
+      "C": "públíco",
+      "D": "publicó"
+    },
+    "correct_answer": "B",
+    "explanation": "Público é proparoxítona e leva acento."
+  },
+  {
+    "id": "PT659",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual grafia segue a ortografia atual? (item 19)",
+    "options": {
+      "A": "idéia",
+      "B": "heróico",
+      "C": "assembleia",
+      "D": "vôo"
+    },
+    "correct_answer": "C",
+    "explanation": "Assembleia não leva acento na ortografia atual."
+  },
+  {
+    "id": "PT660",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual é a grafia atual de «voo»? (item 20)",
+    "options": {
+      "A": "vôo",
+      "B": "voo",
+      "C": "vóo",
+      "D": "vôô"
+    },
+    "correct_answer": "B",
+    "explanation": "Voo escreve-se sem acento."
+  },
+  {
+    "id": "PT661",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual palavra está corretamente acentuada? (item 21)",
+    "options": {
+      "A": "médico",
+      "B": "medico",
+      "C": "mêdico",
+      "D": "medicó"
+    },
+    "correct_answer": "A",
+    "explanation": "Médico é proparoxítona."
+  },
+  {
+    "id": "PT662",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual palavra leva acento agudo? (item 22)",
+    "options": {
+      "A": "avó",
+      "B": "avô",
+      "C": "pelo",
+      "D": "mesa"
+    },
+    "correct_answer": "A",
+    "explanation": "Avó tem vogal aberta e acento agudo."
+  },
+  {
+    "id": "PT663",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — O acento circunflexo em «você» marca: (item 23)",
+    "options": {
+      "A": "vogal fechada",
+      "B": "nasalidade",
+      "C": "pergunta",
+      "D": "hiato"
+    },
+    "correct_answer": "A",
+    "explanation": "O circunflexo assinala a qualidade fechada da vogal."
+  },
+  {
+    "id": "PT664",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Acentuação — Qual forma está correta na ortografia atual? (item 24)",
+    "options": {
+      "A": "pára",
+      "B": "para",
+      "C": "pára sempre",
+      "D": "pára e para são sempre distintas"
+    },
+    "correct_answer": "B",
+    "explanation": "Na ortografia atual, para não leva acento diferencial."
+  },
+  {
+    "id": "PT665",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Que sinal termina uma declaração? (item 25)",
+    "options": {
+      "A": "ponto final",
+      "B": "interrogação",
+      "C": "dois-pontos",
+      "D": "vírgula"
+    },
+    "correct_answer": "A",
+    "explanation": "O ponto final encerra uma declaração."
+  },
+  {
+    "id": "PT666",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Que sinal termina uma pergunta direta? (item 26)",
+    "options": {
+      "A": "vírgula",
+      "B": "ponto final",
+      "C": "interrogação",
+      "D": "dois-pontos"
+    },
+    "correct_answer": "C",
+    "explanation": "A pergunta direta termina com interrogação."
+  },
+  {
+    "id": "PT667",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Que sinal pode exprimir emoção? (item 27)",
+    "options": {
+      "A": "exclamação",
+      "B": "ponto e vírgula",
+      "C": "parênteses",
+      "D": "vírgula"
+    },
+    "correct_answer": "A",
+    "explanation": "A exclamação pode exprimir surpresa ou intensidade."
+  },
+  {
+    "id": "PT668",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Em enumeração, a vírgula serve para: (item 28)",
+    "options": {
+      "A": "separar elementos",
+      "B": "indicar pergunta",
+      "C": "terminar texto",
+      "D": "introduzir fala"
+    },
+    "correct_answer": "A",
+    "explanation": "A vírgula separa elementos enumerados."
+  },
+  {
+    "id": "PT669",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Qual pontuação isola o vocativo? (item 29)",
+    "options": {
+      "A": "Maria, vem aqui.",
+      "B": "Maria vem aqui.",
+      "C": "Maria; vem aqui.",
+      "D": "Maria: vem aqui."
+    },
+    "correct_answer": "A",
+    "explanation": "O vocativo fica isolado por vírgula."
+  },
+  {
+    "id": "PT670",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Qual frase usa corretamente dois-pontos? (item 30)",
+    "options": {
+      "A": "Trouxe dois itens: pão e leite.",
+      "B": "Trouxe: dois itens pão.",
+      "C": "Trouxe dois; itens.",
+      "D": "Trouxe dois itens, pão:"
+    },
+    "correct_answer": "A",
+    "explanation": "Os dois-pontos introduzem uma enumeração."
+  },
+  {
+    "id": "PT671",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — As aspas podem servir para: (item 31)",
+    "options": {
+      "A": "marcar citações",
+      "B": "separar sílabas",
+      "C": "indicar plural",
+      "D": "substituir ponto"
+    },
+    "correct_answer": "A",
+    "explanation": "Aspas podem assinalar citações."
+  },
+  {
+    "id": "PT672",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — O travessão pode: (item 32)",
+    "options": {
+      "A": "introduzir fala",
+      "B": "indicar plural",
+      "C": "marcar tonicidade",
+      "D": "substituir todas as vírgulas"
+    },
+    "correct_answer": "A",
+    "explanation": "Pode introduzir falas em diálogos."
+  },
+  {
+    "id": "PT673",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Qual frase usa parênteses corretamente? (item 33)",
+    "options": {
+      "A": "A prova (de terça-feira) foi adiada.",
+      "B": "A prova (de terça-feira foi adiada.",
+      "C": "A prova de terça-feira) foi adiada.",
+      "D": "(A prova foi adiada."
+    },
+    "correct_answer": "A",
+    "explanation": "O trecho intercalado fica entre parênteses."
+  },
+  {
+    "id": "PT674",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — A pontuação: (item 34)",
+    "options": {
+      "A": "transcreve cada som",
+      "B": "organiza o texto e sugere pausas",
+      "C": "substitui letras",
+      "D": "é decorativa"
+    },
+    "correct_answer": "B",
+    "explanation": "Organiza o texto e pode orientar a leitura."
+  },
+  {
+    "id": "PT675",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Qual nome de cidade está correto? (item 35)",
+    "options": {
+      "A": "luanda",
+      "B": "Luanda",
+      "C": "lUanda",
+      "D": "LUAnda"
+    },
+    "correct_answer": "B",
+    "explanation": "Nomes próprios de lugares começam por maiúscula."
+  },
+  {
+    "id": "PT676",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Pontuação — Como começa corretamente uma frase? (item 36)",
+    "options": {
+      "A": "amanhã estudarei.",
+      "B": "Amanhã estudarei.",
+      "C": "aManhã estudarei.",
+      "D": "AMANHÃ obrigatoriamente"
+    },
+    "correct_answer": "B",
+    "explanation": "A primeira palavra da frase começa por maiúscula."
+  },
+  {
+    "id": "PT677",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual divisão silábica de «casa» está correta? (item 37)",
+    "options": {
+      "A": "ca-sa",
+      "B": "cas-a",
+      "C": "c-asa",
+      "D": "ca-s-a"
+    },
+    "correct_answer": "A",
+    "explanation": "Casa divide-se em ca-sa."
+  },
+  {
+    "id": "PT678",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual dígrafo não se separa? (item 38)",
+    "options": {
+      "A": "ch em chave",
+      "B": "rr em carro",
+      "C": "ss em passo",
+      "D": "todos se separam"
+    },
+    "correct_answer": "A",
+    "explanation": "As letras ch representam um só som e não se separam."
+  },
+  {
+    "id": "PT679",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Na translineação usa-se normalmente: (item 39)",
+    "options": {
+      "A": "barra",
+      "B": "hífen",
+      "C": "ponto final",
+      "D": "apóstrofo"
+    },
+    "correct_answer": "B",
+    "explanation": "O hífen indica continuação da palavra na linha seguinte."
+  },
+  {
+    "id": "PT680",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual divisão de «amigo» está correta? (item 40)",
+    "options": {
+      "A": "a-mi-go",
+      "B": "am-igo",
+      "C": "a-mig-o",
+      "D": "ami-go"
+    },
+    "correct_answer": "A",
+    "explanation": "Amigo tem três sílabas."
+  },
+  {
+    "id": "PT681",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual palavra mantém o ditongo unido? (item 41)",
+    "options": {
+      "A": "sa-ú-de",
+      "B": "pa-ís",
+      "C": "cai-xa",
+      "D": "ba-ú"
+    },
+    "correct_answer": "C",
+    "explanation": "Em caixa, ai pertence à mesma sílaba."
+  },
+  {
+    "id": "PT682",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual grafia está correta? (item 42)",
+    "options": {
+      "A": "anti-inflamatório",
+      "B": "antiinflamatório",
+      "C": "anti inflamatório",
+      "D": "anti–inflamatório"
+    },
+    "correct_answer": "A",
+    "explanation": "Usa-se hífen quando o prefixo termina na mesma vogal que inicia o segundo elemento."
+  },
+  {
+    "id": "PT683",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual grafia está correta? (item 43)",
+    "options": {
+      "A": "microondas",
+      "B": "micro-ondas",
+      "C": "micro ondas",
+      "D": "microndas"
+    },
+    "correct_answer": "B",
+    "explanation": "Micro-ondas leva hífen."
+  },
+  {
+    "id": "PT684",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual grafia está correta? (item 44)",
+    "options": {
+      "A": "bem vindo",
+      "B": "bem-vindo",
+      "C": "bemvindo",
+      "D": "bem—vindo"
+    },
+    "correct_answer": "B",
+    "explanation": "Bem-vindo leva hífen."
+  },
+  {
+    "id": "PT685",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual divisão de «carro» está correta? (item 45)",
+    "options": {
+      "A": "car-ro",
+      "B": "ca-rro",
+      "C": "c-arro",
+      "D": "carr-o"
+    },
+    "correct_answer": "A",
+    "explanation": "O dígrafo rr separa-se na divisão silábica."
+  },
+  {
+    "id": "PT686",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual divisão de «ninho» está correta? (item 46)",
+    "options": {
+      "A": "ni-nho",
+      "B": "nin-ho",
+      "C": "n-inho",
+      "D": "ninh-o"
+    },
+    "correct_answer": "A",
+    "explanation": "O dígrafo nh não se separa."
+  },
+  {
+    "id": "PT687",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — Qual divisão de «passo» está correta? (item 47)",
+    "options": {
+      "A": "pas-so",
+      "B": "pa-sso",
+      "C": "p-ass-o",
+      "D": "pass-o"
+    },
+    "correct_answer": "A",
+    "explanation": "O dígrafo ss separa-se na divisão silábica."
+  },
+  {
+    "id": "PT688",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Divisão e hífen — O hífen na translineação deve: (item 48)",
+    "options": {
+      "A": "ficar no fim da linha",
+      "B": "substituir a vogal",
+      "C": "ficar no início da palavra",
+      "D": "marcar pergunta"
+    },
+    "correct_answer": "A",
+    "explanation": "Marca a divisão da palavra entre linhas."
+  },
+  {
+    "id": "PT689",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Plural correto de papel: (item 49)",
+    "options": {
+      "A": "papels",
+      "B": "papéis",
+      "C": "papeis",
+      "D": "papéises"
+    },
+    "correct_answer": "B",
+    "explanation": "O plural é papéis."
+  },
+  {
+    "id": "PT690",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Plural correto de cidadão: (item 50)",
+    "options": {
+      "A": "cidadões",
+      "B": "cidadãos",
+      "C": "cidadães",
+      "D": "cidadans"
+    },
+    "correct_answer": "B",
+    "explanation": "O plural padrão é cidadãos."
+  },
+  {
+    "id": "PT691",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Plural correto de mão: (item 51)",
+    "options": {
+      "A": "mãos",
+      "B": "mões",
+      "C": "mães",
+      "D": "mãoses"
+    },
+    "correct_answer": "A",
+    "explanation": "O plural é mãos."
+  },
+  {
+    "id": "PT692",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Grafia tradicional em Angola: (item 52)",
+    "options": {
+      "A": "húmido",
+      "B": "humído",
+      "C": "umido",
+      "D": "humido"
+    },
+    "correct_answer": "A",
+    "explanation": "Húmido é a grafia tradicional em Angola e Portugal."
+  },
+  {
+    "id": "PT693",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Qual par é homófono em muitas variedades? (item 53)",
+    "options": {
+      "A": "concerto/conserto",
+      "B": "casa/mesa",
+      "C": "livro/caderno",
+      "D": "alto/baixo"
+    },
+    "correct_answer": "A",
+    "explanation": "Podem ter pronúncia igual, mas significados diferentes."
+  },
+  {
+    "id": "PT694",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Complete: «Vou ___ o exercício». (item 54)",
+    "options": {
+      "A": "fazer",
+      "B": "faser",
+      "C": "fasêr",
+      "D": "fazêr"
+    },
+    "correct_answer": "A",
+    "explanation": "Fazer escreve-se com z."
+  },
+  {
+    "id": "PT695",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Complete: «A ___ foi longa». (item 55)",
+    "options": {
+      "A": "viajem",
+      "B": "viagem",
+      "C": "viajém",
+      "D": "viágem"
+    },
+    "correct_answer": "B",
+    "explanation": "Viagem é substantivo; viajem é forma verbal."
+  },
+  {
+    "id": "PT696",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Complete: «Espero que eles ___ cedo». (item 56)",
+    "options": {
+      "A": "cheguem",
+      "B": "chegem",
+      "C": "cheguém",
+      "D": "chegão"
+    },
+    "correct_answer": "A",
+    "explanation": "A forma do conjuntivo é cheguem."
+  },
+  {
+    "id": "PT697",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Frase correta: (item 57)",
+    "options": {
+      "A": "Há alunos na sala.",
+      "B": "À alunos na sala.",
+      "C": "Ah alunos na sala.",
+      "D": "A alunos (existência)"
+    },
+    "correct_answer": "A",
+    "explanation": "Há é forma do verbo haver."
+  },
+  {
+    "id": "PT698",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Distinção correta: (item 58)",
+    "options": {
+      "A": "mas=oposição; mais=quantidade",
+      "B": "mas=quantidade; mais=oposição",
+      "C": "ambos verbos",
+      "D": "ambos pronomes"
+    },
+    "correct_answer": "A",
+    "explanation": "Mas é conjunção; mais indica quantidade."
+  },
+  {
+    "id": "PT699",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Complete: «Não sei ___ ele faltou». (item 59)",
+    "options": {
+      "A": "porque",
+      "B": "por que",
+      "C": "porquê",
+      "D": "por quê"
+    },
+    "correct_answer": "B",
+    "explanation": "Por que equivale a por qual razão."
+  },
+  {
+    "id": "PT700",
+    "subject": "Língua Portuguesa",
+    "topic": "Representação gráfica da Língua falada",
+    "difficulty": "Média",
+    "question": "Grafias e usos — Qual frase usa «porquê» corretamente? (item 60)",
+    "options": {
+      "A": "Não entendi o porquê.",
+      "B": "Porquê faltaste?",
+      "C": "Saiu porquê chovia.",
+      "D": "Porquê motivo?"
+    },
+    "correct_answer": "A",
+    "explanation": "Porquê é substantivo."
+  }
+]
