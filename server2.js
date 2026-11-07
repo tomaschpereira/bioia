@@ -686,10 +686,12 @@ async function processar(numero, textoRecebido) {
       await enviar(numero, menu());
       return;
     }
-    if (texto === "1") {
-      const perguntas = bancos.fisica.filter(p => p.id.startsWith("FI-INT-"));
+    if (texto === "1" || texto === "2") {
+      const prefixo = texto === "1" ? "FI-INT-" : "FI-TE-";
+      const nomeTema = texto === "1" ? "Introdução" : "Trabalho e energia";
+      const perguntas = bancos.fisica.filter(p => p.id.startsWith(prefixo));
       if (perguntas.length !== 100) {
-        await enviar(numero, "O tema Introdução ainda não está completo. Tenta novamente mais tarde.");
+        await enviar(numero, "O tema " + nomeTema + " ainda não está completo. Tenta novamente mais tarde.");
         return;
       }
       s.disciplina = "fisica";
@@ -699,11 +701,11 @@ async function processar(numero, textoRecebido) {
       s.total = s.fila.length;
       s.erros = [];
       s.modo = "quiz";
-      await enviar(numero, "📘 *Física — Introdução*\n100 perguntas. A actividade vai começar!");
+      await enviar(numero, "📘 *Física — " + nomeTema + "*\\n100 perguntas. A actividade vai começar!");
       await mostrarPergunta(numero, s);
       return;
     }
-    await enviar(numero, "Por enquanto, escolhe 1 para Introdução ou 0 para voltar. Os outros temas serão activados à medida que forem concluídos.");
+    await enviar(numero, "Escolhe 1 para Introdução, 2 para Trabalho e energia ou 0 para voltar. Os restantes temas serão activados à medida que forem concluídos.");
     return;
   }
 
@@ -717,7 +719,7 @@ async function processar(numero, textoRecebido) {
     await enviar(numero,
       "⚛️ *FÍSICA — ESCOLHE O TEMA*\n\n" +
       "1️⃣ Introdução — 100 perguntas disponíveis\n" +
-      "2️⃣ Trabalho, energia e transferência de energia — em preparação\n" +
+      "2️⃣ Trabalho, energia e transferência de energia — 100 perguntas disponíveis\n" +
       "3️⃣ Ondas e luz — em preparação\n" +
       "4️⃣ Dinâmica — em preparação\n" +
       "5️⃣ Mecânica dos fluidos — em preparação\n" +
