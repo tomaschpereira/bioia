@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "FI-TE-001",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "O trabalho mecânico ocorre quando uma força provoca deslocamento com componente na sua direcção.",
+    "options": {
+      "A": "Aumento da temperatura",
+      "B": "Deslocamento na direcção da força",
+      "C": "Aumento da massa",
+      "D": "Mudança de cor"
+    },
+    "correct_answer": "B",
+    "explanation": "O trabalho depende da componente da força paralela ao deslocamento."
+  },
+  {
+    "id": "FI-TE-002",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força perpendicular ao deslocamento realiza trabalho:",
+    "options": {
+      "A": "Negativo máximo",
+      "B": "Igual à potência",
+      "C": "Nulo",
+      "D": "Positivo máximo"
+    },
+    "correct_answer": "C",
+    "explanation": "W=Fd cos 90°=0."
+  },
+  {
+    "id": "FI-TE-003",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "Força e deslocamento no mesmo sentido correspondem a trabalho:",
+    "options": {
+      "A": "Negativo",
+      "B": "Nulo",
+      "C": "Indefinido",
+      "D": "Positivo"
+    },
+    "correct_answer": "D",
+    "explanation": "O ângulo é 0° e o coseno é positivo."
+  },
+  {
+    "id": "FI-TE-004",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "Uma força que se opõe ao deslocamento realiza trabalho:",
+    "options": {
+      "A": "Negativo",
+      "B": "Positivo",
+      "C": "Sempre nulo",
+      "D": "Igual à massa"
+    },
+    "correct_answer": "A",
+    "explanation": "O ângulo entre força e deslocamento é superior a 90°."
+  },
+  {
+    "id": "FI-TE-005",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "A unidade SI do trabalho é:",
+    "options": {
+      "A": "Pascal",
+      "B": "Joule",
+      "C": "Watt",
+      "D": "Newton"
+    },
+    "correct_answer": "B",
+    "explanation": "O trabalho mede-se em joules (J)."
+  },
+  {
+    "id": "FI-TE-006",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "A energia cinética depende:",
+    "options": {
+      "A": "Só da temperatura",
+      "B": "Da pressão e volume",
+      "C": "Da massa e do quadrado da velocidade",
+      "D": "Só da altura"
+    },
+    "correct_answer": "C",
+    "explanation": "Ec=½mv²."
+  },
+  {
+    "id": "FI-TE-007",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Se a velocidade duplicar, a energia cinética fica:",
+    "options": {
+      "A": "Duas vezes maior",
+      "B": "Metade",
+      "C": "Igual",
+      "D": "Quatro vezes maior"
+    },
+    "correct_answer": "D",
+    "explanation": "A energia cinética é proporcional ao quadrado da velocidade."
+  },
+  {
+    "id": "FI-TE-008",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "A energia potencial gravítica aumenta quando aumenta:",
+    "options": {
+      "A": "A altura",
+      "B": "A rapidez",
+      "C": "A pressão",
+      "D": "A resistência eléctrica"
+    },
+    "correct_answer": "A",
+    "explanation": "Ep=mgh."
+  },
+  {
+    "id": "FI-TE-009",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "A energia potencial elástica está associada:",
+    "options": {
+      "A": "À pressão atmosférica",
+      "B": "À deformação de um corpo elástico",
+      "C": "À massa em repouso",
+      "D": "À temperatura de fusão"
+    },
+    "correct_answer": "B",
+    "explanation": "Uma mola deformada armazena energia potencial elástica."
+  },
+  {
+    "id": "FI-TE-010",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "Potência é a taxa de:",
+    "options": {
+      "A": "Deslocamento por força",
+      "B": "Aumento do volume",
+      "C": "Transferência de energia ou realização de trabalho",
+      "D": "Variação da massa"
+    },
+    "correct_answer": "C",
+    "explanation": "P=W/Δt."
+  },
+  {
+    "id": "FI-TE-011",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "A unidade SI da potência é:",
+    "options": {
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Coulomb",
+      "D": "Watt"
+    },
+    "correct_answer": "D",
+    "explanation": "A potência mede-se em watts (W)."
+  },
+  {
+    "id": "FI-TE-012",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Num sistema isolado, a energia total:",
+    "options": {
+      "A": "Conserva-se",
+      "B": "Desaparece",
+      "C": "Aumenta sempre",
+      "D": "É sempre cinética"
+    },
+    "correct_answer": "A",
+    "explanation": "A energia transforma-se, mas a energia total conserva-se."
+  },
+  {
+    "id": "FI-TE-013",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Condução térmica é transferência de energia:",
+    "options": {
+      "A": "Só por reacções químicas",
+      "B": "Por interacções entre partículas, sem transporte global de matéria",
+      "C": "Por correntes de fluido",
+      "D": "Por ondas sonoras no vazio"
+    },
+    "correct_answer": "B",
+    "explanation": "Na condução, a energia passa entre partículas vizinhas."
+  },
+  {
+    "id": "FI-TE-014",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Convecção térmica ocorre principalmente:",
+    "options": {
+      "A": "Em sólidos sem movimento microscópico",
+      "B": "Por luz visível apenas",
+      "C": "Pelo movimento de massas de um fluido",
+      "D": "No vazio"
+    },
+    "correct_answer": "C",
+    "explanation": "Correntes de fluido transportam energia térmica."
+  },
+  {
+    "id": "FI-TE-015",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "A radiação térmica pode propagar-se:",
+    "options": {
+      "A": "Só em sólidos",
+      "B": "Só em líquidos",
+      "C": "Apenas com contacto",
+      "D": "No vazio"
+    },
+    "correct_answer": "D",
+    "explanation": "A radiação electromagnética não necessita de meio material."
+  },
+  {
+    "id": "FI-TE-016",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma superfície negra e baça é geralmente:",
+    "options": {
+      "A": "Boa absorvedora de radiação térmica",
+      "B": "Reflectora perfeita",
+      "C": "Incapaz de emitir radiação",
+      "D": "Isoladora perfeita"
+    },
+    "correct_answer": "A",
+    "explanation": "Superfícies negras e baças absorvem e emitem radiação eficientemente."
+  },
+  {
+    "id": "FI-TE-017",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "O rendimento é a razão entre:",
+    "options": {
+      "A": "Velocidade e distância",
+      "B": "Energia útil e energia fornecida",
+      "C": "Energia perdida e massa",
+      "D": "Força e tempo"
+    },
+    "correct_answer": "B",
+    "explanation": "η=energia útil/energia fornecida."
+  },
+  {
+    "id": "FI-TE-018",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Fácil",
+    "question": "Uma máquina real tem rendimento inferior a 100% devido:",
+    "options": {
+      "A": "À ausência de atrito em todos os componentes",
+      "B": "À massa nula",
+      "C": "Às dissipações e perdas",
+      "D": "À criação de energia"
+    },
+    "correct_answer": "C",
+    "explanation": "Atrito, calor e som reduzem a energia útil."
+  },
+  {
+    "id": "FI-TE-019",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "O teorema trabalho-energia relaciona trabalho resultante com:",
+    "options": {
+      "A": "Variação da massa",
+      "B": "Temperatura absoluta",
+      "C": "Pressão atmosférica",
+      "D": "Variação da energia cinética"
+    },
+    "correct_answer": "D",
+    "explanation": "O trabalho resultante é igual à variação da energia cinética."
+  },
+  {
+    "id": "FI-TE-020",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Ao travar, a energia cinética do automóvel transforma-se sobretudo em:",
+    "options": {
+      "A": "Energia interna nos travões e pneus",
+      "B": "Energia nuclear",
+      "C": "Massa",
+      "D": "Energia potencial crescente"
+    },
+    "correct_answer": "A",
+    "explanation": "O atrito dissipa energia mecânica sob a forma de energia interna."
+  },
+  {
+    "id": "FI-TE-021",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 2 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "20 J",
+      "B": "8 J",
+      "C": "4 J",
+      "D": "12 J"
+    },
+    "correct_answer": "B",
+    "explanation": "W=F·d=2×4=8 J."
+  },
+  {
+    "id": "FI-TE-022",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 3 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "18 J",
+      "B": "30 J",
+      "C": "12 J",
+      "D": "6 J"
+    },
+    "correct_answer": "C",
+    "explanation": "W=F·d=3×4=12 J."
+  },
+  {
+    "id": "FI-TE-023",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 4 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "8 J",
+      "B": "24 J",
+      "C": "40 J",
+      "D": "16 J"
+    },
+    "correct_answer": "D",
+    "explanation": "W=F·d=4×4=16 J."
+  },
+  {
+    "id": "FI-TE-024",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 5 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "20 J",
+      "B": "10 J",
+      "C": "30 J",
+      "D": "50 J"
+    },
+    "correct_answer": "A",
+    "explanation": "W=F·d=5×4=20 J."
+  },
+  {
+    "id": "FI-TE-025",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 6 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "60 J",
+      "B": "24 J",
+      "C": "12 J",
+      "D": "36 J"
+    },
+    "correct_answer": "B",
+    "explanation": "W=F·d=6×4=24 J."
+  },
+  {
+    "id": "FI-TE-026",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 7 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "42 J",
+      "B": "70 J",
+      "C": "28 J",
+      "D": "14 J"
+    },
+    "correct_answer": "C",
+    "explanation": "W=F·d=7×4=28 J."
+  },
+  {
+    "id": "FI-TE-027",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 8 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "16 J",
+      "B": "48 J",
+      "C": "80 J",
+      "D": "32 J"
+    },
+    "correct_answer": "D",
+    "explanation": "W=F·d=8×4=32 J."
+  },
+  {
+    "id": "FI-TE-028",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 9 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "36 J",
+      "B": "18 J",
+      "C": "54 J",
+      "D": "90 J"
+    },
+    "correct_answer": "A",
+    "explanation": "W=F·d=9×4=36 J."
+  },
+  {
+    "id": "FI-TE-029",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 10 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "100 J",
+      "B": "40 J",
+      "C": "20 J",
+      "D": "60 J"
+    },
+    "correct_answer": "B",
+    "explanation": "W=F·d=10×4=40 J."
+  },
+  {
+    "id": "FI-TE-030",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 12 N desloca um corpo 4 m no mesmo sentido. Calcula o trabalho.",
+    "options": {
+      "A": "72 J",
+      "B": "120 J",
+      "C": "48 J",
+      "D": "24 J"
+    },
+    "correct_answer": "C",
+    "explanation": "W=F·d=12×4=48 J."
+  },
+  {
+    "id": "FI-TE-031",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 10 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "10 J",
+      "B": "30 J",
+      "C": "50 J",
+      "D": "20 J"
+    },
+    "correct_answer": "D",
+    "explanation": "W=F·d=10×2=20 J."
+  },
+  {
+    "id": "FI-TE-032",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 15 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "30 J",
+      "B": "15 J",
+      "C": "45 J",
+      "D": "75 J"
+    },
+    "correct_answer": "A",
+    "explanation": "W=F·d=15×2=30 J."
+  },
+  {
+    "id": "FI-TE-033",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 20 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "100 J",
+      "B": "40 J",
+      "C": "20 J",
+      "D": "60 J"
+    },
+    "correct_answer": "B",
+    "explanation": "W=F·d=20×2=40 J."
+  },
+  {
+    "id": "FI-TE-034",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 25 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "75 J",
+      "B": "125 J",
+      "C": "50 J",
+      "D": "25 J"
+    },
+    "correct_answer": "C",
+    "explanation": "W=F·d=25×2=50 J."
+  },
+  {
+    "id": "FI-TE-035",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 30 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "30 J",
+      "B": "90 J",
+      "C": "150 J",
+      "D": "60 J"
+    },
+    "correct_answer": "D",
+    "explanation": "W=F·d=30×2=60 J."
+  },
+  {
+    "id": "FI-TE-036",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 35 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "70 J",
+      "B": "35 J",
+      "C": "105 J",
+      "D": "175 J"
+    },
+    "correct_answer": "A",
+    "explanation": "W=F·d=35×2=70 J."
+  },
+  {
+    "id": "FI-TE-037",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 40 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "200 J",
+      "B": "80 J",
+      "C": "40 J",
+      "D": "120 J"
+    },
+    "correct_answer": "B",
+    "explanation": "W=F·d=40×2=80 J."
+  },
+  {
+    "id": "FI-TE-038",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 45 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "135 J",
+      "B": "225 J",
+      "C": "90 J",
+      "D": "45 J"
+    },
+    "correct_answer": "C",
+    "explanation": "W=F·d=45×2=90 J."
+  },
+  {
+    "id": "FI-TE-039",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 50 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "50 J",
+      "B": "150 J",
+      "C": "250 J",
+      "D": "100 J"
+    },
+    "correct_answer": "D",
+    "explanation": "W=F·d=50×2=100 J."
+  },
+  {
+    "id": "FI-TE-040",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma força de 60 N actua ao longo de 2 m no sentido do movimento. Qual é o trabalho?",
+    "options": {
+      "A": "120 J",
+      "B": "60 J",
+      "C": "180 J",
+      "D": "300 J"
+    },
+    "correct_answer": "A",
+    "explanation": "W=F·d=60×2=120 J."
+  },
+  {
+    "id": "FI-TE-041",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 2 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "10 J",
+      "B": "4 J",
+      "C": "2 J",
+      "D": "6 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ec=½mv²=½×2×2²=4 J."
+  },
+  {
+    "id": "FI-TE-042",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 4 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "24 J",
+      "B": "40 J",
+      "C": "16 J",
+      "D": "8 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ec=½mv²=½×2×4²=16 J."
+  },
+  {
+    "id": "FI-TE-043",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 6 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "18 J",
+      "B": "54 J",
+      "C": "90 J",
+      "D": "36 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ec=½mv²=½×2×6²=36 J."
+  },
+  {
+    "id": "FI-TE-044",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 8 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "64 J",
+      "B": "32 J",
+      "C": "96 J",
+      "D": "160 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ec=½mv²=½×2×8²=64 J."
+  },
+  {
+    "id": "FI-TE-045",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 10 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "250 J",
+      "B": "100 J",
+      "C": "50 J",
+      "D": "150 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ec=½mv²=½×2×10²=100 J."
+  },
+  {
+    "id": "FI-TE-046",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 12 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "216 J",
+      "B": "360 J",
+      "C": "144 J",
+      "D": "72 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ec=½mv²=½×2×12²=144 J."
+  },
+  {
+    "id": "FI-TE-047",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 14 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "98 J",
+      "B": "294 J",
+      "C": "490 J",
+      "D": "196 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ec=½mv²=½×2×14²=196 J."
+  },
+  {
+    "id": "FI-TE-048",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 16 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "256 J",
+      "B": "128 J",
+      "C": "384 J",
+      "D": "640 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ec=½mv²=½×2×16²=256 J."
+  },
+  {
+    "id": "FI-TE-049",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 18 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "810 J",
+      "B": "324 J",
+      "C": "162 J",
+      "D": "486 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ec=½mv²=½×2×18²=324 J."
+  },
+  {
+    "id": "FI-TE-050",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg move-se a 20 m/s. Calcula a energia cinética.",
+    "options": {
+      "A": "600 J",
+      "B": "1000 J",
+      "C": "400 J",
+      "D": "200 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ec=½mv²=½×2×20²=400 J."
+  },
+  {
+    "id": "FI-TE-051",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 1 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "25 J",
+      "B": "75 J",
+      "C": "125 J",
+      "D": "50 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ep=mgh=1×10×5=50 J."
+  },
+  {
+    "id": "FI-TE-052",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 2 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "100 J",
+      "B": "50 J",
+      "C": "150 J",
+      "D": "250 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ep=mgh=2×10×5=100 J."
+  },
+  {
+    "id": "FI-TE-053",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 3 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "375 J",
+      "B": "150 J",
+      "C": "75 J",
+      "D": "225 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ep=mgh=3×10×5=150 J."
+  },
+  {
+    "id": "FI-TE-054",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 4 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "300 J",
+      "B": "500 J",
+      "C": "200 J",
+      "D": "100 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ep=mgh=4×10×5=200 J."
+  },
+  {
+    "id": "FI-TE-055",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 5 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "125 J",
+      "B": "375 J",
+      "C": "625 J",
+      "D": "250 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ep=mgh=5×10×5=250 J."
+  },
+  {
+    "id": "FI-TE-056",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 6 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "300 J",
+      "B": "150 J",
+      "C": "450 J",
+      "D": "750 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ep=mgh=6×10×5=300 J."
+  },
+  {
+    "id": "FI-TE-057",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 7 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "875 J",
+      "B": "350 J",
+      "C": "175 J",
+      "D": "525 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ep=mgh=7×10×5=350 J."
+  },
+  {
+    "id": "FI-TE-058",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 8 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "600 J",
+      "B": "1000 J",
+      "C": "400 J",
+      "D": "200 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ep=mgh=8×10×5=400 J."
+  },
+  {
+    "id": "FI-TE-059",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 9 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "225 J",
+      "B": "675 J",
+      "C": "1125 J",
+      "D": "450 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ep=mgh=9×10×5=450 J."
+  },
+  {
+    "id": "FI-TE-060",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um corpo de 10 kg está a 5 m de altura. Considera g=10 m/s². Calcula a energia potencial gravítica.",
+    "options": {
+      "A": "500 J",
+      "B": "250 J",
+      "C": "750 J",
+      "D": "1250 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ep=mgh=10×10×5=500 J."
+  },
+  {
+    "id": "FI-TE-061",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 100 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "25 W",
+      "B": "10 W",
+      "C": "5 W",
+      "D": "15 W"
+    },
+    "correct_answer": "B",
+    "explanation": "P=W/t=100/10=10 W."
+  },
+  {
+    "id": "FI-TE-062",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 150 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "22,5 W",
+      "B": "37,5 W",
+      "C": "15 W",
+      "D": "7,5 W"
+    },
+    "correct_answer": "C",
+    "explanation": "P=W/t=150/10=15 W."
+  },
+  {
+    "id": "FI-TE-063",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 200 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "10 W",
+      "B": "30 W",
+      "C": "50 W",
+      "D": "20 W"
+    },
+    "correct_answer": "D",
+    "explanation": "P=W/t=200/10=20 W."
+  },
+  {
+    "id": "FI-TE-064",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 250 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "25 W",
+      "B": "12,5 W",
+      "C": "37,5 W",
+      "D": "62,5 W"
+    },
+    "correct_answer": "A",
+    "explanation": "P=W/t=250/10=25 W."
+  },
+  {
+    "id": "FI-TE-065",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 300 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "75 W",
+      "B": "30 W",
+      "C": "15 W",
+      "D": "45 W"
+    },
+    "correct_answer": "B",
+    "explanation": "P=W/t=300/10=30 W."
+  },
+  {
+    "id": "FI-TE-066",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 350 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "52,5 W",
+      "B": "87,5 W",
+      "C": "35 W",
+      "D": "17,5 W"
+    },
+    "correct_answer": "C",
+    "explanation": "P=W/t=350/10=35 W."
+  },
+  {
+    "id": "FI-TE-067",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 400 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "20 W",
+      "B": "60 W",
+      "C": "100 W",
+      "D": "40 W"
+    },
+    "correct_answer": "D",
+    "explanation": "P=W/t=400/10=40 W."
+  },
+  {
+    "id": "FI-TE-068",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 450 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "45 W",
+      "B": "22,5 W",
+      "C": "67,5 W",
+      "D": "112,5 W"
+    },
+    "correct_answer": "A",
+    "explanation": "P=W/t=450/10=45 W."
+  },
+  {
+    "id": "FI-TE-069",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 500 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "125 W",
+      "B": "50 W",
+      "C": "25 W",
+      "D": "75 W"
+    },
+    "correct_answer": "B",
+    "explanation": "P=W/t=500/10=50 W."
+  },
+  {
+    "id": "FI-TE-070",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina realiza 600 J em 10 s. Qual é a potência média?",
+    "options": {
+      "A": "90 W",
+      "B": "150 W",
+      "C": "60 W",
+      "D": "30 W"
+    },
+    "correct_answer": "C",
+    "explanation": "P=W/t=600/10=60 W."
+  },
+  {
+    "id": "FI-TE-071",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 5 s. Quanta energia transfere?",
+    "options": {
+      "A": "50 J",
+      "B": "150 J",
+      "C": "250 J",
+      "D": "100 J"
+    },
+    "correct_answer": "D",
+    "explanation": "E=P·t=20×5=100 J."
+  },
+  {
+    "id": "FI-TE-072",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 10 s. Quanta energia transfere?",
+    "options": {
+      "A": "200 J",
+      "B": "100 J",
+      "C": "300 J",
+      "D": "500 J"
+    },
+    "correct_answer": "A",
+    "explanation": "E=P·t=20×10=200 J."
+  },
+  {
+    "id": "FI-TE-073",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 15 s. Quanta energia transfere?",
+    "options": {
+      "A": "750 J",
+      "B": "300 J",
+      "C": "150 J",
+      "D": "450 J"
+    },
+    "correct_answer": "B",
+    "explanation": "E=P·t=20×15=300 J."
+  },
+  {
+    "id": "FI-TE-074",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 20 s. Quanta energia transfere?",
+    "options": {
+      "A": "600 J",
+      "B": "1000 J",
+      "C": "400 J",
+      "D": "200 J"
+    },
+    "correct_answer": "C",
+    "explanation": "E=P·t=20×20=400 J."
+  },
+  {
+    "id": "FI-TE-075",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 25 s. Quanta energia transfere?",
+    "options": {
+      "A": "250 J",
+      "B": "750 J",
+      "C": "1250 J",
+      "D": "500 J"
+    },
+    "correct_answer": "D",
+    "explanation": "E=P·t=20×25=500 J."
+  },
+  {
+    "id": "FI-TE-076",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 30 s. Quanta energia transfere?",
+    "options": {
+      "A": "600 J",
+      "B": "300 J",
+      "C": "900 J",
+      "D": "1500 J"
+    },
+    "correct_answer": "A",
+    "explanation": "E=P·t=20×30=600 J."
+  },
+  {
+    "id": "FI-TE-077",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 35 s. Quanta energia transfere?",
+    "options": {
+      "A": "1750 J",
+      "B": "700 J",
+      "C": "350 J",
+      "D": "1050 J"
+    },
+    "correct_answer": "B",
+    "explanation": "E=P·t=20×35=700 J."
+  },
+  {
+    "id": "FI-TE-078",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 40 s. Quanta energia transfere?",
+    "options": {
+      "A": "1200 J",
+      "B": "2000 J",
+      "C": "800 J",
+      "D": "400 J"
+    },
+    "correct_answer": "C",
+    "explanation": "E=P·t=20×40=800 J."
+  },
+  {
+    "id": "FI-TE-079",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 45 s. Quanta energia transfere?",
+    "options": {
+      "A": "450 J",
+      "B": "1350 J",
+      "C": "2250 J",
+      "D": "900 J"
+    },
+    "correct_answer": "D",
+    "explanation": "E=P·t=20×45=900 J."
+  },
+  {
+    "id": "FI-TE-080",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Um aparelho funciona a 20 W durante 50 s. Quanta energia transfere?",
+    "options": {
+      "A": "1000 J",
+      "B": "500 J",
+      "C": "1500 J",
+      "D": "2500 J"
+    },
+    "correct_answer": "A",
+    "explanation": "E=P·t=20×50=1000 J."
+  },
+  {
+    "id": "FI-TE-081",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 400 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "100 %",
+      "B": "40 %",
+      "C": "20 %",
+      "D": "60 %"
+    },
+    "correct_answer": "B",
+    "explanation": "η=(energia útil/energia fornecida)×100=400/1000×100=40%."
+  },
+  {
+    "id": "FI-TE-082",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 500 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "75 %",
+      "B": "125 %",
+      "C": "50 %",
+      "D": "25 %"
+    },
+    "correct_answer": "C",
+    "explanation": "η=(energia útil/energia fornecida)×100=500/1000×100=50%."
+  },
+  {
+    "id": "FI-TE-083",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 600 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "30 %",
+      "B": "90 %",
+      "C": "150 %",
+      "D": "60 %"
+    },
+    "correct_answer": "D",
+    "explanation": "η=(energia útil/energia fornecida)×100=600/1000×100=60%."
+  },
+  {
+    "id": "FI-TE-084",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 700 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "70 %",
+      "B": "35 %",
+      "C": "105 %",
+      "D": "175 %"
+    },
+    "correct_answer": "A",
+    "explanation": "η=(energia útil/energia fornecida)×100=700/1000×100=70%."
+  },
+  {
+    "id": "FI-TE-085",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 750 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "187,5 %",
+      "B": "75 %",
+      "C": "37,5 %",
+      "D": "112,5 %"
+    },
+    "correct_answer": "B",
+    "explanation": "η=(energia útil/energia fornecida)×100=750/1000×100=75%."
+  },
+  {
+    "id": "FI-TE-086",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 800 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "120 %",
+      "B": "200 %",
+      "C": "80 %",
+      "D": "40 %"
+    },
+    "correct_answer": "C",
+    "explanation": "η=(energia útil/energia fornecida)×100=800/1000×100=80%."
+  },
+  {
+    "id": "FI-TE-087",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 850 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "42,5 %",
+      "B": "127,5 %",
+      "C": "212,5 %",
+      "D": "85 %"
+    },
+    "correct_answer": "D",
+    "explanation": "η=(energia útil/energia fornecida)×100=850/1000×100=85%."
+  },
+  {
+    "id": "FI-TE-088",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 900 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "90 %",
+      "B": "45 %",
+      "C": "135 %",
+      "D": "225 %"
+    },
+    "correct_answer": "A",
+    "explanation": "η=(energia útil/energia fornecida)×100=900/1000×100=90%."
+  },
+  {
+    "id": "FI-TE-089",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 950 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "237,5 %",
+      "B": "95 %",
+      "C": "47,5 %",
+      "D": "142,5 %"
+    },
+    "correct_answer": "B",
+    "explanation": "η=(energia útil/energia fornecida)×100=950/1000×100=95%."
+  },
+  {
+    "id": "FI-TE-090",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 1000 J e fornece 250 J úteis. Calcula o rendimento.",
+    "options": {
+      "A": "37,5 %",
+      "B": "62,5 %",
+      "C": "25 %",
+      "D": "12,5 %"
+    },
+    "correct_answer": "C",
+    "explanation": "η=(energia útil/energia fornecida)×100=250/1000×100=25%."
+  },
+  {
+    "id": "FI-TE-091",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.02 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,01 J",
+      "B": "0,03 J",
+      "C": "0,05 J",
+      "D": "0,02 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ee=½kx²=½×100×(0.02)² J."
+  },
+  {
+    "id": "FI-TE-092",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.03 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,045 J",
+      "B": "0,022 J",
+      "C": "0,068 J",
+      "D": "0,112 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ee=½kx²=½×100×(0.03)² J."
+  },
+  {
+    "id": "FI-TE-093",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.04 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,2 J",
+      "B": "0,08 J",
+      "C": "0,04 J",
+      "D": "0,12 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ee=½kx²=½×100×(0.04)² J."
+  },
+  {
+    "id": "FI-TE-094",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.05 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,188 J",
+      "B": "0,313 J",
+      "C": "0,125 J",
+      "D": "0,063 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ee=½kx²=½×100×(0.05)² J."
+  },
+  {
+    "id": "FI-TE-095",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.06 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,09 J",
+      "B": "0,27 J",
+      "C": "0,45 J",
+      "D": "0,18 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ee=½kx²=½×100×(0.06)² J."
+  },
+  {
+    "id": "FI-TE-096",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.07 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,245 J",
+      "B": "0,123 J",
+      "C": "0,368 J",
+      "D": "0,613 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ee=½kx²=½×100×(0.07)² J."
+  },
+  {
+    "id": "FI-TE-097",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.08 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,8 J",
+      "B": "0,32 J",
+      "C": "0,16 J",
+      "D": "0,48 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Ee=½kx²=½×100×(0.08)² J."
+  },
+  {
+    "id": "FI-TE-098",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.09 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,607 J",
+      "B": "1,012 J",
+      "C": "0,405 J",
+      "D": "0,202 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Ee=½kx²=½×100×(0.09)² J."
+  },
+  {
+    "id": "FI-TE-099",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.1 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,25 J",
+      "B": "0,75 J",
+      "C": "1,25 J",
+      "D": "0,5 J"
+    },
+    "correct_answer": "D",
+    "explanation": "Ee=½kx²=½×100×(0.1)² J."
+  },
+  {
+    "id": "FI-TE-100",
+    "subject": "Física",
+    "topic": "Trabalho e energia",
+    "difficulty": "Média",
+    "question": "Uma mola de constante 100 N/m é comprimida 0.12 m. Calcula a energia potencial elástica.",
+    "options": {
+      "A": "0,72 J",
+      "B": "0,36 J",
+      "C": "1,08 J",
+      "D": "1,8 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Ee=½kx²=½×100×(0.12)² J."
+  }
+]
