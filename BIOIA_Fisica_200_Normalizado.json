@@ -1569,7 +1569,7 @@
       "A": "60 J",
       "B": "30 J",
       "C": "15 J",
-      "D": "30 J"
+      "D": "120 J"
     },
     "correct_answer": "B",
     "explanation": "W = Fd cosθ = 15 × 4 × cos60° = 30 J."
