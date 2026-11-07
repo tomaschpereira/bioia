@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "FI-INT-001",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 1 km para metros.",
+    "options": {
+      "A": "1000 m",
+      "B": "1001 m",
+      "C": "2000 m",
+      "D": "500 m"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 1000 m."
+  },
+  {
+    "id": "FI-INT-002",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 1.5 km para metros.",
+    "options": {
+      "A": "750 m",
+      "B": "1500 m",
+      "C": "1501 m",
+      "D": "3000 m"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 1500 m."
+  },
+  {
+    "id": "FI-INT-003",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 2 km para metros.",
+    "options": {
+      "A": "4000 m",
+      "B": "1000 m",
+      "C": "2000 m",
+      "D": "2001 m"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 2000 m."
+  },
+  {
+    "id": "FI-INT-004",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 2.5 km para metros.",
+    "options": {
+      "A": "2501 m",
+      "B": "5000 m",
+      "C": "1250 m",
+      "D": "2500 m"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 2500 m."
+  },
+  {
+    "id": "FI-INT-005",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 3 km para metros.",
+    "options": {
+      "A": "3000 m",
+      "B": "3001 m",
+      "C": "6000 m",
+      "D": "1500 m"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 3000 m."
+  },
+  {
+    "id": "FI-INT-006",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 3.5 km para metros.",
+    "options": {
+      "A": "1750 m",
+      "B": "3500 m",
+      "C": "3501 m",
+      "D": "7000 m"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 3500 m."
+  },
+  {
+    "id": "FI-INT-007",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 4 km para metros.",
+    "options": {
+      "A": "8000 m",
+      "B": "2000 m",
+      "C": "4000 m",
+      "D": "4001 m"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 4000 m."
+  },
+  {
+    "id": "FI-INT-008",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 4.5 km para metros.",
+    "options": {
+      "A": "4501 m",
+      "B": "9000 m",
+      "C": "2250 m",
+      "D": "4500 m"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 4500 m."
+  },
+  {
+    "id": "FI-INT-009",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 5 km para metros.",
+    "options": {
+      "A": "5000 m",
+      "B": "5001 m",
+      "C": "10000 m",
+      "D": "2500 m"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 5000 m."
+  },
+  {
+    "id": "FI-INT-010",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 6 km para metros.",
+    "options": {
+      "A": "3000 m",
+      "B": "6000 m",
+      "C": "6001 m",
+      "D": "12000 m"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 6000 m."
+  },
+  {
+    "id": "FI-INT-011",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 1 m para centimetros.",
+    "options": {
+      "A": "200 cm",
+      "B": "50 cm",
+      "C": "100 cm",
+      "D": "101 cm"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 100 cm."
+  },
+  {
+    "id": "FI-INT-012",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 1.2 m para centimetros.",
+    "options": {
+      "A": "121 cm",
+      "B": "240 cm",
+      "C": "60 cm",
+      "D": "120 cm"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 120 cm."
+  },
+  {
+    "id": "FI-INT-013",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 1.5 m para centimetros.",
+    "options": {
+      "A": "150 cm",
+      "B": "151 cm",
+      "C": "300 cm",
+      "D": "75 cm"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 150 cm."
+  },
+  {
+    "id": "FI-INT-014",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 2 m para centimetros.",
+    "options": {
+      "A": "100 cm",
+      "B": "200 cm",
+      "C": "201 cm",
+      "D": "400 cm"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 200 cm."
+  },
+  {
+    "id": "FI-INT-015",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 2.2 m para centimetros.",
+    "options": {
+      "A": "440 cm",
+      "B": "110 cm",
+      "C": "220 cm",
+      "D": "221 cm"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 220 cm."
+  },
+  {
+    "id": "FI-INT-016",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 2.5 m para centimetros.",
+    "options": {
+      "A": "251 cm",
+      "B": "500 cm",
+      "C": "125 cm",
+      "D": "250 cm"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 250 cm."
+  },
+  {
+    "id": "FI-INT-017",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 3 m para centimetros.",
+    "options": {
+      "A": "300 cm",
+      "B": "301 cm",
+      "C": "600 cm",
+      "D": "150 cm"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 300 cm."
+  },
+  {
+    "id": "FI-INT-018",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 3.2 m para centimetros.",
+    "options": {
+      "A": "160 cm",
+      "B": "320 cm",
+      "C": "321 cm",
+      "D": "640 cm"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 320 cm."
+  },
+  {
+    "id": "FI-INT-019",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 4 m para centimetros.",
+    "options": {
+      "A": "800 cm",
+      "B": "200 cm",
+      "C": "400 cm",
+      "D": "401 cm"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 400 cm."
+  },
+  {
+    "id": "FI-INT-020",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 5 m para centimetros.",
+    "options": {
+      "A": "501 cm",
+      "B": "1000 cm",
+      "C": "250 cm",
+      "D": "500 cm"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 500 cm."
+  },
+  {
+    "id": "FI-INT-021",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 100 g para quilogramas.",
+    "options": {
+      "A": "0,1 kg",
+      "B": "1,1 kg",
+      "C": "0,2 kg",
+      "D": "0,05 kg"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,1 kg."
+  },
+  {
+    "id": "FI-INT-022",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 200 g para quilogramas.",
+    "options": {
+      "A": "0,1 kg",
+      "B": "0,2 kg",
+      "C": "1,2 kg",
+      "D": "0,4 kg"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,2 kg."
+  },
+  {
+    "id": "FI-INT-023",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte 250 g para quilogramas.",
+    "options": {
+      "A": "0,5 kg",
+      "B": "0,125 kg",
+      "C": "0,25 kg",
+      "D": "1,25 kg"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,25 kg."
+  },
+  {
+    "id": "FI-INT-024",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 300 g para quilogramas.",
+    "options": {
+      "A": "1,3 kg",
+      "B": "0,6 kg",
+      "C": "0,15 kg",
+      "D": "0,3 kg"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,3 kg."
+  },
+  {
+    "id": "FI-INT-025",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 400 g para quilogramas.",
+    "options": {
+      "A": "0,4 kg",
+      "B": "1,4 kg",
+      "C": "0,8 kg",
+      "D": "0,2 kg"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,4 kg."
+  },
+  {
+    "id": "FI-INT-026",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 500 g para quilogramas.",
+    "options": {
+      "A": "0,25 kg",
+      "B": "0,5 kg",
+      "C": "1,5 kg",
+      "D": "1 kg"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,5 kg."
+  },
+  {
+    "id": "FI-INT-027",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte 600 g para quilogramas.",
+    "options": {
+      "A": "1,2 kg",
+      "B": "0,3 kg",
+      "C": "0,6 kg",
+      "D": "1,6 kg"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,6 kg."
+  },
+  {
+    "id": "FI-INT-028",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 750 g para quilogramas.",
+    "options": {
+      "A": "1,75 kg",
+      "B": "1,5 kg",
+      "C": "0,375 kg",
+      "D": "0,75 kg"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,75 kg."
+  },
+  {
+    "id": "FI-INT-029",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 800 g para quilogramas.",
+    "options": {
+      "A": "0,8 kg",
+      "B": "1,8 kg",
+      "C": "1,6 kg",
+      "D": "0,4 kg"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,8 kg."
+  },
+  {
+    "id": "FI-INT-030",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte 900 g para quilogramas.",
+    "options": {
+      "A": "0,45 kg",
+      "B": "0,9 kg",
+      "C": "1,9 kg",
+      "D": "1,8 kg"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,9 kg."
+  },
+  {
+    "id": "FI-INT-031",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Quantos segundos existem em 1 minutos?",
+    "options": {
+      "A": "120 s",
+      "B": "30 s",
+      "C": "60 s",
+      "D": "61 s"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 60 s."
+  },
+  {
+    "id": "FI-INT-032",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Quantos segundos existem em 2 minutos?",
+    "options": {
+      "A": "121 s",
+      "B": "240 s",
+      "C": "60 s",
+      "D": "120 s"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 120 s."
+  },
+  {
+    "id": "FI-INT-033",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Quantos segundos existem em 3 minutos?",
+    "options": {
+      "A": "180 s",
+      "B": "181 s",
+      "C": "360 s",
+      "D": "90 s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 180 s."
+  },
+  {
+    "id": "FI-INT-034",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Quantos segundos existem em 4 minutos?",
+    "options": {
+      "A": "120 s",
+      "B": "240 s",
+      "C": "241 s",
+      "D": "480 s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 240 s."
+  },
+  {
+    "id": "FI-INT-035",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Quantos segundos existem em 5 minutos?",
+    "options": {
+      "A": "600 s",
+      "B": "150 s",
+      "C": "300 s",
+      "D": "301 s"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 300 s."
+  },
+  {
+    "id": "FI-INT-036",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Quantos segundos existem em 6 minutos?",
+    "options": {
+      "A": "361 s",
+      "B": "720 s",
+      "C": "180 s",
+      "D": "360 s"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 360 s."
+  },
+  {
+    "id": "FI-INT-037",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Quantos segundos existem em 7 minutos?",
+    "options": {
+      "A": "420 s",
+      "B": "421 s",
+      "C": "840 s",
+      "D": "210 s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 420 s."
+  },
+  {
+    "id": "FI-INT-038",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Quantos segundos existem em 8 minutos?",
+    "options": {
+      "A": "240 s",
+      "B": "480 s",
+      "C": "481 s",
+      "D": "960 s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 480 s."
+  },
+  {
+    "id": "FI-INT-039",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Quantos segundos existem em 9 minutos?",
+    "options": {
+      "A": "1080 s",
+      "B": "270 s",
+      "C": "540 s",
+      "D": "541 s"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 540 s."
+  },
+  {
+    "id": "FI-INT-040",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Quantos segundos existem em 10 minutos?",
+    "options": {
+      "A": "601 s",
+      "B": "1200 s",
+      "C": "300 s",
+      "D": "600 s"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 600 s."
+  },
+  {
+    "id": "FI-INT-041",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um corpo percorre 60 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "1 m/s",
+      "B": "2 m/s",
+      "C": "2 m/s",
+      "D": "0,5 m/s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 1 m/s."
+  },
+  {
+    "id": "FI-INT-042",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um corpo percorre 120 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "1 m/s",
+      "B": "2 m/s",
+      "C": "3 m/s",
+      "D": "4 m/s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 2 m/s."
+  },
+  {
+    "id": "FI-INT-043",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um corpo percorre 180 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "6 m/s",
+      "B": "1,5 m/s",
+      "C": "3 m/s",
+      "D": "4 m/s"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 3 m/s."
+  },
+  {
+    "id": "FI-INT-044",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo percorre 240 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "5 m/s",
+      "B": "8 m/s",
+      "C": "2 m/s",
+      "D": "4 m/s"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 4 m/s."
+  },
+  {
+    "id": "FI-INT-045",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo percorre 300 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "5 m/s",
+      "B": "6 m/s",
+      "C": "10 m/s",
+      "D": "2,5 m/s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 5 m/s."
+  },
+  {
+    "id": "FI-INT-046",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo percorre 360 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "3 m/s",
+      "B": "6 m/s",
+      "C": "7 m/s",
+      "D": "12 m/s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 6 m/s."
+  },
+  {
+    "id": "FI-INT-047",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo percorre 420 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "14 m/s",
+      "B": "3,5 m/s",
+      "C": "7 m/s",
+      "D": "8 m/s"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 7 m/s."
+  },
+  {
+    "id": "FI-INT-048",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um corpo percorre 480 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "9 m/s",
+      "B": "16 m/s",
+      "C": "4 m/s",
+      "D": "8 m/s"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 8 m/s."
+  },
+  {
+    "id": "FI-INT-049",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um corpo percorre 540 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "9 m/s",
+      "B": "10 m/s",
+      "C": "18 m/s",
+      "D": "4,5 m/s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 9 m/s."
+  },
+  {
+    "id": "FI-INT-050",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um corpo percorre 600 m em 60 s. Calcula a rapidez media.",
+    "options": {
+      "A": "5 m/s",
+      "B": "10 m/s",
+      "C": "11 m/s",
+      "D": "20 m/s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 10 m/s."
+  },
+  {
+    "id": "FI-INT-051",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um movel desloca-se a 2 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "20 m",
+      "B": "5 m",
+      "C": "10 m",
+      "D": "11 m"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 10 m."
+  },
+  {
+    "id": "FI-INT-052",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um movel desloca-se a 3 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "16 m",
+      "B": "30 m",
+      "C": "7,5 m",
+      "D": "15 m"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 15 m."
+  },
+  {
+    "id": "FI-INT-053",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um movel desloca-se a 4 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "20 m",
+      "B": "21 m",
+      "C": "40 m",
+      "D": "10 m"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 20 m."
+  },
+  {
+    "id": "FI-INT-054",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um movel desloca-se a 5 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "12,5 m",
+      "B": "25 m",
+      "C": "26 m",
+      "D": "50 m"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 25 m."
+  },
+  {
+    "id": "FI-INT-055",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um movel desloca-se a 6 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "60 m",
+      "B": "15 m",
+      "C": "30 m",
+      "D": "31 m"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 30 m."
+  },
+  {
+    "id": "FI-INT-056",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um movel desloca-se a 7 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "36 m",
+      "B": "70 m",
+      "C": "17,5 m",
+      "D": "35 m"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 35 m."
+  },
+  {
+    "id": "FI-INT-057",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um movel desloca-se a 8 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "40 m",
+      "B": "41 m",
+      "C": "80 m",
+      "D": "20 m"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 40 m."
+  },
+  {
+    "id": "FI-INT-058",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um movel desloca-se a 9 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "22,5 m",
+      "B": "45 m",
+      "C": "46 m",
+      "D": "90 m"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 45 m."
+  },
+  {
+    "id": "FI-INT-059",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um movel desloca-se a 10 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "100 m",
+      "B": "25 m",
+      "C": "50 m",
+      "D": "51 m"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 50 m."
+  },
+  {
+    "id": "FI-INT-060",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um movel desloca-se a 12 m/s durante 5 s. Qual a distancia percorrida?",
+    "options": {
+      "A": "61 m",
+      "B": "120 m",
+      "C": "30 m",
+      "D": "60 m"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 60 m."
+  },
+  {
+    "id": "FI-INT-061",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Calcula o peso aproximado de uma massa de 1 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "10 N",
+      "B": "11 N",
+      "C": "20 N",
+      "D": "5 N"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 10 N."
+  },
+  {
+    "id": "FI-INT-062",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Calcula o peso aproximado de uma massa de 2 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "10 N",
+      "B": "20 N",
+      "C": "21 N",
+      "D": "40 N"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 20 N."
+  },
+  {
+    "id": "FI-INT-063",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Calcula o peso aproximado de uma massa de 3 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "60 N",
+      "B": "15 N",
+      "C": "30 N",
+      "D": "31 N"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 30 N."
+  },
+  {
+    "id": "FI-INT-064",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Calcula o peso aproximado de uma massa de 4 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "41 N",
+      "B": "80 N",
+      "C": "20 N",
+      "D": "40 N"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 40 N."
+  },
+  {
+    "id": "FI-INT-065",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Calcula o peso aproximado de uma massa de 5 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "50 N",
+      "B": "51 N",
+      "C": "100 N",
+      "D": "25 N"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 50 N."
+  },
+  {
+    "id": "FI-INT-066",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Calcula o peso aproximado de uma massa de 6 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "30 N",
+      "B": "60 N",
+      "C": "61 N",
+      "D": "120 N"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 60 N."
+  },
+  {
+    "id": "FI-INT-067",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Calcula o peso aproximado de uma massa de 7 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "140 N",
+      "B": "35 N",
+      "C": "70 N",
+      "D": "71 N"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 70 N."
+  },
+  {
+    "id": "FI-INT-068",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Calcula o peso aproximado de uma massa de 8 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "81 N",
+      "B": "160 N",
+      "C": "40 N",
+      "D": "80 N"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 80 N."
+  },
+  {
+    "id": "FI-INT-069",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Calcula o peso aproximado de uma massa de 9 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "90 N",
+      "B": "91 N",
+      "C": "180 N",
+      "D": "45 N"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 90 N."
+  },
+  {
+    "id": "FI-INT-070",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Calcula o peso aproximado de uma massa de 10 kg, considerando g = 10 m/s2.",
+    "options": {
+      "A": "50 N",
+      "B": "100 N",
+      "C": "101 N",
+      "D": "200 N"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 100 N."
+  },
+  {
+    "id": "FI-INT-071",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um corpo tem massa 100 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "4 g/cm3",
+      "B": "1 g/cm3",
+      "C": "2 g/cm3",
+      "D": "3 g/cm3"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 2 g/cm3."
+  },
+  {
+    "id": "FI-INT-072",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um corpo tem massa 150 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "4 g/cm3",
+      "B": "6 g/cm3",
+      "C": "1,5 g/cm3",
+      "D": "3 g/cm3"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 3 g/cm3."
+  },
+  {
+    "id": "FI-INT-073",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Um corpo tem massa 200 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "4 g/cm3",
+      "B": "5 g/cm3",
+      "C": "8 g/cm3",
+      "D": "2 g/cm3"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 4 g/cm3."
+  },
+  {
+    "id": "FI-INT-074",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo tem massa 250 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "2,5 g/cm3",
+      "B": "5 g/cm3",
+      "C": "6 g/cm3",
+      "D": "10 g/cm3"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 5 g/cm3."
+  },
+  {
+    "id": "FI-INT-075",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo tem massa 300 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "12 g/cm3",
+      "B": "3 g/cm3",
+      "C": "6 g/cm3",
+      "D": "7 g/cm3"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 6 g/cm3."
+  },
+  {
+    "id": "FI-INT-076",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo tem massa 350 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "8 g/cm3",
+      "B": "14 g/cm3",
+      "C": "3,5 g/cm3",
+      "D": "7 g/cm3"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 7 g/cm3."
+  },
+  {
+    "id": "FI-INT-077",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Um corpo tem massa 400 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "8 g/cm3",
+      "B": "9 g/cm3",
+      "C": "16 g/cm3",
+      "D": "4 g/cm3"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 8 g/cm3."
+  },
+  {
+    "id": "FI-INT-078",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um corpo tem massa 450 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "4,5 g/cm3",
+      "B": "9 g/cm3",
+      "C": "10 g/cm3",
+      "D": "18 g/cm3"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 9 g/cm3."
+  },
+  {
+    "id": "FI-INT-079",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um corpo tem massa 500 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "20 g/cm3",
+      "B": "5 g/cm3",
+      "C": "10 g/cm3",
+      "D": "11 g/cm3"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 10 g/cm3."
+  },
+  {
+    "id": "FI-INT-080",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Um corpo tem massa 600 g e volume 50 cm3. Calcula a massa volumica.",
+    "options": {
+      "A": "13 g/cm3",
+      "B": "24 g/cm3",
+      "C": "6 g/cm3",
+      "D": "12 g/cm3"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 12 g/cm3."
+  },
+  {
+    "id": "FI-INT-081",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 1 Hz?",
+    "options": {
+      "A": "1 s",
+      "B": "2 s",
+      "C": "2 s",
+      "D": "0,5 s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 1 s."
+  },
+  {
+    "id": "FI-INT-082",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 2 Hz?",
+    "options": {
+      "A": "0,25 s",
+      "B": "0,5 s",
+      "C": "1,5 s",
+      "D": "1 s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,5 s."
+  },
+  {
+    "id": "FI-INT-083",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 4 Hz?",
+    "options": {
+      "A": "0,5 s",
+      "B": "0,125 s",
+      "C": "0,25 s",
+      "D": "1,25 s"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,25 s."
+  },
+  {
+    "id": "FI-INT-084",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 5 Hz?",
+    "options": {
+      "A": "1,2 s",
+      "B": "0,4 s",
+      "C": "0,1 s",
+      "D": "0,2 s"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,2 s."
+  },
+  {
+    "id": "FI-INT-085",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 10 Hz?",
+    "options": {
+      "A": "0,1 s",
+      "B": "1,1 s",
+      "C": "0,2 s",
+      "D": "0,05 s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,1 s."
+  },
+  {
+    "id": "FI-INT-086",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 20 Hz?",
+    "options": {
+      "A": "0,025 s",
+      "B": "0,05 s",
+      "C": "1,05 s",
+      "D": "0,1 s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,05 s."
+  },
+  {
+    "id": "FI-INT-087",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 25 Hz?",
+    "options": {
+      "A": "0,08 s",
+      "B": "0,02 s",
+      "C": "0,04 s",
+      "D": "1,04 s"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,04 s."
+  },
+  {
+    "id": "FI-INT-088",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 40 Hz?",
+    "options": {
+      "A": "1,025 s",
+      "B": "0,05 s",
+      "C": "0,013 s",
+      "D": "0,025 s"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,025 s."
+  },
+  {
+    "id": "FI-INT-089",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 50 Hz?",
+    "options": {
+      "A": "0,02 s",
+      "B": "1,02 s",
+      "C": "0,04 s",
+      "D": "0,01 s"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,02 s."
+  },
+  {
+    "id": "FI-INT-090",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Qual e o periodo de uma oscilacao com frequencia 100 Hz?",
+    "options": {
+      "A": "0,005 s",
+      "B": "0,01 s",
+      "C": "1,01 s",
+      "D": "0,02 s"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,01 s."
+  },
+  {
+    "id": "FI-INT-091",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte aproximadamente 0 graus Celsius para kelvin.",
+    "options": {
+      "A": "546 K",
+      "B": "136,5 K",
+      "C": "273 K",
+      "D": "274 K"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 273 K."
+  },
+  {
+    "id": "FI-INT-092",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte aproximadamente 10 graus Celsius para kelvin.",
+    "options": {
+      "A": "284 K",
+      "B": "566 K",
+      "C": "141,5 K",
+      "D": "283 K"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 283 K."
+  },
+  {
+    "id": "FI-INT-093",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Facil",
+    "question": "Converte aproximadamente 15 graus Celsius para kelvin.",
+    "options": {
+      "A": "288 K",
+      "B": "289 K",
+      "C": "576 K",
+      "D": "144 K"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 288 K."
+  },
+  {
+    "id": "FI-INT-094",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte aproximadamente 20 graus Celsius para kelvin.",
+    "options": {
+      "A": "146,5 K",
+      "B": "293 K",
+      "C": "294 K",
+      "D": "586 K"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 293 K."
+  },
+  {
+    "id": "FI-INT-095",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte aproximadamente 25 graus Celsius para kelvin.",
+    "options": {
+      "A": "596 K",
+      "B": "149 K",
+      "C": "298 K",
+      "D": "299 K"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 298 K."
+  },
+  {
+    "id": "FI-INT-096",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte aproximadamente 30 graus Celsius para kelvin.",
+    "options": {
+      "A": "304 K",
+      "B": "606 K",
+      "C": "151,5 K",
+      "D": "303 K"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 303 K."
+  },
+  {
+    "id": "FI-INT-097",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Media",
+    "question": "Converte aproximadamente 35 graus Celsius para kelvin.",
+    "options": {
+      "A": "308 K",
+      "B": "309 K",
+      "C": "616 K",
+      "D": "154 K"
+    },
+    "correct_answer": "A",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 308 K."
+  },
+  {
+    "id": "FI-INT-098",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte aproximadamente 40 graus Celsius para kelvin.",
+    "options": {
+      "A": "156,5 K",
+      "B": "313 K",
+      "C": "314 K",
+      "D": "626 K"
+    },
+    "correct_answer": "B",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 313 K."
+  },
+  {
+    "id": "FI-INT-099",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte aproximadamente 50 graus Celsius para kelvin.",
+    "options": {
+      "A": "646 K",
+      "B": "161,5 K",
+      "C": "323 K",
+      "D": "324 K"
+    },
+    "correct_answer": "C",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 323 K."
+  },
+  {
+    "id": "FI-INT-100",
+    "subject": "Fisica",
+    "topic": "Introducao",
+    "difficulty": "Dificil",
+    "question": "Converte aproximadamente 100 graus Celsius para kelvin.",
+    "options": {
+      "A": "374 K",
+      "B": "746 K",
+      "C": "186,5 K",
+      "D": "373 K"
+    },
+    "correct_answer": "D",
+    "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 373 K."
+  }
+]
