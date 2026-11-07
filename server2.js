@@ -686,9 +686,9 @@ async function processar(numero, textoRecebido) {
       await enviar(numero, menu());
       return;
     }
-    if (texto === "1" || texto === "2") {
-      const prefixo = texto === "1" ? "FI-INT-" : "FI-TE-";
-      const nomeTema = texto === "1" ? "Introdução" : "Trabalho e energia";
+    if (texto === "1" || texto === "2" || texto === "3") {
+      const prefixo = texto === "1" ? "FI-INT-" : texto === "2" ? "FI-TE-" : "FI-OL-";
+      const nomeTema = texto === "1" ? "Introdução" : texto === "2" ? "Trabalho e energia" : "Ondas e luz";
       const perguntas = bancos.fisica.filter(p => p.id.startsWith(prefixo));
       if (perguntas.length !== 100) {
         await enviar(numero, "O tema " + nomeTema + " ainda não está completo. Tenta novamente mais tarde.");
@@ -720,7 +720,7 @@ async function processar(numero, textoRecebido) {
       "⚛️ *FÍSICA — ESCOLHE O TEMA*\n\n" +
       "1️⃣ Introdução — 100 perguntas disponíveis\n" +
       "2️⃣ Trabalho, energia e transferência de energia — 100 perguntas disponíveis\n" +
-      "3️⃣ Ondas e luz — em preparação\n" +
+      "3️⃣ Ondas e luz — 100 perguntas disponíveis\n" +
       "4️⃣ Dinâmica — em preparação\n" +
       "5️⃣ Mecânica dos fluidos — em preparação\n" +
       "6️⃣ Física dos gases — em preparação\n" +
