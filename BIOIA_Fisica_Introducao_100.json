@@ -6,12 +6,12 @@
     "difficulty": "Facil",
     "question": "Converte 1 km para metros.",
     "options": {
-      "A": "1000 m",
-      "B": "1001 m",
-      "C": "2000 m",
-      "D": "500 m"
+      "A": "1003 m",
+      "B": "1000 m",
+      "C": "1001 m",
+      "D": "1002 m"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 1000 m."
   },
   {
@@ -21,12 +21,12 @@
     "difficulty": "Facil",
     "question": "Converte 1.5 km para metros.",
     "options": {
-      "A": "750 m",
-      "B": "1500 m",
-      "C": "1501 m",
-      "D": "3000 m"
+      "A": "1502 m",
+      "B": "1503 m",
+      "C": "1500 m",
+      "D": "1501 m"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 1500 m."
   },
   {
@@ -36,12 +36,12 @@
     "difficulty": "Facil",
     "question": "Converte 2 km para metros.",
     "options": {
-      "A": "4000 m",
-      "B": "1000 m",
-      "C": "2000 m",
-      "D": "2001 m"
+      "A": "2001 m",
+      "B": "2002 m",
+      "C": "2003 m",
+      "D": "2000 m"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 2000 m."
   },
   {
@@ -51,12 +51,12 @@
     "difficulty": "Media",
     "question": "Converte 2.5 km para metros.",
     "options": {
-      "A": "2501 m",
-      "B": "5000 m",
-      "C": "1250 m",
-      "D": "2500 m"
+      "A": "2500 m",
+      "B": "2501 m",
+      "C": "2502 m",
+      "D": "2503 m"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 2500 m."
   },
   {
@@ -66,12 +66,12 @@
     "difficulty": "Media",
     "question": "Converte 3 km para metros.",
     "options": {
-      "A": "3000 m",
-      "B": "3001 m",
-      "C": "6000 m",
-      "D": "1500 m"
+      "A": "3003 m",
+      "B": "3000 m",
+      "C": "3001 m",
+      "D": "3002 m"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 3000 m."
   },
   {
@@ -81,12 +81,12 @@
     "difficulty": "Media",
     "question": "Converte 3.5 km para metros.",
     "options": {
-      "A": "1750 m",
-      "B": "3500 m",
-      "C": "3501 m",
-      "D": "7000 m"
+      "A": "3502 m",
+      "B": "3503 m",
+      "C": "3500 m",
+      "D": "3501 m"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 3500 m."
   },
   {
@@ -96,12 +96,12 @@
     "difficulty": "Media",
     "question": "Converte 4 km para metros.",
     "options": {
-      "A": "8000 m",
-      "B": "2000 m",
-      "C": "4000 m",
-      "D": "4001 m"
+      "A": "4001 m",
+      "B": "4002 m",
+      "C": "4003 m",
+      "D": "4000 m"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 4000 m."
   },
   {
@@ -111,12 +111,12 @@
     "difficulty": "Dificil",
     "question": "Converte 4.5 km para metros.",
     "options": {
-      "A": "4501 m",
-      "B": "9000 m",
-      "C": "2250 m",
-      "D": "4500 m"
+      "A": "4500 m",
+      "B": "4501 m",
+      "C": "4502 m",
+      "D": "4503 m"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 4500 m."
   },
   {
@@ -126,12 +126,12 @@
     "difficulty": "Dificil",
     "question": "Converte 5 km para metros.",
     "options": {
-      "A": "5000 m",
-      "B": "5001 m",
-      "C": "10000 m",
-      "D": "2500 m"
+      "A": "5003 m",
+      "B": "5000 m",
+      "C": "5001 m",
+      "D": "5002 m"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 5000 m."
   },
   {
@@ -141,12 +141,12 @@
     "difficulty": "Dificil",
     "question": "Converte 6 km para metros.",
     "options": {
-      "A": "3000 m",
-      "B": "6000 m",
-      "C": "6001 m",
-      "D": "12000 m"
+      "A": "6002 m",
+      "B": "6003 m",
+      "C": "6000 m",
+      "D": "6001 m"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de km para m aos dados apresentados. O resultado correcto e 6000 m."
   },
   {
@@ -156,12 +156,12 @@
     "difficulty": "Facil",
     "question": "Converte 1 m para centimetros.",
     "options": {
-      "A": "200 cm",
-      "B": "50 cm",
-      "C": "100 cm",
-      "D": "101 cm"
+      "A": "101 cm",
+      "B": "102 cm",
+      "C": "103 cm",
+      "D": "100 cm"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 100 cm."
   },
   {
@@ -171,12 +171,12 @@
     "difficulty": "Facil",
     "question": "Converte 1.2 m para centimetros.",
     "options": {
-      "A": "121 cm",
-      "B": "240 cm",
-      "C": "60 cm",
-      "D": "120 cm"
+      "A": "120 cm",
+      "B": "121 cm",
+      "C": "122 cm",
+      "D": "123 cm"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 120 cm."
   },
   {
@@ -186,12 +186,12 @@
     "difficulty": "Facil",
     "question": "Converte 1.5 m para centimetros.",
     "options": {
-      "A": "150 cm",
-      "B": "151 cm",
-      "C": "300 cm",
-      "D": "75 cm"
+      "A": "153 cm",
+      "B": "150 cm",
+      "C": "151 cm",
+      "D": "152 cm"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 150 cm."
   },
   {
@@ -201,12 +201,12 @@
     "difficulty": "Media",
     "question": "Converte 2 m para centimetros.",
     "options": {
-      "A": "100 cm",
-      "B": "200 cm",
-      "C": "201 cm",
-      "D": "400 cm"
+      "A": "202 cm",
+      "B": "203 cm",
+      "C": "200 cm",
+      "D": "201 cm"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 200 cm."
   },
   {
@@ -216,12 +216,12 @@
     "difficulty": "Media",
     "question": "Converte 2.2 m para centimetros.",
     "options": {
-      "A": "440 cm",
-      "B": "110 cm",
-      "C": "220 cm",
-      "D": "221 cm"
+      "A": "221 cm",
+      "B": "222 cm",
+      "C": "223 cm",
+      "D": "220 cm"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 220 cm."
   },
   {
@@ -231,12 +231,12 @@
     "difficulty": "Media",
     "question": "Converte 2.5 m para centimetros.",
     "options": {
-      "A": "251 cm",
-      "B": "500 cm",
-      "C": "125 cm",
-      "D": "250 cm"
+      "A": "250 cm",
+      "B": "251 cm",
+      "C": "252 cm",
+      "D": "253 cm"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 250 cm."
   },
   {
@@ -246,12 +246,12 @@
     "difficulty": "Media",
     "question": "Converte 3 m para centimetros.",
     "options": {
-      "A": "300 cm",
-      "B": "301 cm",
-      "C": "600 cm",
-      "D": "150 cm"
+      "A": "303 cm",
+      "B": "300 cm",
+      "C": "301 cm",
+      "D": "302 cm"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 300 cm."
   },
   {
@@ -261,12 +261,12 @@
     "difficulty": "Dificil",
     "question": "Converte 3.2 m para centimetros.",
     "options": {
-      "A": "160 cm",
-      "B": "320 cm",
-      "C": "321 cm",
-      "D": "640 cm"
+      "A": "322 cm",
+      "B": "323 cm",
+      "C": "320 cm",
+      "D": "321 cm"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 320 cm."
   },
   {
@@ -276,12 +276,12 @@
     "difficulty": "Dificil",
     "question": "Converte 4 m para centimetros.",
     "options": {
-      "A": "800 cm",
-      "B": "200 cm",
-      "C": "400 cm",
-      "D": "401 cm"
+      "A": "401 cm",
+      "B": "402 cm",
+      "C": "403 cm",
+      "D": "400 cm"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 400 cm."
   },
   {
@@ -291,12 +291,12 @@
     "difficulty": "Dificil",
     "question": "Converte 5 m para centimetros.",
     "options": {
-      "A": "501 cm",
-      "B": "1000 cm",
-      "C": "250 cm",
-      "D": "500 cm"
+      "A": "500 cm",
+      "B": "501 cm",
+      "C": "502 cm",
+      "D": "503 cm"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de conversao de m para cm aos dados apresentados. O resultado correcto e 500 cm."
   },
   {
@@ -306,12 +306,12 @@
     "difficulty": "Facil",
     "question": "Converte 100 g para quilogramas.",
     "options": {
-      "A": "0,1 kg",
-      "B": "1,1 kg",
-      "C": "0,2 kg",
-      "D": "0,05 kg"
+      "A": "3,1 kg",
+      "B": "0,1 kg",
+      "C": "1,1 kg",
+      "D": "2,1 kg"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,1 kg."
   },
   {
@@ -321,12 +321,12 @@
     "difficulty": "Facil",
     "question": "Converte 200 g para quilogramas.",
     "options": {
-      "A": "0,1 kg",
-      "B": "0,2 kg",
-      "C": "1,2 kg",
-      "D": "0,4 kg"
+      "A": "2,2 kg",
+      "B": "3,2 kg",
+      "C": "0,2 kg",
+      "D": "1,2 kg"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,2 kg."
   },
   {
@@ -336,12 +336,12 @@
     "difficulty": "Facil",
     "question": "Converte 250 g para quilogramas.",
     "options": {
-      "A": "0,5 kg",
-      "B": "0,125 kg",
-      "C": "0,25 kg",
-      "D": "1,25 kg"
+      "A": "1,25 kg",
+      "B": "2,25 kg",
+      "C": "3,25 kg",
+      "D": "0,25 kg"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,25 kg."
   },
   {
@@ -351,12 +351,12 @@
     "difficulty": "Media",
     "question": "Converte 300 g para quilogramas.",
     "options": {
-      "A": "1,3 kg",
-      "B": "0,6 kg",
-      "C": "0,15 kg",
-      "D": "0,3 kg"
+      "A": "0,3 kg",
+      "B": "1,3 kg",
+      "C": "2,3 kg",
+      "D": "3,3 kg"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,3 kg."
   },
   {
@@ -366,12 +366,12 @@
     "difficulty": "Media",
     "question": "Converte 400 g para quilogramas.",
     "options": {
-      "A": "0,4 kg",
-      "B": "1,4 kg",
-      "C": "0,8 kg",
-      "D": "0,2 kg"
+      "A": "3,4 kg",
+      "B": "0,4 kg",
+      "C": "1,4 kg",
+      "D": "2,4 kg"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,4 kg."
   },
   {
@@ -381,12 +381,12 @@
     "difficulty": "Media",
     "question": "Converte 500 g para quilogramas.",
     "options": {
-      "A": "0,25 kg",
-      "B": "0,5 kg",
-      "C": "1,5 kg",
-      "D": "1 kg"
+      "A": "2,5 kg",
+      "B": "3,5 kg",
+      "C": "0,5 kg",
+      "D": "1,5 kg"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,5 kg."
   },
   {
@@ -396,12 +396,12 @@
     "difficulty": "Media",
     "question": "Converte 600 g para quilogramas.",
     "options": {
-      "A": "1,2 kg",
-      "B": "0,3 kg",
-      "C": "0,6 kg",
-      "D": "1,6 kg"
+      "A": "1,6 kg",
+      "B": "2,6 kg",
+      "C": "3,6 kg",
+      "D": "0,6 kg"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,6 kg."
   },
   {
@@ -411,12 +411,12 @@
     "difficulty": "Dificil",
     "question": "Converte 750 g para quilogramas.",
     "options": {
-      "A": "1,75 kg",
-      "B": "1,5 kg",
-      "C": "0,375 kg",
-      "D": "0,75 kg"
+      "A": "0,75 kg",
+      "B": "1,75 kg",
+      "C": "2,75 kg",
+      "D": "3,75 kg"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,75 kg."
   },
   {
@@ -426,12 +426,12 @@
     "difficulty": "Dificil",
     "question": "Converte 800 g para quilogramas.",
     "options": {
-      "A": "0,8 kg",
-      "B": "1,8 kg",
-      "C": "1,6 kg",
-      "D": "0,4 kg"
+      "A": "3,8 kg",
+      "B": "0,8 kg",
+      "C": "1,8 kg",
+      "D": "2,8 kg"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,8 kg."
   },
   {
@@ -441,12 +441,12 @@
     "difficulty": "Dificil",
     "question": "Converte 900 g para quilogramas.",
     "options": {
-      "A": "0,45 kg",
-      "B": "0,9 kg",
-      "C": "1,9 kg",
-      "D": "1,8 kg"
+      "A": "2,9 kg",
+      "B": "3,9 kg",
+      "C": "0,9 kg",
+      "D": "1,9 kg"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de conversao de g para kg aos dados apresentados. O resultado correcto e 0,9 kg."
   },
   {
@@ -456,12 +456,12 @@
     "difficulty": "Facil",
     "question": "Quantos segundos existem em 1 minutos?",
     "options": {
-      "A": "120 s",
-      "B": "30 s",
-      "C": "60 s",
-      "D": "61 s"
+      "A": "61 s",
+      "B": "62 s",
+      "C": "63 s",
+      "D": "60 s"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 60 s."
   },
   {
@@ -471,12 +471,12 @@
     "difficulty": "Facil",
     "question": "Quantos segundos existem em 2 minutos?",
     "options": {
-      "A": "121 s",
-      "B": "240 s",
-      "C": "60 s",
-      "D": "120 s"
+      "A": "120 s",
+      "B": "121 s",
+      "C": "122 s",
+      "D": "123 s"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 120 s."
   },
   {
@@ -486,12 +486,12 @@
     "difficulty": "Facil",
     "question": "Quantos segundos existem em 3 minutos?",
     "options": {
-      "A": "180 s",
-      "B": "181 s",
-      "C": "360 s",
-      "D": "90 s"
+      "A": "183 s",
+      "B": "180 s",
+      "C": "181 s",
+      "D": "182 s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 180 s."
   },
   {
@@ -501,12 +501,12 @@
     "difficulty": "Media",
     "question": "Quantos segundos existem em 4 minutos?",
     "options": {
-      "A": "120 s",
-      "B": "240 s",
-      "C": "241 s",
-      "D": "480 s"
+      "A": "242 s",
+      "B": "243 s",
+      "C": "240 s",
+      "D": "241 s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 240 s."
   },
   {
@@ -516,12 +516,12 @@
     "difficulty": "Media",
     "question": "Quantos segundos existem em 5 minutos?",
     "options": {
-      "A": "600 s",
-      "B": "150 s",
-      "C": "300 s",
-      "D": "301 s"
+      "A": "301 s",
+      "B": "302 s",
+      "C": "303 s",
+      "D": "300 s"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 300 s."
   },
   {
@@ -531,12 +531,12 @@
     "difficulty": "Media",
     "question": "Quantos segundos existem em 6 minutos?",
     "options": {
-      "A": "361 s",
-      "B": "720 s",
-      "C": "180 s",
-      "D": "360 s"
+      "A": "360 s",
+      "B": "361 s",
+      "C": "362 s",
+      "D": "363 s"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 360 s."
   },
   {
@@ -546,12 +546,12 @@
     "difficulty": "Media",
     "question": "Quantos segundos existem em 7 minutos?",
     "options": {
-      "A": "420 s",
-      "B": "421 s",
-      "C": "840 s",
-      "D": "210 s"
+      "A": "423 s",
+      "B": "420 s",
+      "C": "421 s",
+      "D": "422 s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 420 s."
   },
   {
@@ -561,12 +561,12 @@
     "difficulty": "Dificil",
     "question": "Quantos segundos existem em 8 minutos?",
     "options": {
-      "A": "240 s",
-      "B": "480 s",
-      "C": "481 s",
-      "D": "960 s"
+      "A": "482 s",
+      "B": "483 s",
+      "C": "480 s",
+      "D": "481 s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 480 s."
   },
   {
@@ -576,12 +576,12 @@
     "difficulty": "Dificil",
     "question": "Quantos segundos existem em 9 minutos?",
     "options": {
-      "A": "1080 s",
-      "B": "270 s",
-      "C": "540 s",
-      "D": "541 s"
+      "A": "541 s",
+      "B": "542 s",
+      "C": "543 s",
+      "D": "540 s"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 540 s."
   },
   {
@@ -591,12 +591,12 @@
     "difficulty": "Dificil",
     "question": "Quantos segundos existem em 10 minutos?",
     "options": {
-      "A": "601 s",
-      "B": "1200 s",
-      "C": "300 s",
-      "D": "600 s"
+      "A": "600 s",
+      "B": "601 s",
+      "C": "602 s",
+      "D": "603 s"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de tempo em segundos aos dados apresentados. O resultado correcto e 600 s."
   },
   {
@@ -606,12 +606,12 @@
     "difficulty": "Facil",
     "question": "Um corpo percorre 60 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "1 m/s",
-      "B": "2 m/s",
+      "A": "4 m/s",
+      "B": "1 m/s",
       "C": "2 m/s",
-      "D": "0,5 m/s"
+      "D": "3 m/s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 1 m/s."
   },
   {
@@ -621,12 +621,12 @@
     "difficulty": "Facil",
     "question": "Um corpo percorre 120 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "1 m/s",
-      "B": "2 m/s",
-      "C": "3 m/s",
-      "D": "4 m/s"
+      "A": "4 m/s",
+      "B": "5 m/s",
+      "C": "2 m/s",
+      "D": "3 m/s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 2 m/s."
   },
   {
@@ -636,12 +636,12 @@
     "difficulty": "Facil",
     "question": "Um corpo percorre 180 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "6 m/s",
-      "B": "1,5 m/s",
-      "C": "3 m/s",
-      "D": "4 m/s"
+      "A": "4 m/s",
+      "B": "5 m/s",
+      "C": "6 m/s",
+      "D": "3 m/s"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 3 m/s."
   },
   {
@@ -651,12 +651,12 @@
     "difficulty": "Media",
     "question": "Um corpo percorre 240 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "5 m/s",
-      "B": "8 m/s",
-      "C": "2 m/s",
-      "D": "4 m/s"
+      "A": "4 m/s",
+      "B": "5 m/s",
+      "C": "6 m/s",
+      "D": "7 m/s"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 4 m/s."
   },
   {
@@ -666,12 +666,12 @@
     "difficulty": "Media",
     "question": "Um corpo percorre 300 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "5 m/s",
-      "B": "6 m/s",
-      "C": "10 m/s",
-      "D": "2,5 m/s"
+      "A": "8 m/s",
+      "B": "5 m/s",
+      "C": "6 m/s",
+      "D": "7 m/s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 5 m/s."
   },
   {
@@ -681,12 +681,12 @@
     "difficulty": "Media",
     "question": "Um corpo percorre 360 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "3 m/s",
-      "B": "6 m/s",
-      "C": "7 m/s",
-      "D": "12 m/s"
+      "A": "8 m/s",
+      "B": "9 m/s",
+      "C": "6 m/s",
+      "D": "7 m/s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 6 m/s."
   },
   {
@@ -696,12 +696,12 @@
     "difficulty": "Media",
     "question": "Um corpo percorre 420 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "14 m/s",
-      "B": "3,5 m/s",
-      "C": "7 m/s",
-      "D": "8 m/s"
+      "A": "8 m/s",
+      "B": "9 m/s",
+      "C": "10 m/s",
+      "D": "7 m/s"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 7 m/s."
   },
   {
@@ -711,12 +711,12 @@
     "difficulty": "Dificil",
     "question": "Um corpo percorre 480 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "9 m/s",
-      "B": "16 m/s",
-      "C": "4 m/s",
-      "D": "8 m/s"
+      "A": "8 m/s",
+      "B": "9 m/s",
+      "C": "10 m/s",
+      "D": "11 m/s"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 8 m/s."
   },
   {
@@ -726,12 +726,12 @@
     "difficulty": "Dificil",
     "question": "Um corpo percorre 540 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "9 m/s",
-      "B": "10 m/s",
-      "C": "18 m/s",
-      "D": "4,5 m/s"
+      "A": "12 m/s",
+      "B": "9 m/s",
+      "C": "10 m/s",
+      "D": "11 m/s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 9 m/s."
   },
   {
@@ -741,12 +741,12 @@
     "difficulty": "Dificil",
     "question": "Um corpo percorre 600 m em 60 s. Calcula a rapidez media.",
     "options": {
-      "A": "5 m/s",
-      "B": "10 m/s",
-      "C": "11 m/s",
-      "D": "20 m/s"
+      "A": "12 m/s",
+      "B": "13 m/s",
+      "C": "10 m/s",
+      "D": "11 m/s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de rapidez media aos dados apresentados. O resultado correcto e 10 m/s."
   },
   {
@@ -756,12 +756,12 @@
     "difficulty": "Facil",
     "question": "Um movel desloca-se a 2 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "20 m",
-      "B": "5 m",
-      "C": "10 m",
-      "D": "11 m"
+      "A": "11 m",
+      "B": "12 m",
+      "C": "13 m",
+      "D": "10 m"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 10 m."
   },
   {
@@ -771,12 +771,12 @@
     "difficulty": "Facil",
     "question": "Um movel desloca-se a 3 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "16 m",
-      "B": "30 m",
-      "C": "7,5 m",
-      "D": "15 m"
+      "A": "15 m",
+      "B": "16 m",
+      "C": "17 m",
+      "D": "18 m"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 15 m."
   },
   {
@@ -786,12 +786,12 @@
     "difficulty": "Facil",
     "question": "Um movel desloca-se a 4 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "20 m",
-      "B": "21 m",
-      "C": "40 m",
-      "D": "10 m"
+      "A": "23 m",
+      "B": "20 m",
+      "C": "21 m",
+      "D": "22 m"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 20 m."
   },
   {
@@ -801,12 +801,12 @@
     "difficulty": "Media",
     "question": "Um movel desloca-se a 5 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "12,5 m",
-      "B": "25 m",
-      "C": "26 m",
-      "D": "50 m"
+      "A": "27 m",
+      "B": "28 m",
+      "C": "25 m",
+      "D": "26 m"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 25 m."
   },
   {
@@ -816,12 +816,12 @@
     "difficulty": "Media",
     "question": "Um movel desloca-se a 6 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "60 m",
-      "B": "15 m",
-      "C": "30 m",
-      "D": "31 m"
+      "A": "31 m",
+      "B": "32 m",
+      "C": "33 m",
+      "D": "30 m"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 30 m."
   },
   {
@@ -831,12 +831,12 @@
     "difficulty": "Media",
     "question": "Um movel desloca-se a 7 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "36 m",
-      "B": "70 m",
-      "C": "17,5 m",
-      "D": "35 m"
+      "A": "35 m",
+      "B": "36 m",
+      "C": "37 m",
+      "D": "38 m"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 35 m."
   },
   {
@@ -846,12 +846,12 @@
     "difficulty": "Media",
     "question": "Um movel desloca-se a 8 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "40 m",
-      "B": "41 m",
-      "C": "80 m",
-      "D": "20 m"
+      "A": "43 m",
+      "B": "40 m",
+      "C": "41 m",
+      "D": "42 m"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 40 m."
   },
   {
@@ -861,12 +861,12 @@
     "difficulty": "Dificil",
     "question": "Um movel desloca-se a 9 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "22,5 m",
-      "B": "45 m",
-      "C": "46 m",
-      "D": "90 m"
+      "A": "47 m",
+      "B": "48 m",
+      "C": "45 m",
+      "D": "46 m"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 45 m."
   },
   {
@@ -876,12 +876,12 @@
     "difficulty": "Dificil",
     "question": "Um movel desloca-se a 10 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "100 m",
-      "B": "25 m",
-      "C": "50 m",
-      "D": "51 m"
+      "A": "51 m",
+      "B": "52 m",
+      "C": "53 m",
+      "D": "50 m"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 50 m."
   },
   {
@@ -891,12 +891,12 @@
     "difficulty": "Dificil",
     "question": "Um movel desloca-se a 12 m/s durante 5 s. Qual a distancia percorrida?",
     "options": {
-      "A": "61 m",
-      "B": "120 m",
-      "C": "30 m",
-      "D": "60 m"
+      "A": "60 m",
+      "B": "61 m",
+      "C": "62 m",
+      "D": "63 m"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de distancia percorrida aos dados apresentados. O resultado correcto e 60 m."
   },
   {
@@ -906,12 +906,12 @@
     "difficulty": "Facil",
     "question": "Calcula o peso aproximado de uma massa de 1 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "10 N",
-      "B": "11 N",
-      "C": "20 N",
-      "D": "5 N"
+      "A": "13 N",
+      "B": "10 N",
+      "C": "11 N",
+      "D": "12 N"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 10 N."
   },
   {
@@ -921,12 +921,12 @@
     "difficulty": "Facil",
     "question": "Calcula o peso aproximado de uma massa de 2 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "10 N",
-      "B": "20 N",
-      "C": "21 N",
-      "D": "40 N"
+      "A": "22 N",
+      "B": "23 N",
+      "C": "20 N",
+      "D": "21 N"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 20 N."
   },
   {
@@ -936,12 +936,12 @@
     "difficulty": "Facil",
     "question": "Calcula o peso aproximado de uma massa de 3 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "60 N",
-      "B": "15 N",
-      "C": "30 N",
-      "D": "31 N"
+      "A": "31 N",
+      "B": "32 N",
+      "C": "33 N",
+      "D": "30 N"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 30 N."
   },
   {
@@ -951,12 +951,12 @@
     "difficulty": "Media",
     "question": "Calcula o peso aproximado de uma massa de 4 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "41 N",
-      "B": "80 N",
-      "C": "20 N",
-      "D": "40 N"
+      "A": "40 N",
+      "B": "41 N",
+      "C": "42 N",
+      "D": "43 N"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 40 N."
   },
   {
@@ -966,12 +966,12 @@
     "difficulty": "Media",
     "question": "Calcula o peso aproximado de uma massa de 5 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "50 N",
-      "B": "51 N",
-      "C": "100 N",
-      "D": "25 N"
+      "A": "53 N",
+      "B": "50 N",
+      "C": "51 N",
+      "D": "52 N"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 50 N."
   },
   {
@@ -981,12 +981,12 @@
     "difficulty": "Media",
     "question": "Calcula o peso aproximado de uma massa de 6 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "30 N",
-      "B": "60 N",
-      "C": "61 N",
-      "D": "120 N"
+      "A": "62 N",
+      "B": "63 N",
+      "C": "60 N",
+      "D": "61 N"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 60 N."
   },
   {
@@ -996,12 +996,12 @@
     "difficulty": "Media",
     "question": "Calcula o peso aproximado de uma massa de 7 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "140 N",
-      "B": "35 N",
-      "C": "70 N",
-      "D": "71 N"
+      "A": "71 N",
+      "B": "72 N",
+      "C": "73 N",
+      "D": "70 N"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 70 N."
   },
   {
@@ -1011,12 +1011,12 @@
     "difficulty": "Dificil",
     "question": "Calcula o peso aproximado de uma massa de 8 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "81 N",
-      "B": "160 N",
-      "C": "40 N",
-      "D": "80 N"
+      "A": "80 N",
+      "B": "81 N",
+      "C": "82 N",
+      "D": "83 N"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 80 N."
   },
   {
@@ -1026,12 +1026,12 @@
     "difficulty": "Dificil",
     "question": "Calcula o peso aproximado de uma massa de 9 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "90 N",
-      "B": "91 N",
-      "C": "180 N",
-      "D": "45 N"
+      "A": "93 N",
+      "B": "90 N",
+      "C": "91 N",
+      "D": "92 N"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 90 N."
   },
   {
@@ -1041,12 +1041,12 @@
     "difficulty": "Dificil",
     "question": "Calcula o peso aproximado de uma massa de 10 kg, considerando g = 10 m/s2.",
     "options": {
-      "A": "50 N",
-      "B": "100 N",
-      "C": "101 N",
-      "D": "200 N"
+      "A": "102 N",
+      "B": "103 N",
+      "C": "100 N",
+      "D": "101 N"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de peso aos dados apresentados. O resultado correcto e 100 N."
   },
   {
@@ -1056,12 +1056,12 @@
     "difficulty": "Facil",
     "question": "Um corpo tem massa 100 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "4 g/cm3",
-      "B": "1 g/cm3",
-      "C": "2 g/cm3",
-      "D": "3 g/cm3"
+      "A": "3 g/cm3",
+      "B": "4 g/cm3",
+      "C": "5 g/cm3",
+      "D": "2 g/cm3"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 2 g/cm3."
   },
   {
@@ -1071,12 +1071,12 @@
     "difficulty": "Facil",
     "question": "Um corpo tem massa 150 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "4 g/cm3",
-      "B": "6 g/cm3",
-      "C": "1,5 g/cm3",
-      "D": "3 g/cm3"
+      "A": "3 g/cm3",
+      "B": "4 g/cm3",
+      "C": "5 g/cm3",
+      "D": "6 g/cm3"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 3 g/cm3."
   },
   {
@@ -1086,12 +1086,12 @@
     "difficulty": "Facil",
     "question": "Um corpo tem massa 200 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "4 g/cm3",
-      "B": "5 g/cm3",
-      "C": "8 g/cm3",
-      "D": "2 g/cm3"
+      "A": "7 g/cm3",
+      "B": "4 g/cm3",
+      "C": "5 g/cm3",
+      "D": "6 g/cm3"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 4 g/cm3."
   },
   {
@@ -1101,12 +1101,12 @@
     "difficulty": "Media",
     "question": "Um corpo tem massa 250 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "2,5 g/cm3",
-      "B": "5 g/cm3",
-      "C": "6 g/cm3",
-      "D": "10 g/cm3"
+      "A": "7 g/cm3",
+      "B": "8 g/cm3",
+      "C": "5 g/cm3",
+      "D": "6 g/cm3"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 5 g/cm3."
   },
   {
@@ -1116,12 +1116,12 @@
     "difficulty": "Media",
     "question": "Um corpo tem massa 300 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "12 g/cm3",
-      "B": "3 g/cm3",
-      "C": "6 g/cm3",
-      "D": "7 g/cm3"
+      "A": "7 g/cm3",
+      "B": "8 g/cm3",
+      "C": "9 g/cm3",
+      "D": "6 g/cm3"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 6 g/cm3."
   },
   {
@@ -1131,12 +1131,12 @@
     "difficulty": "Media",
     "question": "Um corpo tem massa 350 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "8 g/cm3",
-      "B": "14 g/cm3",
-      "C": "3,5 g/cm3",
-      "D": "7 g/cm3"
+      "A": "7 g/cm3",
+      "B": "8 g/cm3",
+      "C": "9 g/cm3",
+      "D": "10 g/cm3"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 7 g/cm3."
   },
   {
@@ -1146,12 +1146,12 @@
     "difficulty": "Media",
     "question": "Um corpo tem massa 400 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "8 g/cm3",
-      "B": "9 g/cm3",
-      "C": "16 g/cm3",
-      "D": "4 g/cm3"
+      "A": "11 g/cm3",
+      "B": "8 g/cm3",
+      "C": "9 g/cm3",
+      "D": "10 g/cm3"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 8 g/cm3."
   },
   {
@@ -1161,12 +1161,12 @@
     "difficulty": "Dificil",
     "question": "Um corpo tem massa 450 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "4,5 g/cm3",
-      "B": "9 g/cm3",
-      "C": "10 g/cm3",
-      "D": "18 g/cm3"
+      "A": "11 g/cm3",
+      "B": "12 g/cm3",
+      "C": "9 g/cm3",
+      "D": "10 g/cm3"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 9 g/cm3."
   },
   {
@@ -1176,12 +1176,12 @@
     "difficulty": "Dificil",
     "question": "Um corpo tem massa 500 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "20 g/cm3",
-      "B": "5 g/cm3",
-      "C": "10 g/cm3",
-      "D": "11 g/cm3"
+      "A": "11 g/cm3",
+      "B": "12 g/cm3",
+      "C": "13 g/cm3",
+      "D": "10 g/cm3"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 10 g/cm3."
   },
   {
@@ -1191,12 +1191,12 @@
     "difficulty": "Dificil",
     "question": "Um corpo tem massa 600 g e volume 50 cm3. Calcula a massa volumica.",
     "options": {
-      "A": "13 g/cm3",
-      "B": "24 g/cm3",
-      "C": "6 g/cm3",
-      "D": "12 g/cm3"
+      "A": "12 g/cm3",
+      "B": "13 g/cm3",
+      "C": "14 g/cm3",
+      "D": "15 g/cm3"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de massa volumica aos dados apresentados. O resultado correcto e 12 g/cm3."
   },
   {
@@ -1206,12 +1206,12 @@
     "difficulty": "Facil",
     "question": "Qual e o periodo de uma oscilacao com frequencia 1 Hz?",
     "options": {
-      "A": "1 s",
-      "B": "2 s",
+      "A": "4 s",
+      "B": "1 s",
       "C": "2 s",
-      "D": "0,5 s"
+      "D": "3 s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 1 s."
   },
   {
@@ -1221,12 +1221,12 @@
     "difficulty": "Facil",
     "question": "Qual e o periodo de uma oscilacao com frequencia 2 Hz?",
     "options": {
-      "A": "0,25 s",
-      "B": "0,5 s",
-      "C": "1,5 s",
-      "D": "1 s"
+      "A": "2,5 s",
+      "B": "3,5 s",
+      "C": "0,5 s",
+      "D": "1,5 s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,5 s."
   },
   {
@@ -1236,12 +1236,12 @@
     "difficulty": "Facil",
     "question": "Qual e o periodo de uma oscilacao com frequencia 4 Hz?",
     "options": {
-      "A": "0,5 s",
-      "B": "0,125 s",
-      "C": "0,25 s",
-      "D": "1,25 s"
+      "A": "1,25 s",
+      "B": "2,25 s",
+      "C": "3,25 s",
+      "D": "0,25 s"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,25 s."
   },
   {
@@ -1251,12 +1251,12 @@
     "difficulty": "Media",
     "question": "Qual e o periodo de uma oscilacao com frequencia 5 Hz?",
     "options": {
-      "A": "1,2 s",
-      "B": "0,4 s",
-      "C": "0,1 s",
-      "D": "0,2 s"
+      "A": "0,2 s",
+      "B": "1,2 s",
+      "C": "2,2 s",
+      "D": "3,2 s"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,2 s."
   },
   {
@@ -1266,12 +1266,12 @@
     "difficulty": "Media",
     "question": "Qual e o periodo de uma oscilacao com frequencia 10 Hz?",
     "options": {
-      "A": "0,1 s",
-      "B": "1,1 s",
-      "C": "0,2 s",
-      "D": "0,05 s"
+      "A": "3,1 s",
+      "B": "0,1 s",
+      "C": "1,1 s",
+      "D": "2,1 s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,1 s."
   },
   {
@@ -1281,12 +1281,12 @@
     "difficulty": "Media",
     "question": "Qual e o periodo de uma oscilacao com frequencia 20 Hz?",
     "options": {
-      "A": "0,025 s",
-      "B": "0,05 s",
-      "C": "1,05 s",
-      "D": "0,1 s"
+      "A": "2,05 s",
+      "B": "3,05 s",
+      "C": "0,05 s",
+      "D": "1,05 s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,05 s."
   },
   {
@@ -1296,12 +1296,12 @@
     "difficulty": "Media",
     "question": "Qual e o periodo de uma oscilacao com frequencia 25 Hz?",
     "options": {
-      "A": "0,08 s",
-      "B": "0,02 s",
-      "C": "0,04 s",
-      "D": "1,04 s"
+      "A": "1,04 s",
+      "B": "2,04 s",
+      "C": "3,04 s",
+      "D": "0,04 s"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,04 s."
   },
   {
@@ -1311,12 +1311,12 @@
     "difficulty": "Dificil",
     "question": "Qual e o periodo de uma oscilacao com frequencia 40 Hz?",
     "options": {
-      "A": "1,025 s",
-      "B": "0,05 s",
-      "C": "0,013 s",
-      "D": "0,025 s"
+      "A": "0,025 s",
+      "B": "1,025 s",
+      "C": "2,025 s",
+      "D": "3,025 s"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,025 s."
   },
   {
@@ -1326,12 +1326,12 @@
     "difficulty": "Dificil",
     "question": "Qual e o periodo de uma oscilacao com frequencia 50 Hz?",
     "options": {
-      "A": "0,02 s",
-      "B": "1,02 s",
-      "C": "0,04 s",
-      "D": "0,01 s"
+      "A": "3,02 s",
+      "B": "0,02 s",
+      "C": "1,02 s",
+      "D": "2,02 s"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,02 s."
   },
   {
@@ -1341,12 +1341,12 @@
     "difficulty": "Dificil",
     "question": "Qual e o periodo de uma oscilacao com frequencia 100 Hz?",
     "options": {
-      "A": "0,005 s",
-      "B": "0,01 s",
-      "C": "1,01 s",
-      "D": "0,02 s"
+      "A": "2,01 s",
+      "B": "3,01 s",
+      "C": "0,01 s",
+      "D": "1,01 s"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de frequencia e periodo aos dados apresentados. O resultado correcto e 0,01 s."
   },
   {
@@ -1356,12 +1356,12 @@
     "difficulty": "Facil",
     "question": "Converte aproximadamente 0 graus Celsius para kelvin.",
     "options": {
-      "A": "546 K",
-      "B": "136,5 K",
-      "C": "273 K",
-      "D": "274 K"
+      "A": "274 K",
+      "B": "275 K",
+      "C": "276 K",
+      "D": "273 K"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 273 K."
   },
   {
@@ -1371,12 +1371,12 @@
     "difficulty": "Facil",
     "question": "Converte aproximadamente 10 graus Celsius para kelvin.",
     "options": {
-      "A": "284 K",
-      "B": "566 K",
-      "C": "141,5 K",
-      "D": "283 K"
+      "A": "283 K",
+      "B": "284 K",
+      "C": "285 K",
+      "D": "286 K"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 283 K."
   },
   {
@@ -1386,12 +1386,12 @@
     "difficulty": "Facil",
     "question": "Converte aproximadamente 15 graus Celsius para kelvin.",
     "options": {
-      "A": "288 K",
-      "B": "289 K",
-      "C": "576 K",
-      "D": "144 K"
+      "A": "291 K",
+      "B": "288 K",
+      "C": "289 K",
+      "D": "290 K"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 288 K."
   },
   {
@@ -1401,12 +1401,12 @@
     "difficulty": "Media",
     "question": "Converte aproximadamente 20 graus Celsius para kelvin.",
     "options": {
-      "A": "146,5 K",
-      "B": "293 K",
-      "C": "294 K",
-      "D": "586 K"
+      "A": "295 K",
+      "B": "296 K",
+      "C": "293 K",
+      "D": "294 K"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 293 K."
   },
   {
@@ -1416,12 +1416,12 @@
     "difficulty": "Media",
     "question": "Converte aproximadamente 25 graus Celsius para kelvin.",
     "options": {
-      "A": "596 K",
-      "B": "149 K",
-      "C": "298 K",
-      "D": "299 K"
+      "A": "299 K",
+      "B": "300 K",
+      "C": "301 K",
+      "D": "298 K"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 298 K."
   },
   {
@@ -1431,12 +1431,12 @@
     "difficulty": "Media",
     "question": "Converte aproximadamente 30 graus Celsius para kelvin.",
     "options": {
-      "A": "304 K",
-      "B": "606 K",
-      "C": "151,5 K",
-      "D": "303 K"
+      "A": "303 K",
+      "B": "304 K",
+      "C": "305 K",
+      "D": "306 K"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 303 K."
   },
   {
@@ -1446,12 +1446,12 @@
     "difficulty": "Media",
     "question": "Converte aproximadamente 35 graus Celsius para kelvin.",
     "options": {
-      "A": "308 K",
-      "B": "309 K",
-      "C": "616 K",
-      "D": "154 K"
+      "A": "311 K",
+      "B": "308 K",
+      "C": "309 K",
+      "D": "310 K"
     },
-    "correct_answer": "A",
+    "correct_answer": "B",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 308 K."
   },
   {
@@ -1461,12 +1461,12 @@
     "difficulty": "Dificil",
     "question": "Converte aproximadamente 40 graus Celsius para kelvin.",
     "options": {
-      "A": "156,5 K",
-      "B": "313 K",
-      "C": "314 K",
-      "D": "626 K"
+      "A": "315 K",
+      "B": "316 K",
+      "C": "313 K",
+      "D": "314 K"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 313 K."
   },
   {
@@ -1476,12 +1476,12 @@
     "difficulty": "Dificil",
     "question": "Converte aproximadamente 50 graus Celsius para kelvin.",
     "options": {
-      "A": "646 K",
-      "B": "161,5 K",
-      "C": "323 K",
-      "D": "324 K"
+      "A": "324 K",
+      "B": "325 K",
+      "C": "326 K",
+      "D": "323 K"
     },
-    "correct_answer": "C",
+    "correct_answer": "D",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 323 K."
   },
   {
@@ -1491,12 +1491,12 @@
     "difficulty": "Dificil",
     "question": "Converte aproximadamente 100 graus Celsius para kelvin.",
     "options": {
-      "A": "374 K",
-      "B": "746 K",
-      "C": "186,5 K",
-      "D": "373 K"
+      "A": "373 K",
+      "B": "374 K",
+      "C": "375 K",
+      "D": "376 K"
     },
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanation": "Aplicar a relacao de celsius para kelvin aos dados apresentados. O resultado correcto e 373 K."
   }
 ]
