@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "FI-OL-001",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? A onda transporta energia sem transportar matéria de forma permanente.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Energia"
+    },
+    "correct_answer": "D",
+    "explanation": "A propagação ondulatória transfere energia através do meio."
+  },
+  {
+    "id": "FI-OL-002",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: A onda transporta energia sem transportar matéria de forma permanente.",
+    "options": {
+      "A": "Energia",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "A propagação ondulatória transfere energia através do meio."
+  },
+  {
+    "id": "FI-OL-003",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A onda transporta energia sem transportar matéria de forma permanente.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Energia",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "A propagação ondulatória transfere energia através do meio."
+  },
+  {
+    "id": "FI-OL-004",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A onda transporta energia sem transportar matéria de forma permanente.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Energia",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "A propagação ondulatória transfere energia através do meio."
+  },
+  {
+    "id": "FI-OL-005",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? Numa onda transversal, a vibração é perpendicular à propagação.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Perpendicular"
+    },
+    "correct_answer": "D",
+    "explanation": "A oscilação ocorre em direcção perpendicular à propagação."
+  },
+  {
+    "id": "FI-OL-006",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: Numa onda transversal, a vibração é perpendicular à propagação.",
+    "options": {
+      "A": "Perpendicular",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "A oscilação ocorre em direcção perpendicular à propagação."
+  },
+  {
+    "id": "FI-OL-007",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? Numa onda transversal, a vibração é perpendicular à propagação.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Perpendicular",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "A oscilação ocorre em direcção perpendicular à propagação."
+  },
+  {
+    "id": "FI-OL-008",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: Numa onda transversal, a vibração é perpendicular à propagação.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Perpendicular",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "A oscilação ocorre em direcção perpendicular à propagação."
+  },
+  {
+    "id": "FI-OL-009",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? Numa onda longitudinal, a vibração é paralela à propagação.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Paralela"
+    },
+    "correct_answer": "D",
+    "explanation": "As partículas oscilam na mesma direcção da onda."
+  },
+  {
+    "id": "FI-OL-010",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: Numa onda longitudinal, a vibração é paralela à propagação.",
+    "options": {
+      "A": "Paralela",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "As partículas oscilam na mesma direcção da onda."
+  },
+  {
+    "id": "FI-OL-011",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? Numa onda longitudinal, a vibração é paralela à propagação.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Paralela",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "As partículas oscilam na mesma direcção da onda."
+  },
+  {
+    "id": "FI-OL-012",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: Numa onda longitudinal, a vibração é paralela à propagação.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Paralela",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "As partículas oscilam na mesma direcção da onda."
+  },
+  {
+    "id": "FI-OL-013",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? A distância entre cristas consecutivas é o comprimento de onda.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Comprimento de onda"
+    },
+    "correct_answer": "D",
+    "explanation": "É a distância entre dois pontos consecutivos em fase."
+  },
+  {
+    "id": "FI-OL-014",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: A distância entre cristas consecutivas é o comprimento de onda.",
+    "options": {
+      "A": "Comprimento de onda",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "É a distância entre dois pontos consecutivos em fase."
+  },
+  {
+    "id": "FI-OL-015",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A distância entre cristas consecutivas é o comprimento de onda.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Comprimento de onda",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "É a distância entre dois pontos consecutivos em fase."
+  },
+  {
+    "id": "FI-OL-016",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A distância entre cristas consecutivas é o comprimento de onda.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Comprimento de onda",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "É a distância entre dois pontos consecutivos em fase."
+  },
+  {
+    "id": "FI-OL-017",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? A frequência mede o número de oscilações por segundo.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Frequência"
+    },
+    "correct_answer": "D",
+    "explanation": "A unidade SI é o hertz (Hz)."
+  },
+  {
+    "id": "FI-OL-018",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: A frequência mede o número de oscilações por segundo.",
+    "options": {
+      "A": "Frequência",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "A unidade SI é o hertz (Hz)."
+  },
+  {
+    "id": "FI-OL-019",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A frequência mede o número de oscilações por segundo.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Frequência",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "A unidade SI é o hertz (Hz)."
+  },
+  {
+    "id": "FI-OL-020",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: A frequência mede o número de oscilações por segundo.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Frequência",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "A unidade SI é o hertz (Hz)."
+  },
+  {
+    "id": "FI-OL-021",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? O período é o tempo de uma oscilação completa.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Período"
+    },
+    "correct_answer": "D",
+    "explanation": "O período mede a duração de um ciclo."
+  },
+  {
+    "id": "FI-OL-022",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: O período é o tempo de uma oscilação completa.",
+    "options": {
+      "A": "Período",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "O período mede a duração de um ciclo."
+  },
+  {
+    "id": "FI-OL-023",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O período é o tempo de uma oscilação completa.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Período",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "O período mede a duração de um ciclo."
+  },
+  {
+    "id": "FI-OL-024",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: O período é o tempo de uma oscilação completa.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Período",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "O período mede a duração de um ciclo."
+  },
+  {
+    "id": "FI-OL-025",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? A velocidade de uma onda é o produto do comprimento de onda pela frequência.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "v = λf"
+    },
+    "correct_answer": "D",
+    "explanation": "A relação fundamental é v=λf."
+  },
+  {
+    "id": "FI-OL-026",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: A velocidade de uma onda é o produto do comprimento de onda pela frequência.",
+    "options": {
+      "A": "v = λf",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "A relação fundamental é v=λf."
+  },
+  {
+    "id": "FI-OL-027",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A velocidade de uma onda é o produto do comprimento de onda pela frequência.",
+    "options": {
+      "A": "Temperatura",
+      "B": "v = λf",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "A relação fundamental é v=λf."
+  },
+  {
+    "id": "FI-OL-028",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A velocidade de uma onda é o produto do comprimento de onda pela frequência.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "v = λf",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "A relação fundamental é v=λf."
+  },
+  {
+    "id": "FI-OL-029",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? O som no ar é uma onda mecânica longitudinal.",
+    "options": {
+      "A": "Comprimento do objecto",
+      "B": "Massa do observador",
+      "C": "Cor da fonte",
+      "D": "Mecânica longitudinal"
+    },
+    "correct_answer": "D",
+    "explanation": "O som precisa de meio material e propaga-se por compressões."
+  },
+  {
+    "id": "FI-OL-030",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: O som no ar é uma onda mecânica longitudinal.",
+    "options": {
+      "A": "Mecânica longitudinal",
+      "B": "Comprimento do objecto",
+      "C": "Massa do observador",
+      "D": "Cor da fonte"
+    },
+    "correct_answer": "A",
+    "explanation": "O som precisa de meio material e propaga-se por compressões."
+  },
+  {
+    "id": "FI-OL-031",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O som no ar é uma onda mecânica longitudinal.",
+    "options": {
+      "A": "Cor da fonte",
+      "B": "Mecânica longitudinal",
+      "C": "Comprimento do objecto",
+      "D": "Massa do observador"
+    },
+    "correct_answer": "B",
+    "explanation": "O som precisa de meio material e propaga-se por compressões."
+  },
+  {
+    "id": "FI-OL-032",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: O som no ar é uma onda mecânica longitudinal.",
+    "options": {
+      "A": "Massa do observador",
+      "B": "Cor da fonte",
+      "C": "Mecânica longitudinal",
+      "D": "Comprimento do objecto"
+    },
+    "correct_answer": "C",
+    "explanation": "O som precisa de meio material e propaga-se por compressões."
+  },
+  {
+    "id": "FI-OL-033",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? O som não se propaga no vazio.",
+    "options": {
+      "A": "Comprimento do objecto",
+      "B": "Massa do observador",
+      "C": "Cor da fonte",
+      "D": "No vazio"
+    },
+    "correct_answer": "D",
+    "explanation": "Sem partículas materiais, não há transmissão sonora."
+  },
+  {
+    "id": "FI-OL-034",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: O som não se propaga no vazio.",
+    "options": {
+      "A": "No vazio",
+      "B": "Comprimento do objecto",
+      "C": "Massa do observador",
+      "D": "Cor da fonte"
+    },
+    "correct_answer": "A",
+    "explanation": "Sem partículas materiais, não há transmissão sonora."
+  },
+  {
+    "id": "FI-OL-035",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O som não se propaga no vazio.",
+    "options": {
+      "A": "Cor da fonte",
+      "B": "No vazio",
+      "C": "Comprimento do objecto",
+      "D": "Massa do observador"
+    },
+    "correct_answer": "B",
+    "explanation": "Sem partículas materiais, não há transmissão sonora."
+  },
+  {
+    "id": "FI-OL-036",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: O som não se propaga no vazio.",
+    "options": {
+      "A": "Massa do observador",
+      "B": "Cor da fonte",
+      "C": "No vazio",
+      "D": "Comprimento do objecto"
+    },
+    "correct_answer": "C",
+    "explanation": "Sem partículas materiais, não há transmissão sonora."
+  },
+  {
+    "id": "FI-OL-037",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? A altura do som depende da frequência.",
+    "options": {
+      "A": "Comprimento do objecto",
+      "B": "Massa do observador",
+      "C": "Cor da fonte",
+      "D": "Frequência"
+    },
+    "correct_answer": "D",
+    "explanation": "Frequência alta produz som agudo e frequência baixa som grave."
+  },
+  {
+    "id": "FI-OL-038",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: A altura do som depende da frequência.",
+    "options": {
+      "A": "Frequência",
+      "B": "Comprimento do objecto",
+      "C": "Massa do observador",
+      "D": "Cor da fonte"
+    },
+    "correct_answer": "A",
+    "explanation": "Frequência alta produz som agudo e frequência baixa som grave."
+  },
+  {
+    "id": "FI-OL-039",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A altura do som depende da frequência.",
+    "options": {
+      "A": "Cor da fonte",
+      "B": "Frequência",
+      "C": "Comprimento do objecto",
+      "D": "Massa do observador"
+    },
+    "correct_answer": "B",
+    "explanation": "Frequência alta produz som agudo e frequência baixa som grave."
+  },
+  {
+    "id": "FI-OL-040",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A altura do som depende da frequência.",
+    "options": {
+      "A": "Massa do observador",
+      "B": "Cor da fonte",
+      "C": "Frequência",
+      "D": "Comprimento do objecto"
+    },
+    "correct_answer": "C",
+    "explanation": "Frequência alta produz som agudo e frequência baixa som grave."
+  },
+  {
+    "id": "FI-OL-041",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? O eco resulta da reflexão do som.",
+    "options": {
+      "A": "Comprimento do objecto",
+      "B": "Massa do observador",
+      "C": "Cor da fonte",
+      "D": "Reflexão"
+    },
+    "correct_answer": "D",
+    "explanation": "O som reflecte numa superfície e regressa ao ouvinte."
+  },
+  {
+    "id": "FI-OL-042",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: O eco resulta da reflexão do som.",
+    "options": {
+      "A": "Reflexão",
+      "B": "Comprimento do objecto",
+      "C": "Massa do observador",
+      "D": "Cor da fonte"
+    },
+    "correct_answer": "A",
+    "explanation": "O som reflecte numa superfície e regressa ao ouvinte."
+  },
+  {
+    "id": "FI-OL-043",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O eco resulta da reflexão do som.",
+    "options": {
+      "A": "Cor da fonte",
+      "B": "Reflexão",
+      "C": "Comprimento do objecto",
+      "D": "Massa do observador"
+    },
+    "correct_answer": "B",
+    "explanation": "O som reflecte numa superfície e regressa ao ouvinte."
+  },
+  {
+    "id": "FI-OL-044",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: O eco resulta da reflexão do som.",
+    "options": {
+      "A": "Massa do observador",
+      "B": "Cor da fonte",
+      "C": "Reflexão",
+      "D": "Comprimento do objecto"
+    },
+    "correct_answer": "C",
+    "explanation": "O som reflecte numa superfície e regressa ao ouvinte."
+  },
+  {
+    "id": "FI-OL-045",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? O ultra-som tem frequência superior a 20 000 Hz.",
+    "options": {
+      "A": "Comprimento do objecto",
+      "B": "Massa do observador",
+      "C": "Cor da fonte",
+      "D": "Superior a 20 000 Hz"
+    },
+    "correct_answer": "D",
+    "explanation": "O ultra-som ultrapassa o limite superior aproximado da audição humana."
+  },
+  {
+    "id": "FI-OL-046",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: O ultra-som tem frequência superior a 20 000 Hz.",
+    "options": {
+      "A": "Superior a 20 000 Hz",
+      "B": "Comprimento do objecto",
+      "C": "Massa do observador",
+      "D": "Cor da fonte"
+    },
+    "correct_answer": "A",
+    "explanation": "O ultra-som ultrapassa o limite superior aproximado da audição humana."
+  },
+  {
+    "id": "FI-OL-047",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O ultra-som tem frequência superior a 20 000 Hz.",
+    "options": {
+      "A": "Cor da fonte",
+      "B": "Superior a 20 000 Hz",
+      "C": "Comprimento do objecto",
+      "D": "Massa do observador"
+    },
+    "correct_answer": "B",
+    "explanation": "O ultra-som ultrapassa o limite superior aproximado da audição humana."
+  },
+  {
+    "id": "FI-OL-048",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: O ultra-som tem frequência superior a 20 000 Hz.",
+    "options": {
+      "A": "Massa do observador",
+      "B": "Cor da fonte",
+      "C": "Superior a 20 000 Hz",
+      "D": "Comprimento do objecto"
+    },
+    "correct_answer": "C",
+    "explanation": "O ultra-som ultrapassa o limite superior aproximado da audição humana."
+  },
+  {
+    "id": "FI-OL-049",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? O efeito Doppler altera a frequência percebida devido ao movimento relativo.",
+    "options": {
+      "A": "Comprimento do objecto",
+      "B": "Massa do observador",
+      "C": "Cor da fonte",
+      "D": "Efeito Doppler"
+    },
+    "correct_answer": "D",
+    "explanation": "A aproximação aumenta e o afastamento diminui a frequência percebida."
+  },
+  {
+    "id": "FI-OL-050",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: O efeito Doppler altera a frequência percebida devido ao movimento relativo.",
+    "options": {
+      "A": "Efeito Doppler",
+      "B": "Comprimento do objecto",
+      "C": "Massa do observador",
+      "D": "Cor da fonte"
+    },
+    "correct_answer": "A",
+    "explanation": "A aproximação aumenta e o afastamento diminui a frequência percebida."
+  },
+  {
+    "id": "FI-OL-051",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O efeito Doppler altera a frequência percebida devido ao movimento relativo.",
+    "options": {
+      "A": "Cor da fonte",
+      "B": "Efeito Doppler",
+      "C": "Comprimento do objecto",
+      "D": "Massa do observador"
+    },
+    "correct_answer": "B",
+    "explanation": "A aproximação aumenta e o afastamento diminui a frequência percebida."
+  },
+  {
+    "id": "FI-OL-052",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: O efeito Doppler altera a frequência percebida devido ao movimento relativo.",
+    "options": {
+      "A": "Massa do observador",
+      "B": "Cor da fonte",
+      "C": "Efeito Doppler",
+      "D": "Comprimento do objecto"
+    },
+    "correct_answer": "C",
+    "explanation": "A aproximação aumenta e o afastamento diminui a frequência percebida."
+  },
+  {
+    "id": "FI-OL-053",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? As ondas electromagnéticas propagam-se no vazio.",
+    "options": {
+      "A": "Volume do recipiente",
+      "B": "Massa do corpo",
+      "C": "Pressão do ar",
+      "D": "No vazio"
+    },
+    "correct_answer": "D",
+    "explanation": "Não precisam de um meio material."
+  },
+  {
+    "id": "FI-OL-054",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: As ondas electromagnéticas propagam-se no vazio.",
+    "options": {
+      "A": "No vazio",
+      "B": "Volume do recipiente",
+      "C": "Massa do corpo",
+      "D": "Pressão do ar"
+    },
+    "correct_answer": "A",
+    "explanation": "Não precisam de um meio material."
+  },
+  {
+    "id": "FI-OL-055",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? As ondas electromagnéticas propagam-se no vazio.",
+    "options": {
+      "A": "Pressão do ar",
+      "B": "No vazio",
+      "C": "Volume do recipiente",
+      "D": "Massa do corpo"
+    },
+    "correct_answer": "B",
+    "explanation": "Não precisam de um meio material."
+  },
+  {
+    "id": "FI-OL-056",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: As ondas electromagnéticas propagam-se no vazio.",
+    "options": {
+      "A": "Massa do corpo",
+      "B": "Pressão do ar",
+      "C": "No vazio",
+      "D": "Volume do recipiente"
+    },
+    "correct_answer": "C",
+    "explanation": "Não precisam de um meio material."
+  },
+  {
+    "id": "FI-OL-057",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? A velocidade da luz no vazio é aproximadamente 3,0×10⁸ m/s.",
+    "options": {
+      "A": "Volume do recipiente",
+      "B": "Massa do corpo",
+      "C": "Pressão do ar",
+      "D": "3,0×10⁸ m/s"
+    },
+    "correct_answer": "D",
+    "explanation": "É a velocidade de propagação da radiação electromagnética no vazio."
+  },
+  {
+    "id": "FI-OL-058",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: A velocidade da luz no vazio é aproximadamente 3,0×10⁸ m/s.",
+    "options": {
+      "A": "3,0×10⁸ m/s",
+      "B": "Volume do recipiente",
+      "C": "Massa do corpo",
+      "D": "Pressão do ar"
+    },
+    "correct_answer": "A",
+    "explanation": "É a velocidade de propagação da radiação electromagnética no vazio."
+  },
+  {
+    "id": "FI-OL-059",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A velocidade da luz no vazio é aproximadamente 3,0×10⁸ m/s.",
+    "options": {
+      "A": "Pressão do ar",
+      "B": "3,0×10⁸ m/s",
+      "C": "Volume do recipiente",
+      "D": "Massa do corpo"
+    },
+    "correct_answer": "B",
+    "explanation": "É a velocidade de propagação da radiação electromagnética no vazio."
+  },
+  {
+    "id": "FI-OL-060",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A velocidade da luz no vazio é aproximadamente 3,0×10⁸ m/s.",
+    "options": {
+      "A": "Massa do corpo",
+      "B": "Pressão do ar",
+      "C": "3,0×10⁸ m/s",
+      "D": "Volume do recipiente"
+    },
+    "correct_answer": "C",
+    "explanation": "É a velocidade de propagação da radiação electromagnética no vazio."
+  },
+  {
+    "id": "FI-OL-061",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? Os raios gama têm frequência muito elevada.",
+    "options": {
+      "A": "Volume do recipiente",
+      "B": "Massa do corpo",
+      "C": "Pressão do ar",
+      "D": "Raios gama"
+    },
+    "correct_answer": "D",
+    "explanation": "Ocupam a região de maior frequência do espectro electromagnético."
+  },
+  {
+    "id": "FI-OL-062",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: Os raios gama têm frequência muito elevada.",
+    "options": {
+      "A": "Raios gama",
+      "B": "Volume do recipiente",
+      "C": "Massa do corpo",
+      "D": "Pressão do ar"
+    },
+    "correct_answer": "A",
+    "explanation": "Ocupam a região de maior frequência do espectro electromagnético."
+  },
+  {
+    "id": "FI-OL-063",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? Os raios gama têm frequência muito elevada.",
+    "options": {
+      "A": "Pressão do ar",
+      "B": "Raios gama",
+      "C": "Volume do recipiente",
+      "D": "Massa do corpo"
+    },
+    "correct_answer": "B",
+    "explanation": "Ocupam a região de maior frequência do espectro electromagnético."
+  },
+  {
+    "id": "FI-OL-064",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: Os raios gama têm frequência muito elevada.",
+    "options": {
+      "A": "Massa do corpo",
+      "B": "Pressão do ar",
+      "C": "Raios gama",
+      "D": "Volume do recipiente"
+    },
+    "correct_answer": "C",
+    "explanation": "Ocupam a região de maior frequência do espectro electromagnético."
+  },
+  {
+    "id": "FI-OL-065",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? A radiação infravermelha está associada à emissão térmica.",
+    "options": {
+      "A": "Volume do recipiente",
+      "B": "Massa do corpo",
+      "C": "Pressão do ar",
+      "D": "Infravermelha"
+    },
+    "correct_answer": "D",
+    "explanation": "Corpos emitem radiação infravermelha em função da sua temperatura."
+  },
+  {
+    "id": "FI-OL-066",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: A radiação infravermelha está associada à emissão térmica.",
+    "options": {
+      "A": "Infravermelha",
+      "B": "Volume do recipiente",
+      "C": "Massa do corpo",
+      "D": "Pressão do ar"
+    },
+    "correct_answer": "A",
+    "explanation": "Corpos emitem radiação infravermelha em função da sua temperatura."
+  },
+  {
+    "id": "FI-OL-067",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A radiação infravermelha está associada à emissão térmica.",
+    "options": {
+      "A": "Pressão do ar",
+      "B": "Infravermelha",
+      "C": "Volume do recipiente",
+      "D": "Massa do corpo"
+    },
+    "correct_answer": "B",
+    "explanation": "Corpos emitem radiação infravermelha em função da sua temperatura."
+  },
+  {
+    "id": "FI-OL-068",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: A radiação infravermelha está associada à emissão térmica.",
+    "options": {
+      "A": "Massa do corpo",
+      "B": "Pressão do ar",
+      "C": "Infravermelha",
+      "D": "Volume do recipiente"
+    },
+    "correct_answer": "C",
+    "explanation": "Corpos emitem radiação infravermelha em função da sua temperatura."
+  },
+  {
+    "id": "FI-OL-069",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? Os raios X são usados para obter imagens do interior do corpo.",
+    "options": {
+      "A": "Volume do recipiente",
+      "B": "Massa do corpo",
+      "C": "Pressão do ar",
+      "D": "Raios X"
+    },
+    "correct_answer": "D",
+    "explanation": "A sua penetração nos tecidos permite produzir radiografias."
+  },
+  {
+    "id": "FI-OL-070",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: Os raios X são usados para obter imagens do interior do corpo.",
+    "options": {
+      "A": "Raios X",
+      "B": "Volume do recipiente",
+      "C": "Massa do corpo",
+      "D": "Pressão do ar"
+    },
+    "correct_answer": "A",
+    "explanation": "A sua penetração nos tecidos permite produzir radiografias."
+  },
+  {
+    "id": "FI-OL-071",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? Os raios X são usados para obter imagens do interior do corpo.",
+    "options": {
+      "A": "Pressão do ar",
+      "B": "Raios X",
+      "C": "Volume do recipiente",
+      "D": "Massa do corpo"
+    },
+    "correct_answer": "B",
+    "explanation": "A sua penetração nos tecidos permite produzir radiografias."
+  },
+  {
+    "id": "FI-OL-072",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: Os raios X são usados para obter imagens do interior do corpo.",
+    "options": {
+      "A": "Massa do corpo",
+      "B": "Pressão do ar",
+      "C": "Raios X",
+      "D": "Volume do recipiente"
+    },
+    "correct_answer": "C",
+    "explanation": "A sua penetração nos tecidos permite produzir radiografias."
+  },
+  {
+    "id": "FI-OL-073",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? O ângulo de incidência é igual ao ângulo de reflexão.",
+    "options": {
+      "A": "Massa da lente",
+      "B": "Temperatura do objecto",
+      "C": "Volume do meio",
+      "D": "Ângulo de reflexão"
+    },
+    "correct_answer": "D",
+    "explanation": "A lei da reflexão iguala os ângulos medidos em relação à normal."
+  },
+  {
+    "id": "FI-OL-074",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: O ângulo de incidência é igual ao ângulo de reflexão.",
+    "options": {
+      "A": "Ângulo de reflexão",
+      "B": "Massa da lente",
+      "C": "Temperatura do objecto",
+      "D": "Volume do meio"
+    },
+    "correct_answer": "A",
+    "explanation": "A lei da reflexão iguala os ângulos medidos em relação à normal."
+  },
+  {
+    "id": "FI-OL-075",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O ângulo de incidência é igual ao ângulo de reflexão.",
+    "options": {
+      "A": "Volume do meio",
+      "B": "Ângulo de reflexão",
+      "C": "Massa da lente",
+      "D": "Temperatura do objecto"
+    },
+    "correct_answer": "B",
+    "explanation": "A lei da reflexão iguala os ângulos medidos em relação à normal."
+  },
+  {
+    "id": "FI-OL-076",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: O ângulo de incidência é igual ao ângulo de reflexão.",
+    "options": {
+      "A": "Temperatura do objecto",
+      "B": "Volume do meio",
+      "C": "Ângulo de reflexão",
+      "D": "Massa da lente"
+    },
+    "correct_answer": "C",
+    "explanation": "A lei da reflexão iguala os ângulos medidos em relação à normal."
+  },
+  {
+    "id": "FI-OL-077",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? A imagem num espelho plano é virtual, direita e do mesmo tamanho.",
+    "options": {
+      "A": "Massa da lente",
+      "B": "Temperatura do objecto",
+      "C": "Volume do meio",
+      "D": "Virtual, direita e igual"
+    },
+    "correct_answer": "D",
+    "explanation": "Estas são as características da imagem num espelho plano."
+  },
+  {
+    "id": "FI-OL-078",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: A imagem num espelho plano é virtual, direita e do mesmo tamanho.",
+    "options": {
+      "A": "Virtual, direita e igual",
+      "B": "Massa da lente",
+      "C": "Temperatura do objecto",
+      "D": "Volume do meio"
+    },
+    "correct_answer": "A",
+    "explanation": "Estas são as características da imagem num espelho plano."
+  },
+  {
+    "id": "FI-OL-079",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A imagem num espelho plano é virtual, direita e do mesmo tamanho.",
+    "options": {
+      "A": "Volume do meio",
+      "B": "Virtual, direita e igual",
+      "C": "Massa da lente",
+      "D": "Temperatura do objecto"
+    },
+    "correct_answer": "B",
+    "explanation": "Estas são as características da imagem num espelho plano."
+  },
+  {
+    "id": "FI-OL-080",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: A imagem num espelho plano é virtual, direita e do mesmo tamanho.",
+    "options": {
+      "A": "Temperatura do objecto",
+      "B": "Volume do meio",
+      "C": "Virtual, direita e igual",
+      "D": "Massa da lente"
+    },
+    "correct_answer": "C",
+    "explanation": "Estas são as características da imagem num espelho plano."
+  },
+  {
+    "id": "FI-OL-081",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? A refração ocorre quando a luz muda de meio e altera a velocidade.",
+    "options": {
+      "A": "Massa da lente",
+      "B": "Temperatura do objecto",
+      "C": "Volume do meio",
+      "D": "Refração"
+    },
+    "correct_answer": "D",
+    "explanation": "A mudança de velocidade pode provocar mudança de direcção."
+  },
+  {
+    "id": "FI-OL-082",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: A refração ocorre quando a luz muda de meio e altera a velocidade.",
+    "options": {
+      "A": "Refração",
+      "B": "Massa da lente",
+      "C": "Temperatura do objecto",
+      "D": "Volume do meio"
+    },
+    "correct_answer": "A",
+    "explanation": "A mudança de velocidade pode provocar mudança de direcção."
+  },
+  {
+    "id": "FI-OL-083",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A refração ocorre quando a luz muda de meio e altera a velocidade.",
+    "options": {
+      "A": "Volume do meio",
+      "B": "Refração",
+      "C": "Massa da lente",
+      "D": "Temperatura do objecto"
+    },
+    "correct_answer": "B",
+    "explanation": "A mudança de velocidade pode provocar mudança de direcção."
+  },
+  {
+    "id": "FI-OL-084",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A refração ocorre quando a luz muda de meio e altera a velocidade.",
+    "options": {
+      "A": "Temperatura do objecto",
+      "B": "Volume do meio",
+      "C": "Refração",
+      "D": "Massa da lente"
+    },
+    "correct_answer": "C",
+    "explanation": "A mudança de velocidade pode provocar mudança de direcção."
+  },
+  {
+    "id": "FI-OL-085",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? O índice de refracção é n=c/v.",
+    "options": {
+      "A": "Massa da lente",
+      "B": "Temperatura do objecto",
+      "C": "Volume do meio",
+      "D": "n = c/v"
+    },
+    "correct_answer": "D",
+    "explanation": "É a razão entre a velocidade da luz no vazio e no meio."
+  },
+  {
+    "id": "FI-OL-086",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: O índice de refracção é n=c/v.",
+    "options": {
+      "A": "n = c/v",
+      "B": "Massa da lente",
+      "C": "Temperatura do objecto",
+      "D": "Volume do meio"
+    },
+    "correct_answer": "A",
+    "explanation": "É a razão entre a velocidade da luz no vazio e no meio."
+  },
+  {
+    "id": "FI-OL-087",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? O índice de refracção é n=c/v.",
+    "options": {
+      "A": "Volume do meio",
+      "B": "n = c/v",
+      "C": "Massa da lente",
+      "D": "Temperatura do objecto"
+    },
+    "correct_answer": "B",
+    "explanation": "É a razão entre a velocidade da luz no vazio e no meio."
+  },
+  {
+    "id": "FI-OL-088",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: O índice de refracção é n=c/v.",
+    "options": {
+      "A": "Temperatura do objecto",
+      "B": "Volume do meio",
+      "C": "n = c/v",
+      "D": "Massa da lente"
+    },
+    "correct_answer": "C",
+    "explanation": "É a razão entre a velocidade da luz no vazio e no meio."
+  },
+  {
+    "id": "FI-OL-089",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Qual é a resposta correcta? A dispersão separa a luz branca nas suas cores.",
+    "options": {
+      "A": "Massa da lente",
+      "B": "Temperatura do objecto",
+      "C": "Volume do meio",
+      "D": "Dispersão"
+    },
+    "correct_answer": "D",
+    "explanation": "Cada comprimento de onda sofre refracção diferente."
+  },
+  {
+    "id": "FI-OL-090",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Que conceito físico corresponde à seguinte descrição: A dispersão separa a luz branca nas suas cores.",
+    "options": {
+      "A": "Dispersão",
+      "B": "Massa da lente",
+      "C": "Temperatura do objecto",
+      "D": "Volume do meio"
+    },
+    "correct_answer": "A",
+    "explanation": "Cada comprimento de onda sofre refracção diferente."
+  },
+  {
+    "id": "FI-OL-091",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A dispersão separa a luz branca nas suas cores.",
+    "options": {
+      "A": "Volume do meio",
+      "B": "Dispersão",
+      "C": "Massa da lente",
+      "D": "Temperatura do objecto"
+    },
+    "correct_answer": "B",
+    "explanation": "Cada comprimento de onda sofre refracção diferente."
+  },
+  {
+    "id": "FI-OL-092",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Identifica a grandeza ou fenómeno descrito: A dispersão separa a luz branca nas suas cores.",
+    "options": {
+      "A": "Temperatura do objecto",
+      "B": "Volume do meio",
+      "C": "Dispersão",
+      "D": "Massa da lente"
+    },
+    "correct_answer": "C",
+    "explanation": "Cada comprimento de onda sofre refracção diferente."
+  },
+  {
+    "id": "FI-OL-093",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Qual é a resposta correcta? A difração é acentuada quando a abertura é comparável ao comprimento de onda.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Difração"
+    },
+    "correct_answer": "D",
+    "explanation": "O efeito é significativo quando as dimensões são comparáveis."
+  },
+  {
+    "id": "FI-OL-094",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Que conceito físico corresponde à seguinte descrição: A difração é acentuada quando a abertura é comparável ao comprimento de onda.",
+    "options": {
+      "A": "Difração",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "O efeito é significativo quando as dimensões são comparáveis."
+  },
+  {
+    "id": "FI-OL-095",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A difração é acentuada quando a abertura é comparável ao comprimento de onda.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Difração",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "O efeito é significativo quando as dimensões são comparáveis."
+  },
+  {
+    "id": "FI-OL-096",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A difração é acentuada quando a abertura é comparável ao comprimento de onda.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Difração",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "O efeito é significativo quando as dimensões são comparáveis."
+  },
+  {
+    "id": "FI-OL-097",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Qual é a resposta correcta? A polarização é uma propriedade de ondas transversais.",
+    "options": {
+      "A": "Massa",
+      "B": "Pressão",
+      "C": "Temperatura",
+      "D": "Ondas transversais"
+    },
+    "correct_answer": "D",
+    "explanation": "A polarização selecciona a direcção de vibração."
+  },
+  {
+    "id": "FI-OL-098",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Média",
+    "question": "Que conceito físico corresponde à seguinte descrição: A polarização é uma propriedade de ondas transversais.",
+    "options": {
+      "A": "Ondas transversais",
+      "B": "Massa",
+      "C": "Pressão",
+      "D": "Temperatura"
+    },
+    "correct_answer": "A",
+    "explanation": "A polarização selecciona a direcção de vibração."
+  },
+  {
+    "id": "FI-OL-099",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Difícil",
+    "question": "Num exercício sobre ondas e luz, qual afirmação está correcta? A polarização é uma propriedade de ondas transversais.",
+    "options": {
+      "A": "Temperatura",
+      "B": "Ondas transversais",
+      "C": "Massa",
+      "D": "Pressão"
+    },
+    "correct_answer": "B",
+    "explanation": "A polarização selecciona a direcção de vibração."
+  },
+  {
+    "id": "FI-OL-100",
+    "subject": "Física",
+    "topic": "Ondas e luz",
+    "difficulty": "Fácil",
+    "question": "Identifica a grandeza ou fenómeno descrito: A polarização é uma propriedade de ondas transversais.",
+    "options": {
+      "A": "Pressão",
+      "B": "Temperatura",
+      "C": "Ondas transversais",
+      "D": "Massa"
+    },
+    "correct_answer": "C",
+    "explanation": "A polarização selecciona a direcção de vibração."
+  }
+]
