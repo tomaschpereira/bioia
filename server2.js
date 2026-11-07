@@ -679,13 +679,54 @@ async function processar(numero, textoRecebido) {
   }
 
 
+  // FÍSICA — ESCOLHA DO TEMA
+  if (s.modo === "escolher_tema_fisica") {
+    if (texto === "0") {
+      s.modo = "menu";
+      await enviar(numero, menu());
+      return;
+    }
+    if (texto === "1") {
+      const perguntas = bancos.fisica.filter(p => p.id.startsWith("FI-INT-"));
+      if (perguntas.length !== 100) {
+        await enviar(numero, "O tema Introdução ainda não está completo. Tenta novamente mais tarde.");
+        return;
+      }
+      s.disciplina = "fisica";
+      s.fila = baralhar(perguntas);
+      s.indice = 0;
+      s.pontos = 0;
+      s.total = s.fila.length;
+      s.erros = [];
+      s.modo = "quiz";
+      await enviar(numero, "📘 *Física — Introdução*\n100 perguntas. A actividade vai começar!");
+      await mostrarPergunta(numero, s);
+      return;
+    }
+    await enviar(numero, "Por enquanto, escolhe 1 para Introdução ou 0 para voltar. Os outros temas serão activados à medida que forem concluídos.");
+    return;
+  }
+
   // MENU PRINCIPAL
   if (texto === "1") {
     return iniciar(numero, s, "portugues");
   }
 
   if (texto === "2") {
-    return iniciar(numero, s, "fisica");
+    s.modo = "escolher_tema_fisica";
+    await enviar(numero,
+      "⚛️ *FÍSICA — ESCOLHE O TEMA*\n\n" +
+      "1️⃣ Introdução — 100 perguntas disponíveis\n" +
+      "2️⃣ Trabalho, energia e transferência de energia — em preparação\n" +
+      "3️⃣ Ondas e luz — em preparação\n" +
+      "4️⃣ Dinâmica — em preparação\n" +
+      "5️⃣ Mecânica dos fluidos — em preparação\n" +
+      "6️⃣ Física dos gases — em preparação\n" +
+      "7️⃣ Electromagnetismo — em preparação\n" +
+      "8️⃣ Óptica — em preparação\n\n" +
+      "0️⃣ Voltar ao menu principal"
+    );
+    return;
   }
 
   if (texto === "3") {
