@@ -49,15 +49,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Uma força de 10 N forma um ângulo de 120° com um deslocamento de 5 m. Qual é o trabalho dessa força?",
+    "question": "Uma força actua sobre um corpo formando um ângulo obtuso com o deslocamento. Que sinal tem o trabalho dessa força?",
     "options": {
-      "A": "−50 J",
-      "B": "−25 J",
-      "C": "+25 J",
-      "D": "+50 J"
+      "A": "Positivo",
+      "B": "Negativo",
+      "C": "Nulo",
+      "D": "Necessariamente igual a zero se a massa for constante"
     },
     "correct_answer": "B",
-    "explanation": "W = Fd cos θ = 10 × 5 × cos 120° = −25 J. O sinal negativo indica oposição ao deslocamento."
+    "explanation": "Num ângulo obtuso, o coseno é negativo. Pela expressão W = Fd cos θ, o trabalho realizado por essa força é negativo."
   },
   {
     "id": "FI-TE2-005",
@@ -214,15 +214,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Fácil",
-    "question": "Se o trabalho resultante sobre um corpo for positivo, o que acontece à sua energia cinética?",
+    "question": "Um corpo tem inicialmente 400 J de energia cinética e recebe 250 J de trabalho resultante. Qual passa a ser a sua energia cinética?",
     "options": {
-      "A": "Diminui",
-      "B": "Aumenta",
-      "C": "Permanece necessariamente constante",
-      "D": "Transforma-se sempre em energia química"
+      "A": "150 J",
+      "B": "400 J",
+      "C": "650 J",
+      "D": "1 000 J"
     },
-    "correct_answer": "B",
-    "explanation": "Pelo teorema trabalho–energia, o trabalho resultante é igual à variação da energia cinética. Um trabalho positivo aumenta a energia cinética."
+    "correct_answer": "C",
+    "explanation": "Pelo teorema trabalho–energia, ΔEc = Wresultante = 250 J. Portanto, Ec final = 400 + 250 = 650 J."
   },
   {
     "id": "FI-TE2-016",
@@ -334,15 +334,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Uma mola ideal é comprimida duas vezes mais, mantendo-se a mesma constante elástica. Como varia a energia potencial elástica armazenada?",
+    "question": "Uma massa oscila presa a uma mola ideal, sem perdas. Em que posição a rapidez da massa é máxima?",
     "options": {
-      "A": "Duplica",
-      "B": "Triplica",
-      "C": "Fica quatro vezes maior",
-      "D": "Fica reduzida a metade"
+      "A": "Na compressão máxima",
+      "B": "Quando a mola passa pelo comprimento natural",
+      "C": "Na extensão máxima",
+      "D": "Em qualquer posição, pois a rapidez é constante"
     },
-    "correct_answer": "C",
-    "explanation": "Ee = ½kx². Se a deformação x duplicar, x² passa a quatro vezes o valor inicial."
+    "correct_answer": "B",
+    "explanation": "Ao passar pelo comprimento natural, a energia potencial elástica é mínima e a energia cinética é máxima; por isso, a rapidez é máxima."
   },
   {
     "id": "FI-TE2-024",
@@ -484,15 +484,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Um motor recebe 1,5 kW de potência e tem rendimento de 80%. Qual é a sua potência útil?",
+    "question": "Um guincho trabalha com potência mecânica constante. Se o peso da carga duplicar, mantendo-se a potência e a subida a velocidade constante, como varia a velocidade de elevação?",
     "options": {
-      "A": "300 W",
-      "B": "800 W",
-      "C": "1 200 W",
-      "D": "1 875 W"
+      "A": "Duplica",
+      "B": "Fica reduzida a metade",
+      "C": "Permanece igual",
+      "D": "Fica quatro vezes maior"
     },
-    "correct_answer": "C",
-    "explanation": "A potência útil é η × potência recebida = 0,80 × 1 500 W = 1 200 W."
+    "correct_answer": "B",
+    "explanation": "P = Fv. Para a mesma potência, se a força necessária duplicar, a velocidade tem de ficar reduzida a metade."
   },
   {
     "id": "FI-TE2-034",
@@ -544,30 +544,30 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Difícil",
-    "question": "Um motor realiza 3,6 MJ de trabalho em 1 minuto. Qual é a potência média?",
+    "question": "Um veículo desloca-se para a frente enquanto o sistema de travagem regenerativa exerce uma força para trás. Qual é o sinal da potência mecânica dessa força?",
     "options": {
-      "A": "6 kW",
-      "B": "36 kW",
-      "C": "60 kW",
-      "D": "216 kW"
+      "A": "Positivo",
+      "B": "Negativo",
+      "C": "Nulo em qualquer velocidade",
+      "D": "Não pode ser determinado pelo sentido da força e da velocidade"
     },
-    "correct_answer": "C",
-    "explanation": "3,6 MJ = 3 600 000 J e 1 min = 60 s. P = 3 600 000/60 = 60 kW."
+    "correct_answer": "B",
+    "explanation": "A potência instantânea é o produto escalar da força pela velocidade. Como têm sentidos opostos, a potência da força de travagem é negativa."
   },
   {
     "id": "FI-TE2-038",
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Uma máquina fornece 900 W de potência útil e tem rendimento de 75%. Qual é a potência que recebe?",
+    "question": "Num gráfico potência–tempo, que grandeza física é representada pela área entre a curva e o eixo do tempo?",
     "options": {
-      "A": "675 W",
-      "B": "900 W",
-      "C": "1 200 W",
-      "D": "1 500 W"
+      "A": "Energia transferida",
+      "B": "Força resultante",
+      "C": "Aceleração média",
+      "D": "Deslocamento"
     },
-    "correct_answer": "C",
-    "explanation": "Pentrada = Pútil/η = 900/0,75 = 1 200 W."
+    "correct_answer": "A",
+    "explanation": "A potência é a taxa de transferência de energia. Por isso, a integral da potência em relação ao tempo, ou a área sob o gráfico, corresponde à energia transferida."
   },
   {
     "id": "FI-TE2-039",
@@ -604,15 +604,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Um equipamento transfere 540 kJ de energia em 3 minutos. Qual é a taxa média de transferência de energia?",
+    "question": "Numa parede em regime estacionário, sem fontes de energia no seu interior, como se comparam as taxas de energia térmica que entram e saem?",
     "options": {
-      "A": "30 W",
-      "B": "300 W",
-      "C": "3 000 W",
-      "D": "18 000 W"
+      "A": "A taxa de saída é sempre maior",
+      "B": "A taxa de entrada é sempre maior",
+      "C": "As duas taxas são iguais",
+      "D": "A taxa de saída é nula"
     },
     "correct_answer": "C",
-    "explanation": "P = E/t = 540 000 J/180 s = 3 000 W."
+    "explanation": "Em regime estacionário, a energia interna da parede não aumenta nem diminui. Assim, a taxa de energia que entra é igual à taxa que sai."
   },
   {
     "id": "FI-TE2-042",
@@ -627,7 +627,7 @@
       "D": "1,2 MJ"
     },
     "correct_answer": "D",
-    "explanation": "E = Pt = 5 000 W × 240 s = 1 200 000 J = 1,2 MJ."
+    "explanation": "E = Pt = 5 000 W × 240 s = 1 200 000 J, que corresponde a 1,2 MJ."
   },
   {
     "id": "FI-TE2-043",
@@ -1324,15 +1324,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Uma chaleira eléctrica de 1,5 kW funciona durante 4 minutos. Qual é a energia eléctrica recebida nesse período?",
+    "question": "Uma unidade de energia usada na facturação eléctrica, o quilowatt-hora (kWh), equivale a:",
     "options": {
-      "A": "90 kJ",
-      "B": "180 kJ",
-      "C": "360 kJ",
-      "D": "600 kJ"
+      "A": "3,6 kJ",
+      "B": "36 kJ",
+      "C": "3,6 MJ",
+      "D": "36 MJ"
     },
     "correct_answer": "C",
-    "explanation": "E = Pt = 1 500 × 240 = 360 000 J = 360 kJ."
+    "explanation": "1 kWh = 1 000 W × 3 600 s = 3 600 000 J = 3,6 MJ. O kWh mede energia, não potência."
   },
   {
     "id": "FI-TE2-090",
