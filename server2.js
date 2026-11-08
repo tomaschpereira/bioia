@@ -687,7 +687,7 @@ async function processar(numero, textoRecebido) {
       return;
     }
     if (texto === "1" || texto === "2" || texto === "3") {
-      const prefixo = texto === "1" ? "FI-INT-" : texto === "2" ? "FI-TE-" : "FI-OL-";
+      const prefixo = texto === "1" ? "FI-INT-" : texto === "2" ? "FI-TE2-" : "FI-OL-";
       const nomeTema = texto === "1" ? "Introdução" : texto === "2" ? "Trabalho e energia" : "Ondas e luz";
       const perguntas = bancos.fisica.filter(p => p.id.startsWith(prefixo));
       if (perguntas.length !== 100) {
@@ -705,7 +705,7 @@ async function processar(numero, textoRecebido) {
       await mostrarPergunta(numero, s);
       return;
     }
-    await enviar(numero, "Escolhe 1 para Introdução, 2 para Trabalho e energia ou 0 para voltar. Os restantes temas serão activados à medida que forem concluídos.");
+    await enviar(numero, "Escolhe 1 para Introdução, 2 para Trabalho e energia, 3 para Ondas e luz ou 0 para voltar. Os restantes temas serão activados à medida que forem concluídos.");
     return;
   }
 
