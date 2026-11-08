@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "FI-TE2-001",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Num gráfico força–deslocamento, a força cresce linearmente de 0 N a 18 N ao longo de 4 m. Qual é o trabalho realizado?",
+    "options": {
+      "A": "18 J",
+      "B": "36 J",
+      "C": "54 J",
+      "D": "72 J"
+    },
+    "correct_answer": "B",
+    "explanation": "O trabalho é a área sob o gráfico. A região é um triângulo: W = (4 × 18)/2 = 36 J."
+  },
+  {
+    "id": "FI-TE2-002",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "A força paralela ao movimento aumenta de 6 N para 14 N enquanto o corpo percorre 3 m. Admitindo uma variação linear, qual é o trabalho?",
+    "options": {
+      "A": "12 J",
+      "B": "24 J",
+      "C": "30 J",
+      "D": "42 J"
+    },
+    "correct_answer": "C",
+    "explanation": "A força média é (6 + 14)/2 = 10 N. Logo, W = 10 × 3 = 30 J."
+  },
+  {
+    "id": "FI-TE2-003",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Uma força realiza +12 N ao longo dos primeiros 5 m e, depois, −4 N ao longo de mais 2 m. Qual é o trabalho total?",
+    "options": {
+      "A": "44 J",
+      "B": "52 J",
+      "C": "60 J",
+      "D": "68 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Somam-se os trabalhos com os respectivos sinais: W = 12 × 5 − 4 × 2 = 52 J."
+  },
+  {
+    "id": "FI-TE2-004",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma força de 10 N forma um ângulo de 120° com um deslocamento de 5 m. Qual é o trabalho dessa força?",
+    "options": {
+      "A": "−50 J",
+      "B": "−25 J",
+      "C": "+25 J",
+      "D": "+50 J"
+    },
+    "correct_answer": "B",
+    "explanation": "W = Fd cos θ = 10 × 5 × cos 120° = −25 J. O sinal negativo indica oposição ao deslocamento."
+  },
+  {
+    "id": "FI-TE2-005",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um guincho eleva verticalmente uma carga de 4 kg por 3 m, a velocidade constante. Considera g = 10 m/s². Qual é o trabalho realizado pela força gravítica?",
+    "options": {
+      "A": "−120 J",
+      "B": "−40 J",
+      "C": "+120 J",
+      "D": "+40 J"
+    },
+    "correct_answer": "A",
+    "explanation": "A força gravítica aponta para baixo e o deslocamento é para cima. Wg = −mgh = −4 × 10 × 3 = −120 J."
+  },
+  {
+    "id": "FI-TE2-006",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Um bloco desliza 4 m enquanto uma força de atrito constante de 15 N se opõe ao movimento. Qual é o trabalho do atrito?",
+    "options": {
+      "A": "−60 J",
+      "B": "−45 J",
+      "C": "+60 J",
+      "D": "+120 J"
+    },
+    "correct_answer": "A",
+    "explanation": "Como o atrito tem sentido oposto ao deslocamento, W = −Fd = −15 × 4 = −60 J."
+  },
+  {
+    "id": "FI-TE2-007",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma corda puxa uma caixa com uma força de 40 N, inclinada 30° acima da horizontal. A caixa desloca-se 5 m na horizontal. Qual é o trabalho da força aplicada?",
+    "options": {
+      "A": "100 J",
+      "B": "141 J",
+      "C": "173 J",
+      "D": "200 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Só a componente horizontal realiza trabalho: W = Fd cos 30° = 40 × 5 × 0,866 ≈ 173 J."
+  },
+  {
+    "id": "FI-TE2-008",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Uma carga de 6 kg desce 2 m verticalmente. Considera g = 10 m/s². Qual é o trabalho realizado pela força gravítica?",
+    "options": {
+      "A": "−120 J",
+      "B": "−60 J",
+      "C": "+60 J",
+      "D": "+120 J"
+    },
+    "correct_answer": "D",
+    "explanation": "A força gravítica e o deslocamento têm o mesmo sentido. Wg = mgh = 6 × 10 × 2 = 120 J."
+  },
+  {
+    "id": "FI-TE2-009",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Num gráfico força–deslocamento, uma força constante de −8 N actua entre x = 2 m e x = 5 m. Qual é o trabalho nesse intervalo?",
+    "options": {
+      "A": "−24 J",
+      "B": "−16 J",
+      "C": "+24 J",
+      "D": "+32 J"
+    },
+    "correct_answer": "A",
+    "explanation": "A área é um rectângulo de largura 3 m e altura −8 N. W = −8 × 3 = −24 J."
+  },
+  {
+    "id": "FI-TE2-010",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Uma pessoa mantém uma mala imóvel, suspensa, durante 20 s. Qual é o trabalho mecânico realizado pela força vertical que a sustenta sobre a mala?",
+    "options": {
+      "A": "0 J",
+      "B": "200 J",
+      "C": "Depende da massa",
+      "D": "Depende do tempo"
+    },
+    "correct_answer": "A",
+    "explanation": "Apesar de existir força, a mala não sofre deslocamento. Como d = 0, o trabalho mecânico sobre a mala é nulo."
+  },
+  {
+    "id": "FI-TE2-011",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um carrinho desloca-se 7 m na horizontal. Duas forças horizontais actuam nele: 28 N para a frente e 10 N para trás. Qual é o trabalho da força resultante?",
+    "options": {
+      "A": "70 J",
+      "B": "126 J",
+      "C": "196 J",
+      "D": "266 J"
+    },
+    "correct_answer": "B",
+    "explanation": "A força resultante é 28 − 10 = 18 N. O trabalho resultante é 18 × 7 = 126 J."
+  },
+  {
+    "id": "FI-TE2-012",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um corpo regressa ao ponto de partida depois de percorrer um trajecto fechado num campo gravítico. Qual é o trabalho total realizado pela força gravítica durante o percurso?",
+    "options": {
+      "A": "Positivo",
+      "B": "Negativo",
+      "C": "Nulo",
+      "D": "Depende da rapidez"
+    },
+    "correct_answer": "C",
+    "explanation": "A força gravítica é conservativa. Num percurso fechado, o corpo termina à mesma altura, pelo que o trabalho total da gravidade é nulo."
+  },
+  {
+    "id": "FI-TE2-013",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Dois caminhos diferentes ligam os mesmos pontos A e B, sem variação da altura entre eles. Para a força gravítica, o trabalho entre A e B é:",
+    "options": {
+      "A": "Maior no caminho mais comprido",
+      "B": "O mesmo nos dois caminhos",
+      "C": "Nulo apenas no caminho curto",
+      "D": "Proporcional ao tempo gasto"
+    },
+    "correct_answer": "B",
+    "explanation": "O trabalho da força gravítica depende apenas da diferença de altura entre os pontos inicial e final, não do trajecto."
+  },
+  {
+    "id": "FI-TE2-014",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma carga de 2 kg é elevada 5 m a velocidade constante. Considera g = 10 m/s². Qual é o trabalho da força de elevação?",
+    "options": {
+      "A": "−100 J",
+      "B": "0 J",
+      "C": "+50 J",
+      "D": "+100 J"
+    },
+    "correct_answer": "D",
+    "explanation": "A força de elevação equilibra o peso e tem o mesmo sentido do deslocamento. W = mgh = 2 × 10 × 5 = 100 J."
+  },
+  {
+    "id": "FI-TE2-015",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Se o trabalho resultante sobre um corpo for positivo, o que acontece à sua energia cinética?",
+    "options": {
+      "A": "Diminui",
+      "B": "Aumenta",
+      "C": "Permanece necessariamente constante",
+      "D": "Transforma-se sempre em energia química"
+    },
+    "correct_answer": "B",
+    "explanation": "Pelo teorema trabalho–energia, o trabalho resultante é igual à variação da energia cinética. Um trabalho positivo aumenta a energia cinética."
+  },
+  {
+    "id": "FI-TE2-016",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um carrinho parte do repouso e desce uma rampa sem atrito, perdendo 5 m de altura. Considera g = 10 m/s². Qual é a rapidez no fim da descida?",
+    "options": {
+      "A": "5 m/s",
+      "B": "10 m/s",
+      "C": "15 m/s",
+      "D": "20 m/s"
+    },
+    "correct_answer": "B",
+    "explanation": "Pela conservação da energia, mgh = ½mv². Assim, v = √(2gh) = √100 = 10 m/s."
+  },
+  {
+    "id": "FI-TE2-017",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma bola é lançada verticalmente para cima com rapidez inicial de 20 m/s. Desprezando a resistência do ar e usando g = 10 m/s², qual é a altura máxima atingida acima do ponto de lançamento?",
+    "options": {
+      "A": "5 m",
+      "B": "10 m",
+      "C": "20 m",
+      "D": "40 m"
+    },
+    "correct_answer": "C",
+    "explanation": "No ponto mais alto, a rapidez é zero. h = v²/(2g) = 400/20 = 20 m."
+  },
+  {
+    "id": "FI-TE2-018",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Um carrinho de montanha-russa passa por um ponto a 18 m de altura com rapidez de 4 m/s. Qual será aproximadamente a rapidez quando chegar a 8 m de altura, sem atrito? Considera g = 10 m/s².",
+    "options": {
+      "A": "10,0 m/s",
+      "B": "12,0 m/s",
+      "C": "14,7 m/s",
+      "D": "18,0 m/s"
+    },
+    "correct_answer": "C",
+    "explanation": "vf² = vi² + 2gΔh = 4² + 2 × 10 × 10 = 216. Logo, vf ≈ 14,7 m/s."
+  },
+  {
+    "id": "FI-TE2-019",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um sistema tinha inicialmente 600 J de energia mecânica e passa a ter 450 J. Qual foi o trabalho realizado pelas forças não conservativas?",
+    "options": {
+      "A": "+150 J",
+      "B": "−150 J",
+      "C": "+450 J",
+      "D": "−450 J"
+    },
+    "correct_answer": "B",
+    "explanation": "O trabalho das forças não conservativas é a variação da energia mecânica: Wnc = 450 − 600 = −150 J."
+  },
+  {
+    "id": "FI-TE2-020",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Um bloco passa de uma situação com 300 J de energia mecânica para outra com 240 J. Qual é a interpretação correcta da diferença, se o atrito foi a única força não conservativa?",
+    "options": {
+      "A": "Foram criados 60 J",
+      "B": "Foram dissipados 60 J de energia mecânica",
+      "C": "A energia total desapareceu",
+      "D": "A energia potencial aumentou 60 J"
+    },
+    "correct_answer": "B",
+    "explanation": "A energia mecânica diminuiu 60 J. O atrito transferiu essa energia sobretudo para energia interna, sem destruir a energia total."
+  },
+  {
+    "id": "FI-TE2-021",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Ao escolher outro nível de referência para a energia potencial gravítica, qual grandeza permanece inalterada?",
+    "options": {
+      "A": "O valor numérico de Ep em cada ponto",
+      "B": "A massa do corpo",
+      "C": "A diferença de energia potencial entre dois pontos",
+      "D": "A altura geométrica entre os pontos"
+    },
+    "correct_answer": "C",
+    "explanation": "Mudar o nível de referência altera os valores atribuídos a Ep, mas não altera a diferença de energia potencial entre dois pontos."
+  },
+  {
+    "id": "FI-TE2-022",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Num pêndulo ideal, em que posição a rapidez do corpo é máxima?",
+    "options": {
+      "A": "No ponto mais alto da oscilação",
+      "B": "No ponto mais baixo da trajectória",
+      "C": "A meio de cada subida, sempre",
+      "D": "É igual em todas as posições"
+    },
+    "correct_answer": "B",
+    "explanation": "No ponto mais baixo, a energia potencial gravítica é mínima e a energia cinética é máxima, supondo perdas desprezáveis."
+  },
+  {
+    "id": "FI-TE2-023",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma mola ideal é comprimida duas vezes mais, mantendo-se a mesma constante elástica. Como varia a energia potencial elástica armazenada?",
+    "options": {
+      "A": "Duplica",
+      "B": "Triplica",
+      "C": "Fica quatro vezes maior",
+      "D": "Fica reduzida a metade"
+    },
+    "correct_answer": "C",
+    "explanation": "Ee = ½kx². Se a deformação x duplicar, x² passa a quatro vezes o valor inicial."
+  },
+  {
+    "id": "FI-TE2-024",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Quando os travões de uma bicicleta aquecem durante uma descida, a energia mecânica perdida transforma-se principalmente em:",
+    "options": {
+      "A": "Energia interna dos travões e das superfícies em contacto",
+      "B": "Energia nuclear",
+      "C": "Massa adicional da bicicleta",
+      "D": "Energia potencial gravítica"
+    },
+    "correct_answer": "A",
+    "explanation": "O atrito nos travões converte energia mecânica em energia interna, aumentando a temperatura dos materiais."
+  },
+  {
+    "id": "FI-TE2-025",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Qual afirmação exprime correctamente o teorema trabalho–energia?",
+    "options": {
+      "A": "O trabalho de qualquer força é sempre positivo",
+      "B": "O trabalho resultante é igual à variação da energia cinética",
+      "C": "A energia cinética é igual à energia potencial em todos os movimentos",
+      "D": "O trabalho resultante depende apenas do tempo"
+    },
+    "correct_answer": "B",
+    "explanation": "O teorema estabelece Wresultante = ΔEc. O trabalho de todas as forças deve ser somado com os respectivos sinais."
+  },
+  {
+    "id": "FI-TE2-026",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Dois objectos partem do repouso da mesma altura e descem por pistas diferentes, sem atrito. Ao atingirem o mesmo nível final, terão:",
+    "options": {
+      "A": "A mesma rapidez",
+      "B": "Rapidezes dependentes do comprimento das pistas",
+      "C": "Rapidezes inversamente proporcionais às massas",
+      "D": "A mesma aceleração média em todos os instantes"
+    },
+    "correct_answer": "A",
+    "explanation": "A conservação da energia mecânica faz depender a rapidez final apenas da variação de altura, desde que não existam perdas."
+  },
+  {
+    "id": "FI-TE2-027",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Um bloco desliza numa superfície horizontal e perde 80 J de energia mecânica devido ao atrito. Se não houver outras transferências relevantes, o que representa esse valor?",
+    "options": {
+      "A": "A energia total destruída",
+      "B": "A energia transferida para energia interna do bloco e da superfície",
+      "C": "O aumento da energia potencial gravítica",
+      "D": "O trabalho positivo do atrito"
+    },
+    "correct_answer": "B",
+    "explanation": "O atrito realiza trabalho negativo sobre o movimento e aumenta a energia interna dos corpos em contacto em cerca de 80 J."
+  },
+  {
+    "id": "FI-TE2-028",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Uma grua eleva uma carga de 150 kg a velocidade constante de 0,4 m/s. Considera g = 10 m/s². Qual é a potência mecânica útil?",
+    "options": {
+      "A": "150 W",
+      "B": "300 W",
+      "C": "600 W",
+      "D": "1 500 W"
+    },
+    "correct_answer": "C",
+    "explanation": "A força de elevação equilibra o peso: P = Fv = mgv = 150 × 10 × 0,4 = 600 W."
+  },
+  {
+    "id": "FI-TE2-029",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma força de 100 N actua sobre um corpo que se desloca a 4 m/s, formando 60° com a velocidade. Qual é a potência instantânea dessa força?",
+    "options": {
+      "A": "100 W",
+      "B": "200 W",
+      "C": "346 W",
+      "D": "400 W"
+    },
+    "correct_answer": "B",
+    "explanation": "P = Fv cos θ = 100 × 4 × cos 60° = 200 W."
+  },
+  {
+    "id": "FI-TE2-030",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma bomba eleva 500 kg de água até uma altura de 12 m em 60 s. Considera g = 10 m/s² e despreza perdas. Qual é a potência útil?",
+    "options": {
+      "A": "500 W",
+      "B": "800 W",
+      "C": "1 000 W",
+      "D": "6 000 W"
+    },
+    "correct_answer": "C",
+    "explanation": "O trabalho é mgh = 500 × 10 × 12 = 60 000 J. Dividindo por 60 s, obtém-se 1 000 W."
+  },
+  {
+    "id": "FI-TE2-031",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Duas máquinas realizam o mesmo trabalho de 24 kJ. A máquina X demora 12 s e a máquina Y demora 24 s. Como se comparam as potências médias?",
+    "options": {
+      "A": "X tem metade da potência de Y",
+      "B": "X tem o dobro da potência de Y",
+      "C": "As potências são iguais",
+      "D": "Y tem quatro vezes a potência de X"
+    },
+    "correct_answer": "B",
+    "explanation": "Para o mesmo trabalho, a potência é inversamente proporcional ao tempo. X demora metade do tempo e tem o dobro da potência."
+  },
+  {
+    "id": "FI-TE2-032",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um motor fornece uma potência constante de 1,2 kW durante 3 minutos. Que energia transfere nesse intervalo?",
+    "options": {
+      "A": "36 kJ",
+      "B": "120 kJ",
+      "C": "216 kJ",
+      "D": "360 kJ"
+    },
+    "correct_answer": "C",
+    "explanation": "E = Pt = 1 200 W × 180 s = 216 000 J = 216 kJ."
+  },
+  {
+    "id": "FI-TE2-033",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um motor recebe 1,5 kW de potência e tem rendimento de 80%. Qual é a sua potência útil?",
+    "options": {
+      "A": "300 W",
+      "B": "800 W",
+      "C": "1 200 W",
+      "D": "1 875 W"
+    },
+    "correct_answer": "C",
+    "explanation": "A potência útil é η × potência recebida = 0,80 × 1 500 W = 1 200 W."
+  },
+  {
+    "id": "FI-TE2-034",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma máquina recebe 2,4 kJ de energia e entrega 1,8 kJ de energia útil. Quanta energia é dissipada ou transferida para outras formas não úteis?",
+    "options": {
+      "A": "0,3 kJ",
+      "B": "0,6 kJ",
+      "C": "1,8 kJ",
+      "D": "4,2 kJ"
+    },
+    "correct_answer": "B",
+    "explanation": "A energia não útil é a diferença entre a energia recebida e a útil: 2,4 − 1,8 = 0,6 kJ."
+  },
+  {
+    "id": "FI-TE2-035",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um motor apresenta potência útil de 18 kW e potência de entrada de 24 kW. Qual é o seu rendimento?",
+    "options": {
+      "A": "25%",
+      "B": "60%",
+      "C": "75%",
+      "D": "133%"
+    },
+    "correct_answer": "C",
+    "explanation": "η = Pútil/Pentrada × 100% = 18/24 × 100% = 75%."
+  },
+  {
+    "id": "FI-TE2-036",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Uma pessoa de 60 kg sobe uma escada que a eleva 5 m em 10 s. Considera g = 10 m/s². Qual é a potência média útil desenvolvida contra a gravidade?",
+    "options": {
+      "A": "100 W",
+      "B": "200 W",
+      "C": "300 W",
+      "D": "600 W"
+    },
+    "correct_answer": "C",
+    "explanation": "W = mgh = 60 × 10 × 5 = 3 000 J. P = 3 000/10 = 300 W."
+  },
+  {
+    "id": "FI-TE2-037",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Um motor realiza 3,6 MJ de trabalho em 1 minuto. Qual é a potência média?",
+    "options": {
+      "A": "6 kW",
+      "B": "36 kW",
+      "C": "60 kW",
+      "D": "216 kW"
+    },
+    "correct_answer": "C",
+    "explanation": "3,6 MJ = 3 600 000 J e 1 min = 60 s. P = 3 600 000/60 = 60 kW."
+  },
+  {
+    "id": "FI-TE2-038",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma máquina fornece 900 W de potência útil e tem rendimento de 75%. Qual é a potência que recebe?",
+    "options": {
+      "A": "675 W",
+      "B": "900 W",
+      "C": "1 200 W",
+      "D": "1 500 W"
+    },
+    "correct_answer": "C",
+    "explanation": "Pentrada = Pútil/η = 900/0,75 = 1 200 W."
+  },
+  {
+    "id": "FI-TE2-039",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Considera 1 cavalo-vapor mecânico (hp) aproximadamente igual a 746 W. Qual é a potência de um motor de 2 hp?",
+    "options": {
+      "A": "373 W",
+      "B": "746 W",
+      "C": "1 492 W",
+      "D": "2 984 W"
+    },
+    "correct_answer": "C",
+    "explanation": "A potência é o dobro de 746 W: 2 × 746 = 1 492 W."
+  },
+  {
+    "id": "FI-TE2-040",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma grua eleva uma carga cujo peso é 800 N a uma velocidade constante de 0,25 m/s. Qual é a potência útil?",
+    "options": {
+      "A": "100 W",
+      "B": "200 W",
+      "C": "320 W",
+      "D": "3 200 W"
+    },
+    "correct_answer": "B",
+    "explanation": "P = Fv = 800 × 0,25 = 200 W."
+  },
+  {
+    "id": "FI-TE2-041",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um equipamento transfere 540 kJ de energia em 3 minutos. Qual é a taxa média de transferência de energia?",
+    "options": {
+      "A": "30 W",
+      "B": "300 W",
+      "C": "3 000 W",
+      "D": "18 000 W"
+    },
+    "correct_answer": "C",
+    "explanation": "P = E/t = 540 000 J/180 s = 3 000 W."
+  },
+  {
+    "id": "FI-TE2-042",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Uma bomba de 5 kW funciona durante 4 minutos. Qual é a energia transferida?",
+    "options": {
+      "A": "20 kJ",
+      "B": "120 kJ",
+      "C": "300 kJ",
+      "D": "1,2 MJ"
+    },
+    "correct_answer": "D",
+    "explanation": "E = Pt = 5 000 W × 240 s = 1 200 000 J = 1,2 MJ."
+  },
+  {
+    "id": "FI-TE2-043",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Dois aparelhos recebem 1 000 J cada. O aparelho A transfere essa energia em 5 s e o B em 2 s. Qual afirmação é correcta?",
+    "options": {
+      "A": "A potência de A é 200 W e a de B é 500 W",
+      "B": "A potência de A é 500 W e a de B é 200 W",
+      "C": "Ambos têm potência de 1 000 W",
+      "D": "A potência de B é menor porque demora menos tempo"
+    },
+    "correct_answer": "A",
+    "explanation": "P = E/t. Para A: 1 000/5 = 200 W; para B: 1 000/2 = 500 W."
+  },
+  {
+    "id": "FI-TE2-044",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Uma parede tem condutividade térmica de 0,8 W/(m·K), área de 10 m², espessura de 0,2 m e diferença de temperatura de 15 K entre as faces. Qual é a taxa de condução, usando Φ = kAΔT/L?",
+    "options": {
+      "A": "300 W",
+      "B": "600 W",
+      "C": "750 W",
+      "D": "1 200 W"
+    },
+    "correct_answer": "B",
+    "explanation": "Φ = 0,8 × 10 × 15 / 0,2 = 600 W."
+  },
+  {
+    "id": "FI-TE2-045",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Mantendo o mesmo material, área e diferença de temperatura, o que acontece à taxa de condução através de uma parede se a sua espessura duplicar?",
+    "options": {
+      "A": "Duplica",
+      "B": "Fica reduzida a metade",
+      "C": "Fica quatro vezes maior",
+      "D": "Não se altera"
+    },
+    "correct_answer": "B",
+    "explanation": "Pela relação Φ = kAΔT/L, a taxa de condução é inversamente proporcional à espessura L."
+  },
+  {
+    "id": "FI-TE2-046",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Mantendo constantes o material, a espessura e a diferença de temperatura, se a área de uma parede duplicar, a taxa de condução:",
+    "options": {
+      "A": "Fica reduzida a metade",
+      "B": "Não se altera",
+      "C": "Duplica",
+      "D": "Fica quatro vezes maior"
+    },
+    "correct_answer": "C",
+    "explanation": "A taxa de condução é directamente proporcional à área: Φ = kAΔT/L."
+  },
+  {
+    "id": "FI-TE2-047",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Duas placas têm a mesma área, espessura e diferença de temperatura. A placa X tem condutividade térmica 200 W/(m·K) e a Y tem 0,5 W/(m·K). Qual é a relação entre as taxas de condução?",
+    "options": {
+      "A": "X conduz 4 vezes mais",
+      "B": "X conduz 40 vezes mais",
+      "C": "X conduz 200 vezes mais",
+      "D": "X conduz 400 vezes mais"
+    },
+    "correct_answer": "D",
+    "explanation": "Com geometria e diferença de temperatura iguais, a taxa é proporcional a k. A razão é 200/0,5 = 400."
+  },
+  {
+    "id": "FI-TE2-048",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Num recipiente térmico, existe uma camada de vácuo entre duas paredes e superfícies internas reflectoras. Qual é a explicação correcta?",
+    "options": {
+      "A": "O vácuo elimina a radiação e as superfícies reflectoras eliminam a gravidade",
+      "B": "O vácuo reduz condução e convecção; as superfícies reflectoras reduzem a troca por radiação",
+      "C": "O vácuo aumenta a condução e as superfícies reflectoras aumentam a absorção",
+      "D": "Apenas a convecção é afectada"
+    },
+    "correct_answer": "B",
+    "explanation": "Sem matéria no espaço evacuado, a condução e a convecção ficam fortemente reduzidas. As superfícies reflectoras diminuem a transferência radiativa."
+  },
+  {
+    "id": "FI-TE2-049",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Por que motivo as janelas de vidro duplo ajudam a reduzir as perdas de energia térmica de uma casa?",
+    "options": {
+      "A": "Porque o espaço entre os vidros contém sempre vácuo perfeito",
+      "B": "Porque a camada de gás aprisionada dificulta a condução e limita correntes de convecção",
+      "C": "Porque o vidro transforma calor em energia química",
+      "D": "Porque impede qualquer transferência por radiação"
+    },
+    "correct_answer": "B",
+    "explanation": "A camada de ar ou gás entre os vidros funciona como isolante e, se for estreita, limita a circulação convectiva."
+  },
+  {
+    "id": "FI-TE2-050",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Durante o dia, uma brisa marítima sopra do mar para a terra. Qual processo explica principalmente esse movimento?",
+    "options": {
+      "A": "A terra aquece mais depressa, o ar sobre ela sobe e o ar mais fresco do mar desloca-se para a costa",
+      "B": "O mar aquece sempre mais depressa e empurra o ar para o interior",
+      "C": "A radiação solar empurra directamente o vento",
+      "D": "A pressão atmosférica é igual em todos os pontos"
+    },
+    "correct_answer": "A",
+    "explanation": "A terra aquece mais rapidamente do que a água. O ar sobre a terra aquece e sobe, sendo substituído à superfície por ar mais fresco vindo do mar."
+  },
+  {
+    "id": "FI-TE2-051",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Durante a noite, em condições típicas de brisa terrestre, o vento próximo da superfície sopra da terra para o mar porque:",
+    "options": {
+      "A": "A terra permanece mais quente do que o mar",
+      "B": "O mar arrefece mais depressa do que a terra",
+      "C": "A terra arrefece mais depressa, enquanto o ar sobre o mar tende a subir",
+      "D": "A gravidade deixa de actuar sobre o ar"
+    },
+    "correct_answer": "C",
+    "explanation": "À noite, a terra perde calor mais rapidamente. O ar relativamente mais quente sobre o mar sobe e o ar superficial desloca-se da terra para o mar."
+  },
+  {
+    "id": "FI-TE2-052",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Um ventilador dirigido a uma superfície quente aumenta sobretudo a transferência de energia térmica por:",
+    "options": {
+      "A": "Convecção forçada",
+      "B": "Condução no vazio",
+      "C": "Reflexão total",
+      "D": "Fusão"
+    },
+    "correct_answer": "A",
+    "explanation": "O ventilador força o movimento do ar junto da superfície, renovando o fluido e aumentando a transferência convectiva."
+  },
+  {
+    "id": "FI-TE2-053",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Duas placas estão à mesma temperatura. Uma tem superfície baça de elevada emissividade e a outra é muito polida, de baixa emissividade. Qual tende a emitir mais energia por radiação?",
+    "options": {
+      "A": "A placa polida",
+      "B": "A placa baça de elevada emissividade",
+      "C": "Ambas emitem necessariamente zero",
+      "D": "A emissão depende apenas da massa"
+    },
+    "correct_answer": "B",
+    "explanation": "À mesma temperatura e área, uma superfície com maior emissividade emite mais potência radiativa do que uma de baixa emissividade."
+  },
+  {
+    "id": "FI-TE2-054",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Uma pessoa sente calor de uma fogueira mesmo sem tocar nela e apesar de o ar entre ambos estar relativamente parado. Qual é o mecanismo dominante?",
+    "options": {
+      "A": "Condução através da madeira",
+      "B": "Convecção dentro da fogueira até à pessoa",
+      "C": "Radiação térmica",
+      "D": "Transferência por contacto directo"
+    },
+    "correct_answer": "C",
+    "explanation": "A energia chega à pessoa sobretudo por radiação electromagnética emitida pela fogueira, que não exige contacto."
+  },
+  {
+    "id": "FI-TE2-055",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Num radiador de automóvel, o líquido quente circula por tubos metálicos com muitas aletas. Qual é a principal vantagem das aletas?",
+    "options": {
+      "A": "Diminuem a área de contacto com o ar",
+      "B": "Aumentam a área disponível para transferir energia do metal para o ar",
+      "C": "Impedem a circulação do líquido",
+      "D": "Transformam a energia térmica em energia potencial"
+    },
+    "correct_answer": "B",
+    "explanation": "As aletas aumentam a área de superfície em contacto com o ar, favorecendo a transferência de energia, sobretudo por convecção."
+  },
+  {
+    "id": "FI-TE2-056",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Uma manta de lã reduz a perda de calor do corpo principalmente porque:",
+    "options": {
+      "A": "A lã produz calor continuamente",
+      "B": "As fibras retêm ar pouco móvel, dificultando a condução e a convecção",
+      "C": "A lã elimina a radiação solar",
+      "D": "A manta aumenta a temperatura ambiente"
+    },
+    "correct_answer": "B",
+    "explanation": "O ar preso entre as fibras é mau condutor e a sua mobilidade é limitada, reduzindo a transferência térmica."
+  },
+  {
+    "id": "FI-TE2-057",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Quando dois corpos em contacto atingem equilíbrio térmico, qual afirmação é correcta?",
+    "options": {
+      "A": "As temperaturas são iguais e deixa de existir fluxo líquido de calor entre eles",
+      "B": "As partículas deixam de se mover",
+      "C": "A energia interna dos dois corpos tem de ser igual",
+      "D": "Ambos ficam necessariamente a 0 °C"
+    },
+    "correct_answer": "A",
+    "explanation": "No equilíbrio térmico, os corpos têm a mesma temperatura. Continua a existir movimento microscópico, mas não há transferência líquida por diferença de temperatura."
+  },
+  {
+    "id": "FI-TE2-058",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Ao aquecer água numa panela por baixo, a água do fundo aquece, fica menos densa e tende a subir. O processo que distribui energia pelo líquido é:",
+    "options": {
+      "A": "Convecção natural",
+      "B": "Radiação nuclear",
+      "C": "Condução apenas através do vazio",
+      "D": "Reflexão"
+    },
+    "correct_answer": "A",
+    "explanation": "As diferenças de densidade criam correntes no líquido. O movimento da própria água transporta energia por convecção natural."
+  },
+  {
+    "id": "FI-TE2-059",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Por que razão as aletas de um dissipador electrónico são normalmente finas e numerosas?",
+    "options": {
+      "A": "Para diminuir a área exposta ao ar",
+      "B": "Para aumentar a área de troca térmica com o ar",
+      "C": "Para impedir a condução no metal",
+      "D": "Para armazenar energia química"
+    },
+    "correct_answer": "B",
+    "explanation": "A geometria com muitas aletas aumenta a área de superfície disponível para transferir energia térmica para o ar."
+  },
+  {
+    "id": "FI-TE2-060",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Manter uma tampa sobre uma panela de água quente reduz a perda de energia sobretudo porque:",
+    "options": {
+      "A": "Aumenta a evaporação",
+      "B": "Reduz a saída de vapor e a circulação de ar quente a partir da superfície",
+      "C": "Elimina a condução no fundo da panela",
+      "D": "Faz a água deixar de receber energia"
+    },
+    "correct_answer": "B",
+    "explanation": "A tampa limita a fuga de vapor e reduz a transferência de energia associada à evaporação e à circulação de ar."
+  },
+  {
+    "id": "FI-TE2-061",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um material é considerado bom isolador térmico quando, em condições semelhantes, apresenta:",
+    "options": {
+      "A": "Condutividade térmica baixa",
+      "B": "Condutividade térmica muito elevada",
+      "C": "Massa sempre nula",
+      "D": "Temperatura de fusão igual à da água"
+    },
+    "correct_answer": "A",
+    "explanation": "Uma baixa condutividade térmica significa que o material conduz energia térmica lentamente, sendo útil para isolamento."
+  },
+  {
+    "id": "FI-TE2-062",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Duas camadas planas de materiais diferentes estão colocadas em série numa parede. Qual é a regra correcta para a resistência térmica total, no modelo unidimensional?",
+    "options": {
+      "A": "É a diferença entre as resistências das camadas",
+      "B": "É a soma das resistências térmicas das camadas",
+      "C": "É sempre igual à menor resistência",
+      "D": "É independente das espessuras"
+    },
+    "correct_answer": "B",
+    "explanation": "Para camadas em série, o mesmo fluxo atravessa cada camada e as resistências térmicas somam-se: Rtotal = R1 + R2."
+  },
+  {
+    "id": "FI-TE2-063",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Mantendo material, área e espessura constantes, se a diferença de temperatura entre as faces de uma parede triplicar, a taxa de condução ideal:",
+    "options": {
+      "A": "Fica reduzida a um terço",
+      "B": "Duplica",
+      "C": "Triplica",
+      "D": "Não se altera"
+    },
+    "correct_answer": "C",
+    "explanation": "Na lei de Fourier para uma parede plana, a taxa de condução é directamente proporcional à diferença de temperatura."
+  },
+  {
+    "id": "FI-TE2-064",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Para um corpo idealizado como emissor térmico, a lei de Stefan–Boltzmann indica que a potência radiada por unidade de área é proporcional a:",
+    "options": {
+      "A": "T",
+      "B": "T²",
+      "C": "T³",
+      "D": "T⁴"
+    },
+    "correct_answer": "D",
+    "explanation": "A potência radiada por unidade de área é proporcional à quarta potência da temperatura absoluta: M = σT⁴ para um emissor ideal."
+  },
+  {
+    "id": "FI-TE2-065",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Dois corpos têm a mesma temperatura e a mesma emissividade. Se um deles tiver o dobro da área exposta, qual será a sua potência radiada, nas mesmas condições?",
+    "options": {
+      "A": "Metade",
+      "B": "Igual",
+      "C": "O dobro",
+      "D": "Quatro vezes maior"
+    },
+    "correct_answer": "C",
+    "explanation": "Mantendo temperatura e emissividade, a potência total radiada é proporcional à área da superfície."
+  },
+  {
+    "id": "FI-TE2-066",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Que quantidade de energia é necessária para aquecer 0,5 kg de água de 20 °C para 50 °C? Usa c = 4 200 J/(kg·°C).",
+    "options": {
+      "A": "31 500 J",
+      "B": "42 000 J",
+      "C": "63 000 J",
+      "D": "126 000 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = mcΔT = 0,5 × 4 200 × 30 = 63 000 J."
+  },
+  {
+    "id": "FI-TE2-067",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma peça de alumínio de 2 kg, com calor específico de 900 J/(kg·°C), aumenta a temperatura em 10 °C. Quanta energia recebe?",
+    "options": {
+      "A": "1 800 J",
+      "B": "9 000 J",
+      "C": "18 000 J",
+      "D": "90 000 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = mcΔT = 2 × 900 × 10 = 18 000 J."
+  },
+  {
+    "id": "FI-TE2-068",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma amostra de 0,5 kg de água recebe 42 kJ de energia, sem perdas. Considera c = 4 200 J/(kg·°C). Qual é o aumento de temperatura?",
+    "options": {
+      "A": "10 °C",
+      "B": "15 °C",
+      "C": "20 °C",
+      "D": "40 °C"
+    },
+    "correct_answer": "C",
+    "explanation": "ΔT = Q/(mc) = 42 000/(0,5 × 4 200) = 20 °C."
+  },
+  {
+    "id": "FI-TE2-069",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Um objecto tem capacidade térmica de 500 J/K. Quanto calor precisa de receber para aumentar a sua temperatura em 8 K?",
+    "options": {
+      "A": "625 J",
+      "B": "1 000 J",
+      "C": "4 000 J",
+      "D": "8 000 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = CΔT = 500 × 8 = 4 000 J."
+  },
+  {
+    "id": "FI-TE2-070",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um aquecedor de 700 W funciona durante 120 s e transfere toda a energia para 2 kg de água. Considera c = 4 200 J/(kg·°C). Qual é o aumento de temperatura da água?",
+    "options": {
+      "A": "5 °C",
+      "B": "10 °C",
+      "C": "15 °C",
+      "D": "20 °C"
+    },
+    "correct_answer": "B",
+    "explanation": "Q = Pt = 700 × 120 = 84 000 J. ΔT = 84 000/(2 × 4 200) = 10 °C."
+  },
+  {
+    "id": "FI-TE2-071",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Misturam-se 150 g de água a 80 °C com 250 g de água a 20 °C, num recipiente isolado. Qual é a temperatura final?",
+    "options": {
+      "A": "35,0 °C",
+      "B": "42,5 °C",
+      "C": "50,0 °C",
+      "D": "62,5 °C"
+    },
+    "correct_answer": "B",
+    "explanation": "Sem perdas, a temperatura final é a média ponderada: (150 × 80 + 250 × 20)/400 = 42,5 °C."
+  },
+  {
+    "id": "FI-TE2-072",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Uma peça de cobre de 100 g a 100 °C é colocada em 100 g de água a 20 °C, num recipiente isolado. Usa cCu = 390 J/(kg·°C) e cágua = 4 200 J/(kg·°C). Qual é aproximadamente a temperatura final?",
+    "options": {
+      "A": "23,2 °C",
+      "B": "26,8 °C",
+      "C": "50,0 °C",
+      "D": "73,2 °C"
+    },
+    "correct_answer": "B",
+    "explanation": "O calor perdido pelo cobre é igual ao recebido pela água: 0,1×390×(100−T) = 0,1×4 200×(T−20). Resolvendo, T ≈ 26,8 °C."
+  },
+  {
+    "id": "FI-TE2-073",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Que energia é necessária para fundir completamente 0,25 kg de gelo a 0 °C? Usa Lf = 334 000 J/kg.",
+    "options": {
+      "A": "8 350 J",
+      "B": "33 400 J",
+      "C": "83 500 J",
+      "D": "334 000 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = mLf = 0,25 × 334 000 = 83 500 J."
+  },
+  {
+    "id": "FI-TE2-074",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Quanto calor é necessário para vaporizar 0,10 kg de água já a 100 °C? Usa Lv = 2 260 000 J/kg.",
+    "options": {
+      "A": "22 600 J",
+      "B": "113 000 J",
+      "C": "226 000 J",
+      "D": "2 260 000 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = mLv = 0,10 × 2 260 000 = 226 000 J."
+  },
+  {
+    "id": "FI-TE2-075",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Quanto calor é necessário para aquecer 0,20 kg de gelo de −5 °C até 0 °C? Usa c do gelo = 2 100 J/(kg·°C).",
+    "options": {
+      "A": "1 050 J",
+      "B": "2 100 J",
+      "C": "4 200 J",
+      "D": "10 500 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Q = mcΔT = 0,20 × 2 100 × 5 = 2 100 J. Ainda não ocorre fusão."
+  },
+  {
+    "id": "FI-TE2-076",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Qual é a energia total necessária para aquecer 0,10 kg de gelo de −10 °C até água líquida a 0 °C? Usa c do gelo = 2 100 J/(kg·°C) e Lf = 334 000 J/kg.",
+    "options": {
+      "A": "2 100 J",
+      "B": "33 400 J",
+      "C": "35 500 J",
+      "D": "37 600 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Aquece-se o gelo: 2 100 J. Depois funde-se: 33 400 J. Total = 35 500 J."
+  },
+  {
+    "id": "FI-TE2-077",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Quando 0,05 kg de vapor de água a 100 °C condensa completamente a 100 °C, que quantidade de energia é libertada? Usa Lv = 2 260 000 J/kg.",
+    "options": {
+      "A": "11,3 kJ",
+      "B": "56,5 kJ",
+      "C": "113 kJ",
+      "D": "226 kJ"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = mLv = 0,05 × 2 260 000 = 113 000 J = 113 kJ."
+  },
+  {
+    "id": "FI-TE2-078",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Durante a fusão de uma substância pura à pressão constante, o que acontece à temperatura enquanto continua a receber energia?",
+    "options": {
+      "A": "Aumenta continuamente",
+      "B": "Diminui continuamente",
+      "C": "Mantém-se constante durante a mudança de estado",
+      "D": "Passa imediatamente para −273 °C"
+    },
+    "correct_answer": "C",
+    "explanation": "A energia recebida é usada na mudança de estado, sem aumentar a temperatura durante a fusão ideal."
+  },
+  {
+    "id": "FI-TE2-079",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Por que motivo a evaporação de água pode arrefecer a superfície que fica molhada?",
+    "options": {
+      "A": "As moléculas mais rápidas tendem a escapar, reduzindo a energia cinética média das que permanecem",
+      "B": "A água cria energia do nada",
+      "C": "A evaporação aumenta sempre a temperatura do líquido",
+      "D": "As moléculas deixam de interagir"
+    },
+    "correct_answer": "A",
+    "explanation": "As moléculas com maior energia conseguem escapar. A energia média das moléculas restantes diminui, produzindo arrefecimento."
+  },
+  {
+    "id": "FI-TE2-080",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Por que razão grandes massas de água tendem a moderar as variações de temperatura do ambiente costeiro?",
+    "options": {
+      "A": "Porque a água tem calor específico elevado",
+      "B": "Porque a água não recebe radiação",
+      "C": "Porque a água não pode evaporar",
+      "D": "Porque a água tem sempre temperatura constante"
+    },
+    "correct_answer": "A",
+    "explanation": "Um calor específico elevado significa que é necessária muita energia para alterar a temperatura da água."
+  },
+  {
+    "id": "FI-TE2-081",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Que energia é libertada quando 0,30 kg de cobre arrefece de 80 °C para 30 °C? Usa cCu = 390 J/(kg·°C).",
+    "options": {
+      "A": "1 950 J",
+      "B": "5 850 J",
+      "C": "11 700 J",
+      "D": "58 500 J"
+    },
+    "correct_answer": "B",
+    "explanation": "Q = mcΔT = 0,30 × 390 × 50 = 5 850 J libertados."
+  },
+  {
+    "id": "FI-TE2-082",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma substância de massa 1 kg recebe 12 kJ e a sua temperatura aumenta 5 °C, sem mudança de estado. Qual é o seu calor específico?",
+    "options": {
+      "A": "240 J/(kg·°C)",
+      "B": "600 J/(kg·°C)",
+      "C": "2 400 J/(kg·°C)",
+      "D": "12 000 J/(kg·°C)"
+    },
+    "correct_answer": "C",
+    "explanation": "c = Q/(mΔT) = 12 000/(1 × 5) = 2 400 J/(kg·°C)."
+  },
+  {
+    "id": "FI-TE2-083",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Um aquecedor fornece 100 kJ a água inicialmente a 20 °C, elevando-a até 45 °C, sem perdas. Usa c = 4 200 J/(kg·°C). Qual é aproximadamente a massa de água aquecida?",
+    "options": {
+      "A": "0,48 kg",
+      "B": "0,95 kg",
+      "C": "1,90 kg",
+      "D": "2,10 kg"
+    },
+    "correct_answer": "B",
+    "explanation": "m = Q/(cΔT) = 100 000/(4 200 × 25) ≈ 0,95 kg."
+  },
+  {
+    "id": "FI-TE2-084",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Qual é a energia necessária para aquecer 2 kg de água de 15 °C até 65 °C? Usa c = 4 200 J/(kg·°C).",
+    "options": {
+      "A": "42 kJ",
+      "B": "210 kJ",
+      "C": "420 kJ",
+      "D": "840 kJ"
+    },
+    "correct_answer": "C",
+    "explanation": "Q = mcΔT = 2 × 4 200 × 50 = 420 000 J = 420 kJ."
+  },
+  {
+    "id": "FI-TE2-085",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma resistência de 5 Ω é percorrida por uma corrente de 2 A durante 30 s. Quanta energia eléctrica é transformada em energia interna na resistência?",
+    "options": {
+      "A": "150 J",
+      "B": "300 J",
+      "C": "600 J",
+      "D": "1 200 J"
+    },
+    "correct_answer": "C",
+    "explanation": "Pelo efeito de Joule, E = I²Rt = 2² × 5 × 30 = 600 J."
+  },
+  {
+    "id": "FI-TE2-086",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Numa central hidroeléctrica, qual sequência descreve melhor as principais transformações de energia?",
+    "options": {
+      "A": "Química → nuclear → sonora → eléctrica",
+      "B": "Potencial gravítica da água → cinética → mecânica da turbina → eléctrica",
+      "C": "Eléctrica → potencial gravítica → química → cinética",
+      "D": "Térmica → luminosa → química → mecânica"
+    },
+    "correct_answer": "B",
+    "explanation": "A água armazenada possui energia potencial gravítica; ao descer ganha energia cinética, move a turbina e o gerador produz energia eléctrica."
+  },
+  {
+    "id": "FI-TE2-087",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Numa lâmpada alimentada por uma pilha, qual é a sequência de transformações mais adequada?",
+    "options": {
+      "A": "Energia química da pilha → eléctrica no circuito → luminosa e interna na lâmpada",
+      "B": "Energia luminosa → nuclear → química",
+      "C": "Energia térmica → potencial gravítica → eléctrica",
+      "D": "Energia mecânica → sonora → química"
+    },
+    "correct_answer": "A",
+    "explanation": "A pilha converte energia química em eléctrica. A lâmpada transforma parte dessa energia em luz e outra parte em energia interna."
+  },
+  {
+    "id": "FI-TE2-088",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Num automóvel eléctrico com travagem regenerativa, parte da energia cinética do veículo é:",
+    "options": {
+      "A": "Destruída durante a travagem",
+      "B": "Convertida em energia eléctrica e armazenada na bateria",
+      "C": "Convertida integralmente em energia potencial gravítica",
+      "D": "Transformada em massa do automóvel"
+    },
+    "correct_answer": "B",
+    "explanation": "O motor funciona temporariamente como gerador, convertendo parte da energia cinética em energia eléctrica armazenável; existem perdas."
+  },
+  {
+    "id": "FI-TE2-089",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Uma chaleira eléctrica de 1,5 kW funciona durante 4 minutos. Qual é a energia eléctrica recebida nesse período?",
+    "options": {
+      "A": "90 kJ",
+      "B": "180 kJ",
+      "C": "360 kJ",
+      "D": "600 kJ"
+    },
+    "correct_answer": "C",
+    "explanation": "E = Pt = 1 500 × 240 = 360 000 J = 360 kJ."
+  },
+  {
+    "id": "FI-TE2-090",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Uma bomba de calor tem coeficiente de desempenho no aquecimento igual a 3. Se recebe 1 kJ de trabalho eléctrico, que quantidade de energia térmica entrega ao espaço aquecido?",
+    "options": {
+      "A": "1 kJ",
+      "B": "2 kJ",
+      "C": "3 kJ",
+      "D": "4 kJ"
+    },
+    "correct_answer": "C",
+    "explanation": "No aquecimento, COP = Qquente/Wentrada. Assim, Qquente = 3 × 1 kJ = 3 kJ."
+  },
+  {
+    "id": "FI-TE2-091",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Um dispositivo recebe 800 J, fornece 500 J de energia mecânica útil e transfere 300 J para o ambiente sob outras formas. Qual é o balanço energético?",
+    "options": {
+      "A": "Faltam 300 J para conservar a energia",
+      "B": "A energia total de saída é 800 J, igual à entrada",
+      "C": "Foram criados 500 J",
+      "D": "A energia total de saída é 1 100 J"
+    },
+    "correct_answer": "B",
+    "explanation": "A soma das parcelas de saída é 500 + 300 = 800 J. A energia conserva-se, embora nem toda seja aproveitada como trabalho útil."
+  },
+  {
+    "id": "FI-TE2-092",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Um sistema tem duas etapas em série: a primeira tem rendimento de 80% e a segunda de 75%. Qual é o rendimento global?",
+    "options": {
+      "A": "15%",
+      "B": "60%",
+      "C": "75%",
+      "D": "155%"
+    },
+    "correct_answer": "B",
+    "explanation": "Os rendimentos multiplicam-se: 0,80 × 0,75 = 0,60, ou 60%."
+  },
+  {
+    "id": "FI-TE2-093",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Quando o atrito transforma energia mecânica em energia interna, qual afirmação é correcta?",
+    "options": {
+      "A": "A energia total deixa de se conservar",
+      "B": "A energia é destruída",
+      "C": "A energia total conserva-se, mas uma parte fica menos disponível para produzir trabalho mecânico",
+      "D": "A energia interna é sempre convertida novamente em movimento"
+    },
+    "correct_answer": "C",
+    "explanation": "A conservação da energia mantém-se. Contudo, a energia dispersa como energia interna é geralmente menos aproveitável para produzir trabalho mecânico."
+  },
+  {
+    "id": "FI-TE2-094",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Num colector solar térmico, qual sequência descreve a transferência de energia para a água que circula nos tubos?",
+    "options": {
+      "A": "A radiação é absorvida pela placa, atravessa a parede do tubo por condução e aquece a água, que transporta energia por convecção",
+      "B": "A água recebe energia apenas por condução no vazio",
+      "C": "A placa transforma radiação directamente em energia nuclear",
+      "D": "A água aquece porque a sua massa aumenta"
+    },
+    "correct_answer": "A",
+    "explanation": "A placa absorve radiação solar; a energia atravessa a parede do tubo por condução e é transportada pelo fluido em circulação por convecção."
+  },
+  {
+    "id": "FI-TE2-095",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Numa chaminé, o ar e os gases quentes sobem e são substituídos por ar mais frio que entra pela base. Qual fenómeno sustenta esta circulação?",
+    "options": {
+      "A": "Convecção natural causada por diferenças de densidade",
+      "B": "Condução através do vazio",
+      "C": "Reflexão da luz nas paredes",
+      "D": "Aumento da massa dos gases"
+    },
+    "correct_answer": "A",
+    "explanation": "Os gases aquecidos ficam menos densos e sobem. O ar mais frio entra para ocupar o espaço, estabelecendo uma corrente de convecção natural."
+  },
+  {
+    "id": "FI-TE2-096",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Quando uma colher fria é colocada numa bebida quente, qual é o sentido inicial do fluxo líquido de energia térmica?",
+    "options": {
+      "A": "Da colher para a bebida",
+      "B": "Da bebida para a colher",
+      "C": "Nos dois sentidos com a mesma intensidade líquida",
+      "D": "Não há transferência porque são sólidos e líquidos"
+    },
+    "correct_answer": "B",
+    "explanation": "A energia térmica transfere-se espontaneamente do corpo a maior temperatura para o corpo a menor temperatura, até se aproximarem do equilíbrio."
+  },
+  {
+    "id": "FI-TE2-097",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Qual afirmação distingue correctamente calor de temperatura?",
+    "options": {
+      "A": "Calor é a temperatura média das partículas",
+      "B": "Calor é energia em trânsito devido a uma diferença de temperatura; temperatura caracteriza o estado térmico",
+      "C": "Calor e temperatura são sempre a mesma grandeza",
+      "D": "Temperatura mede a energia total de um corpo"
+    },
+    "correct_answer": "B",
+    "explanation": "Calor designa a transferência de energia causada por diferença de temperatura. Temperatura é uma grandeza que caracteriza o estado térmico do sistema."
+  },
+  {
+    "id": "FI-TE2-098",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Média",
+    "question": "Qual situação representa transferência de energia por trabalho, e não por calor?",
+    "options": {
+      "A": "Uma barra aquece ao tocar numa chama",
+      "B": "Água quente aquece uma chávena fria",
+      "C": "Um gás é comprimido por um êmbolo que exerce força e se desloca",
+      "D": "O Sol aquece uma parede à distância"
+    },
+    "correct_answer": "C",
+    "explanation": "Na compressão, a força exercida pelo êmbolo ao longo de um deslocamento transfere energia por trabalho mecânico."
+  },
+  {
+    "id": "FI-TE2-099",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Fácil",
+    "question": "Dois corpos a temperaturas diferentes são colocados em contacto térmico e isolados do exterior. Qual é a evolução espontânea esperada?",
+    "options": {
+      "A": "O corpo frio transfere energia líquida para o quente",
+      "B": "O corpo quente transfere energia líquida para o frio até ao equilíbrio",
+      "C": "As temperaturas tornam-se sempre iguais a 0 °C",
+      "D": "A massa dos corpos aumenta"
+    },
+    "correct_answer": "B",
+    "explanation": "A transferência líquida de energia ocorre do corpo de maior temperatura para o de menor temperatura, até atingirem equilíbrio térmico."
+  },
+  {
+    "id": "FI-TE2-100",
+    "subject": "Física",
+    "topic": "Trabalho e energia, mecanismos de transferência de energia",
+    "difficulty": "Difícil",
+    "question": "Num permutador de calor, dois fluidos circulam em sentidos opostos. Qual é uma vantagem frequente desta configuração em comparação com fluxos paralelos?",
+    "options": {
+      "A": "Mantém uma diferença de temperatura mais uniforme ao longo do permutador",
+      "B": "Impede completamente a condução",
+      "C": "Faz desaparecer a necessidade de contacto térmico",
+      "D": "Garante que os fluidos terminam à mesma temperatura em todos os casos"
+    },
+    "correct_answer": "A",
+    "explanation": "A configuração em contracorrente pode manter uma diferença de temperatura útil ao longo de maior parte do permutador, favorecendo a transferência térmica."
+  }
+]
