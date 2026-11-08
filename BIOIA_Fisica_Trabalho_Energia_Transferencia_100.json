@@ -679,15 +679,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Fácil",
-    "question": "Mantendo constantes o material, a espessura e a diferença de temperatura, se a área de uma parede duplicar, a taxa de condução:",
+    "question": "Um líquido é aquecido pela superfície superior do recipiente. Por que razão as correntes de convecção natural tendem a ser menos intensas do que quando o aquecimento ocorre por baixo?",
     "options": {
-      "A": "Fica reduzida a metade",
-      "B": "Não se altera",
-      "C": "Duplica",
-      "D": "Fica quatro vezes maior"
+      "A": "O líquido aquecido fica mais denso e desce rapidamente",
+      "B": "O líquido aquecido, menos denso, permanece por cima do líquido mais frio e a estratificação dificulta a circulação",
+      "C": "O aquecimento superior elimina a gravidade",
+      "D": "A convecção só pode ocorrer em gases"
     },
-    "correct_answer": "C",
-    "explanation": "A taxa de condução é directamente proporcional à área: Φ = kAΔT/L."
+    "correct_answer": "B",
+    "explanation": "Ao aquecer por cima, o fluido mais quente e menos denso fica sobre o fluido frio e mais denso. Esta disposição é estável e dificulta a formação de correntes convectivas."
   },
   {
     "id": "FI-TE2-047",
