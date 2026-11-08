@@ -514,15 +514,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Um motor apresenta potência útil de 18 kW e potência de entrada de 24 kW. Qual é o seu rendimento?",
+    "question": "Uma caixa de velocidades ideal reduz para metade a velocidade angular de saída. Para conservar a potência transmitida, como varia o binário de saída?",
     "options": {
-      "A": "25%",
-      "B": "60%",
-      "C": "75%",
-      "D": "133%"
+      "A": "Fica reduzido a metade",
+      "B": "Duplica",
+      "C": "Permanece igual",
+      "D": "Fica quatro vezes maior"
     },
-    "correct_answer": "C",
-    "explanation": "η = Pútil/Pentrada × 100% = 18/24 × 100% = 75%."
+    "correct_answer": "B",
+    "explanation": "A potência rotacional é P = τω. Se a velocidade angular ω passa para metade e a potência se mantém, o binário τ tem de duplicar."
   },
   {
     "id": "FI-TE2-036",
