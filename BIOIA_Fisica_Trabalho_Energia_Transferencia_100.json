@@ -109,15 +109,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Fácil",
-    "question": "Uma carga de 6 kg desce 2 m verticalmente. Considera g = 10 m/s². Qual é o trabalho realizado pela força gravítica?",
+    "question": "Um objecto de 5 kg cai 3 m. Durante a queda, a resistência do ar realiza −40 J de trabalho. Considera g = 10 m/s². Qual é o trabalho total das forças indicadas?",
     "options": {
-      "A": "−120 J",
-      "B": "−60 J",
-      "C": "+60 J",
-      "D": "+120 J"
+      "A": "70 J",
+      "B": "110 J",
+      "C": "150 J",
+      "D": "190 J"
     },
-    "correct_answer": "D",
-    "explanation": "A força gravítica e o deslocamento têm o mesmo sentido. Wg = mgh = 6 × 10 × 2 = 120 J."
+    "correct_answer": "B",
+    "explanation": "A gravidade realiza Wg = mgh = 5 × 10 × 3 = 150 J. Somando o trabalho do ar: Wtotal = 150 − 40 = 110 J."
   },
   {
     "id": "FI-TE2-009",
@@ -199,15 +199,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Uma carga de 2 kg é elevada 5 m a velocidade constante. Considera g = 10 m/s². Qual é o trabalho da força de elevação?",
+    "question": "Uma carga é elevada verticalmente a velocidade constante. Qual é o trabalho da força resultante que actua sobre a carga durante a subida?",
     "options": {
-      "A": "−100 J",
-      "B": "0 J",
-      "C": "+50 J",
-      "D": "+100 J"
+      "A": "Positivo e igual a mgh",
+      "B": "Negativo e igual a −mgh",
+      "C": "Nulo",
+      "D": "Depende apenas da potência do guincho"
     },
-    "correct_answer": "D",
-    "explanation": "A força de elevação equilibra o peso e tem o mesmo sentido do deslocamento. W = mgh = 2 × 10 × 5 = 100 J."
+    "correct_answer": "C",
+    "explanation": "A velocidade constante significa que a energia cinética não varia. Pelo teorema trabalho–energia, o trabalho resultante é ΔEc = 0."
   },
   {
     "id": "FI-TE2-015",
@@ -934,15 +934,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Mantendo material, área e espessura constantes, se a diferença de temperatura entre as faces de uma parede triplicar, a taxa de condução ideal:",
+    "question": "Duas camadas térmicas estão em série e são atravessadas pelo mesmo fluxo de energia. A resistência térmica da camada X é três vezes a da camada Y. Como se comparam as diferenças de temperatura nas camadas?",
     "options": {
-      "A": "Fica reduzida a um terço",
-      "B": "Duplica",
-      "C": "Triplica",
-      "D": "Não se altera"
+      "A": "A diferença em X é um terço da de Y",
+      "B": "A diferença em X é igual à de Y",
+      "C": "A diferença em X é três vezes a de Y",
+      "D": "A diferença em X é nove vezes a de Y"
     },
     "correct_answer": "C",
-    "explanation": "Na lei de Fourier para uma parede plana, a taxa de condução é directamente proporcional à diferença de temperatura."
+    "explanation": "Em regime estacionário, o fluxo é o mesmo nas duas camadas e ΔT = ΦR. Logo, a camada com resistência térmica três vezes maior apresenta uma diferença de temperatura três vezes maior."
   },
   {
     "id": "FI-TE2-064",
