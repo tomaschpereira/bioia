@@ -5,7 +5,7 @@ function carregarBancoFisica() {
   const ficheiros = [
     "BIOIA_Fisica_200_Normalizado.json",
     "BIOIA_Fisica_Introducao_100.json",
-    "BIOIA_Fisica_Trabalho_Energia_100.json",
+    "BIOIA_Fisica_Trabalho_Energia_Transferencia_100.json",
     "BIOIA_Fisica_Ondas_Luz_100.json",
     "BIOIA_Fisica_Dinamica_100.json",
     "BIOIA_Fisica_Mecanica_Fluidos_100.json",
