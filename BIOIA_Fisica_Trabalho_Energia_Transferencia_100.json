@@ -334,7 +334,7 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Uma massa oscila presa a uma mola ideal, sem perdas. Em que posição a rapidez da massa é máxima?",
+    "question": "Uma massa oscila presa a uma mola ideal horizontal, sem perdas. Em que posição a rapidez da massa é máxima?",
     "options": {
       "A": "Na compressão máxima",
       "B": "Quando a mola passa pelo comprimento natural",
@@ -342,7 +342,7 @@
       "D": "Em qualquer posição, pois a rapidez é constante"
     },
     "correct_answer": "B",
-    "explanation": "Ao passar pelo comprimento natural, a energia potencial elástica é mínima e a energia cinética é máxima; por isso, a rapidez é máxima."
+    "explanation": "No sistema horizontal, o comprimento natural corresponde à posição de equilíbrio. A energia potencial elástica é mínima e a energia cinética é máxima nessa passagem."
   },
   {
     "id": "FI-TE2-024",
@@ -589,15 +589,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Uma grua eleva uma carga cujo peso é 800 N a uma velocidade constante de 0,25 m/s. Qual é a potência útil?",
+    "question": "Um motor eléctrico é alimentado por uma tensão de 24 V e é percorrido por uma corrente de 5 A. Qual é a potência eléctrica de entrada?",
     "options": {
-      "A": "100 W",
-      "B": "200 W",
-      "C": "320 W",
-      "D": "3 200 W"
+      "A": "60 W",
+      "B": "100 W",
+      "C": "120 W",
+      "D": "240 W"
     },
-    "correct_answer": "B",
-    "explanation": "P = Fv = 800 × 0,25 = 200 W."
+    "correct_answer": "C",
+    "explanation": "A potência eléctrica é P = UI. Assim, P = 24 × 5 = 120 W."
   },
   {
     "id": "FI-TE2-041",
@@ -874,15 +874,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Por que razão as aletas de um dissipador electrónico são normalmente finas e numerosas?",
+    "question": "Por que se aplica pasta térmica entre um processador e o dissipador metálico?",
     "options": {
-      "A": "Para diminuir a área exposta ao ar",
-      "B": "Para aumentar a área de troca térmica com o ar",
-      "C": "Para impedir a condução no metal",
+      "A": "Para aumentar a resistência eléctrica do processador",
+      "B": "Para preencher pequenas bolsas de ar e melhorar o contacto térmico",
+      "C": "Para impedir qualquer condução de calor",
       "D": "Para armazenar energia química"
     },
     "correct_answer": "B",
-    "explanation": "A geometria com muitas aletas aumenta a área de superfície disponível para transferir energia térmica para o ar."
+    "explanation": "A pasta preenche irregularidades microscópicas e substitui bolsas de ar, reduzindo a resistência térmica de contacto e facilitando a condução para o dissipador."
   },
   {
     "id": "FI-TE2-060",
@@ -1249,15 +1249,15 @@
     "subject": "Física",
     "topic": "Trabalho e energia, mecanismos de transferência de energia",
     "difficulty": "Média",
-    "question": "Qual é a energia necessária para aquecer 2 kg de água de 15 °C até 65 °C? Usa c = 4 200 J/(kg·°C).",
+    "question": "O calor específico da água é aproximadamente 4 200 J/(kg·°C). O que significa este valor?",
     "options": {
-      "A": "42 kJ",
-      "B": "210 kJ",
-      "C": "420 kJ",
-      "D": "840 kJ"
+      "A": "São necessários 4 200 J para elevar 1 kg de água em 1 °C",
+      "B": "1 kg de água contém sempre 4 200 J de energia total",
+      "C": "A água ferve a 4 200 °C",
+      "D": "A água transfere sempre 4 200 W de potência"
     },
-    "correct_answer": "C",
-    "explanation": "Q = mcΔT = 2 × 4 200 × 50 = 420 000 J = 420 kJ."
+    "correct_answer": "A",
+    "explanation": "O calor específico indica a energia necessária para aumentar em 1 °C a temperatura de 1 kg da substância, sem mudança de estado."
   },
   {
     "id": "FI-TE2-085",
